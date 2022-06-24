@@ -2,10 +2,12 @@ name: Building doxygen docs
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   build_and_publish:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-20.04
     steps:
       - name: Install Dependencies
         run: |
@@ -22,14 +24,12 @@ jobs:
           cd antimicrox/build
           cmake .. -DBUILD_DOCS=ON
           cmake --build ./ --target doxygen_docs
-          cd ../
-      - name: Deploy to GitHub Pages
-          if: success()
-          uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: gh-pages
-            build_dir: ./docs/html
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-     
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: gh-pages
+          build_dir: /home/runner/work/doxygen/antimicrox/docs/html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
