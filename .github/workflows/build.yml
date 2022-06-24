@@ -24,12 +24,13 @@ jobs:
           cd antimicrox/build
           cmake .. -DBUILD_DOCS=ON
           cmake --build ./ --target doxygen_docs
+          cd /home/runner/work/doxygen/doxygen
 
       - name: List files
         run: |
           ls
           pwd
-          cd /home/runner/work/doxygen/antimicrox/docs/html
+          cd ../antimicrox/docs/html
           ls
 
       - name: Deploy to GitHub Pages
@@ -37,6 +38,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: gh-pages
-          build_dir: /home/runner/work/doxygen/antimicrox/docs/html
+          build_dir: ../antimicrox/docs/html
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
