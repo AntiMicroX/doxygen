@@ -1,19 +1,35 @@
-
-name: Formatting python code
+name: Building doxygen docs
 
 on:
   workflow_dispatch:
 
-
 jobs:
   build_and_publish:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install g++ extra-cmake-modules qttools5-dev qttools5-dev-tools libsdl2-dev libxi-dev libxtst-dev libx11-dev itstool gettext cmake doxygen
 
-    # Runs a set of commands using the runners shell
-    - name: Build
-      run: |
-        ls
-        pwd
+      # Runs a set of commands using the runners shell
+      - name: Build docs
+        run: |
+          ls
+          pwd
+          cd ..
+          git clone https://github.com/AntiMicroX/antimicrox.git
+          mkdir antimicrox/build
+          cd antimicrox/build
+          cmake .. -DBUILD_DOCS=ON
+          cmake --build ./ --target doxygen_docs
+          cd ../
+      - name: Deploy to GitHub Pages
+          if: success()
+          uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: gh-pages
+            build_dir: ./docs/html
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+     
