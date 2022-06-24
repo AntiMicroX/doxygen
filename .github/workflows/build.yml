@@ -25,6 +25,13 @@ jobs:
           cmake .. -DBUILD_DOCS=ON
           cmake --build ./ --target doxygen_docs
 
+      - name: List files
+        run: |
+          ls
+          pwd
+          cd /home/runner/work/doxygen/antimicrox/docs/html
+          ls
+
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
