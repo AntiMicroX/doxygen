@@ -1,0 +1,10 @@
+<map id="Calibration::onSensorOffsetData" name="Calibration::onSensorOffsetData">
+<area shape="rect" id="node1" title="Sensor data event handler. Performs gyroscope offset and accelerometer neutral orientation estimation..." alt="" coords="1281,101,1512,127"/>
+<area shape="rect" id="node2" href="$classCalibration.html#a4d6005148d0108fc471b1bf688f3a171" title="Show calibration message to the user and enable accelerometer data event handler." alt="" coords="1007,5,1233,47"/>
+<area shape="rect" id="node7" href="$classCalibration.html#aa04b4940601835dfbe0f227b10c50bee" title="Show calibration message to the user and enable gyroscope data event handler." alt="" coords="1020,123,1220,164"/>
+<area shape="rect" id="node3" href="$classCalibration.html#a946179d261fbbb93f2419697acac86d4" title="Shows user instructions for accelerometer calibration and initializes estimators." alt="" coords="732,61,959,103"/>
+<area shape="rect" id="node4" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,102,684,129"/>
+<area shape="rect" id="node5" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,102,177,129"/>
+<area shape="rect" id="node6" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,124,429,165"/>
+<area shape="rect" id="node8" href="$classCalibration.html#a481f3588a8fa375a75f3b1b779e7a742" title="Shows user instructions for gyroscope calibration and initializes estimators." alt="" coords="745,127,945,168"/>
+</map>

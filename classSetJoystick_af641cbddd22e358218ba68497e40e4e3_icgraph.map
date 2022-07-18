@@ -1,0 +1,52 @@
+<map id="SetJoystick::getInputDevice" name="SetJoystick::getInputDevice">
+<area shape="rect" id="node1" title=" " alt="" coords="1376,1334,1577,1361"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html#aad5d3ad787bafaef0cf8f2962657b373" title=" " alt="" coords="1101,568,1327,609"/>
+<area shape="rect" id="node18" href="$classSetJoystick.html#a55962debb95a365113c82e3e98e6e6f5" title=" " alt="" coords="544,5,760,47"/>
+<area shape="rect" id="node19" href="$classAxisEditDialog.html#a84fada029b15920a47782898b47cedc6" title=" " alt="" coords="1116,927,1312,968"/>
+<area shape="rect" id="node23" href="$classJoyAxis.html#a9c5f69db8b88f31a1df043a00ab9d09a" title=" " alt="" coords="865,1138,1000,1165"/>
+<area shape="rect" id="node26" href="$classAxisEditDialog.html#a4ce9ac251a8c2701bcc97bb12969265f" title=" " alt="" coords="541,995,763,1036"/>
+<area shape="rect" id="node27" href="$classAxisEditDialog.html#a9a2e3c9b99a31c5ebd2ac59c15abdf25" title=" " alt="" coords="541,1060,763,1101"/>
+<area shape="rect" id="node28" href="$classDPadPushButtonGroup.html#a74fc4e4e542e261b2430124b56d5ac07" title=" " alt="" coords="1124,1196,1304,1237"/>
+<area shape="rect" id="node30" href="$classJoyControlStickEditDialog.html#a8b6494f8fce0675b780735e0fafebcb5" title=" " alt="" coords="1120,1261,1308,1303"/>
+<area shape="rect" id="node32" href="$classSensorPushButtonGroup.html#a2332cbbc2b2bab1f23b924e91df1219a" title="Shows the button mapping dialog for the given direction button." alt="" coords="1119,1327,1309,1368"/>
+<area shape="rect" id="node34" href="$classStickPushButtonGroup.html#a05d2d83f1582bb66befae5b7186601fd" title=" " alt="" coords="1125,1392,1303,1433"/>
+<area shape="rect" id="node36" href="$classJoyAxis.html#a365e03ea3bbfc5c099fe04dedc4d0ad7" title=" " alt="" coords="1113,1145,1315,1171"/>
+<area shape="rect" id="node37" href="$classAdvanceButtonDialog.html#ada165d95c3dfa589d22dcc8d79c43819" title=" " alt="" coords="813,1523,1052,1564"/>
+<area shape="rect" id="node39" href="$classAdvanceButtonDialog.html#a1013147913c991d6b379341f2d0b6e91" title=" " alt="" coords="836,1589,1029,1645"/>
+<area shape="rect" id="node40" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="1111,1625,1317,1651"/>
+<area shape="rect" id="node43" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="1137,1676,1291,1717"/>
+<area shape="rect" id="node44" href="$classSetJoystick.html#af8d7d16a13702ae29b6590db35801d14" title=" " alt="" coords="1125,1742,1303,1769"/>
+<area shape="rect" id="node46" href="$classSetJoystick.html#a517ad0a1738d42824b4671746f5a1af5" title="Setup sensor objects for all available hardware sensors." alt="" coords="1115,1793,1313,1819"/>
+<area shape="rect" id="node47" href="$classAdvanceButtonDialog.html#a537e84c8a495aa615b417b3851b59b62" title=" " alt="" coords="1125,1457,1303,1499"/>
+<area shape="rect" id="node49" href="$classMouseDPadSettingsDialog.html#a9c96ddaf1a0760d0b92fbb5f6354bed2" title=" " alt="" coords="1100,1844,1328,1885"/>
+<area shape="rect" id="node3" href="$classJoyTabWidget.html#aa0dbd4380f021acc39af89f4bfe064e7" title=" " alt="" coords="813,478,1052,505"/>
+<area shape="rect" id="node4" href="$classJoyTabWidget.html#a4db3576922612c949496c748af5be0ac" title=" " alt="" coords="539,412,765,453"/>
+<area shape="rect" id="node6" href="$classJoyTabWidget.html#acbf83e52c8f201b76a32045252add763" title=" " alt="" coords="8,212,235,253"/>
+<area shape="rect" id="node7" href="$classJoyTabWidget.html#a91ac7fc812883c76bf381f134cd3ca57" title=" " alt="" coords="22,288,221,329"/>
+<area shape="rect" id="node8" href="$classJoyTabWidget.html#ae7b45dc0d9134f5232a0beecef644eef" title=" " alt="" coords="22,565,221,607"/>
+<area shape="rect" id="node9" href="$classJoyTabWidget.html#af5593b7dc745abae81eec87d9c5ccde5" title=" " alt="" coords="5,645,237,687"/>
+<area shape="rect" id="node10" href="$classJoyTabWidget.html#aee4c1f9b4c067c2d2953d23314ad7491" title=" " alt="" coords="5,723,237,764"/>
+<area shape="rect" id="node11" href="$classJoyTabWidget.html#ac18fd70fd8d5f3d128798ae0b07dab98" title=" " alt="" coords="21,416,221,457"/>
+<area shape="rect" id="node12" href="$classJoyTabWidget.html#a5520fb268011ddce9a2414d2879cff12" title=" " alt="" coords="21,481,221,523"/>
+<area shape="rect" id="node13" href="$classJoyTabWidget.html#a15cd10cea176578f630a26b61f876163" title=" " alt="" coords="27,792,215,833"/>
+<area shape="rect" id="node14" href="$classJoyTabWidget.html#a2a16a770a02a61aeea918aa867fc185f" title=" " alt="" coords="27,83,215,124"/>
+<area shape="rect" id="node16" href="$classJoyTabWidget.html#a6d99e77209171d2e381665de9eed0825" title=" " alt="" coords="9,154,233,181"/>
+<area shape="rect" id="node17" href="$classJoyTabWidget.html#a4cc3597f931bb61005ce806bb2fe9c34" title=" " alt="" coords="544,347,760,388"/>
+<area shape="rect" id="node5" href="$classJoyTabWidget.html#a02c71b1d40a6b60dd5aff9b2bbbf210a" title=" " alt="" coords="285,423,491,450"/>
+<area shape="rect" id="node15" href="$classJoyTabWidget.html#adb5100f5e8c9d9bad8aea4e9b582b8bd" title="Create and render all push buttons corresponding to joystick controls for all sets." alt="" coords="29,365,213,391"/>
+<area shape="rect" id="node20" href="$classAxisEditDialog.html#a6c292e9464c75bb2ef5b0a32bbde3a4a" title=" " alt="" coords="835,927,1031,968"/>
+<area shape="rect" id="node21" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="299,961,477,1003"/>
+<area shape="rect" id="node22" href="$classAxisEditDialog.html#adb32fd63b62082e1c02f1209203ed849" title=" " alt="" coords="559,929,745,971"/>
+<area shape="rect" id="node24" href="$classJoyAxis.html#a6db16ad8451e2f2b09215385d5371151" title=" " alt="" coords="561,1129,743,1171"/>
+<area shape="rect" id="node25" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="577,1195,727,1222"/>
+<area shape="rect" id="node29" href="$classDPadPushButtonGroup.html#ad1df6bca89fd9b715a063a0f3a817792" title=" " alt="" coords="849,1196,1017,1237"/>
+<area shape="rect" id="node31" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="835,1261,1031,1303"/>
+<area shape="rect" id="node33" href="$classSensorPushButtonGroup.html#aecd2683ab789e62c418fd9227ae9f9a6" title="Generates a new push button at the given grid coordinates." alt="" coords="843,1327,1022,1368"/>
+<area shape="rect" id="node35" href="$classStickPushButtonGroup.html#a056e9f27f67795a752ce67be2f3ebf56" title=" " alt="" coords="849,1392,1016,1433"/>
+<area shape="rect" id="node38" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="567,1523,737,1564"/>
+<area shape="rect" id="node41" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="845,1669,1020,1695"/>
+<area shape="rect" id="node42" href="$classGameControllerTriggerXml.html#a4578ad54daf8a24231e8b0e4e09f1587" title=" " alt="" coords="835,1720,1030,1761"/>
+<area shape="rect" id="node45" href="$classSetJoystick.html#adc322b55002b149c9a7432d1008b8537" title="Re&#45;enumerates inputs from the associated device and resets all mappings in this set." alt="" coords="865,1789,1000,1815"/>
+<area shape="rect" id="node48" href="$classAdvanceButtonDialog.html#a973a9cf7b58950cda18e39fdffb87e09" title=" " alt="" coords="851,1457,1014,1499"/>
+<area shape="rect" id="node50" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="832,1844,1033,1885"/>
+</map>

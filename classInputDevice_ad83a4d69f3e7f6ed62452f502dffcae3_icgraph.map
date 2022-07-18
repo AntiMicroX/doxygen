@@ -1,0 +1,8 @@
+<map id="InputDevice::applyGyroscopeCalibration" name="InputDevice::applyGyroscopeCalibration">
+<area shape="rect" id="node1" title="Applies calibration to the specified gyroscope in all sets See JoySensor::setCalibration." alt="" coords="748,39,961,80"/>
+<area shape="rect" id="node2" href="$classInputDeviceCalibration.html#a9d3aeac45305c6337a4e5cea1e1ad617" title="Applies all applicable stored calibration values to the individual input elements of the parent contr..." alt="" coords="503,5,674,47"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#a5afca28cfa26229bfaff2d1efa176c94" title="Updates stored calibration for this controller and applies calibration to the specified gyroscope in ..." alt="" coords="477,71,700,112"/>
+<area shape="rect" id="node3" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="225,13,429,39"/>
+<area shape="rect" id="node5" href="$classCalibration.html#a61d733b70d5fd8a60c8f98e50469ed0e" title="Save calibration values into the device object." alt="" coords="235,78,420,105"/>
+<area shape="rect" id="node6" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,78,177,105"/>
+</map>

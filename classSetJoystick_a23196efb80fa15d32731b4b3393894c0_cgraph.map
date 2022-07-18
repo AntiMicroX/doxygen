@@ -1,0 +1,12 @@
+<map id="SetJoystick::setIgnoreEventState" name="SetJoystick::setIgnoreEventState">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,205,242"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="267,5,440,32"/>
+<area shape="rect" id="node3" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="276,56,431,83"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="253,107,453,133"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#a2a6870a2ac3f5cc490344baf7ed2edd5" title=" " alt="" coords="277,157,430,184"/>
+<area shape="rect" id="node6" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="263,208,443,235"/>
+<area shape="rect" id="node7" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="265,259,442,285"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#a7ca499fe41a0a9841b4fe904b07cbc30" title=" " alt="" coords="272,309,435,336"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#ad859311bfde76dbdaac274cb5ede63d6" title=" " alt="" coords="268,360,439,387"/>
+<area shape="rect" id="node10" href="$classJoyButton.html#aa8eaea52cff793034b943af1eb292b6c" title=" " alt="" coords="258,411,449,453"/>
+</map>

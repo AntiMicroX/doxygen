@@ -1,0 +1,52 @@
+<map id="MouseDPadSettingsDialog::MouseDPadSettingsDialog" name="MouseDPadSettingsDialog::MouseDPadSettingsDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1192,207,1234"/>
+<area shape="rect" id="node2" href="$classMouseDPadSettingsDialog.html#a8f86534d3cdb65b2a3fd0eb67ecec905" title=" " alt="" coords="265,188,507,230"/>
+<area shape="rect" id="node6" href="$classMouseDPadSettingsDialog.html#a5472bc8b28f4bab17a61e8444b868b81" title=" " alt="" coords="279,748,493,790"/>
+<area shape="rect" id="node10" href="$classMouseDPadSettingsDialog.html#ab552498fd76a3307ec75c565e15de2b4" title=" " alt="" coords="273,603,499,644"/>
+<area shape="rect" id="node12" href="$classMouseDPadSettingsDialog.html#a9e18b35e7b6209e7376e1120e08d4c15" title=" " alt="" coords="289,683,483,724"/>
+<area shape="rect" id="node15" href="$classMouseDPadSettingsDialog.html#a14387c99882dc61653ac7c15d5935de0" title=" " alt="" coords="281,944,491,986"/>
+<area shape="rect" id="node18" href="$classMouseDPadSettingsDialog.html#a20f683afc286154389cb65dba0f263f5" title=" " alt="" coords="289,1075,483,1116"/>
+<area shape="rect" id="node21" href="$classMouseDPadSettingsDialog.html#a4667725b1ead2b872e17507f81b5760e" title=" " alt="" coords="289,1192,483,1234"/>
+<area shape="rect" id="node23" href="$classSpringModeRegionPreview.html#a8d2b08d077d77697a327e2d062130cbd" title=" " alt="" coords="583,1170,779,1211"/>
+<area shape="rect" id="node24" href="$classSpringModeRegionPreview.html#a769d674b3f0697dee55b0a7fbfe4a48f" title=" " alt="" coords="583,1287,779,1328"/>
+<area shape="rect" id="node25" href="$classMouseSettingsDialog.html#aa4950d5644d83623e3c3e0f8d6974636" title=" " alt="" coords="277,1010,495,1051"/>
+<area shape="rect" id="node26" href="$classMouseSettingsDialog.html#a2c50aa11cdd3d1c30a8b86cbb5fb6d65" title=" " alt="" coords="283,1310,489,1351"/>
+<area shape="rect" id="node27" href="$classJoyDPad.html#a49e8b7e480c4d4597815fcec65cc0112" title=" " alt="" coords="287,50,485,91"/>
+<area shape="rect" id="node29" href="$classJoyDPad.html#ab9aff31791b13e46b86c3d48fc6d6120" title=" " alt="" coords="289,363,483,404"/>
+<area shape="rect" id="node31" href="$classJoyButton.html#a65766cc767496485cc211a6e1511137a" title=" " alt="" coords="286,1376,486,1402"/>
+<area shape="rect" id="node32" href="$classJoyDPad.html#a20e4100b10190828486a8b6674f9d7cd" title=" " alt="" coords="291,472,481,498"/>
+<area shape="rect" id="node34" href="$classMouseDPadSettingsDialog.html#a4d54c44a9818deaa809acd5e4f7e1b6e" title=" " alt="" coords="267,275,505,316"/>
+<area shape="rect" id="node36" href="$classJoyDPad.html#ab8af58218742db8297018253e56be941" title=" " alt="" coords="583,523,779,564"/>
+<area shape="rect" id="node37" href="$classMouseDPadSettingsDialog.html#a583229478a1ebd127437fe61ef7f0be1" title=" " alt="" coords="269,1426,503,1482"/>
+<area shape="rect" id="node38" href="$classMouseDPadSettingsDialog.html#a57f06fc4497c755603c44709c4411e1f" title=" " alt="" coords="275,879,497,920"/>
+<area shape="rect" id="node39" href="$classMouseDPadSettingsDialog.html#a5174ae93980977919f89b2a84d8b4aa1" title=" " alt="" coords="283,814,489,855"/>
+<area shape="rect" id="node40" href="$classMouseDPadSettingsDialog.html#a9c96ddaf1a0760d0b92fbb5f6354bed2" title=" " alt="" coords="272,1507,500,1548"/>
+<area shape="rect" id="node41" href="$classMouseSettingsDialog.html#a58c433279b5a51e0728f89ef203815de" title="Update mouse status labels with cursor mouse information provided by an InputDevice." alt="" coords="265,1572,507,1614"/>
+<area shape="rect" id="node42" href="$classMouseSettingsDialog.html#abda47e01bae4c1103b6f893b7afa280a" title="Update mouse status labels with spring mouse information provided by an InputDevice." alt="" coords="265,1638,507,1679"/>
+<area shape="rect" id="node43" href="$classMouseDPadSettingsDialog.html#abef30b314d3b85c1890a6c71d16ed3a1" title=" " alt="" coords="280,1703,492,1744"/>
+<area shape="rect" id="node44" href="$classMouseDPadSettingsDialog.html#ad306be9d2b35babe5c7feaf662ba3a40" title=" " alt="" coords="289,1768,483,1810"/>
+<area shape="rect" id="node45" href="$classMouseDPadSettingsDialog.html#a79a07034e397167783d0895e9489fc63" title=" " alt="" coords="289,1834,483,1875"/>
+<area shape="rect" id="node46" href="$classMouseDPadSettingsDialog.html#a7a45b90a370b133a081f1fccaa79a20f" title=" " alt="" coords="281,1899,491,1940"/>
+<area shape="rect" id="node47" href="$classMouseDPadSettingsDialog.html#ac8bcdb0ffe3d82be97060f89aeff9f91" title=" " alt="" coords="289,1964,483,2006"/>
+<area shape="rect" id="node48" href="$classMouseDPadSettingsDialog.html#abca5f4e063fa0b33c037c60f1f5c8a9b" title=" " alt="" coords="255,2030,517,2071"/>
+<area shape="rect" id="node49" href="$classMouseDPadSettingsDialog.html#aa856327674804681ef5e66b5a6aed30e" title=" " alt="" coords="263,2095,509,2136"/>
+<area shape="rect" id="node50" href="$classMouseDPadSettingsDialog.html#a68706a0ac77693478c027a0d76cb0fcc" title=" " alt="" coords="272,2160,500,2202"/>
+<area shape="rect" id="node3" href="$classJoyDPad.html#aab3df2ad40eacaed9f1f9c5b4f415321" title=" " alt="" coords="587,188,775,230"/>
+<area shape="rect" id="node5" href="$classMouseSettingsDialog.html#ab5ac51d0e5fd4f505faa11128a279109" title=" " alt="" coords="567,108,795,164"/>
+<area shape="rect" id="node4" href="$classJoyDPad.html#a5f5921607d183f4f221f3a4f97249d8e" title=" " alt="" coords="845,421,1068,448"/>
+<area shape="rect" id="node7" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="604,886,759,913"/>
+<area shape="rect" id="node8" href="$classJoyButton.html#a76e65a13abf96d01fa11ed9fd3b08a7b" title=" " alt="" coords="578,836,785,862"/>
+<area shape="rect" id="node9" href="$classJoyButton.html#a897f0f78773ace1b5916222bd757b1bc" title=" " alt="" coords="579,785,784,812"/>
+<area shape="rect" id="node11" href="$classJoyDPad.html#a89fe10b4ca2c7ecddcb372f659fc1dcb" title=" " alt="" coords="584,588,779,630"/>
+<area shape="rect" id="node13" href="$classJoyDPad.html#a6cecd2ad02ab688232c1a0b7f5f409c0" title=" " alt="" coords="584,719,779,760"/>
+<area shape="rect" id="node14" href="$classJoyDPad.html#ad1638afc0dcb1b0e8d4b6f3437dc1500" title=" " alt="" coords="584,654,779,695"/>
+<area shape="rect" id="node16" href="$classJoyButton.html#a8f39bf2962ca3e935c6cd6ea248e0f54" title=" " alt="" coords="579,988,783,1014"/>
+<area shape="rect" id="node17" href="$classJoyButton.html#afea7d93cb110917ab2721204338f6b7c" title=" " alt="" coords="580,937,783,964"/>
+<area shape="rect" id="node19" href="$classMouseSettingsDialog.html#a7adbe7521ee56d97cf8c38efc39f4b6c" title=" " alt="" coords="587,1039,775,1080"/>
+<area shape="rect" id="node20" href="$classJoyDPad.html#a71c017ff05d79f5b54cfef648d333a43" title=" " alt="" coords="583,1104,779,1146"/>
+<area shape="rect" id="node22" href="$classJoyDPad.html#a16141810b2675be301c8f17f5d85df35" title=" " alt="" coords="565,1236,797,1262"/>
+<area shape="rect" id="node28" href="$classJoyButton.html#a4b2396063cc8b5dff26c8a54f3309479" title=" " alt="" coords="575,57,788,84"/>
+<area shape="rect" id="node30" href="$classJoyButton.html#ac401cbfb9ac4d75cef4f8bc786172118" title=" " alt="" coords="590,370,773,397"/>
+<area shape="rect" id="node33" href="$classJoyButton.html#a79b44a6acc2c7860472759f5e2dca087" title=" " alt="" coords="582,472,781,498"/>
+<area shape="rect" id="node35" href="$classJoyDPad.html#a97c266bf8ed61a46e4b28763a8600b9c" title=" " alt="" coords="584,254,779,295"/>
+</map>

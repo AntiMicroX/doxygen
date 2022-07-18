@@ -1,0 +1,9 @@
+<map id="JoyButtonContextMenu::buildMenu" name="JoyButtonContextMenu::buildMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="608,71,780,112"/>
+<area shape="rect" id="node2" href="$classJoyButtonWidget.html#a681d3c384a94a2febb23b1f733cfcbaf" title=" " alt="" coords="300,17,560,43"/>
+<area shape="rect" id="node4" href="$classJoySensorButtonPushButton.html#a5d9bfef1442a8e19c22b0761bdf75d8f" title="Shows sensor context menu." alt="" coords="329,71,531,112"/>
+<area shape="rect" id="node6" href="$classJoyControlStickButtonPushButton.html#abde61056729a9ef096bc23ff81129ab6" title=" " alt="" coords="333,140,527,181"/>
+<area shape="rect" id="node3" href="$classJoyButtonWidget.html#aeeb6cb187733cbf7c9f1c5a0fe8f7b34" title=" " alt="" coords="27,5,230,47"/>
+<area shape="rect" id="node5" href="$classJoySensorButtonPushButton.html#a25a8a13e559cc9b5c37ea0049224cf94" title=" " alt="" coords="23,71,234,112"/>
+<area shape="rect" id="node7" href="$classJoyControlStickButtonPushButton.html#a5542b1bc905c0a35639b4731083852fa" title=" " alt="" coords="5,137,252,193"/>
+</map>

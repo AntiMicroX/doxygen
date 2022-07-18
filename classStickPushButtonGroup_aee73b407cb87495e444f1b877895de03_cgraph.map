@@ -1,0 +1,13 @@
+<map id="StickPushButtonGroup::generateButtons" name="StickPushButtonGroup::generateButtons">
+<area shape="rect" id="node1" title=" " alt="" coords="5,127,172,168"/>
+<area shape="rect" id="node2" href="$classStickPushButtonGroup.html#a056e9f27f67795a752ce67be2f3ebf56" title=" " alt="" coords="220,93,387,135"/>
+<area shape="rect" id="node11" href="$classStickPushButtonGroup.html#a2db63a3856a8a931cd7a4459b33017f0" title=" " alt="" coords="220,159,387,200"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#a08206c3d636852749ad6e1bb731de4fa" title=" " alt="" coords="435,5,641,47"/>
+<area shape="rect" id="node5" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="438,71,638,98"/>
+<area shape="rect" id="node6" href="$classStickPushButtonGroup.html#a05d2d83f1582bb66befae5b7186601fd" title=" " alt="" coords="449,123,627,164"/>
+<area shape="rect" id="node10" href="$classStickPushButtonGroup.html#a2f16803c8ccf0ab8e0f9747a29919f40" title=" " alt="" coords="445,188,631,229"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="700,13,891,39"/>
+<area shape="rect" id="node7" href="$classJoyControlStickButtonPushButton.html#a5f39ed590bf3334bbed945edb85ee010" title=" " alt="" coords="698,64,893,105"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="695,130,896,157"/>
+<area shape="rect" id="node9" href="$classJoyControlStick.html#a368fdbc00c4a4a9cf3f3e49d6736da65" title="Get pointer to the set that a stick belongs to." alt="" coords="689,181,901,207"/>
+</map>

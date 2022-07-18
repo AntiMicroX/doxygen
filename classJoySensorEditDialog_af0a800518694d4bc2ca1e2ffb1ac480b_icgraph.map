@@ -1,0 +1,4 @@
+<map id="JoySensorEditDialog::setSensorDelay" name="JoySensorEditDialog::setSensorDelay">
+<area shape="rect" id="node1" title="Sensor delay change event handler Converts the double value from the SpinBox to int and pass it to Jo..." alt="" coords="215,5,368,47"/>
+<area shape="rect" id="node2" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,5,167,47"/>
+</map>

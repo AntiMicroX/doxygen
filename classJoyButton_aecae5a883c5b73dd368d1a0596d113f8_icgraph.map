@@ -1,0 +1,12 @@
+<map id="JoyButton::setAssignedSlot" name="JoyButton::setAssignedSlot">
+<area shape="rect" id="node1" title="Create new JoyButtonSlot with data provided and replace an existing slot in the assignment list if on..." alt="" coords="264,274,461,301"/>
+<area shape="rect" id="node2" href="$classAdvanceButtonDialogHelper.html#ace294cb1befe2c657dc7cd94456353fa" title=" " alt="" coords="7,5,214,47"/>
+<area shape="rect" id="node3" href="$classButtonEditDialogHelper.html#ae0c8bd126dcedd33ced87883cd4da566" title=" " alt="" coords="23,71,198,112"/>
+<area shape="rect" id="node4" href="$classDPadContextMenuHelper.html#a4a8d1d9c4ec96d3de8ff69c9afdd560b" title=" " alt="" coords="18,136,203,177"/>
+<area shape="rect" id="node5" href="$classDPadEditDialogHelper.html#a15e31302f41da2df05eec55810fc9b1e" title=" " alt="" coords="27,201,194,243"/>
+<area shape="rect" id="node6" href="$classJoyControlStickEditDialogHelper.html#afe11e24f991d5d825a6ed3b7a7f0a5a6" title=" " alt="" coords="5,267,216,308"/>
+<area shape="rect" id="node7" href="$classJoySensorIoThreadHelper.html#a639d3efe0906bf8416b4fc6e610fbe5b" title="Applies pending slot values to the buttons Should be called via QMetaObject::invokeMethod." alt="" coords="17,332,204,373"/>
+<area shape="rect" id="node8" href="$classJoyControlStickContextMenuHelper.html#ac0fbd4e209aedcd20d547081e80291d1" title=" " alt="" coords="5,397,216,439"/>
+<area shape="rect" id="node9" href="$classJoyAxisContextMenuHelper.html#ad2e0df387f0d979acb676364889f31fe" title=" " alt="" coords="11,463,211,504"/>
+<area shape="rect" id="node10" href="$classJoyAxisContextMenuHelper.html#abeb45b1b03177dbb96744d86811396e8" title=" " alt="" coords="11,528,211,569"/>
+</map>

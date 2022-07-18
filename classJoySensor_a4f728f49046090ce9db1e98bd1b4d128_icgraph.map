@@ -1,0 +1,6 @@
+<map id="JoySensor::calculateXDistanceFromDeadZone" name="JoySensor::calculateXDistanceFromDeadZone">
+<area shape="rect" id="node1" title="Get current X distance of the sensor past the assigned dead zone." alt="" coords="540,39,759,80"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ab595f8d8998b4a1c59a6902a4e41d0a4" title="Used to calculate the distance value that should be used by the JoyButton in the given direction." alt="" coords="268,39,492,80"/>
+<area shape="rect" id="node3" href="$classJoySensorButton.html#a800643b8cf843a28b687b58a56121dfc" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node4" href="$classJoySensorButton.html#a6b16befa64adc6ff073cf73a12f9a5b6" title="Get the distance factor that should be used for mouse movement." alt="" coords="12,71,213,112"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="JoySensorEditDialog::implementPresets" name="JoySensorEditDialog::implementPresets">
+<area shape="rect" id="node1" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="5,74,159,115"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="223,5,405,32"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="207,56,421,83"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="226,107,402,133"/>
+<area shape="rect" id="node6" href="$classJoySensorPreset.html#a21eb1e1e612e4f70e0ade394e9878425" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="215,158,413,199"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="493,56,647,83"/>
+<area shape="rect" id="node7" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title=" " alt="" coords="469,136,671,163"/>
+<area shape="rect" id="node10" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="477,187,663,229"/>
+<area shape="rect" id="node8" href="$classAntKeyMapper.html#abe4a434636d370a750d32a14b9a139d3" title=" " alt="" coords="719,111,939,137"/>
+<area shape="rect" id="node9" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="739,161,918,188"/>
+</map>

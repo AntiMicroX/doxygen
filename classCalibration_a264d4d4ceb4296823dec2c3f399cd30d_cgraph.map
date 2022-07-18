@@ -1,0 +1,4 @@
+<map id="Calibration::closeEvent" name="Calibration::closeEvent">
+<area shape="rect" id="node1" title="Ask for confirmation when the dialog is closed with unsafed changed." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$classCalibration.html#abec21f8927d3e2d63b81b20044d99bdc" title="Asks the user for confirmation with a given message if the given condition is false." alt="" coords="225,5,433,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="JoySensor::resetButtons" name="JoySensor::resetButtons">
+<area shape="rect" id="node1" title="Reset all the properties of the sensor direction buttons." alt="" coords="703,85,880,112"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#aaad088863aaa04d9529cb1abcd466c6b" title="Resets internal variables back to default." alt="" coords="528,85,655,112"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a723df3dcae43b4509bf1af84191e5ad5" title="Copy slots from all sensor buttons and properties from a sensor onto another." alt="" coords="271,5,480,32"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#af9b16315366b758eba4fb5759e7ee13e" title=" " alt="" coords="296,56,455,83"/>
+<area shape="rect" id="node6" href="$classJoyAccelerometerSensor.html#a302d00903f30bf08efa87afc1d323074" title="Resets internal variables back to default." alt="" coords="285,107,466,149"/>
+<area shape="rect" id="node8" href="$classJoyGyroscopeSensor.html#a4d27003200f8185d5e3edb082fa33de2" title="Resets internal variables back to default." alt="" coords="298,173,453,214"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node7" href="$classJoyAccelerometerSensor.html#a3273f70da9e0795d25f420f6a12d60b9" title=" " alt="" coords="19,107,209,149"/>
+<area shape="rect" id="node9" href="$classJoyGyroscopeSensor.html#a3ab0a046fc8f7fd7ab11f443d3025e3e" title=" " alt="" coords="33,173,195,214"/>
+</map>

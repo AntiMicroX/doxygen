@@ -1,0 +1,6 @@
+<map id="JoySensorButtonPushButton::getButton" name="JoySensorButtonPushButton::getButton">
+<area shape="rect" id="node1" title="Get the JoySensorButton for this mapping." alt="" coords="705,5,908,47"/>
+<area shape="rect" id="node2" href="$classSensorPushButtonGroup.html#a2332cbbc2b2bab1f23b924e91df1219a" title="Shows the button mapping dialog for the given direction button." alt="" coords="467,5,657,47"/>
+<area shape="rect" id="node3" href="$classSensorPushButtonGroup.html#aecd2683ab789e62c418fd9227ae9f9a6" title="Generates a new push button at the given grid coordinates." alt="" coords="240,5,419,47"/>
+<area shape="rect" id="node4" href="$classSensorPushButtonGroup.html#a5d893d1b1d86f6d355ed793c4c52a92c" title=" " alt="" coords="5,5,192,47"/>
+</map>

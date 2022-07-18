@@ -1,0 +1,10 @@
+<map id="MouseSensorSettingsDialog::updateWindowTitleSensorName" name="MouseSensorSettingsDialog::updateWindowTitleSensorName">
+<area shape="rect" id="node1" title="Shows the sensor name in dialog title." alt="" coords="5,125,244,166"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="312,5,471,32"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a102a4bbc464b9dfc5a8227c0fb4611c8" title=" " alt="" coords="310,56,473,83"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="303,107,480,133"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#ad06f47ea3f0d796b838ae74d4f913b25" title="Get the name of this sensor." alt="" coords="294,157,489,184"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#a00ecd09902d11bbfe7e6e82ad25ae456" title=" " alt="" coords="297,208,485,235"/>
+<area shape="rect" id="node8" href="$classJoySensor.html#a392b664e69bc7975935d4f4bb8e91ec7" title="Returns the sensor name." alt="" coords="292,259,491,285"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#ab87d04540552c4a31eebfb656357838e" title=" " alt="" coords="539,157,745,184"/>
+</map>

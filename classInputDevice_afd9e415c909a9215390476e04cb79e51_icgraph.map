@@ -1,0 +1,11 @@
+<map id="InputDevice::setVDPadButtonName" name="InputDevice::setVDPadButtonName">
+<area shape="rect" id="node1" title=" " alt="" coords="855,129,1107,156"/>
+<area shape="rect" id="node2" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="597,5,801,32"/>
+<area shape="rect" id="node3" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="619,57,778,98"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#ae5f862960b70f00d38eb26f94e8d9cba" title=" " alt="" coords="615,122,782,163"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#ac45d96f574a4b1c64b93932e49711377" title=" " alt="" coords="591,187,807,229"/>
+<area shape="rect" id="node4" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="337,90,495,131"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,195,543,221"/>
+<area shape="rect" id="node8" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,169,241,196"/>
+<area shape="rect" id="node9" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,220,189,247"/>
+</map>

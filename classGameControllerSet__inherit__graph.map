@@ -1,0 +1,6 @@
+<map id="GameControllerSet" name="GameControllerSet">
+<area shape="rect" id="node1" title="A SetJoystick specialized for gamepads." alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html" title="A set of mapped events which can by switched by a controller event. Contains controller input objects..." alt="" coords="31,155,126,181"/>
+<area shape="rect" id="node3" href="$classSetJoystickXml.html" title="SetJoystick XML serialization/deserialization helper class Reads data from the supplied SetJoystick o..." alt="" coords="19,80,139,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="41,5,116,32"/>
+</map>

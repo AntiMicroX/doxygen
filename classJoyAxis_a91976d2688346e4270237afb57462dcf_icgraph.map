@@ -1,0 +1,10 @@
+<map id="JoyAxis::updateCurrentThrottledValue" name="JoyAxis::updateCurrentThrottledValue">
+<area shape="rect" id="node1" title=" " alt="" coords="1163,31,1393,72"/>
+<area shape="rect" id="node2" href="$classGameControllerTriggerXml.html#a4578ad54daf8a24231e8b0e4e09f1587" title=" " alt="" coords="665,5,860,47"/>
+<area shape="rect" id="node6" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="908,63,1115,90"/>
+<area shape="rect" id="node3" href="$classGameControllerSet.html#a6b551139e353a654212d498309744025" title=" " alt="" coords="441,5,595,47"/>
+<area shape="rect" id="node4" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node7" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="675,71,850,98"/>
+<area shape="rect" id="node8" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="419,71,617,98"/>
+</map>

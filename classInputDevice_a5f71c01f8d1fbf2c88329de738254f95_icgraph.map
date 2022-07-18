@@ -1,0 +1,12 @@
+<map id="InputDevice::rawAxisMoved" name="InputDevice::rawAxisMoved">
+<area shape="rect" id="node1" title=" " alt="" coords="1084,107,1288,134"/>
+<area shape="rect" id="node2" href="$classGameControllerMappingDialog.html#a60b30c08f5f3aaa622bead8cb8339664" title=" " alt="" coords="813,5,1036,47"/>
+<area shape="rect" id="node5" href="$classGameControllerMappingDialog.html#ae066f4c1eaab2dcbb49625577a50443b" title=" " alt="" coords="813,71,1036,112"/>
+<area shape="rect" id="node6" href="$classGameController.html#ae8422462fdb74771fb54279529e5fe7e" title=" " alt="" coords="813,137,1036,163"/>
+<area shape="rect" id="node10" href="$classInputDevice.html#a9096dbaf2ac830c499773d69a4a052c3" title=" " alt="" coords="826,187,1023,214"/>
+<area shape="rect" id="node3" href="$classGameControllerMappingDialog.html#a3969a243cd5846c91466cd663f840f07" title=" " alt="" coords="541,12,763,53"/>
+<area shape="rect" id="node4" href="$classGameControllerMappingDialog.html#a3b5f7c179120ccffa5c7eca5de1edafe" title=" " alt="" coords="260,41,491,83"/>
+<area shape="rect" id="node7" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="539,162,765,189"/>
+<area shape="rect" id="node8" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="306,162,445,189"/>
+<area shape="rect" id="node9" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,162,212,189"/>
+</map>

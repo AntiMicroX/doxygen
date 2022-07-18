@@ -1,0 +1,4 @@
+<map id="JoySensor::calculateRoll" name="JoySensor::calculateRoll">
+<area shape="rect" id="node1" title="Calculate the roll angle (in degrees) corresponding to the current passed X, Y and Z axes values asso..." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="232,5,443,32"/>
+</map>

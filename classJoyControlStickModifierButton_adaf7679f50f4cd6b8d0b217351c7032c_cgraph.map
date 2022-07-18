@@ -1,0 +1,8 @@
+<map id="JoyControlStickModifierButton::getLastMouseDistanceFromDeadZone" name="JoyControlStickModifierButton::getLastMouseDistanceFromDeadZone">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,284,145"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#afb2b5e5e03f384d3d0533518baedf7ab" title=" " alt="" coords="332,104,520,145"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#a1110ba6e8d87b226653e7d4c38602c92" title=" " alt="" coords="568,5,867,47"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a9a9a23ba2fd1d4304e759a2de2985a69" title="Calculate the current direction of the stick based on the values of the X and Y axes and the current ..." alt="" coords="623,71,811,112"/>
+<area shape="rect" id="node5" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="623,136,811,177"/>
+<area shape="rect" id="node6" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="623,201,811,243"/>
+</map>

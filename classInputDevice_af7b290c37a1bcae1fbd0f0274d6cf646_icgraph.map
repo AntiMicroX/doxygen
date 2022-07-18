@@ -1,0 +1,10 @@
+<map id="InputDevice::reset" name="InputDevice::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="751,60,892,87"/>
+<area shape="rect" id="node2" href="$classInputDaemon.html#a70fa1dbeac61db6cc29a96cdc57a4518" title=" " alt="" coords="488,35,703,61"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#a767b4db5d307c9d851affed3c7e23a30" title="Obtain current joystick element values, create new SetJoystick objects, and then transfer most recent..." alt="" coords="497,85,693,112"/>
+<area shape="rect" id="node4" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="236,5,440,32"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="17,78,176,119"/>
+<area shape="rect" id="node6" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="259,107,417,149"/>
+<area shape="rect" id="node7" href="$classJoyTabWidgetHelper.html#aef94ae0812f28f43eb891ddc210c341e" title=" " alt="" coords="261,173,415,214"/>
+<area shape="rect" id="node8" href="$classJoyTabWidgetHelper.html#acc5d7d51e925f84f9aa2936ce267f843" title=" " alt="" coords="5,173,188,214"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="JoyControlStick::setModifierZone" name="JoyControlStick::setModifierZone">
+<area shape="rect" id="node1" title="Sets the modifier zone of the stick to the given value." alt="" coords="499,42,733,69"/>
+<area shape="rect" id="node2" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="253,5,449,47"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="252,71,451,98"/>
+<area shape="rect" id="node4" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,71,204,98"/>
+</map>

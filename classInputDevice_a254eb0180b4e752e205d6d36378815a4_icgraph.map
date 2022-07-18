@@ -1,0 +1,10 @@
+<map id="InputDevice::buttonUpEvent" name="InputDevice::buttonUpEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="840,130,1045,157"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a5207c7f681a8d8343dfcfc251c98cb83" title=" " alt="" coords="593,5,789,47"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,130,543,157"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#aebae2238e618916a2046dddf4d0ed33e" title=" " alt="" coords="591,123,792,164"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#a3bb4e98f5ad39844142a6613850b7d4c" title=" " alt="" coords="594,188,789,229"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#a6cf4a8a0416165687399068eeee06916" title=" " alt="" coords="600,253,783,295"/>
+<area shape="rect" id="node4" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,105,241,131"/>
+<area shape="rect" id="node5" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,155,189,182"/>
+</map>

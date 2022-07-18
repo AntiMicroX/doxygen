@@ -1,0 +1,5 @@
+<map id="MouseSensorSettingsDialog::updateConfigHorizontalSpeed" name="MouseSensorSettingsDialog::updateConfigHorizontalSpeed">
+<area shape="rect" id="node1" title="Horizontal mouse speed change UI event handler Updates horizontal mouse speed on all buttons of the a..." alt="" coords="5,23,228,65"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ade5fe9722741d61eeac6811fe6a53cf2" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="296,5,461,32"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#aefd93c829a4c316a3b1e11dd8499f9ed" title=" " alt="" coords="276,56,481,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="JoySensor::sensorTypeName" name="JoySensor::sensorTypeName">
+<area shape="rect" id="node1" title=" " alt="" coords="795,130,1001,157"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ad06f47ea3f0d796b838ae74d4f913b25" title="Get the name of this sensor." alt="" coords="552,101,747,127"/>
+<area shape="rect" id="node9" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="562,152,737,193"/>
+<area shape="rect" id="node3" href="$classJoySensorPushButton.html#a277c09d90b4b42fbaf06ac5014c15aa6" title="Generate the string that will be displayed on the button." alt="" coords="305,5,465,47"/>
+<area shape="rect" id="node4" href="$classJoySensorButton.html#a3dd024a2a6c3dc0a5feaf06b3deae455" title="Get the name of the button. Shows the sensor direction name instead of a button number." alt="" coords="265,71,504,98"/>
+<area shape="rect" id="node5" href="$classMouseSensorSettingsDialog.html#a3a49370a1061187645fcd8eda0ebc4ca" title="Shows the sensor name in dialog title." alt="" coords="265,123,504,164"/>
+<area shape="rect" id="node7" href="$classJoySensorEditDialog.html#ab1a039fc35cd4c52e2553d7a6d01bc34" title="Shows the sensor name in dialog title." alt="" coords="265,188,504,229"/>
+<area shape="rect" id="node6" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="5,123,217,164"/>
+<area shape="rect" id="node8" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="31,188,192,229"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="InputDevice::updateSetStickButtonNames" name="InputDevice::updateSetStickButtonNames">
+<area shape="rect" id="node1" title=" " alt="" coords="1160,111,1367,153"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,31,543,57"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a85f69eb270f134d0d6970ac68ec9cbed" title="Sets the name of a mapped sensor button in all sets Used during XML loading." alt="" coords="857,93,1112,120"/>
+<area shape="rect" id="node10" href="$classInputDevice.html#afb3c54a95a3f41f4a6f322d244e29673" title=" " alt="" coords="863,144,1106,171"/>
+<area shape="rect" id="node3" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,5,241,32"/>
+<area shape="rect" id="node4" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,56,189,83"/>
+<area shape="rect" id="node6" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="598,119,802,145"/>
+<area shape="rect" id="node7" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="621,170,779,211"/>
+<area shape="rect" id="node9" href="$classInputDevice.html#a02bdfd2dbbaa852aa608dc27f85563c6" title="Rename mapped sensor button in all sets to the name in the active set." alt="" coords="591,53,809,94"/>
+<area shape="rect" id="node8" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="337,202,495,243"/>
+<area shape="rect" id="node11" href="$classGameControllerXml.html#ae5f862960b70f00d38eb26f94e8d9cba" title=" " alt="" coords="617,235,783,277"/>
+</map>

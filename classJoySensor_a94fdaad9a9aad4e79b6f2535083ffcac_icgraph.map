@@ -1,0 +1,8 @@
+<map id="JoySensor::calculateRoll" name="JoySensor::calculateRoll">
+<area shape="rect" id="node1" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="455,107,633,134"/>
+<area shape="rect" id="node2" href="$classJoyAccelerometerSensor.html#a2eea63a1a3b99965a9268d9014243768" title="Find the direction zone of the current sensor position." alt="" coords="215,5,407,47"/>
+<area shape="rect" id="node3" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="227,71,394,112"/>
+<area shape="rect" id="node5" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,161,167,203"/>
+<area shape="rect" id="node6" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="234,188,387,229"/>
+<area shape="rect" id="node4" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="10,71,162,112"/>
+</map>

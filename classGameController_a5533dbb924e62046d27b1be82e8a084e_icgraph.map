@@ -1,0 +1,7 @@
+<map id="GameController::getRawProductIDString" name="GameController::getRawProductIDString">
+<area shape="rect" id="node1" title=" " alt="" coords="736,39,967,80"/>
+<area shape="rect" id="node2" href="$classGameController.html#ad36e927888b90322460f430629fb3e6c" title=" " alt="" coords="473,5,675,47"/>
+<area shape="rect" id="node3" href="$classGameController.html#a1bbce70562484919be82e64b1bb6e936" title=" " alt="" coords="460,71,688,112"/>
+<area shape="rect" id="node4" href="$classGameController.html#a097c02e89fa422e4356467546d1f3c81" title=" " alt="" coords="212,71,412,112"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#ac87bc51a0dcdb01143d969a732b5188f" title="Serializes a GameController object into the the given XML stream." alt="" coords="5,71,164,112"/>
+</map>

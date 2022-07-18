@@ -1,0 +1,8 @@
+<map id="InputDevice::setDPadButtonName" name="InputDevice::setDPadButtonName">
+<area shape="rect" id="node1" title=" " alt="" coords="845,64,1088,91"/>
+<area shape="rect" id="node2" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="592,5,796,32"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#a1aed75415ee98b95e4c89647a9432afa" title=" " alt="" coords="591,57,797,98"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,64,543,91"/>
+<area shape="rect" id="node5" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,39,241,65"/>
+<area shape="rect" id="node6" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,89,189,116"/>
+</map>

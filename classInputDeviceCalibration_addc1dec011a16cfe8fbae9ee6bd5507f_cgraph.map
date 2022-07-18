@@ -1,0 +1,5 @@
+<map id="InputDeviceCalibration::readConfig" name="InputDeviceCalibration::readConfig">
+<area shape="rect" id="node1" title="Reads all calibration values from the given XML stream into the internal calibration data storage." alt="" coords="5,27,176,69"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="224,5,451,32"/>
+<area shape="rect" id="node3" href="$classInputDeviceCalibration.html#a1e50d8e332ea04b947698ca04c9aa989" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="252,57,423,98"/>
+</map>

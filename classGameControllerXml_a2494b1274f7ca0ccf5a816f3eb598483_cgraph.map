@@ -1,0 +1,6 @@
+<map id="GameControllerXml::writeXmlForSensors" name="GameControllerXml::writeXmlForSensors">
+<area shape="rect" id="node1" title="Writes all sensor button mappings in the current set to XML." alt="" coords="5,57,164,98"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#a7123f5432bda7b5b9d4b2b95bdabf4db" title=" " alt="" coords="212,5,408,32"/>
+<area shape="rect" id="node3" href="$classJoySensorButton.html#ac8c54424eb27ba20c6ccd987b1f51af9" title="Get a 0 indexed number of button." alt="" coords="217,57,403,98"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#aeddc19398afeb2bd0271db07abf557de" title="Get all sensor objects in this set." alt="" coords="223,123,397,149"/>
+</map>

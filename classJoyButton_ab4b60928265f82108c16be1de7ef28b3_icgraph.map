@@ -1,0 +1,15 @@
+<map id="JoyButton::getMinAccelThreshold" name="JoyButton::getMinAccelThreshold">
+<area shape="rect" id="node1" title=" " alt="" coords="891,119,1128,146"/>
+<area shape="rect" id="node2" href="$classMouseAxisSettingsDialog.html#ae8ac5a108493386e3db8379c7257fe79" title=" " alt="" coords="584,9,843,51"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a12d054793547e7400a59aaca1adfc931" title=" " alt="" coords="613,79,813,120"/>
+<area shape="rect" id="node7" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="608,144,819,185"/>
+<area shape="rect" id="node8" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="617,254,810,281"/>
+<area shape="rect" id="node3" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="320,5,516,47"/>
+<area shape="rect" id="node5" href="$classMouseControlStickSettingsDialog.html#a4c85c0aa3ba9262c3fc996fc25811670" title=" " alt="" coords="300,71,536,127"/>
+<area shape="rect" id="node6" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,71,252,127"/>
+<area shape="rect" id="node9" href="$classGameControllerTriggerXml.html#a382a32a139351f790192dc0991dea637" title=" " alt="" coords="321,152,515,193"/>
+<area shape="rect" id="node10" href="$classJoyDPadXml.html#ac78c8fd1ad107f6a3baed4910863cb0c" title=" " alt="" coords="309,217,527,259"/>
+<area shape="rect" id="node11" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="317,283,519,310"/>
+<area shape="rect" id="node12" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="334,334,502,361"/>
+<area shape="rect" id="node13" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="317,385,519,411"/>
+</map>

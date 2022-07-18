@@ -1,0 +1,6 @@
+<map id="JoyAccelerometerSensor::calculateSensorDirection" name="JoyAccelerometerSensor::calculateSensorDirection">
+<area shape="rect" id="node1" title="Find the direction zone of the current sensor position." alt="" coords="5,49,197,90"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="245,5,431,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="249,56,427,83"/>
+<area shape="rect" id="node4" href="$classPT1Filter.html#a30421d33f61b781f9422577b6db07e1b" title="Processes a new sample." alt="" coords="269,107,407,133"/>
+</map>

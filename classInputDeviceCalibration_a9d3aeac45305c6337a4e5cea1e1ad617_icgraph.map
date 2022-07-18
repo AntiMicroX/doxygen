@@ -1,0 +1,4 @@
+<map id="InputDeviceCalibration::applyCalibrations" name="InputDeviceCalibration::applyCalibrations">
+<area shape="rect" id="node1" title="Applies all applicable stored calibration values to the individual input elements of the parent contr..." alt="" coords="257,5,428,47"/>
+<area shape="rect" id="node2" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="5,13,209,39"/>
+</map>

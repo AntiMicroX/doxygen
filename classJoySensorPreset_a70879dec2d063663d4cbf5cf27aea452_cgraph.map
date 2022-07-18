@@ -1,0 +1,4 @@
+<map id="JoySensorPreset::getAvailablePresets" name="JoySensorPreset::getAvailablePresets">
+<area shape="rect" id="node1" title="Get available presets for the underlying sensor type." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="269,13,415,39"/>
+</map>

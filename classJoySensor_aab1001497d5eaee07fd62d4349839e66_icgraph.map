@@ -1,0 +1,12 @@
+<map id="JoySensor::setSensorName" name="JoySensor::setSensorName">
+<area shape="rect" id="node1" title="Sets the name of this sensor." alt="" coords="1116,68,1313,95"/>
+<area shape="rect" id="node2" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="882,31,1043,73"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#ab1fd8f35fb03592587659533e93c6a0e" title="Sets the name of a sensor in all sets Used during XML loading." alt="" coords="857,97,1068,124"/>
+<area shape="rect" id="node4" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="598,5,802,32"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="621,57,779,98"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#acdfc97b4ab3898eb88d01565f0c7eff2" title="Rename sensor in all sets to the name in the current set." alt="" coords="591,122,809,163"/>
+<area shape="rect" id="node6" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="337,57,495,98"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,129,543,156"/>
+<area shape="rect" id="node9" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,104,241,131"/>
+<area shape="rect" id="node10" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,155,189,181"/>
+</map>

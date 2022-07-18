@@ -1,0 +1,4 @@
+<map id="SetJoystick::isSetEmpty" name="SetJoystick::isSetEmpty">
+<area shape="rect" id="node1" title="Check if this set has any mapped event." alt="" coords="256,5,432,32"/>
+<area shape="rect" id="node2" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,5,208,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GameControllerXml::writeXmlForSensors" name="GameControllerXml::writeXmlForSensors">
+<area shape="rect" id="node1" title="Writes all sensor button mappings in the current set to XML." alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node2" href="$classGameControllerXml.html#ac87bc51a0dcdb01143d969a732b5188f" title="Serializes a GameController object into the the given XML stream." alt="" coords="5,5,164,47"/>
+</map>

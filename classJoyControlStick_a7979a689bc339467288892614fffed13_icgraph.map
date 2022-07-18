@@ -1,0 +1,12 @@
+<map id="JoyControlStick::setJoyMode" name="JoyControlStick::setJoyMode">
+<area shape="rect" id="node1" title=" " alt="" coords="1011,101,1216,127"/>
+<area shape="rect" id="node2" href="$classJoyControlStickEditDialog.html#aec8873b859f10e904c9ddde9b22c3413" title=" " alt="" coords="765,5,953,47"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="759,71,958,98"/>
+<area shape="rect" id="node6" href="$classJoyControlStickContextMenu.html#ac5445252e43228e7a6a3f5ae0c994b43" title=" " alt="" coords="755,123,963,164"/>
+<area shape="rect" id="node10" href="$classJoyControlStickContextMenu.html#a00fe5d89b13fa5116b5cadd7480e8d93" title=" " alt="" coords="755,188,963,229"/>
+<area shape="rect" id="node3" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="505,5,701,47"/>
+<area shape="rect" id="node5" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="503,71,702,98"/>
+<area shape="rect" id="node7" href="$classJoyControlStickContextMenu.html#a0290b608bf0fd639af32767a20a4b7a8" title=" " alt="" coords="499,155,707,196"/>
+<area shape="rect" id="node8" href="$classJoyControlStickPushButton.html#a0416eaa8614972e597a304df58fa50ab" title=" " alt="" coords="256,155,451,196"/>
+<area shape="rect" id="node9" href="$classJoyControlStickPushButton.html#a84c9c0ebc8bab68996df6619a4969168" title=" " alt="" coords="5,155,208,196"/>
+</map>

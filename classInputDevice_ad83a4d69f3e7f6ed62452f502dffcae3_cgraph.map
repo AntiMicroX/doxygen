@@ -1,0 +1,4 @@
+<map id="InputDevice::applyGyroscopeCalibration" name="InputDevice::applyGyroscopeCalibration">
+<area shape="rect" id="node1" title="Applies calibration to the specified gyroscope in all sets See JoySensor::setCalibration." alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a6793b28ac5f44e8fe3d8c1e333add1a8" title=" " alt="" coords="267,13,452,39"/>
+</map>

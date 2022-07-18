@@ -1,0 +1,4 @@
+<map id="SensorPushButtonGroup::generateBtnToGrid" name="SensorPushButtonGroup::generateBtnToGrid">
+<area shape="rect" id="node1" title="Generates a new push button at the given grid coordinates." alt="" coords="240,5,419,47"/>
+<area shape="rect" id="node2" href="$classSensorPushButtonGroup.html#a5d893d1b1d86f6d355ed793c4c52a92c" title=" " alt="" coords="5,5,192,47"/>
+</map>

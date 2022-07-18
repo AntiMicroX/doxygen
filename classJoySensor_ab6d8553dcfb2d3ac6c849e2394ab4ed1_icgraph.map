@@ -1,0 +1,13 @@
+<map id="JoySensor::calculateDistance" name="JoySensor::calculateDistance">
+<area shape="rect" id="node1" title="Get the vector length of the sensor." alt="" coords="953,180,1164,207"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ad62b0880e8317fce3e92e9084fbefcfa" title="Calculate the pitch angle (in degrees) corresponding to the current passed X, Y and Z axes values ass..." alt="" coords="710,5,895,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#aaf5dddff7a802bc14110d8fabd5dc2ed" title="Calculate the roll angle (in degrees) corresponding to the current passed X, Y and Z axes values asso..." alt="" coords="713,56,892,83"/>
+<area shape="rect" id="node4" href="$classJoyGyroscopeSensor.html#acc78af8ccbf8e7889e29c39174a4468c" title="Find the direction zone of the current sensor position." alt="" coords="707,107,899,149"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a0f379a920d319eba33df77ed64d32433" title="Get radial distance of the sensor past the assigned dead zone based on the passed X,..." alt="" coords="700,173,905,214"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#a1f3b74ad80e18698eeb6438c51b964f6" title="Checks if the sensor vector is currently in the dead zone." alt="" coords="716,239,889,265"/>
+<area shape="rect" id="node10" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="469,315,630,357"/>
+<area shape="rect" id="node11" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="726,341,879,382"/>
+<area shape="rect" id="node7" href="$classInputDaemon.html#a314c26c1cd61de2b923b3e0ee1db0c6e" title="Fetches events from SDL event queue, filters them and updates InputDeviceBitArrayStatus." alt="" coords="447,239,652,265"/>
+<area shape="rect" id="node8" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,239,399,265"/>
+<area shape="rect" id="node9" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,239,212,265"/>
+</map>

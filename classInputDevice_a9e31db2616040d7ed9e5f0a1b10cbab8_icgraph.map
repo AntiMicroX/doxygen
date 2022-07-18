@@ -1,0 +1,12 @@
+<map id="InputDevice::updateSetVDPadNames" name="InputDevice::updateSetVDPadNames">
+<area shape="rect" id="node1" title=" " alt="" coords="1004,129,1220,170"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="703,56,956,83"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a36abcec4baeb617b7f20b8818bb48358" title=" " alt="" coords="725,136,934,163"/>
+<area shape="rect" id="node3" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="419,5,655,32"/>
+<area shape="rect" id="node4" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="471,56,603,83"/>
+<area shape="rect" id="node6" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="435,107,639,133"/>
+<area shape="rect" id="node7" href="$classGameControllerXml.html#af727b41e5437fef842cd30dc5095ba9e" title=" " alt="" coords="437,158,637,199"/>
+<area shape="rect" id="node10" href="$classGameControllerXml.html#a6cc4ca448e7b6462630d535f75f3a96b" title=" " alt="" coords="212,221,371,262"/>
+<area shape="rect" id="node8" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="212,155,371,197"/>
+<area shape="rect" id="node9" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="5,189,164,230"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="readConf" name="readConf">
+<area shape="rect" id="node1" title=" " alt="" coords="824,49,905,75"/>
+<area shape="rect" id="node2" href="$classGameControllerSet.html#a61ba9987e5c3e43db2713d48daa4984f" title=" " alt="" coords="621,12,776,53"/>
+<area shape="rect" id="node4" href="$classGameControllerSet.html#a6b551139e353a654212d498309744025" title=" " alt="" coords="419,71,573,112"/>
+<area shape="rect" id="node3" href="$classGameControllerSet.html#ab3cda1f3ec063776efe78d7ab11b53f4" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="419,5,573,47"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="212,71,371,112"/>
+<area shape="rect" id="node6" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="5,71,164,112"/>
+</map>

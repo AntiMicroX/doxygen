@@ -1,0 +1,8 @@
+<map id="X11Extras::findClientWindow" name="X11Extras::findClientWindow">
+<area shape="rect" id="node1" title="Find the proper client window within a hierarchy. This check is needed in some environments where the..." alt="" coords="5,99,216,125"/>
+<area shape="rect" id="node2" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="804,87,947,113"/>
+<area shape="rect" id="node3" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="825,11,925,37"/>
+<area shape="rect" id="node4" href="$classX11Extras.html#addc3448425326be8bcd2b0138abe643a" title="Go through a window&#39;s properties and search for an Atom from a defined list. If an Atom is found in a..." alt="" coords="264,73,481,100"/>
+<area shape="rect" id="node6" href="$classX11Extras.html#abebf4a3a16685c4b274980f040671ae9" title=" " alt="" coords="534,175,751,201"/>
+<area shape="rect" id="node5" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="529,23,756,49"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="JoyDPad::eventReset" name="JoyDPad::eventReset">
+<area shape="rect" id="node1" title=" " alt="" coords="776,241,933,267"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="577,241,728,267"/>
+<area shape="rect" id="node3" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="5,55,243,96"/>
+<area shape="rect" id="node4" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="319,51,501,92"/>
+<area shape="rect" id="node5" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="37,204,211,245"/>
+<area shape="rect" id="node6" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="30,328,218,369"/>
+<area shape="rect" id="node7" href="$classAdvanceStickAssignmentDialog.html#a48ade79f1dfeb93ff668ac18d0e1243f" title=" " alt="" coords="295,116,525,157"/>
+<area shape="rect" id="node8" href="$classJoystickStatusWindow.html#a1a1c28e1d6f480c7424ba81b30b8b4f5" title=" " alt="" coords="327,233,493,275"/>
+<area shape="rect" id="node9" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="291,351,529,392"/>
+<area shape="rect" id="node10" href="$classQuickSetDialog.html#afacbf395389ca073edf366a412c1626b" title=" " alt="" coords="297,416,523,457"/>
+<area shape="rect" id="node11" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="299,481,521,523"/>
+</map>

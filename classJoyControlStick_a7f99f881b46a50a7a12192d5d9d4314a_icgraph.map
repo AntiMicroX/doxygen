@@ -1,0 +1,11 @@
+<map id="JoyControlStick::resetCalibration" name="JoyControlStick::resetCalibration">
+<area shape="rect" id="node1" title="Resets the calibration of both stick axes back to uncalibrated state." alt="" coords="989,73,1223,100"/>
+<area shape="rect" id="node2" href="$classCalibration.html#ae3253fa86307093fede3b8504d526290" title="Resets calibration values of the currently selected device and updates UI." alt="" coords="736,9,941,50"/>
+<area shape="rect" id="node5" href="$classCalibration.html#ab574aecefa0f5d607f57f94487af38a8" title="Shows user instructions for stick offset calibration, initializes estimators and connects stick data ..." alt="" coords="737,98,940,139"/>
+<area shape="rect" id="node3" href="$classCalibration.html#a730f9db8e246b74302ba4f8dca413829" title="Asks for confirmation and resets calibration values of the selected device afterwards." alt="" coords="234,5,421,32"/>
+<area shape="rect" id="node4" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,149,177,176"/>
+<area shape="rect" id="node6" href="$classCalibration.html#a1e79902d8c7fa6e66eb578c7252e7ef7" title="Stick data event handler. Performs stick gain estimation and stops itself if the value was found or t..." alt="" coords="477,43,688,69"/>
+<area shape="rect" id="node7" href="$classCalibration.html#adbb2662b3b1e21cb667df5325abc68cc" title="Shows user instructions for stick gain calibration, initializes estimators and connects stick data ev..." alt="" coords="231,83,424,125"/>
+<area shape="rect" id="node8" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="479,168,686,195"/>
+<area shape="rect" id="node9" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,201,429,242"/>
+</map>

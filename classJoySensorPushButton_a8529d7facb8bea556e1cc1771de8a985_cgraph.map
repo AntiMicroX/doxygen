@@ -1,0 +1,5 @@
+<map id="JoySensorPushButton::tryFlash" name="JoySensorPushButton::tryFlash">
+<area shape="rect" id="node1" title="Highlights the button when sensor is not centered." alt="" coords="5,35,165,76"/>
+<area shape="rect" id="node2" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="247,5,402,47"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a7f8cb06b32bb27f9d5d201a58be9cc2b" title="Returns the current sensor direction." alt="" coords="213,71,436,98"/>
+</map>

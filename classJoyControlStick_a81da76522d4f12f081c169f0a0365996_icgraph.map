@@ -1,0 +1,11 @@
+<map id="JoyControlStick::getModifierButton" name="JoyControlStick::getModifierButton">
+<area shape="rect" id="node1" title=" " alt="" coords="576,152,779,193"/>
+<area shape="rect" id="node2" href="$classJoyControlStickEditDialog.html#ac3b9507c59c8ad3e4680de709aeb6a2a" title=" " alt="" coords="303,5,496,47"/>
+<area shape="rect" id="node3" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="16,64,212,105"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a57b418a495a22ea5182e89ef4a6cf233" title="Copy slots from all stick buttons and properties from a stick onto another." alt="" coords="277,189,521,215"/>
+<area shape="rect" id="node6" href="$classJoyControlStickButton.html#a86579104005fc594de94d9bc126fb4e9" title=" " alt="" coords="271,320,528,361"/>
+<area shape="rect" id="node8" href="$classJoyControlStickButtonPushButton.html#a5542b1bc905c0a35639b4731083852fa" title=" " alt="" coords="276,239,523,295"/>
+<area shape="rect" id="node9" href="$classJoyControlStickEditDialog.html#a8b6494f8fce0675b780735e0fafebcb5" title=" " alt="" coords="305,123,493,164"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,189,223,215"/>
+<area shape="rect" id="node7" href="$classJoyControlStickButtonPushButton.html#a5f99e1a540217bddf417c2e993c19aa4" title="Generate the string that will be displayed on the button." alt="" coords="17,320,211,361"/>
+</map>

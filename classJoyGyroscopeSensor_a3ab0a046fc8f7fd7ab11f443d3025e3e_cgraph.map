@@ -1,0 +1,9 @@
+<map id="JoyGyroscopeSensor::JoyGyroscopeSensor" name="JoyGyroscopeSensor::JoyGyroscopeSensor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,168,80"/>
+<area shape="rect" id="node2" href="$classJoyGyroscopeSensor.html#a69b51a1f91da4be61e2762cc34206df0" title="Initializes the JoySensorButton objects for this sensor." alt="" coords="216,5,371,47"/>
+<area shape="rect" id="node4" href="$classJoyGyroscopeSensor.html#a4d27003200f8185d5e3edb082fa33de2" title="Resets internal variables back to default." alt="" coords="216,71,371,112"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="419,13,596,39"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="654,70,811,97"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#aaad088863aaa04d9529cb1abcd466c6b" title="Resets internal variables back to default." alt="" coords="444,121,571,147"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a6a551421242cfdec065b80b7270f26ab" title="Reset all the properties of the sensor direction buttons." alt="" coords="644,121,821,147"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="JoySensorContextMenu::buildMenu" name="JoySensorContextMenu::buildMenu">
+<area shape="rect" id="node1" title="Populates the context menu." alt="" coords="5,329,179,371"/>
+<area shape="rect" id="node2" href="$classJoySensorPreset.html#a7fcfbacaca8a54d07acab351dee7883c" title="Determines the preset used by the underlying sensor." alt="" coords="254,224,435,265"/>
+<area shape="rect" id="node10" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="553,375,699,402"/>
+<area shape="rect" id="node13" href="$classJoySensorPreset.html#a70879dec2d063663d4cbf5cf27aea452" title="Get available presets for the underlying sensor type." alt="" coords="237,359,453,400"/>
+<area shape="rect" id="node14" href="$classJoySensorPreset.html#aa72030acd12a5563c62f2aeb6d49a773" title="Get the translated name of a given preset." alt="" coords="227,425,463,451"/>
+<area shape="rect" id="node15" href="$classJoySensorContextMenu.html#a077ec1e060b0c5515e4f2aab9f269d1d" title="Opens MouseSensorSettingsDialog from context menu." alt="" coords="245,476,445,517"/>
+<area shape="rect" id="node16" href="$classJoySensorPreset.html#a21eb1e1e612e4f70e0ade394e9878425" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="245,64,444,105"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="523,122,729,149"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a09be56d2b545bb2838899a7c1b96c1ce" title="Get a pointer to the sensor direction button for the desired direction." alt="" coords="517,173,735,199"/>
+<area shape="rect" id="node5" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title=" " alt="" coords="525,71,727,98"/>
+<area shape="rect" id="node8" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="527,223,725,250"/>
+<area shape="rect" id="node9" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="526,274,726,301"/>
+<area shape="rect" id="node11" href="$classAntKeyMapper.html#a07957c1e2baac6c4266678d89dc7c3a6" title=" " alt="" coords="511,325,741,351"/>
+<area shape="rect" id="node6" href="$classAntKeyMapper.html#abe4a434636d370a750d32a14b9a139d3" title=" " alt="" coords="807,46,1027,73"/>
+<area shape="rect" id="node7" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="828,97,1007,123"/>
+<area shape="rect" id="node12" href="$classQtKeyMapperBase.html#a5df0f313bce11847f8495126373e7178" title=" " alt="" coords="789,325,1045,351"/>
+<area shape="rect" id="node17" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="533,5,719,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="JoyControlStickButton::getDirection" name="JoyControlStickButton::getDirection">
+<area shape="rect" id="node1" title=" " alt="" coords="563,5,727,47"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a57b418a495a22ea5182e89ef4a6cf233" title="Copy slots from all stick buttons and properties from a stick onto another." alt="" coords="271,13,515,39"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,13,223,39"/>
+</map>

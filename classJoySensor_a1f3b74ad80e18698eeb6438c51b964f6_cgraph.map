@@ -1,0 +1,4 @@
+<map id="JoySensor::inDeadZone" name="JoySensor::inDeadZone">
+<area shape="rect" id="node1" title="Checks if the sensor vector is currently in the dead zone." alt="" coords="5,5,179,32"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="227,5,437,32"/>
+</map>

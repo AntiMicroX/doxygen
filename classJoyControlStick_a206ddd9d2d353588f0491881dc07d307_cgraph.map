@@ -1,0 +1,4 @@
+<map id="JoyControlStick::populateStickBtns" name="JoyControlStick::populateStickBtns">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a368fdbc00c4a4a9cf3f3e49d6736da65" title="Get pointer to the set that a stick belongs to." alt="" coords="240,13,452,39"/>
+</map>

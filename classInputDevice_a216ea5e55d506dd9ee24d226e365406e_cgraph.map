@@ -1,0 +1,8 @@
+<map id="InputDevice::updateAccelerometerCalibration" name="InputDevice::updateAccelerometerCalibration">
+<area shape="rect" id="node1" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="5,39,253,80"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a52f588b41e135631a7e0f5856ae7f5a4" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="301,5,540,47"/>
+<area shape="rect" id="node4" href="$classInputDeviceCalibration.html#a518884e58baecbba160e6693ea0b0e56" title="Updates the stored calibration for the given accelerometer from the parent controller." alt="" coords="313,71,529,112"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a6793b28ac5f44e8fe3d8c1e333add1a8" title=" " alt="" coords="609,13,794,39"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="588,70,815,97"/>
+<area shape="rect" id="node6" href="$classInputDeviceCalibration.html#a1e50d8e332ea04b947698ca04c9aa989" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="616,121,787,163"/>
+</map>

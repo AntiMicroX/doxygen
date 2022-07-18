@@ -1,0 +1,8 @@
+<map id="InputDevice::setDeviceKeyPressTime" name="InputDevice::setDeviceKeyPressTime">
+<area shape="rect" id="node1" title=" " alt="" coords="505,89,703,131"/>
+<area shape="rect" id="node2" href="$classExtraProfileSettingsDialog.html#a584bc443f3f3e839776b9f62fbd72f85" title=" " alt="" coords="259,5,451,47"/>
+<area shape="rect" id="node4" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="253,71,457,98"/>
+<area shape="rect" id="node5" href="$classGameControllerXml.html#a7e47256cae0d3815419bc254413777d1" title="Deserializes the given XML stream into a GameController object." alt="" coords="26,144,185,185"/>
+<area shape="rect" id="node6" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="276,173,435,215"/>
+<area shape="rect" id="node3" href="$classExtraProfileSettingsDialog.html#ad5751d1a02ef93bdff60ef334839d12f" title=" " alt="" coords="5,5,205,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="JoyControlStick::calculateStickDirection" name="JoyControlStick::calculateStickDirection">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,193,135"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a3511f471a2d83fa4f8d7cc21ada7e99b" title="Find the current stick direction based on a Eight Way mode stick." alt="" coords="241,5,437,47"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#a94fca961bc3b7ffe9e843bd199119667" title="Find the current stick direction based on a Standard mode stick." alt="" coords="485,35,681,76"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a2550adeadfd1cbacbf8936f1e8051f87" title="Find the current stick direction based on a Four Way Cardinal mode stick." alt="" coords="241,123,437,164"/>
+<area shape="rect" id="node5" href="$classJoyControlStick.html#a889676b80468138d79f6c51e4704d001" title="Find the current stick direction based on a Four Way Diagonal mode stick." alt="" coords="241,188,437,229"/>
+</map>

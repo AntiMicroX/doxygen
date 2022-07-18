@@ -1,0 +1,4 @@
+<map id="StatisticsEstimator::calculateRelativeErrorSq" name="StatisticsEstimator::calculateRelativeErrorSq">
+<area shape="rect" id="node1" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classStatisticsEstimator.html#a8895a3729d2ed7bca9ce078fb17bb05a" title="Calculates the sample variance of the processed data stream from internal intermediate values." alt="" coords="244,5,389,47"/>
+</map>

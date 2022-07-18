@@ -1,0 +1,7 @@
+<map id="JoySensorPreset::setSensorPreset" name="JoySensorPreset::setSensorPreset">
+<area shape="rect" id="node1" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="5,53,204,94"/>
+<area shape="rect" id="node2" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title=" " alt="" coords="252,31,453,57"/>
+<area shape="rect" id="node5" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="259,82,446,123"/>
+<area shape="rect" id="node3" href="$classAntKeyMapper.html#abe4a434636d370a750d32a14b9a139d3" title=" " alt="" coords="501,5,721,32"/>
+<area shape="rect" id="node4" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="522,56,701,83"/>
+</map>

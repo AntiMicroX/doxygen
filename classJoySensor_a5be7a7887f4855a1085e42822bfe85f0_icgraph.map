@@ -1,0 +1,17 @@
+<map id="JoySensor::degToRad" name="JoySensor::degToRad">
+<area shape="rect" id="node1" title="Utility function which converts a given value from degree to radians." alt="" coords="789,166,947,193"/>
+<area shape="rect" id="node2" href="$classJoyAccelerometerSensor.html#a302d00903f30bf08efa87afc1d323074" title="Resets internal variables back to default." alt="" coords="285,5,466,47"/>
+<area shape="rect" id="node4" href="$classJoyGyroscopeSensor.html#a4d27003200f8185d5e3edb082fa33de2" title="Resets internal variables back to default." alt="" coords="298,71,453,112"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#aaad088863aaa04d9529cb1abcd466c6b" title="Resets internal variables back to default." alt="" coords="571,137,698,163"/>
+<area shape="rect" id="node10" href="$classJoySensor.html#a4572b9f66468a2e390634591d6d4ecbc" title="Sets the dead zone of the sensor to the given value." alt="" coords="544,195,725,222"/>
+<area shape="rect" id="node14" href="$classJoySensor.html#a33e05f28756fd796e46189227a107532" title="Set the diagonal range value for a sensor." alt="" coords="528,246,741,273"/>
+<area shape="rect" id="node15" href="$classJoySensor.html#a029cd202c660d928574726bb0e83a68b" title="Sets the maximum zone of the sensor to the given value." alt="" coords="547,297,722,323"/>
+<area shape="rect" id="node3" href="$classJoyAccelerometerSensor.html#a3273f70da9e0795d25f420f6a12d60b9" title=" " alt="" coords="19,5,209,47"/>
+<area shape="rect" id="node5" href="$classJoyGyroscopeSensor.html#a3ab0a046fc8f7fd7ab11f443d3025e3e" title=" " alt="" coords="33,71,195,112"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a723df3dcae43b4509bf1af84191e5ad5" title="Copy slots from all sensor buttons and properties from a sensor onto another." alt="" coords="271,137,480,163"/>
+<area shape="rect" id="node9" href="$classJoySensor.html#af9b16315366b758eba4fb5759e7ee13e" title=" " alt="" coords="296,187,455,214"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,137,223,163"/>
+<area shape="rect" id="node11" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="295,239,456,280"/>
+<area shape="rect" id="node12" href="$classJoySensor.html#a2c42a88f7b51fe7bc04ad13266756ed9" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="293,305,457,331"/>
+<area shape="rect" id="node13" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="15,305,213,331"/>
+</map>

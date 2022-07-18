@@ -1,0 +1,6 @@
+<map id="CalibrationData" name="CalibrationData">
+<area shape="rect" id="node1" title="Stores the calibration data for one physical device, e.g. a stick or gyroscope." alt="" coords="220,95,344,121"/>
+<area shape="rect" id="node2" href="$structStickCalibrationData.html" title="The calibration data for a stick." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node3" href="$structGyroscopeCalibrationData.html" title="The calibration data for a gyroscope." alt="" coords="185,5,379,32"/>
+<area shape="rect" id="node4" href="$structAccelerometerCalibrationData.html" title="The calibration data for an accelerometer." alt="" coords="403,5,622,32"/>
+</map>

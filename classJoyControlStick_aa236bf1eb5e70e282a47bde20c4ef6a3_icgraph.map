@@ -1,0 +1,5 @@
+<map id="JoyControlStick::setMaxZone" name="JoyControlStick::setMaxZone">
+<area shape="rect" id="node1" title=" " alt="" coords="499,5,709,32"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="252,5,451,32"/>
+<area shape="rect" id="node3" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,5,204,32"/>
+</map>

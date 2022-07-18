@@ -1,0 +1,6 @@
+<map id="GameControllerDPad" name="GameControllerDPad">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,164,256"/>
+<area shape="rect" id="node2" href="$classVDPad.html" title=" " alt="" coords="53,155,117,181"/>
+<area shape="rect" id="node3" href="$classJoyDPad.html" title=" " alt="" coords="47,80,122,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="47,5,122,32"/>
+</map>

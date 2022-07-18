@@ -1,0 +1,52 @@
+<map id="JoyAxis::calculateThrottledValue" name="JoyAxis::calculateThrottledValue">
+<area shape="rect" id="node1" title=" " alt="" coords="1911,627,2107,668"/>
+<area shape="rect" id="node2" href="$classJoyAxis.html#a211c80f9aa20fa22c8f91a5cdcb0831a" title=" " alt="" coords="1690,327,1849,354"/>
+<area shape="rect" id="node3" href="$classGameControllerTrigger.html#a9a377b27df224a6eeddea986c0b1cf4d" title=" " alt="" coords="1437,121,1607,163"/>
+<area shape="rect" id="node6" href="$classJoyAxis.html#afce1f31390f589a417e9c70f47bd7187" title=" " alt="" coords="1429,238,1615,265"/>
+<area shape="rect" id="node16" href="$classGameControllerTrigger.html#abfde3c0a5d3bacf59188fd8c81968642" title=" " alt="" coords="1162,593,1339,635"/>
+<area shape="rect" id="node19" href="$classGameControllerTriggerXml.html#a4578ad54daf8a24231e8b0e4e09f1587" title=" " alt="" coords="885,513,1079,555"/>
+<area shape="rect" id="node22" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="1147,542,1354,569"/>
+<area shape="rect" id="node26" href="$classJoyAxis.html#a9a4983bcdfce9620851a33d9a69343fa" title=" " alt="" coords="1676,1101,1863,1143"/>
+<area shape="rect" id="node32" href="$classJoyAxis.html#aec8483db205a707cece118ea48cd7072" title=" " alt="" coords="1691,845,1848,871"/>
+<area shape="rect" id="node36" href="$classJoyAxis.html#a9c5f69db8b88f31a1df043a00ab9d09a" title=" " alt="" coords="1183,798,1318,825"/>
+<area shape="rect" id="node49" href="$classJoyAxis.html#aeceeef14f2a92dad67aed5d07b2669d0" title=" " alt="" coords="1435,962,1609,989"/>
+<area shape="rect" id="node12" href="$classJoyAxis.html#a38eb99eb11dced53e58c8dc1d92f63bb" title="Set the initial calibrated throttle based on the first event passed by SDL." alt="" coords="1429,327,1615,354"/>
+<area shape="rect" id="node15" href="$classJoyAxis.html#aa4be4a311b6656e63eacfdde5ce6861a" title="Set throttle value for axis." alt="" coords="1447,466,1597,493"/>
+<area shape="rect" id="node4" href="$classGameControllerTrigger.html#a29c6221684b8eb4b3a4017ed93c6e866" title=" " alt="" coords="1162,71,1339,112"/>
+<area shape="rect" id="node5" href="$classGameControllerTrigger.html#ab63a97404553aedc7cac20b65df5b763" title=" " alt="" coords="1166,5,1335,47"/>
+<area shape="rect" id="node7" href="$classJoyAxis.html#a6123cf3edbb03ad45f114c333cdfd5f4" title=" " alt="" coords="1187,137,1314,163"/>
+<area shape="rect" id="node8" href="$classJoyAxis.html#a9e0633e04b88d2eecb10c8cf9599a86e" title=" " alt="" coords="1195,187,1306,214"/>
+<area shape="rect" id="node11" href="$classJoyAxis.html#a3e8aa5f4ba3afb8959ddd2d153a5fff1" title=" " alt="" coords="1182,238,1319,265"/>
+<area shape="rect" id="node9" href="$classJoyAxis.html#a854637def50e6ef091c87ee78e7dbb58" title=" " alt="" coords="885,213,1079,239"/>
+<area shape="rect" id="node10" href="$classJoyAxis.html#a62d21dc1238df0c8e221365a434efe50" title=" " alt="" coords="927,162,1037,189"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#af8d7d16a13702ae29b6590db35801d14" title=" " alt="" coords="1161,339,1340,366"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#ac6daf1f765250107742c011bc2125e2e" title=" " alt="" coords="1150,289,1351,315"/>
+<area shape="rect" id="node17" href="$classInputDevice.html#acd3b268edd296c66e54dce8c92652f07" title=" " alt="" coords="328,405,523,447"/>
+<area shape="rect" id="node25" href="$classAxisEditDialog.html#a37e715b68fb2ba3f3ab6046d178aa065" title=" " alt="" coords="1133,441,1368,467"/>
+<area shape="rect" id="node18" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="5,734,259,761"/>
+<area shape="rect" id="node20" href="$classGameControllerSet.html#a6b551139e353a654212d498309744025" title=" " alt="" coords="634,492,789,533"/>
+<area shape="rect" id="node21" href="$classGameControllerXml.html#aaa5257d4c6fe13f1d5fc51981e247c25" title="Reads the XML tree from a &quot;joystick&quot; tag." alt="" coords="346,492,505,533"/>
+<area shape="rect" id="node23" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="895,441,1069,467"/>
+<area shape="rect" id="node24" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="612,441,811,467"/>
+<area shape="rect" id="node27" href="$classJoyAxisButton.html#a7bbc63efd1b9d52a38ae9188256f6166" title=" " alt="" coords="1416,1101,1628,1143"/>
+<area shape="rect" id="node28" href="$classInputDevice.html#aebcc4b8149c2bab8a0652323206d32bb" title=" " alt="" coords="330,1135,521,1176"/>
+<area shape="rect" id="node29" href="$classJoyTabWidget.html#a06a18e39e415313b9ee09c41887890ac" title=" " alt="" coords="15,1083,249,1110"/>
+<area shape="rect" id="node30" href="$classJoyTabWidgetHelper.html#ae69229b650b5a129cd2ae25d77975d0d" title="XML read entry point for the GUI." alt="" coords="55,1135,209,1176"/>
+<area shape="rect" id="node31" href="$classJoyTabWidgetHelper.html#aef94ae0812f28f43eb891ddc210c341e" title=" " alt="" coords="55,1200,209,1241"/>
+<area shape="rect" id="node33" href="$classInputDaemon.html#a314c26c1cd61de2b923b3e0ee1db0c6e" title="Fetches events from SDL event queue, filters them and updates InputDeviceBitArrayStatus." alt="" coords="1419,845,1625,871"/>
+<area shape="rect" id="node35" href="$classInputDeviceBitArrayStatus.html#a4255eb1af0e32f80549c0f662985d395" title=" " alt="" coords="1421,896,1623,937"/>
+<area shape="rect" id="node34" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="1181,849,1320,875"/>
+<area shape="rect" id="node37" href="$classJoyAxis.html#a6db16ad8451e2f2b09215385d5371151" title=" " alt="" coords="891,979,1073,1020"/>
+<area shape="rect" id="node39" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="907,803,1057,830"/>
+<area shape="rect" id="node38" href="$classInputDevice.html#ae8668b4649e0439c1dd30abd72c3283e" title=" " alt="" coords="604,1105,819,1147"/>
+<area shape="rect" id="node40" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="307,769,544,811"/>
+<area shape="rect" id="node41" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="620,675,803,716"/>
+<area shape="rect" id="node42" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="338,952,513,993"/>
+<area shape="rect" id="node43" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="331,587,519,628"/>
+<area shape="rect" id="node44" href="$classAdvanceStickAssignmentDialog.html#a48ade79f1dfeb93ff668ac18d0e1243f" title=" " alt="" coords="597,740,826,781"/>
+<area shape="rect" id="node45" href="$classJoystickStatusWindow.html#a1a1c28e1d6f480c7424ba81b30b8b4f5" title=" " alt="" coords="628,923,795,964"/>
+<area shape="rect" id="node46" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="592,857,831,899"/>
+<area shape="rect" id="node47" href="$classQuickSetDialog.html#afacbf395389ca073edf366a412c1626b" title=" " alt="" coords="598,557,825,599"/>
+<area shape="rect" id="node48" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="600,1040,823,1081"/>
+<area shape="rect" id="node50" href="$classJoyAxis.html#ac060a3703ce33d35256e66aaa60b930b" title=" " alt="" coords="879,1119,1085,1146"/>
+</map>

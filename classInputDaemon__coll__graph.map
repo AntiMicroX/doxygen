@@ -1,0 +1,7 @@
+<map id="InputDaemon" name="InputDaemon">
+<area shape="rect" id="node1" title="Fetches hardware events from SDL and dispatch them to input objects like JoyAxis or JoyButton...." alt="" coords="61,260,171,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,81,80,108"/>
+<area shape="rect" id="node5" href="$classSDLEventReader.html" title=" " alt="" coords="51,171,181,197"/>
+<area shape="rect" id="node3" href="$classAntiMicroSettings.html" title=" " alt="" coords="133,81,270,108"/>
+<area shape="rect" id="node4" title=" " alt="" coords="159,5,244,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Calibration::onStickGainData" name="Calibration::onStickGainData">
+<area shape="rect" id="node1" title="Stick data event handler. Performs stick gain estimation and stops itself if the value was found or t..." alt="" coords="1224,42,1435,69"/>
+<area shape="rect" id="node2" href="$classCalibration.html#adbb2662b3b1e21cb667df5325abc68cc" title="Shows user instructions for stick gain calibration, initializes estimators and connects stick data ev..." alt="" coords="983,5,1176,47"/>
+<area shape="rect" id="node3" href="$classCalibration.html#ab574aecefa0f5d607f57f94487af38a8" title="Shows user instructions for stick offset calibration, initializes estimators and connects stick data ..." alt="" coords="732,5,935,47"/>
+<area shape="rect" id="node4" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,13,684,39"/>
+<area shape="rect" id="node5" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,13,177,39"/>
+<area shape="rect" id="node6" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,35,429,76"/>
+</map>

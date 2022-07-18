@@ -1,0 +1,13 @@
+<map id="InputDeviceCalibration::setCalibration" name="InputDeviceCalibration::setCalibration">
+<area shape="rect" id="node1" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="1019,104,1189,145"/>
+<area shape="rect" id="node2" href="$classInputDeviceCalibration.html#addc1dec011a16cfe8fbae9ee6bd5507f" title="Reads all calibration values from the given XML stream into the internal calibration data storage." alt="" coords="777,5,948,47"/>
+<area shape="rect" id="node4" href="$classInputDeviceCalibration.html#a518884e58baecbba160e6693ea0b0e56" title="Updates the stored calibration for the given accelerometer from the parent controller." alt="" coords="755,71,971,112"/>
+<area shape="rect" id="node8" href="$classInputDeviceCalibration.html#a3d04bd49db756048a7a7178f45d2e1fb" title="Updates the stored calibration for the given gyroscope from the parent controller." alt="" coords="767,136,958,177"/>
+<area shape="rect" id="node10" href="$classInputDeviceCalibration.html#a2d055fdeb19863038e21803dadbac47c" title="Updates the stored calibration for the given stick from the parent controller." alt="" coords="777,201,948,243"/>
+<area shape="rect" id="node3" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="481,13,685,39"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a216ea5e55d506dd9ee24d226e365406e" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="459,71,707,112"/>
+<area shape="rect" id="node6" href="$classCalibration.html#a61d733b70d5fd8a60c8f98e50469ed0e" title="Save calibration values into the device object." alt="" coords="225,143,411,170"/>
+<area shape="rect" id="node7" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,143,177,170"/>
+<area shape="rect" id="node9" href="$classInputDevice.html#a5afca28cfa26229bfaff2d1efa176c94" title="Updates stored calibration for this controller and applies calibration to the specified gyroscope in ..." alt="" coords="471,136,694,177"/>
+<area shape="rect" id="node11" href="$classInputDevice.html#af28d7eb0a83c9ed3bca11e9218c12517" title="Updates stored calibration for this controller and applies calibration to the specified stick in all ..." alt="" coords="490,201,675,243"/>
+</map>

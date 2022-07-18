@@ -1,0 +1,6 @@
+<map id="MouseSensorSettingsDialog::calculateMouseSpeedPreset" name="MouseSensorSettingsDialog::calculateMouseSpeedPreset">
+<area shape="rect" id="node1" title="Get the maximum mouse speed used by the buttons of the associated sensor and set the UI values to it." alt="" coords="5,49,219,90"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ade5fe9722741d61eeac6811fe6a53cf2" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="287,5,453,32"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#a76e65a13abf96d01fa11ed9fd3b08a7b" title=" " alt="" coords="267,56,473,83"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#a897f0f78773ace1b5916222bd757b1bc" title=" " alt="" coords="267,107,473,133"/>
+</map>
