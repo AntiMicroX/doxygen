@@ -19,7 +19,7 @@ jobs:
           ls
           pwd
           cd ..
-          git clone https://github.com/AntiMicroX/antimicrox.git
+          git clone https://github.com/AntiMicroX/antimicrox.git --depth 1
           mkdir antimicrox/build
           cd antimicrox/build
           cmake .. -DBUILD_DOCS=ON
