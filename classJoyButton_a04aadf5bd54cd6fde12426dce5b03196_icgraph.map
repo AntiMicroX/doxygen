@@ -1,0 +1,17 @@
+<map id="JoyButton::clearSlotsEventReset" name="JoyButton::clearSlotsEventReset">
+<area shape="rect" id="node1" title=" " alt="" coords="315,431,509,472"/>
+<area shape="rect" id="node2" href="$classJoyAxisContextMenuHelper.html#ad50e929e28d85dcf66193c59753c71ce" title=" " alt="" coords="35,5,237,47"/>
+<area shape="rect" id="node3" href="$classDPadContextMenuHelper.html#a586c406fa21f53ca137fe56d0cf236fd" title=" " alt="" coords="27,71,245,112"/>
+<area shape="rect" id="node4" href="$classDPadEditDialogHelper.html#add08a863a14dee0fed6c437c4b2f5631" title=" " alt="" coords="27,136,245,177"/>
+<area shape="rect" id="node5" href="$classJoyControlStickEditDialogHelper.html#a3971cdde1f78981f07ac2d8563e61b8c" title=" " alt="" coords="5,201,267,243"/>
+<area shape="rect" id="node6" href="$classJoyControlStickContextMenuHelper.html#a6d523f35bf8983898ac197c13191410b" title=" " alt="" coords="5,267,267,308"/>
+<area shape="rect" id="node7" href="$classJoySensorIoThreadHelper.html#ada8d648b6d86485cfc651f2bc47908d8" title="Calls JoyButton::clearSlotEventReset on all JoyButtons of the underlying sensor. Should be called via..." alt="" coords="27,332,245,373"/>
+<area shape="rect" id="node8" href="$classButtonEditDialogHelper.html#ae0c8bd126dcedd33ced87883cd4da566" title=" " alt="" coords="49,397,223,439"/>
+<area shape="rect" id="node9" href="$classDPadEditDialogHelper.html#a15e31302f41da2df05eec55810fc9b1e" title=" " alt="" coords="53,463,219,504"/>
+<area shape="rect" id="node10" href="$classDPadContextMenuHelper.html#a4a8d1d9c4ec96d3de8ff69c9afdd560b" title=" " alt="" coords="43,528,229,569"/>
+<area shape="rect" id="node11" href="$classJoyControlStickEditDialogHelper.html#afe11e24f991d5d825a6ed3b7a7f0a5a6" title=" " alt="" coords="31,593,241,635"/>
+<area shape="rect" id="node12" href="$classJoyControlStickContextMenuHelper.html#ac0fbd4e209aedcd20d547081e80291d1" title=" " alt="" coords="31,659,241,700"/>
+<area shape="rect" id="node13" href="$classJoySensorIoThreadHelper.html#a639d3efe0906bf8416b4fc6e610fbe5b" title="Applies pending slot values to the buttons Should be called via QMetaObject::invokeMethod." alt="" coords="43,724,229,765"/>
+<area shape="rect" id="node14" href="$classJoyAxisContextMenuHelper.html#ad2e0df387f0d979acb676364889f31fe" title=" " alt="" coords="36,789,236,831"/>
+<area shape="rect" id="node15" href="$classJoyAxisContextMenuHelper.html#abeb45b1b03177dbb96744d86811396e8" title=" " alt="" coords="36,855,236,896"/>
+</map>

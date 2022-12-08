@@ -1,0 +1,23 @@
+<map id="InputDaemon::firstInputPass" name="InputDaemon::firstInputPass">
+<area shape="rect" id="node1" title="Fetches events from SDL event queue, filters them and updates InputDeviceBitArrayStatus." alt="" coords="5,423,211,450"/>
+<area shape="rect" id="node2" href="$classInputDeviceBitArrayStatus.html#a35514bf58f4d47039ca42afed37f5758" title=" " alt="" coords="277,5,471,47"/>
+<area shape="rect" id="node3" href="$classInputDeviceBitArrayStatus.html#a4189986671ae07a5ef12f216f57d41b7" title=" " alt="" coords="277,71,471,112"/>
+<area shape="rect" id="node5" href="$classInputDeviceBitArrayStatus.html#a1951e601bfc81cf636512593b6a13684" title=" " alt="" coords="277,136,471,177"/>
+<area shape="rect" id="node6" href="$classInputDeviceBitArrayStatus.html#a817651c802027cb4bad14155d9bef2f8" title=" " alt="" coords="277,201,471,243"/>
+<area shape="rect" id="node7" href="$classInputDaemon.html#a8c3efac16d428f4db0b6d8c1577cab86" title=" " alt="" coords="271,267,477,308"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="279,332,469,373"/>
+<area shape="rect" id="node10" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="289,398,459,425"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="281,449,467,475"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#a5071c4bc7bdb1b0601b60b807a235818" title=" " alt="" coords="286,499,462,526"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="291,550,457,577"/>
+<area shape="rect" id="node16" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="259,601,489,643"/>
+<area shape="rect" id="node17" href="$classJoyAxis.html#aec8483db205a707cece118ea48cd7072" title=" " alt="" coords="295,667,453,694"/>
+<area shape="rect" id="node19" href="$classJoySensor.html#a1f3b74ad80e18698eeb6438c51b964f6" title="Checks if the sensor vector is currently in the dead zone." alt="" coords="287,718,461,745"/>
+<area shape="rect" id="node21" href="$classLogger.html#a182b6e000ffbce476d6a28b885a00d32" title=" " alt="" coords="285,769,463,795"/>
+<area shape="rect" id="node4" href="$classInputDeviceBitArrayStatus.html#aa2d24f289cc48038bc2dd9d0524ecc05" title=" " alt="" coords="547,71,742,112"/>
+<area shape="rect" id="node9" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="537,339,752,366"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="558,449,731,475"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#a2a6870a2ac3f5cc490344baf7ed2edd5" title=" " alt="" coords="568,499,721,526"/>
+<area shape="rect" id="node18" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="547,656,743,697"/>
+<area shape="rect" id="node20" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="539,722,750,749"/>
+</map>

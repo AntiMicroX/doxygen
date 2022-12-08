@@ -1,0 +1,10 @@
+<map id="UInputEventHandler::write_uinput_event" name="UInputEventHandler::write_uinput_event">
+<area shape="rect" id="node1" title="Write uinput event to selected file uinput file." alt="" coords="468,169,623,211"/>
+<area shape="rect" id="node2" href="$classUInputEventHandler.html#a86d9fad5709b20721c166693925144ba" title=" " alt="" coords="249,5,407,47"/>
+<area shape="rect" id="node3" href="$classUInputEventHandler.html#a73f8343b9072de4649b7c41316d0641a" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="245,71,411,112"/>
+<area shape="rect" id="node5" href="$classUInputEventHandler.html#a1f3bdecee2237c6fd6d93ba00058fa7d" title=" " alt="" coords="236,136,420,177"/>
+<area shape="rect" id="node6" href="$classUInputEventHandler.html#a5e8f8a059421c94e8879fb078a2b3016" title="Move cursor to selected relative location (deltax delaty)" alt="" coords="251,201,405,243"/>
+<area shape="rect" id="node7" href="$classUInputEventHandler.html#ae7f56462de69c74e7f2add96434a5313" title=" " alt="" coords="17,289,176,331"/>
+<area shape="rect" id="node8" href="$classUInputEventHandler.html#abd71760acc51be1442f4f8e2edc9a79d" title=" " alt="" coords="251,319,405,360"/>
+<area shape="rect" id="node4" href="$classUInputEventHandler.html#a904564c73d32751fe861347ceb46ab34" title="Do nothing by default. Useful for child classes to define behavior." alt="" coords="5,71,188,112"/>
+</map>

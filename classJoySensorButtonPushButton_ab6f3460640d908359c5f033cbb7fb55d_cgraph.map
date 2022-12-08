@@ -1,0 +1,7 @@
+<map id="JoySensorButtonPushButton::generateLabel" name="JoySensorButtonPushButton::generateLabel">
+<area shape="rect" id="node1" title="Generate the string that will be displayed on the button." alt="" coords="5,57,208,98"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#a2dc48e4d0de59b87938f5c0489d6e198" title=" " alt="" coords="256,5,451,32"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="262,57,445,98"/>
+<area shape="rect" id="node5" href="$classFlashButtonWidget.html#aff41eff76f8396ff1b9e2539d680c4cf" title=" " alt="" coords="276,122,431,163"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="499,57,681,98"/>
+</map>

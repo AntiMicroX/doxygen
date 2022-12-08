@@ -1,0 +1,11 @@
+<map id="JoyControlStick::getPartialName" name="JoyControlStick::getPartialName">
+<area shape="rect" id="node1" title=" " alt="" coords="617,163,848,190"/>
+<area shape="rect" id="node2" href="$classJoyControlStickPushButton.html#a0059ca289c5b44dd334330d2b7db5b79" title="Generate the string that will be displayed on the button." alt="" coords="337,5,532,47"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#ab76489911cda31a32731a0efce3b10dd" title=" " alt="" coords="340,71,529,98"/>
+<area shape="rect" id="node4" href="$classJoyControlStickModifierButton.html#a2666f594ac56d2c9d06f74b2b07a23e4" title=" " alt="" coords="326,123,543,164"/>
+<area shape="rect" id="node5" href="$classJoyControlStickButton.html#a1d8721f560ffcdee6bb8cf331b43ec50" title=" " alt="" coords="353,188,517,229"/>
+<area shape="rect" id="node6" href="$classMouseControlStickSettingsDialog.html#a8ff60a784173b38c871484c83b670571" title=" " alt="" coords="300,253,569,295"/>
+<area shape="rect" id="node8" href="$classJoyControlStickEditDialog.html#af7427cbc037e7ff1361237c910ad708b" title=" " alt="" coords="321,320,548,361"/>
+<area shape="rect" id="node7" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,243,252,299"/>
+<area shape="rect" id="node9" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="31,324,227,365"/>
+</map>

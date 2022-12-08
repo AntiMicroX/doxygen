@@ -1,0 +1,8 @@
+<map id="InputDevice::updateStickCalibration" name="InputDevice::updateStickCalibration">
+<area shape="rect" id="node1" title="Updates stored calibration for this controller and applies calibration to the specified stick in all ..." alt="" coords="5,27,191,69"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a3cafa58f87991e5ebbb3a24314417adf" title="Applies calibration to the specified stick in all sets See JoyControlStick::setCalibration." alt="" coords="239,5,485,32"/>
+<area shape="rect" id="node4" href="$classInputDeviceCalibration.html#a2d055fdeb19863038e21803dadbac47c" title="Updates the stored calibration for the given stick from the parent controller." alt="" coords="277,57,447,98"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#af8061d7792e96912abc05a9c863f76fe" title="Sets the axis calibration values and sets the calibration flag. Calibrated value is calculated by the..." alt="" coords="537,5,757,32"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="533,60,760,87"/>
+<area shape="rect" id="node6" href="$classInputDeviceCalibration.html#a1e50d8e332ea04b947698ca04c9aa989" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="561,111,732,153"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="JoyControlStickStatusBox::drawFourWayCardinalBox" name="JoyControlStickStatusBox::drawFourWayCardinalBox">
+<area shape="rect" id="node1" title=" " alt="" coords="5,247,203,288"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a0e3fe034c525e212163dd8d59cef8428" title=" " alt="" coords="275,5,462,47"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#ae042621e02d88cf4f4574b7c45029e1f" title=" " alt="" coords="275,71,462,112"/>
+<area shape="rect" id="node6" href="$classJoyControlStick.html#a2798057ca20a52307ced3f75eb5d9aaa" title="Get the assigned dead zone value." alt="" coords="260,137,477,163"/>
+<area shape="rect" id="node7" href="$classJoyControlStick.html#a6c28e2288006e90d9c81f4869f933b21" title=" " alt="" coords="278,188,459,229"/>
+<area shape="rect" id="node8" href="$classJoyControlStick.html#a037c44802b5f528144bf592ace15dc08" title=" " alt="" coords="263,254,474,281"/>
+<area shape="rect" id="node9" href="$classJoyControlStick.html#a8fbe401b1bd1dc6870669a6499432c39" title="Returns the modifier zone of the stick." alt="" coords="251,305,487,331"/>
+<area shape="rect" id="node10" href="$classJoyControlStick.html#a40a2e76ceebd81b150d52930fe84a6af" title="Checks if the modifier zone of this stick is inverted." alt="" coords="267,356,470,397"/>
+<area shape="rect" id="node11" href="$classJoyControlStick.html#ac12ecf9bf840ecee8fa8b2873304fc66" title="Get the value for the corresponding X axis." alt="" coords="254,422,483,449"/>
+<area shape="rect" id="node12" href="$classJoyControlStick.html#ad68f8a723bdefd42af7b4317ab40371a" title="Get the value for the corresponding Y axis." alt="" coords="255,473,483,499"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#a153940c564b3853d142059e9104f7c71" title=" " alt="" coords="535,5,723,47"/>
+<area shape="rect" id="node5" href="$classJoyControlStick.html#a474ce78a526ae11be203450f605ef5ad" title=" " alt="" coords="535,71,723,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="JoySensor::setDeadZone" name="JoySensor::setDeadZone">
+<area shape="rect" id="node1" title="Sets the dead zone of the sensor to the given value." alt="" coords="464,42,645,69"/>
+<area shape="rect" id="node2" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="253,5,415,47"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a2c42a88f7b51fe7bc04ad13266756ed9" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="252,71,416,98"/>
+<area shape="rect" id="node4" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,71,204,98"/>
+</map>

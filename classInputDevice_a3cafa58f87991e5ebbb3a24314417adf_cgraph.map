@@ -1,0 +1,4 @@
+<map id="InputDevice::applyStickCalibration" name="InputDevice::applyStickCalibration">
+<area shape="rect" id="node1" title="Applies calibration to the specified stick in all sets See JoyControlStick::setCalibration." alt="" coords="5,5,252,32"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#af8061d7792e96912abc05a9c863f76fe" title="Sets the axis calibration values and sets the calibration flag. Calibrated value is calculated by the..." alt="" coords="300,5,520,32"/>
+</map>

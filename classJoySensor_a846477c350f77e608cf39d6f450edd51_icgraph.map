@@ -1,0 +1,4 @@
+<map id="JoySensor::delayTimerExpired" name="JoySensor::delayTimerExpired">
+<area shape="rect" id="node1" title="Slot called when m_delay_timer has timed out. The method will call createDeskEvent." alt="" coords="212,5,429,32"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#af9b16315366b758eba4fb5759e7ee13e" title=" " alt="" coords="5,5,164,32"/>
+</map>

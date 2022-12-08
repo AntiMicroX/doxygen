@@ -1,0 +1,11 @@
+<map id="MainWindow::saveAppConfig" name="MainWindow::saveAppConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,216,112"/>
+<area shape="rect" id="node2" href="$classJoyTabWidget.html#a2b7d0077726b2b2bf406be8a4fa631af" title=" " alt="" coords="270,5,461,32"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#a894f087cdfe06136fade922ff053d522" title=" " alt="" coords="519,64,745,91"/>
+<area shape="rect" id="node6" href="$classJoyTabWidget.html#a9f1348615c3d5e509c7e548c8ea5bfb1" title=" " alt="" coords="266,107,465,149"/>
+<area shape="rect" id="node7" href="$classJoyTabWidget.html#afdc2166911c519519a473818504da844" title=" " alt="" coords="264,173,467,200"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="814,115,1007,141"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="797,64,1024,91"/>
+<area shape="rect" id="node8" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="559,166,705,207"/>
+<area shape="rect" id="node9" href="$namespacePadderCommon.html#aaa09739d2df84421a5a3467a06ce941c" title="Returns the &quot;human&#45;readable&quot; name of the given profile." alt="" coords="515,232,749,259"/>
+</map>

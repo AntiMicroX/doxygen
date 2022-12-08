@@ -1,0 +1,52 @@
+<map id="JoyButton::waitForDeskEvent" name="JoyButton::waitForDeskEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1261,216,1288"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#a96766131be0f60f91d715b02ec941615" title=" " alt="" coords="264,1261,468,1288"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#a5ad4a1a185fbca249220549f45d859ea" title=" " alt="" coords="516,856,695,883"/>
+<area shape="rect" id="node48" href="$classJoyButton.html#a31a4707b5d086bd7f7d0bf491c94169b" title=" " alt="" coords="1253,1345,1438,1372"/>
+<area shape="rect" id="node50" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="1797,1513,2003,1540"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#a85ef81bba77c2a23beb5107870038ddc" title=" " alt="" coords="1252,690,1439,731"/>
+<area shape="rect" id="node6" href="$classJoyButton.html#a64f1660931aea2fa8df1bf5e313c05ba" title=" " alt="" coords="1807,588,1993,615"/>
+<area shape="rect" id="node9" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="1801,1193,1999,1220"/>
+<area shape="rect" id="node10" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="2567,1193,2767,1220"/>
+<area shape="rect" id="node11" href="$classJoyButtonSlot.html#a6e10409ded595380cbdcfd5c827ab32a" title=" " alt="" coords="1515,233,1718,260"/>
+<area shape="rect" id="node12" href="$classJoyButtonSlot.html#a4fb0606a34134786bc642627bc25aedd" title=" " alt="" coords="1803,284,1997,311"/>
+<area shape="rect" id="node43" href="$classJoyButton.html#a4e87da582ac95744c4255fa975e26327" title=" " alt="" coords="743,1148,931,1175"/>
+<area shape="rect" id="node5" href="$classJoyButton.html#acb0ee9af0f5a44bd07ca5cfbfd026cf6" title=" " alt="" coords="1520,756,1713,783"/>
+<area shape="rect" id="node7" href="$classJoyButton.html#a3a8371dc64de08da55ff78aa7e4bb4d2" title=" " alt="" coords="1807,894,1993,935"/>
+<area shape="rect" id="node8" href="$classJoyButtonSlot.html#ab0658ac4e6648852de5f9b622e4c2d25" title=" " alt="" coords="2065,843,2297,869"/>
+<area shape="rect" id="node23" href="$classJoyButtonSlot.html#aa08ff979d05b38df8f584b77bb750abb" title=" " alt="" coords="2568,741,2765,768"/>
+<area shape="rect" id="node24" href="$classJoyButtonSlot.html#a2f6cf85e1f0620120e2a270a72c11287" title=" " alt="" coords="1513,385,1720,412"/>
+<area shape="rect" id="node26" href="$classJoyButton.html#a81b400c291611a14a4856e13fad49f76" title=" " alt="" coords="1525,959,1708,1001"/>
+<area shape="rect" id="node33" href="$event_8cpp.html#a42a7842a656f2dfc8b8545391502de03" title=" " alt="" coords="2376,533,2467,560"/>
+<area shape="rect" id="node40" href="$classJoyButtonMouseHelper.html#a61767df14a44c8a7bd59bb881e708ebb" title=" " alt="" coords="1531,690,1702,731"/>
+<area shape="rect" id="node41" href="$classJoyButton.html#acee2e3dbcb10fa41c550b3fb272cb24b" title=" " alt="" coords="1499,436,1735,463"/>
+<area shape="rect" id="node42" href="$classJoyButton.html#a66feeb223e4ca637598b4eb45811ab45" title=" " alt="" coords="1507,639,1726,665"/>
+<area shape="rect" id="node14" href="$namespacePadderCommon.html#aaa09739d2df84421a5a3467a06ce941c" title="Returns the &quot;human&#45;readable&quot; name of the given profile." alt="" coords="1783,233,2017,260"/>
+<area shape="rect" id="node15" href="$event_8cpp.html#a76ce89b71143c1c09343f45f038b4a67" title=" " alt="" coords="2107,132,2256,159"/>
+<area shape="rect" id="node22" href="$classJoyButtonSlot.html#a37ff2b523177bae4ea6a44b82f2973eb" title=" " alt="" coords="1787,183,2013,209"/>
+<area shape="rect" id="node13" href="$classJoyButtonSlot.html#a9ba9cb0dda063a7df5575072c0aabe01" title=" " alt="" coords="2089,269,2274,310"/>
+<area shape="rect" id="node16" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="2595,5,2738,32"/>
+<area shape="rect" id="node17" href="$classBaseEventHandler.html#a9a014e472ec57408d16b8b5eed964e90" title=" " alt="" coords="2552,56,2781,83"/>
+<area shape="rect" id="node18" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="2581,157,2753,184"/>
+<area shape="rect" id="node19" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="2588,209,2745,250"/>
+<area shape="rect" id="node20" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="2836,238,2993,279"/>
+<area shape="rect" id="node21" href="$event_8cpp.html#ad239a34cab482dc3cad5a23a9ac1ad78" title=" " alt="" coords="2345,107,2497,133"/>
+<area shape="rect" id="node25" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title=" " alt="" coords="1799,385,2001,412"/>
+<area shape="rect" id="node27" href="$classJoyButtonSlot.html#a3b849071be5e1d6f7850209f4187aadb" title=" " alt="" coords="1808,1062,1992,1103"/>
+<area shape="rect" id="node28" href="$classJoyButton.html#a352acb56d462240c593e7b70bca74f55" title="Get the distance factor that should be used for mouse movement." alt="" coords="1793,1127,2007,1169"/>
+<area shape="rect" id="node30" href="$classJoyButton.html#aba9c70c723490a10bfc6134a0f5882da" title=" " alt="" coords="1801,960,1999,987"/>
+<area shape="rect" id="node29" href="$classJoyButton.html#a447ec98d3ffd8b2a8668c14d2646851c" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="2079,1127,2283,1169"/>
+<area shape="rect" id="node31" href="$classJoyButton.html#a5871532865ec08e2f5141bb95feaa64e" title=" " alt="" coords="2078,945,2285,986"/>
+<area shape="rect" id="node32" href="$classJoyButton.html#a4b16b04fea6fdb16408011661cf774d0" title=" " alt="" coords="2080,893,2283,920"/>
+<area shape="rect" id="node34" href="$event_8cpp.html#a5d4afd531123bc0d5093ae323f20519f" title="detects executor for selected file (for .py files python, for .exe &quot;&quot; etc)" alt="" coords="2598,508,2735,535"/>
+<area shape="rect" id="node35" href="$classJoyButtonSlot.html#afdcd95c7e86430f19bee3decaf7b61f2" title=" " alt="" coords="2565,559,2769,585"/>
+<area shape="rect" id="node36" href="$namespacePadderCommon.html#a1bf383168922bc793ea7d5d99a975d38" title=" " alt="" coords="2547,610,2787,651"/>
+<area shape="rect" id="node37" href="$classBaseEventHandler.html#afd723bd1451d78a34976642783026c40" title=" " alt="" coords="2545,675,2788,717"/>
+<area shape="rect" id="node38" href="$classBaseEventHandler.html#a068ae99c4210979beb9e397960f33641" title=" " alt="" coords="2555,377,2779,418"/>
+<area shape="rect" id="node39" href="$classBaseEventHandler.html#a9474d07cb2e38dca07ffac6f08a161ed" title=" " alt="" coords="2563,442,2771,483"/>
+<area shape="rect" id="node44" href="$classJoyButton.html#a1af345d2ad16a6a98c1cf1e629c8df8a" title="Obtain the appropriate key press time for the current event. Order of preference: active key press ti..." alt="" coords="986,1111,1185,1153"/>
+<area shape="rect" id="node45" href="$classJoyButton.html#a21ec1913b22745c8926040d463ccfacc" title=" " alt="" coords="979,1177,1192,1204"/>
+<area shape="rect" id="node46" href="$classJoyButton.html#a78a19ca8744927a690e484e19127f62f" title=" " alt="" coords="989,1229,1182,1270"/>
+<area shape="rect" id="node47" href="$classJoyButton.html#a52f911105048e6c33180bf267f158b35" title=" " alt="" coords="1240,1193,1451,1220"/>
+<area shape="rect" id="node49" href="$classJoyButton.html#a620db17aa5f321ed72d92f742bde3669" title=" " alt="" coords="1514,1447,1719,1489"/>
+</map>

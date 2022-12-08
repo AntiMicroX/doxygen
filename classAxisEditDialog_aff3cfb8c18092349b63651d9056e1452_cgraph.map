@@ -1,0 +1,5 @@
+<map id="AxisEditDialog::selectHapticTrigger" name="AxisEditDialog::selectHapticTrigger">
+<area shape="rect" id="node1" title="Converts HapticTriggerMode from the current axis to combo box index and selects to element." alt="" coords="5,23,212,65"/>
+<area shape="rect" id="node2" href="$classHapticTriggerPs5.html#a4301d6c8aa9ce88e4ff212208378fddb" title="Returns the current haptic feedback effect mode." alt="" coords="260,5,464,32"/>
+<area shape="rect" id="node3" href="$classJoyAxis.html#afa272ae458b07e76eca5e37a1d90a851" title="Always returns nullptr for JoyAxis base objects." alt="" coords="269,56,455,83"/>
+</map>

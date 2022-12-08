@@ -1,0 +1,7 @@
+<map id="JoySensorPreset::getPresetName" name="JoySensorPreset::getPresetName">
+<area shape="rect" id="node1" title="Get the translated name of a given preset." alt="" coords="651,46,887,73"/>
+<area shape="rect" id="node2" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="429,5,603,47"/>
+<area shape="rect" id="node5" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="435,71,597,112"/>
+<area shape="rect" id="node3" href="$classJoySensorPushButton.html#a94edf0ecc16d7076ba38ae9fb44f7575" title="Shows sensor context menu." alt="" coords="221,5,381,47"/>
+<area shape="rect" id="node4" href="$classJoySensorPushButton.html#af1624743fb76f2d32d5de11d03b6febe" title=" " alt="" coords="5,5,173,47"/>
+</map>

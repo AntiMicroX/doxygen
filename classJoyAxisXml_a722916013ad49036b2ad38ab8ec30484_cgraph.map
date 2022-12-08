@@ -1,0 +1,21 @@
+<map id="JoyAxisXml::readMainConfig" name="JoyAxisXml::readMainConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,418,212,445"/>
+<area shape="rect" id="node2" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="745,349,941,391"/>
+<area shape="rect" id="node3" href="$classHapticTriggerPs5.html#ab870e3eaddce540cb46f3bbb1c2e69b6" title="Converts a HapticTriggerModePs5 from string representation." alt="" coords="290,53,461,95"/>
+<area shape="rect" id="node4" href="$classJoyAxis.html#a0580ab0df546a1c03b4e8f755ad00272" title=" " alt="" coords="270,119,481,146"/>
+<area shape="rect" id="node5" href="$classJoyAxis.html#a04bb9e15b6c99f5e5559b1804eac74c8" title=" " alt="" coords="272,171,479,212"/>
+<area shape="rect" id="node6" href="$classJoyAxis.html#afddf7399e2086fda738fe588f5e7d7cd" title=" " alt="" coords="308,237,443,263"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="275,287,476,314"/>
+<area shape="rect" id="node8" href="$classJoyAxis.html#a12c4147c5f4a320aee710f8753263aa6" title=" " alt="" coords="295,338,456,365"/>
+<area shape="rect" id="node9" href="$classJoyAxis.html#a01dfb4ec2c2e85304a479f21b9cffe49" title=" " alt="" coords="300,389,451,415"/>
+<area shape="rect" id="node10" href="$classInputDevice.html#a2dca8e1dc3480828fde3b0fe2871fbc9" title=" " alt="" coords="274,440,477,481"/>
+<area shape="rect" id="node12" href="$classInputDevice.html#adc85b0c774b371178623c1c84349ce24" title=" " alt="" coords="276,505,475,547"/>
+<area shape="rect" id="node13" href="$classJoyAxis.html#acb36ca26562c203a587fbb937f168200" title=" " alt="" coords="270,571,481,598"/>
+<area shape="rect" id="node14" href="$classJoyAxis.html#a368b17910df9a49089bd6f46cab2ff1c" title=" " alt="" coords="293,622,458,649"/>
+<area shape="rect" id="node15" href="$classJoyAxis.html#acc8703fa51f25216175c957121310245" title="Changes the haptic trigger effect mode." alt="" coords="265,673,485,699"/>
+<area shape="rect" id="node16" href="$classJoyAxis.html#ad57d8fa2942d408ed534a348962ae72c" title=" " alt="" coords="278,723,473,750"/>
+<area shape="rect" id="node17" href="$classJoyAxis.html#aa4be4a311b6656e63eacfdde5ce6861a" title="Set throttle value for axis." alt="" coords="301,774,450,801"/>
+<area shape="rect" id="node19" href="$classJoyAxis.html#a91976d2688346e4270237afb57462dcf" title=" " alt="" coords="260,825,491,867"/>
+<area shape="rect" id="node11" href="$classInputDevice.html#a7a7e979f61e7ad7ab12d32913004a81b" title=" " alt="" coords="541,481,695,507"/>
+<area shape="rect" id="node18" href="$classJoyAxis.html#a211c80f9aa20fa22c8f91a5cdcb0831a" title=" " alt="" coords="539,637,697,663"/>
+</map>

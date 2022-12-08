@@ -1,0 +1,12 @@
+<map id="SetJoystick::getAxes" name="SetJoystick::getAxes">
+<area shape="rect" id="node1" title=" " alt="" coords="772,122,927,149"/>
+<area shape="rect" id="node2" href="$classQuickSetDialog.html#a07fd82f8f1876081285948af84d3fdfa" title=" " alt="" coords="249,5,461,47"/>
+<area shape="rect" id="node4" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="543,49,697,91"/>
+<area shape="rect" id="node5" href="$classQuickSetDialog.html#ab93f6d0b9dce90e205857c4606b9c892" title=" " alt="" coords="517,115,723,156"/>
+<area shape="rect" id="node7" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="519,181,721,207"/>
+<area shape="rect" id="node8" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="516,231,724,258"/>
+<area shape="rect" id="node3" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="5,68,193,109"/>
+<area shape="rect" id="node6" href="$classQuickSetDialog.html#afacbf395389ca073edf366a412c1626b" title=" " alt="" coords="241,100,468,141"/>
+<area shape="rect" id="node9" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="269,231,441,258"/>
+<area shape="rect" id="node10" href="$classJoyTabWidgetHelper.html#ad1754369989cbe4a3e10c8c01e3fb89b" title="XML write entry point for the GUI." alt="" coords="23,224,176,265"/>
+</map>

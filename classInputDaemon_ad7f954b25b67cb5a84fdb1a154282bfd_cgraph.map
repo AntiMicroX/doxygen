@@ -1,0 +1,52 @@
+<map id="InputDaemon::run" name="InputDaemon::run">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1113,144,1140"/>
+<area shape="rect" id="node2" href="$classInputDaemon.html#a3dd07cf1254f9f94dc9008081ad14ff9" title=" " alt="" coords="204,362,407,403"/>
+<area shape="rect" id="node5" href="$classInputDaemon.html#a314c26c1cd61de2b923b3e0ee1db0c6e" title="Fetches events from SDL event queue, filters them and updates InputDeviceBitArrayStatus." alt="" coords="483,245,689,272"/>
+<area shape="rect" id="node20" href="$classJoyButton.html#a65766cc767496485cc211a6e1511137a" title=" " alt="" coords="486,2360,686,2387"/>
+<area shape="rect" id="node21" href="$classInputDaemon.html#a9e5f5e28dc44a7d61625b76c6497ab0f" title="Postprocesses fetched raw events." alt="" coords="201,614,410,655"/>
+<area shape="rect" id="node28" href="$classJoyButton.html#ae56f426700143827026e7e6c6947e0d9" title=" " alt="" coords="200,2214,411,2255"/>
+<area shape="rect" id="node31" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="192,1609,419,1636"/>
+<area shape="rect" id="node3" href="$classInputDaemon.html#afb1735506a7baf7c881ded71d8c56fc7" title=" " alt="" coords="472,362,700,403"/>
+<area shape="rect" id="node4" href="$classInputDaemon.html#a6880e079dd727489597c5bbd063149c9" title=" " alt="" coords="469,297,703,338"/>
+<area shape="rect" id="node6" href="$classInputDeviceBitArrayStatus.html#a35514bf58f4d47039ca42afed37f5758" title=" " alt="" coords="771,421,966,462"/>
+<area shape="rect" id="node7" href="$classInputDeviceBitArrayStatus.html#a4189986671ae07a5ef12f216f57d41b7" title=" " alt="" coords="771,107,966,149"/>
+<area shape="rect" id="node8" href="$classInputDeviceBitArrayStatus.html#a1951e601bfc81cf636512593b6a13684" title=" " alt="" coords="771,173,966,214"/>
+<area shape="rect" id="node9" href="$classInputDeviceBitArrayStatus.html#a817651c802027cb4bad14155d9bef2f8" title=" " alt="" coords="771,238,966,279"/>
+<area shape="rect" id="node10" href="$classInputDaemon.html#a8c3efac16d428f4db0b6d8c1577cab86" title=" " alt="" coords="766,303,971,345"/>
+<area shape="rect" id="node11" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="773,1237,964,1278"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="783,647,954,673"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="775,1185,962,1212"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#a5071c4bc7bdb1b0601b60b807a235818" title=" " alt="" coords="781,1981,957,2008"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="785,2149,952,2176"/>
+<area shape="rect" id="node16" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="753,917,984,958"/>
+<area shape="rect" id="node17" href="$classJoyAxis.html#aec8483db205a707cece118ea48cd7072" title=" " alt="" coords="790,369,947,396"/>
+<area shape="rect" id="node18" href="$classJoySensor.html#a1f3b74ad80e18698eeb6438c51b964f6" title="Checks if the sensor vector is currently in the dead zone." alt="" coords="782,5,955,32"/>
+<area shape="rect" id="node19" href="$classLogger.html#a182b6e000ffbce476d6a28b885a00d32" title=" " alt="" coords="779,56,958,83"/>
+<area shape="rect" id="node22" href="$classInputDaemon.html#afabaea9742cb6db64ca5e5d09d579446" title=" " alt="" coords="483,530,689,571"/>
+<area shape="rect" id="node23" href="$classInputDeviceBitArrayStatus.html#ab6387b47d14d21e3b79d5294f60f8a73" title=" " alt="" coords="771,486,966,527"/>
+<area shape="rect" id="node24" href="$classJoyAxis.html#a01dfb4ec2c2e85304a479f21b9cffe49" title=" " alt="" coords="793,552,944,579"/>
+<area shape="rect" id="node25" href="$classInputDevice.html#a4c662c7a0415e247266e6b205d064763" title=" " alt="" coords="480,983,692,1009"/>
+<area shape="rect" id="node26" href="$classJoyAxis.html#aa49646bc8774617f05a0b118707b0e38" title="Determine an appropriate release value for an axis depending on the current throttle setting being us..." alt="" coords="489,698,683,739"/>
+<area shape="rect" id="node27" href="$classInputDevice.html#a10a2388bfb4b6d6183752f837dfe4638" title=" " alt="" coords="477,596,695,623"/>
+<area shape="rect" id="node29" href="$classJoyButtonMouseHelper.html#a5d62da0d0d5b93f7d2a30cd8496c2555" title=" " alt="" coords="479,2411,693,2453"/>
+<area shape="rect" id="node30" href="$classJoyButton.html#a6f1b62fe61277f5f341dd5156f701946" title="Get the list of buttons that have a pending mouse movement event." alt="" coords="764,2357,973,2398"/>
+<area shape="rect" id="node32" href="$classInputDevice.html#ae8668b4649e0439c1dd30abd72c3283e" title=" " alt="" coords="479,866,693,907"/>
+<area shape="rect" id="node33" href="$classInputDevice.html#af5f9f9065334b90aa45d4c86a63337f1" title=" " alt="" coords="479,1237,693,1278"/>
+<area shape="rect" id="node34" href="$classInputDevice.html#ad8d98f2fb62d52cc950b392f99f41ff7" title=" " alt="" coords="479,1741,693,1782"/>
+<area shape="rect" id="node35" href="$classInputDevice.html#ab13479e4fc445d8b97b78d7fa6b31e70" title=" " alt="" coords="479,1974,693,2015"/>
+<area shape="rect" id="node36" href="$classInputDevice.html#a720179cfcf5f65f0b29a2b9efc55624a" title=" " alt="" coords="479,2142,693,2183"/>
+<area shape="rect" id="node37" href="$classInputDevice.html#aaaf75191c01b7070d9e76a44a44cfc3b" title=" " alt="" coords="479,1806,693,1847"/>
+<area shape="rect" id="node38" href="$classInputDaemon.html#a5dceec80700a55f0e82e35d44d6d171a" title=" " alt="" coords="476,1033,696,1060"/>
+<area shape="rect" id="node39" href="$classInputDevice.html#af398dd46ce98825fe56b36e41a13db9b" title=" " alt="" coords="471,1521,701,1548"/>
+<area shape="rect" id="node40" href="$classJoyButton.html#adcbf2eb84178a075252fd096c5aee4e9" title=" " alt="" coords="489,1573,683,1614"/>
+<area shape="rect" id="node41" href="$classJoyButton.html#a3be083ee56eea1d917bdaf0a3e86a1a4" title=" " alt="" coords="467,1639,705,1665"/>
+<area shape="rect" id="node42" href="$classJoyButton.html#a796b6cd5a6b46036949bcecde9ed520c" title=" " alt="" coords="475,1689,697,1716"/>
+<area shape="rect" id="node43" href="$classJoyDPad.html#ac660764f3e958b5c1cf9da1a5d2f2398" title=" " alt="" coords="516,1872,656,1899"/>
+<area shape="rect" id="node44" href="$classJoySensor.html#abe3d9f8dddf28f284d06113816f71da6" title="Queues next movement event from InputDaemon." alt="" coords="475,2040,697,2067"/>
+<area shape="rect" id="node45" href="$classJoyAxis.html#ac060a3703ce33d35256e66aaa60b930b" title=" " alt="" coords="483,2091,689,2117"/>
+<area shape="rect" id="node46" href="$classJoyButton.html#afcb6355f406670af65d221d2d205d8ba" title=" " alt="" coords="475,1135,697,1161"/>
+<area shape="rect" id="node47" href="$classGameController.html#ae8422462fdb74771fb54279529e5fe7e" title=" " alt="" coords="475,1303,697,1329"/>
+<area shape="rect" id="node48" href="$classInputDevice.html#a9096dbaf2ac830c499773d69a4a052c3" title=" " alt="" coords="487,1353,685,1380"/>
+<area shape="rect" id="node49" href="$classGameController.html#aaa9506ec46b72ee6d51fbdba2b57caee" title=" " alt="" coords="486,1405,686,1446"/>
+<area shape="rect" id="node50" href="$classGameController.html#a77a2f45d14a559b6eaf752d72a0404d5" title=" " alt="" coords="473,1471,699,1497"/>
+</map>

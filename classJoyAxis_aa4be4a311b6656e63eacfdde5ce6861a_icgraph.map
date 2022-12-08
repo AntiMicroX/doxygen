@@ -1,0 +1,9 @@
+<map id="JoyAxis::setThrottle" name="JoyAxis::setThrottle">
+<area shape="rect" id="node1" title="Set throttle value for axis." alt="" coords="761,71,911,98"/>
+<area shape="rect" id="node2" href="$classGameControllerTrigger.html#abfde3c0a5d3bacf59188fd8c81968642" title=" " alt="" coords="507,5,685,47"/>
+<area shape="rect" id="node3" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="493,71,699,98"/>
+<area shape="rect" id="node6" href="$classAxisEditDialog.html#a37e715b68fb2ba3f3ab6046d178aa065" title=" " alt="" coords="479,123,713,150"/>
+<area shape="rect" id="node4" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="254,69,429,95"/>
+<area shape="rect" id="node5" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,69,204,95"/>
+<area shape="rect" id="node7" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="252,120,431,161"/>
+</map>

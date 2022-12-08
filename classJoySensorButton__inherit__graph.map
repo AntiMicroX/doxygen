@@ -1,0 +1,8 @@
+<map id="JoySensorButton" name="JoySensorButton">
+<area shape="rect" id="node1" title="Represents a sensor mapping in a SetJoystick." alt="" coords="127,229,256,256"/>
+<area shape="rect" id="node5" href="$classJoyAccelerometerButton.html" title="Represents an accelerometer mapping in a SetJoystick." alt="" coords="5,304,185,331"/>
+<area shape="rect" id="node6" href="$classJoyGyroscopeButton.html" title="Represents a gyroscope mapping in a SetJoystick." alt="" coords="210,304,365,331"/>
+<area shape="rect" id="node2" href="$classJoyGradientButton.html" title=" " alt="" coords="121,155,262,181"/>
+<area shape="rect" id="node3" href="$classJoyButton.html" title="Represents a single joystick button being part of a SetJoystick Contains multiple JoyButtonSlots whic..." alt="" coords="149,80,234,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="154,5,229,32"/>
+</map>

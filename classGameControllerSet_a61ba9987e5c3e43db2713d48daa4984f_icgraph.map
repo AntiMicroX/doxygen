@@ -1,0 +1,4 @@
+<map id="GameControllerSet::getElemFromXml" name="GameControllerSet::getElemFromXml">
+<area shape="rect" id="node1" title=" " alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node2" href="$classGameControllerSet.html#ab3cda1f3ec063776efe78d7ab11b53f4" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,5,160,47"/>
+</map>

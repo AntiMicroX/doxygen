@@ -1,0 +1,10 @@
+<map id="SetJoystick::propogateSetVDPadButtonAssociation" name="SetJoystick::propogateSetVDPadButtonAssociation">
+<area shape="rect" id="node1" title=" " alt="" coords="987,39,1176,80"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html#a5d361ae7d236016146559f96be00685b" title=" " alt="" coords="771,46,939,73"/>
+<area shape="rect" id="node3" href="$classAdvanceStickAssignmentDialog.html#af9a53f130a627d0e5973bed035907801" title=" " alt="" coords="493,5,723,47"/>
+<area shape="rect" id="node5" href="$classGameControllerSet.html#afbbd676e52346412a864cdd084b5c9ce" title=" " alt="" coords="531,71,685,112"/>
+<area shape="rect" id="node4" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="208,5,445,47"/>
+<area shape="rect" id="node6" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="249,71,404,112"/>
+<area shape="rect" id="node7" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,37,160,79"/>
+<area shape="rect" id="node8" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="5,103,160,144"/>
+</map>

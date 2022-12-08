@@ -1,0 +1,4 @@
+<map id="JoySensorEditDialog::updateSensorDelaySlider" name="JoySensorEditDialog::updateSensorDelaySlider">
+<area shape="rect" id="node1" title="Update QSlider value based on value from QDoubleSpinBox." alt="" coords="215,5,409,47"/>
+<area shape="rect" id="node2" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,5,167,47"/>
+</map>

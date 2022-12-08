@@ -1,0 +1,6 @@
+<map id="JoyControlStick::getCalibration" name="JoyControlStick::getCalibration">
+<area shape="rect" id="node1" title="Reads the calibration values of both stick axes." alt="" coords="732,5,953,32"/>
+<area shape="rect" id="node2" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,5,684,32"/>
+<area shape="rect" id="node3" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node4" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,27,429,69"/>
+</map>

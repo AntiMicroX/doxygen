@@ -1,0 +1,17 @@
+<map id="JoyButton::getWheelSpeedY" name="JoyButton::getWheelSpeedY">
+<area shape="rect" id="node1" title=" " alt="" coords="852,177,1055,203"/>
+<area shape="rect" id="node2" href="$classMouseSensorSettingsDialog.html#a49f6f634ca8f57c4d9ca27a42be4d57b" title="Get the maximum mouse wheel speed used by the buttons of the associated sensor and set the UI values ..." alt="" coords="572,5,783,47"/>
+<area shape="rect" id="node4" href="$classMouseAxisSettingsDialog.html#a7958553dc49e3acc34e6f07fecd83663" title=" " alt="" coords="572,71,783,112"/>
+<area shape="rect" id="node6" href="$classMouseDPadSettingsDialog.html#a14387c99882dc61653ac7c15d5935de0" title=" " alt="" coords="572,136,783,177"/>
+<area shape="rect" id="node8" href="$classMouseControlStickSettingsDialog.html#a753f78139c2a51247d0121e01f1b68a9" title=" " alt="" coords="551,201,804,243"/>
+<area shape="rect" id="node10" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="572,267,783,308"/>
+<area shape="rect" id="node11" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="581,333,774,359"/>
+<area shape="rect" id="node3" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="273,5,485,47"/>
+<area shape="rect" id="node5" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="281,71,477,112"/>
+<area shape="rect" id="node7" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="279,136,480,177"/>
+<area shape="rect" id="node9" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="256,202,503,258"/>
+<area shape="rect" id="node12" href="$classJoyDPadXml.html#ac78c8fd1ad107f6a3baed4910863cb0c" title=" " alt="" coords="288,282,471,309"/>
+<area shape="rect" id="node13" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,307,208,334"/>
+<area shape="rect" id="node14" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="295,383,463,410"/>
+<area shape="rect" id="node15" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="278,434,481,461"/>
+</map>

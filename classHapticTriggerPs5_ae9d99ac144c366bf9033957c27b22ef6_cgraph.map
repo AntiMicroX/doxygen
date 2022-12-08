@@ -1,0 +1,10 @@
+<map id="HapticTriggerPs5::to_message" name="HapticTriggerPs5::to_message">
+<area shape="rect" id="node1" title="Low level function to write one HapticTriggerPs5 effect into a PS5 controller message." alt="" coords="5,99,157,141"/>
+<area shape="rect" id="node2" href="$structEffectNonePs5.html#ad478ec644b75405766c06fb065eb3a7f" title=" " alt="" coords="205,5,361,32"/>
+<area shape="rect" id="node3" href="$structEffectRigidPs5.html#a0b3f26b04eed514a2488066840eeeb5d" title="Builds a rigid effect message." alt="" coords="206,107,361,133"/>
+<area shape="rect" id="node6" href="$structEffectClickPs5.html#a66b83b614e37e71acad3db33c117ea88" title="Builds a click effect message." alt="" coords="206,56,361,83"/>
+<area shape="rect" id="node7" href="$structEffectVibrationPs5.html#ae6a9d4ac9fbdebc25ad25120ca9ee3d5" title="Builds a vibration effect message." alt="" coords="213,158,354,199"/>
+<area shape="rect" id="node8" href="$structEffectRigidPs5.html#abbc8ec551b087c1c5656fd59015336df" title="Builds a rigid gradient effect message. This effect starts with a strength of zero and slowly increas..." alt="" coords="206,223,361,265"/>
+<area shape="rect" id="node4" href="$haptictriggerps5_8cpp.html#a8036c662041fb8dd8ac3da09d7c207ab" title=" " alt="" coords="409,111,480,137"/>
+<area shape="rect" id="node5" href="$haptictriggerps5_8cpp.html#ab374c4dad9b0cdbaf78199c33951aba1" title=" " alt="" coords="409,165,480,192"/>
+</map>

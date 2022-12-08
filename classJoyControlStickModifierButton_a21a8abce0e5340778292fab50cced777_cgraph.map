@@ -1,0 +1,4 @@
+<map id="JoyControlStickModifierButton::getAccelerationDistance" name="JoyControlStickModifierButton::getAccelerationDistance">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a40e3aafc2c097e430c76d3cfc839e358" title="Get the raw radial distance of the stick. Values will be between 0 &#45; 32,767." alt="" coords="271,5,477,47"/>
+</map>

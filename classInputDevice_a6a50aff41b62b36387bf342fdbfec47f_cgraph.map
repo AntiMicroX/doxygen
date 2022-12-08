@@ -1,0 +1,7 @@
+<map id="InputDevice::isKnownController" name="InputDevice::isKnownController">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,232,123"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#ae4e713204751aa99d92ab8ff3f3b2192" title=" " alt="" coords="285,5,502,47"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#aec61eac8077fc952657151bf38e97ed6" title=" " alt="" coords="555,42,756,69"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="280,122,507,149"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#aeaf77e979b09dbd752e29b47c830737c" title="Check if device is using the SDL Game Controller API." alt="" coords="282,173,505,199"/>
+</map>

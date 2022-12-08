@@ -1,0 +1,4 @@
+<map id="JoyButton::getPreferredKeyPressTime" name="JoyButton::getPreferredKeyPressTime">
+<area shape="rect" id="node1" title="Obtain the appropriate key press time for the current event. Order of preference: active key press ti..." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="252,13,449,39"/>
+</map>

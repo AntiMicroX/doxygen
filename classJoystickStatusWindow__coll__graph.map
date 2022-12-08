@@ -1,0 +1,9 @@
+<map id="JoystickStatusWindow" name="JoystickStatusWindow">
+<area shape="rect" id="node1" title="The joystick &quot;Properties&quot; window. Shows various raw values to the user." alt="" coords="5,260,172,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="34,171,109,197"/>
+<area shape="rect" id="node3" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="152,171,252,197"/>
+<area shape="rect" id="node7" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="206,260,377,287"/>
+<area shape="rect" id="node4" title=" " alt="" coords="122,81,197,108"/>
+<area shape="rect" id="node5" href="$classAntiMicroSettings.html" title=" " alt="" coords="221,81,359,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="247,5,333,32"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/joycontrolstick.cpp" name="/home/runner/work/doxygen/antimicrox/src/joycontrolstick.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1607,5,1853,47"/>
+<area shape="rect" id="node2" href="$joycontrolstick_8h.html" title=" " alt="" coords="855,319,986,345"/>
+<area shape="rect" id="node4" href="$globalvariables_8h.html" title=" " alt="" coords="1305,543,1440,569"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,617,84,644"/>
+<area shape="rect" id="node22" href="$inputdevice_8h.html" title=" " alt="" coords="1675,95,1785,121"/>
+<area shape="rect" id="node30" href="$joyaxis_8h.html" title=" " alt="" coords="1939,244,2020,271"/>
+<area shape="rect" id="node41" href="$joycontrolstickbutton_8h.html" title=" " alt="" coords="1010,319,1285,345"/>
+<area shape="rect" id="node42" href="$joycontrolstickmodifierbutton_8h.html" title=" " alt="" coords="1166,169,1494,196"/>
+<area shape="rect" id="node43" href="$joybuttonxml_8h.html" title=" " alt="" coords="1556,393,1707,420"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1810,95,1885,121"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1909,95,2023,121"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2047,95,2114,121"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2138,95,2231,121"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2256,95,2407,121"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2431,95,2576,121"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2600,95,2668,121"/>
+<area shape="rect" id="node3" href="$joybutton_8h.html" title=" " alt="" coords="844,468,1043,495"/>
+<area shape="rect" id="node21" href="$joycontrolstickdirectionstype_8h.html" title=" " alt="" coords="957,393,1180,420"/>
+<area shape="rect" id="node7" href="$joybuttonmousehelper_8h.html" title=" " alt="" coords="577,543,757,569"/>
+<area shape="rect" id="node8" href="$joybuttonslot_8h.html" title=" " alt="" coords="229,543,349,569"/>
+<area shape="rect" id="node14" href="$springmousemoveinfo_8h.html" title=" " alt="" coords="373,543,553,569"/>
+<area shape="rect" id="node15" title=" " alt="" coords="782,543,910,569"/>
+<area shape="rect" id="node16" title=" " alt="" coords="934,543,1009,569"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1033,543,1163,569"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1187,543,1281,569"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1465,543,1542,569"/>
+<area shape="rect" id="node20" title=" " alt="" coords="133,543,204,569"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1876,617,1931,644"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1542,617,1617,644"/>
+<area shape="rect" id="node9" title=" " alt="" coords="309,617,431,644"/>
+<area shape="rect" id="node11" title=" " alt="" coords="455,617,520,644"/>
+<area shape="rect" id="node12" title=" " alt="" coords="544,617,623,644"/>
+<area shape="rect" id="node13" title=" " alt="" coords="108,617,285,644"/>
+<area shape="rect" id="node23" href="$inputdevicecalibration_8h.html" title=" " alt="" coords="2379,169,2558,196"/>
+<area shape="rect" id="node25" href="$joysensordirection_8h.html" title=" " alt="" coords="2133,244,2287,271"/>
+<area shape="rect" id="node27" href="$joysensortype_8h.html" title=" " alt="" coords="2312,244,2439,271"/>
+<area shape="rect" id="node29" href="$setjoystick_8h.html" title=" " alt="" coords="2043,169,2148,196"/>
+<area shape="rect" id="node40" title=" " alt="" coords="1674,169,1829,196"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2463,244,2528,271"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2227,319,2321,345"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2346,319,2442,345"/>
+<area shape="rect" id="node39" href="$setjoystickxml_8h.html" title=" " alt="" coords="2176,468,2335,495"/>
+<area shape="rect" id="node31" href="$haptictriggermodeps5_8h.html" title=" " alt="" coords="1872,319,2049,345"/>
+<area shape="rect" id="node32" href="$joyaxisbutton_8h.html" title=" " alt="" coords="1623,319,1848,345"/>
+<area shape="rect" id="node33" href="$joygradientbutton_8h.html" title=" " alt="" coords="1204,393,1456,420"/>
+<area shape="rect" id="node34" href="$logger_8h.html" title=" " alt="" coords="1707,468,1782,495"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1767,543,1821,569"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1845,543,1919,569"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1943,543,2050,569"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1617,543,1691,569"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="AdvanceButtonDialog::checkTurboSetting" name="AdvanceButtonDialog::checkTurboSetting">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,168,141"/>
+<area shape="rect" id="node2" href="$classAdvanceButtonDialog.html#aeb24c0b3026ce45fd97cab431d4b6040" title=" " alt="" coords="216,15,419,57"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#a0750530dac3901ece7c78c19d15e0d54" title=" " alt="" coords="473,81,647,108"/>
+<area shape="rect" id="node9" href="$classJoyButton.html#ae041d0a798f2404866e60bd5b99e7db9" title=" " alt="" coords="218,132,417,159"/>
+<area shape="rect" id="node10" href="$classJoyButton.html#a77afa6c5934d2665bad6d494b812f372" title="Check if button should be considered a part of a real controller axis. Needed for some dialogs so the..." alt="" coords="224,183,411,209"/>
+<area shape="rect" id="node3" href="$classSimpleKeyGrabberButton.html#a25cefc81223387f0bfd2183627109ff8" title=" " alt="" coords="467,15,653,57"/>
+<area shape="rect" id="node5" href="$classJoyButton.html#a6e3ee0e05fe5d243b142c5f22011c2e9" title=" " alt="" coords="701,31,912,57"/>
+<area shape="rect" id="node8" href="$classJoyButton.html#a42d517ef696229862b238c52c4ff345c" title=" " alt="" coords="707,81,906,108"/>
+<area shape="rect" id="node6" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="960,5,1165,32"/>
+<area shape="rect" id="node7" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="963,56,1163,83"/>
+</map>

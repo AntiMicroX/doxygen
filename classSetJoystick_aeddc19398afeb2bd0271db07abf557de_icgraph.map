@@ -1,0 +1,7 @@
+<map id="SetJoystick::getSensors" name="SetJoystick::getSensors">
+<area shape="rect" id="node1" title="Get all sensor objects in this set." alt="" coords="683,31,857,57"/>
+<area shape="rect" id="node2" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="429,5,632,32"/>
+<area shape="rect" id="node3" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="427,56,635,83"/>
+<area shape="rect" id="node4" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="207,56,379,83"/>
+<area shape="rect" id="node5" href="$classJoyTabWidgetHelper.html#ad1754369989cbe4a3e10c8c01e3fb89b" title="XML write entry point for the GUI." alt="" coords="5,49,159,90"/>
+</map>

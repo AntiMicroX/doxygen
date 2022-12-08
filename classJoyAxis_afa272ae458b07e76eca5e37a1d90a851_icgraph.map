@@ -1,0 +1,10 @@
+<map id="JoyAxis::getHapticTrigger" name="JoyAxis::getHapticTrigger">
+<area shape="rect" id="node1" title="Always returns nullptr for JoyAxis base objects." alt="" coords="511,143,696,170"/>
+<area shape="rect" id="node2" href="$classGameControllerSet.html#addf5de4dec4e1b8f94f6b6f63a94f793" title="Applies haptic feedback to the triggers of the controller." alt="" coords="282,71,437,112"/>
+<area shape="rect" id="node5" href="$classAxisEditDialog.html#aff3cfb8c18092349b63651d9056e1452" title="Converts HapticTriggerMode from the current axis to combo box index and selects to element." alt="" coords="256,136,463,177"/>
+<area shape="rect" id="node7" href="$classJoyAxisXml.html#a044a6be446ab6cc4b6fcb359e0cef898" title=" " alt="" coords="270,202,449,229"/>
+<area shape="rect" id="node3" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="29,5,184,47"/>
+<area shape="rect" id="node4" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="29,71,184,112"/>
+<area shape="rect" id="node6" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="17,136,196,177"/>
+<area shape="rect" id="node8" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,202,208,229"/>
+</map>

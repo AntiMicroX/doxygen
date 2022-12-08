@@ -1,0 +1,10 @@
+<map id="AdvanceStickAssignmentDialog" name="AdvanceStickAssignmentDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,349,235,376"/>
+<area shape="rect" id="node2" title=" " alt="" coords="61,260,136,287"/>
+<area shape="rect" id="node3" href="$classJoystick.html" title="General input device (which is not a typical gamepad like steering wheels, flight sticks etc...." alt="" coords="161,260,234,287"/>
+<area shape="rect" id="node4" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="195,171,295,197"/>
+<area shape="rect" id="node8" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="259,260,429,287"/>
+<area shape="rect" id="node5" title=" " alt="" coords="187,81,261,108"/>
+<area shape="rect" id="node6" href="$classAntiMicroSettings.html" title=" " alt="" coords="286,81,423,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="312,5,397,32"/>
+</map>

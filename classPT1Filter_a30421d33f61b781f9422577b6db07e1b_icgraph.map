@@ -1,0 +1,11 @@
+<map id="PT1Filter::process" name="PT1Filter::process">
+<area shape="rect" id="node1" title="Processes a new sample." alt="" coords="1508,71,1645,98"/>
+<area shape="rect" id="node2" href="$classJoyAccelerometerSensor.html#a2eea63a1a3b99965a9268d9014243768" title="Find the direction zone of the current sensor position." alt="" coords="1259,5,1451,47"/>
+<area shape="rect" id="node3" href="$classCalibration.html#a1e79902d8c7fa6e66eb578c7252e7ef7" title="Stick data event handler. Performs stick gain estimation and stops itself if the value was found or t..." alt="" coords="1249,71,1460,98"/>
+<area shape="rect" id="node9" href="$classCalibration.html#a810f48e8f8960b9fe9218f52b05be2bd" title="Stick data event handler. Performs stick offset estimation and stops itself if the value was found or..." alt="" coords="983,122,1201,149"/>
+<area shape="rect" id="node4" href="$classCalibration.html#adbb2662b3b1e21cb667df5325abc68cc" title="Shows user instructions for stick gain calibration, initializes estimators and connects stick data ev..." alt="" coords="995,5,1189,47"/>
+<area shape="rect" id="node5" href="$classCalibration.html#ab574aecefa0f5d607f57f94487af38a8" title="Shows user instructions for stick offset calibration, initializes estimators and connects stick data ..." alt="" coords="732,35,935,76"/>
+<area shape="rect" id="node6" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,42,684,69"/>
+<area shape="rect" id="node7" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,42,177,69"/>
+<area shape="rect" id="node8" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,64,429,105"/>
+</map>

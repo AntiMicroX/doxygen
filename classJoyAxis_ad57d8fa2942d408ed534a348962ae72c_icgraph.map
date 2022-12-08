@@ -1,0 +1,7 @@
+<map id="JoyAxis::setMaxZoneValue" name="JoyAxis::setMaxZoneValue">
+<area shape="rect" id="node1" title=" " alt="" coords="729,42,924,69"/>
+<area shape="rect" id="node2" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="489,5,667,47"/>
+<area shape="rect" id="node3" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="475,71,681,98"/>
+<area shape="rect" id="node4" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="252,71,427,98"/>
+<area shape="rect" id="node5" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,71,204,98"/>
+</map>

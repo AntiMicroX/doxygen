@@ -1,0 +1,24 @@
+<map id="JoyAxisButton" name="JoyAxisButton">
+<area shape="rect" id="node1" title=" " alt="" coords="95,5,209,32"/>
+<area shape="rect" id="node12" href="$classJoyAxis.html" title="Represents single axis of of joystick (or other input)" alt="" coords="199,124,270,151"/>
+<area shape="rect" id="node2" href="$classJoyGradientButton.html" title=" " alt="" coords="5,935,147,961"/>
+<area shape="rect" id="node15" href="$classJoyControlStickModifierButton.html" title=" " alt="" coords="163,1219,381,1245"/>
+<area shape="rect" id="node16" href="$classJoyControlStickButton.html" title=" " alt="" coords="417,1011,581,1037"/>
+<area shape="rect" id="node3" href="$classJoyButton.html" title="Represents a single joystick button being part of a SetJoystick Contains multiple JoyButtonSlots whic..." alt="" coords="567,845,652,872"/>
+<area shape="rect" id="node17" href="$classJoyButtonXml.html" title=" " alt="" coords="662,935,773,961"/>
+<area shape="rect" id="node22" href="$classJoyDPadButton.html" title=" " alt="" coords="377,935,495,961"/>
+<area shape="rect" id="node4" title=" " alt="" coords="604,5,679,32"/>
+<area shape="rect" id="node5" href="$classJoyButtonMouseHelper.html" title=" " alt="" coords="689,175,860,201"/>
+<area shape="rect" id="node6" href="$classJoyButtonSlot.html" title="Represents action which can be performed after pressing button." alt="" coords="526,276,637,303"/>
+<area shape="rect" id="node8" href="$classJoyDPad.html" title=" " alt="" coords="399,667,473,693"/>
+<area shape="rect" id="node10" href="$classSetJoystickXml.html" title="SetJoystick XML serialization/deserialization helper class Reads data from the supplied SetJoystick o..." alt="" coords="293,327,413,353"/>
+<area shape="rect" id="node11" href="$classJoyAxisXml.html" title=" " alt="" coords="305,225,401,252"/>
+<area shape="rect" id="node13" href="$classJoyControlStick.html" title="Represents stick of a joystick." alt="" coords="278,1129,399,1156"/>
+<area shape="rect" id="node18" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="965,327,1065,353"/>
+<area shape="rect" id="node7" href="$classVDPad.html" title=" " alt="" coords="483,756,547,783"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html" title="A set of mapped events which can by switched by a controller event. Contains controller input objects..." alt="" coords="305,416,399,443"/>
+<area shape="rect" id="node14" href="$classJoyStickDirectionsType.html" title=" " alt="" coords="221,1011,392,1037"/>
+<area shape="rect" id="node21" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="955,416,1125,443"/>
+<area shape="rect" id="node19" href="$classAntiMicroSettings.html" title=" " alt="" coords="946,225,1083,252"/>
+<area shape="rect" id="node20" title=" " alt="" coords="972,124,1057,151"/>
+</map>

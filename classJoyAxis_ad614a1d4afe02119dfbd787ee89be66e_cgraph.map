@@ -1,0 +1,8 @@
+<map id="JoyAxis::isDefault" name="JoyAxis::isDefault">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,143,83"/>
+<area shape="rect" id="node2" href="$classJoyAxis.html#a8552b6736231d1611c8809602e189d68" title=" " alt="" coords="191,5,405,32"/>
+<area shape="rect" id="node3" href="$classJoyAxis.html#a61149f5541d5dc820ae2a04a6ca9af68" title=" " alt="" coords="194,56,402,83"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#aaae603630f3485683593320bd446927d" title="Check if button properties are at their default values." alt="" coords="222,107,374,133"/>
+<area shape="rect" id="node5" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="453,77,659,104"/>
+<area shape="rect" id="node6" href="$classJoyButton.html#a6cbb7efc0329d7f86455f62b1957a644" title="Returns the default mouse curve for this JoyButton type. Can be overwritten by subclasses." alt="" coords="453,129,659,170"/>
+</map>

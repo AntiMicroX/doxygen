@@ -1,0 +1,6 @@
+<map id="SetJoystick::propagateSetSensorButtonRelease" name="SetJoystick::propagateSetSensorButtonRelease">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,195,105"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#abbccee98e377453167a47b49874eeab7" title=" " alt="" coords="248,5,440,47"/>
+<area shape="rect" id="node3" href="$classJoySensorButton.html#a5d0f3124e09afbc5dc408ac0cd2fea67" title="Get the JoySensor associated to this button." alt="" coords="243,71,445,98"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="271,122,417,149"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="JoySensorEditDialog::JoySensorEditDialog" name="JoySensorEditDialog::JoySensorEditDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,869,167,910"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="511,20,722,47"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="524,71,709,98"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="527,122,706,148"/>
+<area shape="rect" id="node5" href="$classJoySensorPreset.html#a7fcfbacaca8a54d07acab351dee7883c" title="Determines the preset used by the underlying sensor." alt="" coords="243,460,425,501"/>
+<area shape="rect" id="node13" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="544,290,689,316"/>
+<area shape="rect" id="node16" href="$classJoySensorPreset.html#a70879dec2d063663d4cbf5cf27aea452" title="Get available presets for the underlying sensor type." alt="" coords="226,365,442,406"/>
+<area shape="rect" id="node17" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="525,695,708,722"/>
+<area shape="rect" id="node18" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="831,695,985,722"/>
+<area shape="rect" id="node19" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="509,746,724,772"/>
+<area shape="rect" id="node20" href="$classJoySensor.html#a0aaecd30cd2e900df8d8d9773a4893f3" title="Get current radial distance of the sensor past the assigned dead zone." alt="" coords="514,224,719,265"/>
+<area shape="rect" id="node21" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="529,796,705,823"/>
+<area shape="rect" id="node22" href="$classJoySensorPreset.html#aa72030acd12a5563c62f2aeb6d49a773" title="Get the translated name of a given preset." alt="" coords="216,851,452,878"/>
+<area shape="rect" id="node23" href="$classJoySensor.html#aa9e8798dded5e1359ecc73f9d0a74e98" title="Get the assigned input delay." alt="" coords="235,902,433,928"/>
+<area shape="rect" id="node24" href="$classJoySensor.html#a392b664e69bc7975935d4f4bb8e91ec7" title="Returns the sensor name." alt="" coords="517,914,716,940"/>
+<area shape="rect" id="node25" href="$classJoySensor.html#a5f5569cbac7611959c23a68866310094" title=" " alt="" coords="237,1070,431,1096"/>
+<area shape="rect" id="node26" href="$classJoySensor.html#a8ede92b92d962399b706bcfe80ac7458" title=" " alt="" coords="237,1120,431,1147"/>
+<area shape="rect" id="node27" href="$classJoySensor.html#a80ca5058beac30c05ac2b0b688ee3f52" title=" " alt="" coords="237,1171,431,1198"/>
+<area shape="rect" id="node28" href="$classJoySensorEditDialog.html#ac54b2583e87546880baf282a0f16f57a" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="257,734,411,776"/>
+<area shape="rect" id="node31" href="$classJoySensorEditDialog.html#a66007a446928b150fc878170660f6e5e" title="Opens sensor mouse settings dialog." alt="" coords="234,1222,434,1264"/>
+<area shape="rect" id="node33" href="$classJoySensor.html#a4572b9f66468a2e390634591d6d4ecbc" title="Sets the dead zone of the sensor to the given value." alt="" coords="243,1390,425,1416"/>
+<area shape="rect" id="node35" href="$classJoySensor.html#a33e05f28756fd796e46189227a107532" title="Set the diagonal range value for a sensor." alt="" coords="227,1288,441,1315"/>
+<area shape="rect" id="node36" href="$classJoySensor.html#a029cd202c660d928574726bb0e83a68b" title="Sets the maximum zone of the sensor to the given value." alt="" coords="247,1339,421,1366"/>
+<area shape="rect" id="node37" href="$classJoySensorEditDialog.html#af0a800518694d4bc2ca1e2ffb1ac480b" title="Sensor delay change event handler Converts the double value from the SpinBox to int and pass it to Jo..." alt="" coords="257,1441,411,1482"/>
+<area shape="rect" id="node38" href="$classJoySensor.html#aab1001497d5eaee07fd62d4349839e66" title="Sets the name of this sensor." alt="" coords="235,1507,433,1534"/>
+<area shape="rect" id="node39" href="$classJoySensorEditDialog.html#a84dbccd0c66762c1ff51d8537456ca1d" title="Update QSlider value based on value from QDoubleSpinBox." alt="" coords="237,1558,431,1600"/>
+<area shape="rect" id="node40" href="$classJoySensorEditDialog.html#a90cdd39655c9907593a99f805a3a9edd" title="Update QDoubleSpinBox value based on updated sensor delay value." alt="" coords="229,1624,439,1665"/>
+<area shape="rect" id="node41" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="257,173,411,214"/>
+<area shape="rect" id="node42" href="$classJoySensorEditDialog.html#ab1a039fc35cd4c52e2553d7a6d01bc34" title="Shows the sensor name in dialog title." alt="" coords="215,1004,453,1045"/>
+<area shape="rect" id="node6" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="514,492,719,519"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a09be56d2b545bb2838899a7c1b96c1ce" title="Get a pointer to the sensor direction button for the desired direction." alt="" coords="508,543,725,570"/>
+<area shape="rect" id="node8" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title=" " alt="" coords="807,771,1009,798"/>
+<area shape="rect" id="node11" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="518,594,715,620"/>
+<area shape="rect" id="node12" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="517,391,717,418"/>
+<area shape="rect" id="node14" href="$classAntKeyMapper.html#a07957c1e2baac6c4266678d89dc7c3a6" title=" " alt="" coords="501,340,732,367"/>
+<area shape="rect" id="node9" href="$classAntKeyMapper.html#abe4a434636d370a750d32a14b9a139d3" title=" " alt="" coords="1084,746,1304,772"/>
+<area shape="rect" id="node10" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="1105,796,1283,823"/>
+<area shape="rect" id="node15" href="$classQtKeyMapperBase.html#a5df0f313bce11847f8495126373e7178" title=" " alt="" coords="780,340,1036,367"/>
+<area shape="rect" id="node29" href="$classJoySensorPreset.html#a21eb1e1e612e4f70e0ade394e9878425" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="517,848,716,889"/>
+<area shape="rect" id="node30" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="815,848,1001,889"/>
+<area shape="rect" id="node32" href="$classJoySensorEditDialog.html#a6cee034176d97b2b12ea84a8f964bdd2" title=" " alt="" coords="513,1222,720,1264"/>
+<area shape="rect" id="node34" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="538,1339,695,1366"/>
+<area shape="rect" id="node43" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="537,964,696,991"/>
+<area shape="rect" id="node44" href="$classSetJoystick.html#a102a4bbc464b9dfc5a8227c0fb4611c8" title=" " alt="" coords="535,1015,698,1042"/>
+<area shape="rect" id="node45" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="528,1066,705,1092"/>
+<area shape="rect" id="node46" href="$classJoySensor.html#ad06f47ea3f0d796b838ae74d4f913b25" title="Get the name of this sensor." alt="" coords="519,1116,714,1143"/>
+<area shape="rect" id="node48" href="$classSetJoystick.html#a00ecd09902d11bbfe7e6e82ad25ae456" title=" " alt="" coords="523,1167,711,1194"/>
+<area shape="rect" id="node47" href="$classJoySensor.html#ab87d04540552c4a31eebfb656357838e" title=" " alt="" coords="805,1116,1011,1143"/>
+</map>

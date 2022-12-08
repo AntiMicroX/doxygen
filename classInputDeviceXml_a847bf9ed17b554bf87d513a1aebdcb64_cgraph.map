@@ -1,0 +1,52 @@
+<map id="InputDeviceXml::readConfig" name="InputDeviceXml::readConfig">
+<area shape="rect" id="node1" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="5,671,209,697"/>
+<area shape="rect" id="node2" href="$classVDPad.html#a50bdbab44b42a672b7e874d44077b67a" title=" " alt="" coords="311,68,459,95"/>
+<area shape="rect" id="node3" href="$classInputDeviceCalibration.html#a9d3aeac45305c6337a4e5cea1e1ad617" title="Applies all applicable stored calibration values to the individual input elements of the parent contr..." alt="" coords="299,119,470,161"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#a71fe66bafabee136241a063db7189c05" title="Returns a pointer to the internal calibration storage backend." alt="" coords="285,250,485,291"/>
+<area shape="rect" id="node9" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="576,661,791,688"/>
+<area shape="rect" id="node10" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="877,476,1057,503"/>
+<area shape="rect" id="node11" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="879,367,1056,393"/>
+<area shape="rect" id="node12" href="$classInputDevice.html#a97b10ca0ecf9b6ec8928216591d393a4" title=" " alt="" coords="287,1755,482,1781"/>
+<area shape="rect" id="node13" href="$classInputDeviceCalibration.html#addc1dec011a16cfe8fbae9ee6bd5507f" title="Reads all calibration values from the given XML stream into the internal calibration data storage." alt="" coords="299,185,470,226"/>
+<area shape="rect" id="node15" href="$classInputDevice.html#ac34e93b3e44b08cffb86551e15bedfb4" title=" " alt="" coords="289,1228,481,1255"/>
+<area shape="rect" id="node33" href="$classInputDevice.html#a38ee53ddc49dccd9d7b5b91a22fb1610" title=" " alt="" coords="265,367,504,393"/>
+<area shape="rect" id="node36" href="$classInputDevice.html#a3f84bf17a7c2b744b68c8791080c96d3" title=" " alt="" coords="287,417,482,444"/>
+<area shape="rect" id="node39" href="$classInputDevice.html#a5a47b5126be20615a458dc864153c79c" title=" " alt="" coords="279,873,490,900"/>
+<area shape="rect" id="node40" href="$classInputDevice.html#a4c29ccb8fbb979b7cfffeba529868bb1" title=" " alt="" coords="286,1806,483,1847"/>
+<area shape="rect" id="node41" href="$classInputDevice.html#a1058ad2d1f91bf4e7e8505e0baec286c" title=" " alt="" coords="263,924,506,951"/>
+<area shape="rect" id="node42" href="$classInputDevice.html#a10249ceee0fa8439d3e25c5fd64502cd" title=" " alt="" coords="285,468,485,495"/>
+<area shape="rect" id="node43" href="$classInputDevice.html#ad27a114484ca7b3cd7d9e60055351799" title=" " alt="" coords="281,1872,489,1899"/>
+<area shape="rect" id="node44" href="$classInputDevice.html#a85f69eb270f134d0d6970ac68ec9cbed" title="Sets the name of a mapped sensor button in all sets Used during XML loading." alt="" coords="257,721,512,748"/>
+<area shape="rect" id="node45" href="$classInputDevice.html#ab1fd8f35fb03592587659533e93c6a0e" title="Sets the name of a sensor in all sets Used during XML loading." alt="" coords="279,519,490,545"/>
+<area shape="rect" id="node46" href="$classInputDevice.html#afb3c54a95a3f41f4a6f322d244e29673" title=" " alt="" coords="263,772,506,799"/>
+<area shape="rect" id="node47" href="$classInputDevice.html#a9864bb0b4f6e9ac1001306d23eec455f" title=" " alt="" coords="285,569,484,596"/>
+<area shape="rect" id="node48" href="$classInputDevice.html#afd9e415c909a9215390476e04cb79e51" title=" " alt="" coords="259,823,511,849"/>
+<area shape="rect" id="node49" href="$classInputDevice.html#a36abcec4baeb617b7f20b8818bb48358" title=" " alt="" coords="280,620,489,647"/>
+<area shape="rect" id="node50" href="$classInputDevice.html#a767b4db5d307c9d851affed3c7e23a30" title="Obtain current joystick element values, create new SetJoystick objects, and then transfer most recent..." alt="" coords="287,1704,483,1731"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#a52f588b41e135631a7e0f5856ae7f5a4" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="564,57,803,98"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#ad83a4d69f3e7f6ed62452f502dffcae3" title="Applies calibration to the specified gyroscope in all sets See JoySensor::setCalibration." alt="" coords="577,122,790,163"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#a3cafa58f87991e5ebbb3a24314417adf" title="Applies calibration to the specified stick in all sets See JoyControlStick::setCalibration." alt="" coords="560,5,807,32"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="570,188,797,215"/>
+<area shape="rect" id="node14" href="$classInputDeviceCalibration.html#a1e50d8e332ea04b947698ca04c9aa989" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="598,239,769,281"/>
+<area shape="rect" id="node16" href="$classInputDevice.html#ae8668b4649e0439c1dd30abd72c3283e" title=" " alt="" coords="576,981,791,1022"/>
+<area shape="rect" id="node17" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="882,813,1053,840"/>
+<area shape="rect" id="node18" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="864,1380,1071,1407"/>
+<area shape="rect" id="node19" href="$classInputDevice.html#af5f9f9065334b90aa45d4c86a63337f1" title=" " alt="" coords="576,1482,791,1523"/>
+<area shape="rect" id="node20" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="874,1548,1061,1575"/>
+<area shape="rect" id="node21" href="$classSetJoystick.html#a446e296af015f6304bd7425153a4c4ae" title=" " alt="" coords="855,1489,1080,1516"/>
+<area shape="rect" id="node22" href="$classInputDevice.html#ad8d98f2fb62d52cc950b392f99f41ff7" title=" " alt="" coords="576,1046,791,1087"/>
+<area shape="rect" id="node23" href="$classInputDevice.html#ab13479e4fc445d8b97b78d7fa6b31e70" title=" " alt="" coords="576,915,791,957"/>
+<area shape="rect" id="node24" href="$classSetJoystick.html#a5071c4bc7bdb1b0601b60b807a235818" title=" " alt="" coords="879,923,1055,949"/>
+<area shape="rect" id="node25" href="$classSetJoystick.html#ab3a314813bde0be4e3b80fd77deea968" title=" " alt="" coords="865,1329,1070,1356"/>
+<area shape="rect" id="node26" href="$classInputDevice.html#aaaf75191c01b7070d9e76a44a44cfc3b" title=" " alt="" coords="576,1111,791,1153"/>
+<area shape="rect" id="node27" href="$classInputDevice.html#aaa6092a4d244723c38d2df530bb76108" title=" " alt="" coords="583,1730,783,1771"/>
+<area shape="rect" id="node28" href="$classInputDevice.html#ac78ab34c7290068849fc4a24b8f107b1" title=" " alt="" coords="577,1599,789,1641"/>
+<area shape="rect" id="node29" href="$classInputDevice.html#abf6161a4eaf333b04d51644dd8f659aa" title=" " alt="" coords="582,1665,785,1706"/>
+<area shape="rect" id="node30" href="$classJoyDPad.html#a4c0c94c54a34e3fbb0460c3b5db81f5b" title=" " alt="" coords="577,1177,789,1204"/>
+<area shape="rect" id="node31" href="$classJoyAxis.html#ac060a3703ce33d35256e66aaa60b930b" title=" " alt="" coords="580,1228,787,1255"/>
+<area shape="rect" id="node32" href="$classJoyButton.html#afcb6355f406670af65d221d2d205d8ba" title=" " alt="" coords="572,1279,795,1305"/>
+<area shape="rect" id="node34" href="$classJoyButton.html#a5577eb227e3fd535fdcbbf395648e215" title=" " alt="" coords="586,712,781,739"/>
+<area shape="rect" id="node35" href="$classInputDevice.html#adaf073e157dca5d1e3325d916d6c4823" title=" " alt="" coords="582,469,785,510"/>
+<area shape="rect" id="node37" href="$classJoyAxis.html#a8c5bca0c70e1cb6dffc4bfdbbfc5b8ee" title=" " alt="" coords="601,535,766,561"/>
+<area shape="rect" id="node38" href="$classInputDevice.html#a8714a2f5c2fa1f620e9df58c2025cd56" title=" " alt="" coords="582,586,785,627"/>
+</map>

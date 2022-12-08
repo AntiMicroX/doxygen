@@ -1,0 +1,6 @@
+<map id="SetJoystick::propagateSetSensorButtonNameChange" name="SetJoystick::propagateSetSensorButtonNameChange">
+<area shape="rect" id="node1" title="Propagate button rename event to InputDevice." alt="" coords="5,49,203,90"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="259,5,445,32"/>
+<area shape="rect" id="node3" href="$classJoySensorButton.html#a5d0f3124e09afbc5dc408ac0cd2fea67" title="Get the JoySensor associated to this button." alt="" coords="251,56,453,83"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="279,107,425,133"/>
+</map>

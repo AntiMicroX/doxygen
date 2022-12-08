@@ -1,0 +1,8 @@
+<map id="Calibration::resetCalibrationValues" name="Calibration::resetCalibrationValues">
+<area shape="rect" id="node1" title="Resets calibration values of the currently selected device and updates UI." alt="" coords="5,78,211,119"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a7f99f881b46a50a7a12192d5d9d4314a" title="Resets the calibration of both stick axes back to uncalibrated state." alt="" coords="267,5,501,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a044d2b812c7ecff3c9ed9d101af5d4a8" title="Resets the calibration of the sensor back to uncalibrated state." alt="" coords="285,56,483,83"/>
+<area shape="rect" id="node4" href="$classCalibration.html#ac9f926307bf97c12bd0595ea5599c81e" title="Shows the sensor offset calibration values to the user." alt="" coords="259,107,509,149"/>
+<area shape="rect" id="node6" href="$classCalibration.html#ada69dfce5bbe35ea761528dedf593ef3" title="Shows the stick offset and gain calibration values to the user." alt="" coords="265,173,503,214"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="557,115,712,141"/>
+</map>

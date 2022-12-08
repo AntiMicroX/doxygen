@@ -1,0 +1,4 @@
+<map id="JoyControlStick::determineEightWayModeDirection" name="JoyControlStick::determineEightWayModeDirection">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a94fca961bc3b7ffe9e843bd199119667" title="Find the current stick direction based on a Standard mode stick." alt="" coords="249,5,445,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="InputDevice::updateSetSensorNames" name="InputDevice::updateSetSensorNames">
+<area shape="rect" id="node1" title="Rename sensor in all sets to the name in the current set." alt="" coords="5,115,224,156"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="282,5,473,47"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="294,71,461,98"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a392b664e69bc7975935d4f4bb8e91ec7" title="Returns the sensor name." alt="" coords="278,122,477,149"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#ab1fd8f35fb03592587659533e93c6a0e" title="Sets the name of a sensor in all sets Used during XML loading." alt="" coords="272,173,483,199"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="531,67,745,94"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#aab1001497d5eaee07fd62d4349839e66" title="Sets the name of this sensor." alt="" coords="539,173,737,199"/>
+</map>

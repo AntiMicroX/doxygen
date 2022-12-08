@@ -1,0 +1,4 @@
+<map id="JoySensor::setDiagonalRange" name="JoySensor::setDiagonalRange">
+<area shape="rect" id="node1" title="Set the diagonal range value for a sensor." alt="" coords="5,5,219,32"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="267,5,424,32"/>
+</map>

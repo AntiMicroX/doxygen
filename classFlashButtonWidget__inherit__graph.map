@@ -1,0 +1,12 @@
+<map id="FlashButtonWidget" name="FlashButtonWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="160,165,307,192"/>
+<area shape="rect" id="node3" href="$classDPadPushButton.html" title=" " alt="" coords="391,5,521,32"/>
+<area shape="rect" id="node4" href="$classJoyAxisWidget.html" title=" " alt="" coords="398,56,514,83"/>
+<area shape="rect" id="node5" href="$classJoyButtonWidget.html" title=" " alt="" coords="391,107,521,133"/>
+<area shape="rect" id="node7" href="$classJoyControlStickButtonPushButton.html" title=" " alt="" coords="359,158,553,199"/>
+<area shape="rect" id="node8" href="$classJoyControlStickPushButton.html" title=" " alt="" coords="359,224,553,251"/>
+<area shape="rect" id="node9" href="$classJoySensorButtonPushButton.html" title="A direction button in the SensorPushButtonGroup." alt="" coords="355,275,557,301"/>
+<area shape="rect" id="node10" href="$classJoySensorPushButton.html" title="The central button in a SensorPushButtonGroup." alt="" coords="376,325,536,352"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,165,112,192"/>
+<area shape="rect" id="node6" href="$classJoyDPadButtonWidget.html" title=" " alt="" coords="605,107,769,133"/>
+</map>

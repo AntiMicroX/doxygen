@@ -1,0 +1,52 @@
+<map id="Joystick::Joystick" name="Joystick::Joystick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,2135,137,2162"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="185,1078,439,1105"/>
+<area shape="rect" id="node10" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="783,1685,997,1711"/>
+<area shape="rect" id="node38" href="$classInputDevice.html#a10a6d5bfd9b2237a544e2b0c7957b42e" title=" " alt="" coords="211,2481,413,2507"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#a8a61663dd6bc8caa3ad142a984eb5f81" title=" " alt="" coords="508,593,705,635"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#a434ce6d76c949f69c5cba6f1297b83e9" title=" " alt="" coords="499,1103,714,1144"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a19593f04a7f6996d9d7d6e82baf7853b" title=" " alt="" coords="778,1110,1002,1137"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#a5207c7f681a8d8343dfcfc251c98cb83" title=" " alt="" coords="509,724,705,765"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#a254eb0180b4e752e205d6d36378815a4" title=" " alt="" coords="787,731,993,758"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#a2285c3592fef05d911c534608317a229" title=" " alt="" coords="509,1037,704,1079"/>
+<area shape="rect" id="node9" href="$classInputDevice.html#a8c4b7481037b00a0f8d4efaeb520a9dd" title=" " alt="" coords="505,1351,709,1392"/>
+<area shape="rect" id="node11" href="$classInputDevice.html#adfaa12cfd6363502a049a8bb32b1e992" title=" " alt="" coords="497,1416,716,1457"/>
+<area shape="rect" id="node12" href="$classInputDevice.html#ae6abc0024490060e5694e3750e3e0aea" title=" " alt="" coords="502,1677,711,1719"/>
+<area shape="rect" id="node13" href="$classInputDevice.html#a4ac83581ace56d9a9d051c309def30c9" title="Creates reverse set change button mapping for toggle and while&#45;hold set change mappings." alt="" coords="497,1743,717,1784"/>
+<area shape="rect" id="node14" href="$classInputDevice.html#a5aa8a74d0cc3739e08e6f753dc6df9cd" title=" " alt="" coords="503,1808,711,1849"/>
+<area shape="rect" id="node15" href="$classInputDevice.html#acce02eff964fce3cc49baae950641702" title=" " alt="" coords="497,1481,716,1523"/>
+<area shape="rect" id="node16" href="$classInputDevice.html#a2a9c5e33add22f819cd25dff7e69231f" title=" " alt="" coords="497,907,717,948"/>
+<area shape="rect" id="node17" href="$classInputDevice.html#aebae2238e618916a2046dddf4d0ed33e" title=" " alt="" coords="506,841,707,883"/>
+<area shape="rect" id="node18" href="$classInputDevice.html#acd3b268edd296c66e54dce8c92652f07" title=" " alt="" coords="509,1285,704,1327"/>
+<area shape="rect" id="node19" href="$classInputDevice.html#a1a9b2125df8d72549cc402d983ca0044" title=" " alt="" coords="509,1547,704,1588"/>
+<area shape="rect" id="node20" href="$classInputDevice.html#a41afc4fbe8ba90eaa8b6497286e9143d" title=" " alt="" coords="515,1612,699,1653"/>
+<area shape="rect" id="node21" href="$classInputDevice.html#a60d0cdb114de25170797124947b27d5d" title=" " alt="" coords="509,972,704,1013"/>
+<area shape="rect" id="node22" href="$classInputDevice.html#a3bb4e98f5ad39844142a6613850b7d4c" title=" " alt="" coords="509,5,704,47"/>
+<area shape="rect" id="node23" href="$classInputDevice.html#aebcc4b8149c2bab8a0652323206d32bb" title=" " alt="" coords="511,2069,702,2111"/>
+<area shape="rect" id="node25" href="$classInputDevice.html#a38e150f607dc95ee1b4ac4ba3c1c318d" title=" " alt="" coords="515,1220,698,1261"/>
+<area shape="rect" id="node26" href="$classInputDevice.html#a6cf4a8a0416165687399068eeee06916" title=" " alt="" coords="515,659,698,700"/>
+<area shape="rect" id="node27" href="$classInputDevice.html#adaf073e157dca5d1e3325d916d6c4823" title=" " alt="" coords="505,1873,708,1915"/>
+<area shape="rect" id="node28" href="$classInputDevice.html#a8714a2f5c2fa1f620e9df58c2025cd56" title=" " alt="" coords="505,1939,708,1980"/>
+<area shape="rect" id="node29" href="$classInputDevice.html#ac755b9a6c5992b14f07fbb5118ba2da9" title=" " alt="" coords="498,2004,715,2045"/>
+<area shape="rect" id="node30" href="$classInputDevice.html#a1aed75415ee98b95e4c89647a9432afa" title=" " alt="" coords="503,71,710,112"/>
+<area shape="rect" id="node31" href="$classInputDevice.html#af9e497903c0a4c29a3015b9771111678" title=" " alt="" coords="503,136,710,177"/>
+<area shape="rect" id="node32" href="$classInputDevice.html#a02bdfd2dbbaa852aa608dc27f85563c6" title="Rename mapped sensor button in all sets to the name in the active set." alt="" coords="497,201,716,243"/>
+<area shape="rect" id="node33" href="$classInputDevice.html#acdfc97b4ab3898eb88d01565f0c7eff2" title="Rename sensor in all sets to the name in the current set." alt="" coords="497,267,716,308"/>
+<area shape="rect" id="node34" href="$classInputDevice.html#acc8b931a7b219403ecd8eae444d8534f" title=" " alt="" coords="503,332,710,373"/>
+<area shape="rect" id="node35" href="$classInputDevice.html#a839d9cdc5886588a012275b477d860fa" title=" " alt="" coords="503,397,710,439"/>
+<area shape="rect" id="node36" href="$classInputDevice.html#ac45d96f574a4b1c64b93932e49711377" title=" " alt="" coords="499,463,715,504"/>
+<area shape="rect" id="node37" href="$classInputDevice.html#a9e31db2616040d7ed9e5f0a1b10cbab8" title=" " alt="" coords="499,528,715,569"/>
+<area shape="rect" id="node24" href="$classInputDevice.html#af398dd46ce98825fe56b36e41a13db9b" title=" " alt="" coords="775,2418,1005,2445"/>
+<area shape="rect" id="node39" href="$classInputDevice.html#aec61eac8077fc952657151bf38e97ed6" title=" " alt="" coords="506,2810,707,2837"/>
+<area shape="rect" id="node40" href="$classInputDevice.html#a7b713f10cafbd2d4d17802e9a6a53a75" title=" " alt="" coords="501,2186,712,2213"/>
+<area shape="rect" id="node41" href="$classInputDevice.html#ab370bf7bbf5f75d11f0513360d3a2dd2" title=" " alt="" coords="487,2237,727,2263"/>
+<area shape="rect" id="node42" href="$classInputDevice.html#aba85af39454731d948fcb47105da814c" title=" " alt="" coords="502,2288,711,2329"/>
+<area shape="rect" id="node43" href="$classInputDevice.html#af13fb3651f413d8efba44c1641af08a6" title=" " alt="" coords="491,2354,722,2381"/>
+<area shape="rect" id="node44" href="$classInputDevice.html#ad8d108ded4bb42dda3a9111dcc363cdc" title=" " alt="" coords="493,2405,720,2431"/>
+<area shape="rect" id="node45" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="510,2455,703,2482"/>
+<area shape="rect" id="node46" href="$classInputDevice.html#aa6d8fefbf14ae51ace9b5df1bc8d540d" title=" " alt="" coords="505,2506,709,2533"/>
+<area shape="rect" id="node47" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="493,2557,720,2583"/>
+<area shape="rect" id="node48" href="$classInputDevice.html#ae868c6b4904b6c377bc26d46ab9ca0cc" title=" " alt="" coords="501,2607,713,2634"/>
+<area shape="rect" id="node49" href="$classInputDevice.html#a16a3c7e6b528a8275a0529a52178d15b" title="Checks if this input device has a sensor of given type." alt="" coords="519,2658,694,2685"/>
+<area shape="rect" id="node50" href="$classInputDevice.html#aeaf77e979b09dbd752e29b47c830737c" title="Check if device is using the SDL Game Controller API." alt="" coords="495,2709,718,2735"/>
+</map>

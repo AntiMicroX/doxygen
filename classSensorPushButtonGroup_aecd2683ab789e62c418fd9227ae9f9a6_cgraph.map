@@ -1,0 +1,11 @@
+<map id="SensorPushButtonGroup::generateBtnToGrid" name="SensorPushButtonGroup::generateBtnToGrid">
+<area shape="rect" id="node1" title="Generates a new push button at the given grid coordinates." alt="" coords="5,93,184,135"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#a08206c3d636852749ad6e1bb731de4fa" title=" " alt="" coords="232,5,439,47"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#ade5fe9722741d61eeac6811fe6a53cf2" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="253,71,418,98"/>
+<area shape="rect" id="node5" href="$classSensorPushButtonGroup.html#a2332cbbc2b2bab1f23b924e91df1219a" title="Shows the button mapping dialog for the given direction button." alt="" coords="240,123,431,164"/>
+<area shape="rect" id="node9" href="$classSensorPushButtonGroup.html#a6334cbb94dc40f2d90ca820feba84737" title=" " alt="" coords="243,188,428,229"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="493,13,683,39"/>
+<area shape="rect" id="node6" href="$classJoySensorButtonPushButton.html#ad71d10b1107062f1fdf77eca4bac6208" title="Get the JoySensorButton for this mapping." alt="" coords="487,64,689,105"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="487,130,689,157"/>
+<area shape="rect" id="node8" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="499,181,677,207"/>
+</map>

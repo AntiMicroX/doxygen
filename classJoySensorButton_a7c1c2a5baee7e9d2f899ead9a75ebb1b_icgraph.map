@@ -1,0 +1,5 @@
+<map id="JoySensorButton::getDirection" name="JoySensorButton::getDirection">
+<area shape="rect" id="node1" title="returns the direction of this button." alt="" coords="528,5,745,32"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a723df3dcae43b4509bf1af84191e5ad5" title="Copy slots from all sensor buttons and properties from a sensor onto another." alt="" coords="271,5,480,32"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,5,223,32"/>
+</map>

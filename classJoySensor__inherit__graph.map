@@ -1,0 +1,6 @@
+<map id="JoySensor" name="JoySensor">
+<area shape="rect" id="node1" title="Represents one sensor in a SetJoystick and its connections to other parts of the application...." alt="" coords="149,80,235,107"/>
+<area shape="rect" id="node3" href="$classJoyAccelerometerSensor.html" title="Represents an accelerometer sensor." alt="" coords="5,155,187,181"/>
+<area shape="rect" id="node4" href="$classJoyGyroscopeSensor.html" title="Represents a gyroscope sensor." alt="" coords="211,155,365,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="155,5,229,32"/>
+</map>

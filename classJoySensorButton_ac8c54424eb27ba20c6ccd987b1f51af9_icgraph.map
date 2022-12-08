@@ -1,0 +1,6 @@
+<map id="JoySensorButton::getRealJoyNumber" name="JoySensorButton::getRealJoyNumber">
+<area shape="rect" id="node1" title="Get a 0 indexed number of button." alt="" coords="683,5,869,47"/>
+<area shape="rect" id="node2" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="427,13,635,39"/>
+<area shape="rect" id="node3" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="207,13,379,39"/>
+<area shape="rect" id="node4" href="$classJoyTabWidgetHelper.html#ad1754369989cbe4a3e10c8c01e3fb89b" title="XML write entry point for the GUI." alt="" coords="5,5,159,47"/>
+</map>

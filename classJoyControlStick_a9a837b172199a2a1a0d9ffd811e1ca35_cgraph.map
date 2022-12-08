@@ -1,0 +1,6 @@
+<map id="JoyControlStick::isDefault" name="JoyControlStick::isDefault">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,193,61"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#aaae603630f3485683593320bd446927d" title="Check if button properties are at their default values." alt="" coords="241,35,393,61"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="441,5,647,32"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#a6cbb7efc0329d7f86455f62b1957a644" title="Returns the default mouse curve for this JoyButton type. Can be overwritten by subclasses." alt="" coords="441,57,647,98"/>
+</map>

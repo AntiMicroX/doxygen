@@ -1,0 +1,7 @@
+<map id="TriggerEffectMsgPs5" name="TriggerEffectMsgPs5">
+<area shape="rect" id="node1" title="Effect message for a single trigger." alt="" coords="222,95,375,121"/>
+<area shape="rect" id="node2" href="$structEffectVibrationPs5.html" title="Effect message for a vibration trigger effect." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" href="$structEffectNonePs5.html" title="Effect message for no trigger effect." alt="" coords="171,5,287,32"/>
+<area shape="rect" id="node4" href="$structEffectRigidPs5.html" title="Effect message for a rigid trigger effect." alt="" coords="312,5,427,32"/>
+<area shape="rect" id="node5" href="$structEffectClickPs5.html" title="Effect message for a click trigger effect." alt="" coords="451,5,565,32"/>
+</map>

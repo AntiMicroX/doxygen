@@ -1,0 +1,29 @@
+<map id="SetJoystick::refreshAxes" name="SetJoystick::refreshAxes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,642,184,669"/>
+<area shape="rect" id="node2" href="$classSetJoystick.html#ac4cf722b6e314f078d20b00bf10e887e" title=" " alt="" coords="272,347,447,374"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a75a8851568f88ac1966ae2ba0704ae42" title=" " alt="" coords="232,398,487,425"/>
+<area shape="rect" id="node20" href="$classInputDevice.html#aaab1b5833851ecd0916725dc8b557cf8" title=" " alt="" coords="259,635,459,676"/>
+<area shape="rect" id="node22" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="259,701,460,727"/>
+<area shape="rect" id="node23" href="$classInputDevice.html#ab370bf7bbf5f75d11f0513360d3a2dd2" title=" " alt="" coords="239,751,479,778"/>
+<area shape="rect" id="node24" href="$classInputDevice.html#a2dca8e1dc3480828fde3b0fe2871fbc9" title=" " alt="" coords="258,569,461,611"/>
+<area shape="rect" id="node25" href="$classJoyAxis.html#a38eb99eb11dced53e58c8dc1d92f63bb" title="Set the initial calibrated throttle based on the first event passed by SDL." alt="" coords="266,802,453,829"/>
+<area shape="rect" id="node4" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="539,398,719,425"/>
+<area shape="rect" id="node5" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="541,449,718,475"/>
+<area shape="rect" id="node6" href="$classSetJoystick.html#aa90510371d0a6a4ae107b1d5b985b060" title=" " alt="" coords="535,500,724,541"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#ae234f327dec2c686d25862963e22fca1" title=" " alt="" coords="535,201,724,243"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#a57e40bcd1589c61ab7084f9e43dcd9ab" title=" " alt="" coords="535,136,724,177"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#a559203c2db1839239a1a684e717ef898" title=" " alt="" coords="535,71,724,112"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#af056c3429ac49876a0510f92923d0d13" title=" " alt="" coords="535,267,724,308"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#a2746cd7adb6a4ead514b72c7c0437d5e" title=" " alt="" coords="535,631,724,672"/>
+<area shape="rect" id="node16" href="$classSetJoystick.html#a707a2c73b9102a8346ad8f2fb401d48f" title=" " alt="" coords="535,565,724,607"/>
+<area shape="rect" id="node17" href="$classSetJoystick.html#a1b5df193132075192fe7a64ebc9933fb" title=" " alt="" coords="535,5,724,47"/>
+<area shape="rect" id="node19" href="$classSetJoystick.html#aeb069bf5f9e89bf2fb7dc73d89b5fbbd" title=" " alt="" coords="535,332,724,373"/>
+<area shape="rect" id="node7" href="$classJoyAxis.html#afddf7399e2086fda738fe588f5e7d7cd" title=" " alt="" coords="824,421,959,447"/>
+<area shape="rect" id="node10" href="$classJoyAxisButton.html#a8b73356f8efc91ad97e2c281b3603cc8" title=" " alt="" coords="806,143,977,170"/>
+<area shape="rect" id="node11" href="$classJoyButton.html#abbccee98e377453167a47b49874eeab7" title=" " alt="" coords="795,231,987,272"/>
+<area shape="rect" id="node13" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="798,78,985,105"/>
+<area shape="rect" id="node18" href="$classJoyAxis.html#a26e2606a8916cfd5fe8f4fc15c7dc886" title=" " alt="" coords="772,13,1011,39"/>
+<area shape="rect" id="node21" href="$classInputDevice.html#a7a7e979f61e7ad7ab12d32913004a81b" title=" " alt="" coords="552,697,707,723"/>
+<area shape="rect" id="node26" href="$classJoyAxis.html#a211c80f9aa20fa22c8f91a5cdcb0831a" title=" " alt="" coords="550,802,709,829"/>
+<area shape="rect" id="node27" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="793,795,989,836"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="JoyButton::getRealJoyNumber" name="JoyButton::getRealJoyNumber">
+<area shape="rect" id="node1" title="Get a 1 indexed number of button." alt="" coords="1412,1214,1627,1241"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#acf2e65dcec7b0d2a8a2c21c36c489ad6" title=" " alt="" coords="1152,903,1347,930"/>
+<area shape="rect" id="node40" href="$classJoyButtonStatusBox.html#ad07dbdf53545fc5080cea81f2845bd30" title=" " alt="" coords="1170,1141,1329,1183"/>
+<area shape="rect" id="node41" href="$classAdvanceStickAssignmentDialog.html#a98a6d5afe4f544f71039543e3aa8055f" title=" " alt="" coords="1135,1207,1364,1248"/>
+<area shape="rect" id="node43" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="1153,1294,1346,1321"/>
+<area shape="rect" id="node48" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="1145,1395,1353,1422"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#aeb1c9e91e6e43f5884deecd3c80ba886" title=" " alt="" coords="876,629,1059,671"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#ab227ec29550f974ac09dd1f891c93440" title=" " alt="" coords="891,695,1044,722"/>
+<area shape="rect" id="node16" href="$classJoyButton.html#abb09326682e89c3c32975519ee73dfb0" title="Activates mapped slots and generates QT events which highlight pressed controller buttons." alt="" coords="610,805,761,831"/>
+<area shape="rect" id="node30" href="$classSetJoystick.html#aebf06091232daf15963e454e5fe7760f" title=" " alt="" coords="873,928,1062,969"/>
+<area shape="rect" id="node32" href="$classJoyButton.html#afb5704003e2483ff61e142c7a7bd4699" title=" " alt="" coords="874,797,1061,839"/>
+<area shape="rect" id="node33" href="$classJoyButton.html#ab0ca3b9966d8da06279d2f347e42e78b" title=" " alt="" coords="859,863,1076,904"/>
+<area shape="rect" id="node34" href="$classMouseButtonSettingsDialog.html#a2f23599f16d802415aa8ea016341199b" title=" " alt="" coords="848,993,1087,1035"/>
+<area shape="rect" id="node36" href="$classAdvanceButtonDialog.html#a371dbf9d2c49e736d8e7d8fba3739aff" title=" " alt="" coords="848,1059,1087,1100"/>
+<area shape="rect" id="node38" href="$classButtonEditDialog.html#a0057dab454e3f52eeab3e3ba1fd336e0" title=" " alt="" coords="875,1124,1060,1165"/>
+<area shape="rect" id="node5" href="$classJoyTabWidget.html#a02c71b1d40a6b60dd5aff9b2bbbf210a" title=" " alt="" coords="583,274,788,301"/>
+<area shape="rect" id="node14" href="$classJoyButtonWidget.html#a73f4114ba7e98c2cdeb7d3d0ea2629a2" title=" " alt="" coords="587,659,784,700"/>
+<area shape="rect" id="node15" href="$classJoyButton.html#a184886d98db1c3653d8139188892c779" title=" " alt="" coords="607,725,763,751"/>
+<area shape="rect" id="node6" href="$classJoyTabWidget.html#a4db3576922612c949496c748af5be0ac" title=" " alt="" coords="293,5,520,47"/>
+<area shape="rect" id="node7" href="$classJoyTabWidget.html#acbf83e52c8f201b76a32045252add763" title=" " alt="" coords="293,71,520,112"/>
+<area shape="rect" id="node8" href="$classJoyTabWidget.html#a91ac7fc812883c76bf381f134cd3ca57" title=" " alt="" coords="307,136,506,177"/>
+<area shape="rect" id="node9" href="$classJoyTabWidget.html#ae7b45dc0d9134f5232a0beecef644eef" title=" " alt="" coords="307,201,506,243"/>
+<area shape="rect" id="node10" href="$classJoyTabWidget.html#af5593b7dc745abae81eec87d9c5ccde5" title=" " alt="" coords="291,267,523,308"/>
+<area shape="rect" id="node11" href="$classJoyTabWidget.html#aee4c1f9b4c067c2d2953d23314ad7491" title=" " alt="" coords="291,332,523,373"/>
+<area shape="rect" id="node12" href="$classJoyTabWidget.html#ac18fd70fd8d5f3d128798ae0b07dab98" title=" " alt="" coords="307,397,507,439"/>
+<area shape="rect" id="node13" href="$classJoyTabWidget.html#a5520fb268011ddce9a2414d2879cff12" title=" " alt="" coords="307,463,507,504"/>
+<area shape="rect" id="node17" href="$classJoyButton.html#a4acc0f1d2e12a34874522f558e1e9d3f" title=" " alt="" coords="307,528,506,569"/>
+<area shape="rect" id="node18" href="$classJoySensor.html#aafd5dae106262d6040b720be271cf800" title="Find the position of the three sensor axes, deactivate no longer used sensor direction button and the..." alt="" coords="304,594,509,621"/>
+<area shape="rect" id="node19" href="$classJoyDPad.html#a1f5c5db45f36b205d1c4a43f1616950a" title=" " alt="" coords="309,645,504,671"/>
+<area shape="rect" id="node20" href="$classJoyAxis.html#a0e85739f3da15defbb1ad9ffb7def2d9" title=" " alt="" coords="312,695,501,722"/>
+<area shape="rect" id="node21" href="$classJoyControlStick.html#a18e586ffa9f2fc09004dd1ebc895b3a8" title="Find the position of the two stick axes, deactivate no longer used stick direction button and then ac..." alt="" coords="23,797,225,839"/>
+<area shape="rect" id="node22" href="$classJoyControlStick.html#a0bd5c24e572f9485780820d54f755b88" title="Activate a stick direction button." alt="" coords="316,797,497,839"/>
+<area shape="rect" id="node23" href="$classJoyControlStick.html#a32b6c7a796ec7b24e9c0124a6bcffd2e" title="Stick direction button to release." alt="" coords="316,863,497,904"/>
+<area shape="rect" id="node24" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="331,929,482,955"/>
+<area shape="rect" id="node26" href="$classJoyDPad.html#aa20b65bef79d9e80894a9be835b441c1" title=" " alt="" coords="297,979,516,1006"/>
+<area shape="rect" id="node27" href="$classJoyControlStick.html#a295a9b9b1a5c4d3a49c9d9697a9527e0" title=" " alt="" coords="318,1031,495,1072"/>
+<area shape="rect" id="node28" href="$classJoyAxis.html#a8df3e761cbf9876ab5a3db30c1a02fc3" title=" " alt="" coords="318,1097,495,1123"/>
+<area shape="rect" id="node29" href="$classJoyButton.html#ad152d22f7f7d8ea561f363d43903e059" title=" " alt="" coords="329,1147,484,1174"/>
+<area shape="rect" id="node25" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="5,1056,243,1097"/>
+<area shape="rect" id="node31" href="$classSetJoystick.html#a35a6e4800b346b637eba5a66345e73ee" title=" " alt="" coords="591,928,780,969"/>
+<area shape="rect" id="node35" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="580,993,791,1035"/>
+<area shape="rect" id="node37" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="600,1059,771,1100"/>
+<area shape="rect" id="node39" href="$classButtonEditDialog.html#a82f6d5a24f90b015034e1a3985c410b8" title=" " alt="" coords="592,1124,779,1165"/>
+<area shape="rect" id="node42" href="$classAdvanceStickAssignmentDialog.html#a2c866fcfc9b377d6cabdd4b0f7f4e824" title=" " alt="" coords="571,1189,800,1231"/>
+<area shape="rect" id="node44" href="$classJoyDPadXml.html#ac78c8fd1ad107f6a3baed4910863cb0c" title=" " alt="" coords="876,1243,1059,1270"/>
+<area shape="rect" id="node45" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="584,1275,787,1302"/>
+<area shape="rect" id="node46" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="883,1345,1051,1371"/>
+<area shape="rect" id="node47" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="866,1395,1069,1422"/>
+<area shape="rect" id="node49" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="881,1446,1053,1473"/>
+<area shape="rect" id="node50" href="$classJoyTabWidgetHelper.html#ad1754369989cbe4a3e10c8c01e3fb89b" title="XML write entry point for the GUI." alt="" coords="609,1439,762,1480"/>
+</map>

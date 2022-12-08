@@ -1,0 +1,9 @@
+<map id="JoySensorEditDialog::updateSensorStats" name="JoySensorEditDialog::updateSensorStats">
+<area shape="rect" id="node1" title="Updates the numerical sensor values on the screen." alt="" coords="5,129,159,170"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="207,5,417,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="219,56,405,83"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="223,107,401,133"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a0aaecd30cd2e900df8d8d9773a4893f3" title="Get current radial distance of the sensor past the assigned dead zone." alt="" coords="209,158,415,199"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="239,224,385,251"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="235,275,389,301"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="JoyTabWidget::showQuickSetDialog" name="JoyTabWidget::showQuickSetDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,198,216,239"/>
+<area shape="rect" id="node2" href="$classJoyTabWidget.html#aeef6efb15d96224f1594d4a65cd3460a" title=" " alt="" coords="1023,227,1260,253"/>
+<area shape="rect" id="node3" href="$classJoyTabWidget.html#afd2667b869fb35446c215f6189c783d3" title=" " alt="" coords="264,180,479,207"/>
+<area shape="rect" id="node4" href="$classJoyTabWidget.html#adb5100f5e8c9d9bad8aea4e9b582b8bd" title="Create and render all push buttons corresponding to joystick controls for all sets." alt="" coords="527,180,711,207"/>
+<area shape="rect" id="node49" href="$classJoyTabWidget.html#a4cc3597f931bb61005ce806bb2fe9c34" title=" " alt="" coords="759,114,975,155"/>
+<area shape="rect" id="node5" href="$classJoyTabWidget.html#a06a18e39e415313b9ee09c41887890ac" title=" " alt="" coords="1024,176,1259,203"/>
+<area shape="rect" id="node16" href="$classInputDevice.html#a0b430e8528dab77a2f70b0e9a25adb09" title=" " alt="" coords="1316,2323,1539,2365"/>
+<area shape="rect" id="node18" href="$classJoyTabWidget.html#a02c71b1d40a6b60dd5aff9b2bbbf210a" title=" " alt="" coords="764,1233,969,1260"/>
+<area shape="rect" id="node47" href="$classInputDevice.html#aee4515edc1daad9be16eb4e25862ae25" title=" " alt="" coords="1041,24,1242,51"/>
+<area shape="rect" id="node48" href="$classJoyTabWidget.html#adc647271e294559acfb808035d3dea2f" title=" " alt="" coords="768,49,965,90"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#aebcc4b8149c2bab8a0652323206d32bb" title=" " alt="" coords="1332,566,1523,607"/>
+<area shape="rect" id="node7" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="1611,429,1811,456"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="1625,480,1796,507"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="1617,531,1804,557"/>
+<area shape="rect" id="node10" href="$classJoyDPad.html#a208a8dec4c87c992cb15705b2a4e4bbb" title=" " alt="" coords="1623,581,1798,608"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#a5071c4bc7bdb1b0601b60b807a235818" title=" " alt="" coords="1623,632,1799,659"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#a7b74d7b4a0adfc9c25cdbe4433d9b275" title=" " alt="" coords="1623,683,1798,709"/>
+<area shape="rect" id="node13" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="1621,733,1801,760"/>
+<area shape="rect" id="node14" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="1622,835,1799,861"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#abcdc88c96a95fb0f5d8a721582d22851" title=" " alt="" coords="1628,885,1793,912"/>
+<area shape="rect" id="node17" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="1882,2135,2073,2161"/>
+<area shape="rect" id="node19" href="$classJoyTabWidget.html#a4db3576922612c949496c748af5be0ac" title=" " alt="" coords="1028,1161,1255,1202"/>
+<area shape="rect" id="node20" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="1875,1011,2080,1037"/>
+<area shape="rect" id="node22" href="$classJoyTabWidget.html#acbf83e52c8f201b76a32045252add763" title=" " alt="" coords="1597,1141,1824,1182"/>
+<area shape="rect" id="node23" href="$classJoyTabWidget.html#a91ac7fc812883c76bf381f134cd3ca57" title=" " alt="" coords="1611,945,1810,986"/>
+<area shape="rect" id="node24" href="$classJoyTabWidget.html#ae7b45dc0d9134f5232a0beecef644eef" title=" " alt="" coords="1611,1066,1810,1107"/>
+<area shape="rect" id="node25" href="$classJoyTabWidget.html#af5593b7dc745abae81eec87d9c5ccde5" title=" " alt="" coords="1595,1413,1827,1454"/>
+<area shape="rect" id="node26" href="$classJoyTabWidget.html#aee4c1f9b4c067c2d2953d23314ad7491" title=" " alt="" coords="1595,1483,1827,1525"/>
+<area shape="rect" id="node27" href="$classJoyTabWidget.html#a15cd10cea176578f630a26b61f876163" title=" " alt="" coords="1617,1555,1805,1597"/>
+<area shape="rect" id="node28" href="$classJoyTabWidget.html#a2a16a770a02a61aeea918aa867fc185f" title=" " alt="" coords="1617,1629,1805,1670"/>
+<area shape="rect" id="node29" href="$classJoyDPad.html#a2a26dcd4549281492b085f58296f77d6" title=" " alt="" coords="1612,1347,1809,1389"/>
+<area shape="rect" id="node30" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="1633,1701,1788,1728"/>
+<area shape="rect" id="node31" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="1631,1755,1790,1781"/>
+<area shape="rect" id="node32" href="$classInputDevice.html#a4c662c7a0415e247266e6b205d064763" title=" " alt="" coords="1605,1805,1817,1832"/>
+<area shape="rect" id="node33" href="$classInputDevice.html#a8d061d1a518f77dcdecbb2ecd32e9d30" title=" " alt="" coords="1595,1857,1826,1884"/>
+<area shape="rect" id="node34" href="$classInputDevice.html#a7b713f10cafbd2d4d17802e9a6a53a75" title=" " alt="" coords="1605,1908,1816,1935"/>
+<area shape="rect" id="node35" href="$classInputDevice.html#a194b9e1403f4875ec7a43e2bdeeeecf2" title=" " alt="" coords="1601,1960,1821,1987"/>
+<area shape="rect" id="node36" href="$classInputDevice.html#adeca7cce79fa7245ee1a79a0fbe92bdd" title=" " alt="" coords="1595,2011,1826,2037"/>
+<area shape="rect" id="node37" href="$classJoyTabWidget.html#ac18fd70fd8d5f3d128798ae0b07dab98" title=" " alt="" coords="1041,1291,1241,1333"/>
+<area shape="rect" id="node38" href="$classJoyTabWidget.html#a5520fb268011ddce9a2414d2879cff12" title=" " alt="" coords="1041,1226,1241,1267"/>
+<area shape="rect" id="node39" href="$classJoySensor.html#aeb9b9c1096c032dff35178953e9a841d" title=" " alt="" coords="1323,2062,1531,2103"/>
+<area shape="rect" id="node40" href="$classSetJoystick.html#a55962debb95a365113c82e3e98e6e6f5" title=" " alt="" coords="1319,2127,1535,2169"/>
+<area shape="rect" id="node41" href="$classJoyControlStick.html#a6becafde9a3aaf73b770a8c39459d1b1" title=" " alt="" coords="1325,2193,1530,2234"/>
+<area shape="rect" id="node42" href="$classJoyButton.html#a08206c3d636852749ad6e1bb731de4fa" title=" " alt="" coords="1324,2258,1531,2299"/>
+<area shape="rect" id="node43" href="$classJoySensor.html#ade5fe9722741d61eeac6811fe6a53cf2" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="1059,2213,1224,2240"/>
+<area shape="rect" id="node44" href="$classJoyAxis.html#a955d16488b3807bd9d34e88e5df05cd2" title=" " alt="" coords="1072,531,1211,557"/>
+<area shape="rect" id="node45" href="$classJoyButton.html#ab227ec29550f974ac09dd1f891c93440" title=" " alt="" coords="1065,581,1218,608"/>
+<area shape="rect" id="node46" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="1058,784,1225,811"/>
+<area shape="rect" id="node21" href="$classJoyTabWidget.html#aa0dbd4380f021acc39af89f4bfe064e7" title=" " alt="" coords="1308,1221,1547,1248"/>
+<area shape="rect" id="node50" href="$classInputDevice.html#a16bb34bc25bb790782235d2670333a54" title=" " alt="" coords="1311,139,1544,181"/>
+</map>

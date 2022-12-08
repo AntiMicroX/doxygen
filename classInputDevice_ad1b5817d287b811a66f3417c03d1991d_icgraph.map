@@ -1,0 +1,4 @@
+<map id="InputDevice::getControllerType" name="InputDevice::getControllerType">
+<area shape="rect" id="node1" title="Returns the current controller model. For non gamecontroller devices it always returns UNKNOWN." alt="" coords="231,13,453,39"/>
+<area shape="rect" id="node2" href="$classGameControllerTrigger.html#a29c6221684b8eb4b3a4017ed93c6e866" title=" " alt="" coords="5,5,183,47"/>
+</map>

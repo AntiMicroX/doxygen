@@ -1,0 +1,32 @@
+<map id="InputDevice::elementsHaveNames" name="InputDevice::elementsHaveNames">
+<area shape="rect" id="node1" title=" " alt="" coords="5,451,208,492"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="552,646,743,687"/>
+<area shape="rect" id="node4" href="$classJoyAxis.html#a675c04d973a962ce30491b390d17ee20" title=" " alt="" coords="288,53,455,80"/>
+<area shape="rect" id="node5" href="$classJoyButton.html#a7123f5432bda7b5b9d4b2b95bdabf4db" title=" " alt="" coords="273,104,469,130"/>
+<area shape="rect" id="node6" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="294,154,449,181"/>
+<area shape="rect" id="node7" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="271,205,471,232"/>
+<area shape="rect" id="node8" href="$classJoyDPad.html#a45b740263205203bd20f34e375f40ac2" title=" " alt="" coords="283,256,460,282"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="286,306,457,333"/>
+<area shape="rect" id="node10" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="554,153,741,180"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#a5071c4bc7bdb1b0601b60b807a235818" title=" " alt="" coords="559,409,735,436"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#a7b74d7b4a0adfc9c25cdbe4433d9b275" title=" " alt="" coords="560,465,735,492"/>
+<area shape="rect" id="node16" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="281,509,461,536"/>
+<area shape="rect" id="node17" href="$classInputDevice.html#a4c662c7a0415e247266e6b205d064763" title=" " alt="" coords="265,610,477,637"/>
+<area shape="rect" id="node19" href="$classInputDevice.html#a8d061d1a518f77dcdecbb2ecd32e9d30" title=" " alt="" coords="256,357,487,384"/>
+<area shape="rect" id="node21" href="$classInputDevice.html#a7b713f10cafbd2d4d17802e9a6a53a75" title=" " alt="" coords="266,560,477,586"/>
+<area shape="rect" id="node23" href="$classInputDevice.html#a194b9e1403f4875ec7a43e2bdeeeecf2" title=" " alt="" coords="261,712,481,738"/>
+<area shape="rect" id="node25" href="$classInputDevice.html#adeca7cce79fa7245ee1a79a0fbe92bdd" title=" " alt="" coords="256,762,487,789"/>
+<area shape="rect" id="node28" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="283,813,460,840"/>
+<area shape="rect" id="node29" href="$classJoyControlStick.html#a3665f4f4ae6cc0f7ca44502b61f7c3ea" title=" " alt="" coords="261,864,482,890"/>
+<area shape="rect" id="node30" href="$classSetJoystick.html#abcdc88c96a95fb0f5d8a721582d22851" title=" " alt="" coords="565,889,730,916"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="808,653,1023,680"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="829,254,1002,281"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#a2a6870a2ac3f5cc490344baf7ed2edd5" title=" " alt="" coords="839,468,992,494"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#a7ca499fe41a0a9841b4fe904b07cbc30" title=" " alt="" coords="834,540,997,566"/>
+<area shape="rect" id="node18" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="544,594,751,621"/>
+<area shape="rect" id="node20" href="$classSetJoystick.html#a446e296af015f6304bd7425153a4c4ae" title=" " alt="" coords="535,356,760,382"/>
+<area shape="rect" id="node22" href="$classSetJoystick.html#ab3a314813bde0be4e3b80fd77deea968" title=" " alt="" coords="545,526,750,553"/>
+<area shape="rect" id="node24" href="$classSetJoystick.html#a4214561d42aa44bd1b781ed88a1695ad" title=" " alt="" coords="540,712,755,738"/>
+<area shape="rect" id="node26" href="$classSetJoystick.html#a556752a5816edd7f1e34dad0651f8739" title=" " alt="" coords="535,788,759,814"/>
+<area shape="rect" id="node27" href="$classSetJoystick.html#ad859311bfde76dbdaac274cb5ede63d6" title=" " alt="" coords="830,813,1001,840"/>
+</map>

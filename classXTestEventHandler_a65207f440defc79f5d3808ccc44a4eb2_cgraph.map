@@ -1,0 +1,7 @@
+<map id="XTestEventHandler::sendMouseAbsEvent" name="XTestEventHandler::sendMouseAbsEvent">
+<area shape="rect" id="node1" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="5,23,163,65"/>
+<area shape="rect" id="node2" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="225,5,368,32"/>
+<area shape="rect" id="node3" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="211,56,383,83"/>
+<area shape="rect" id="node4" href="$classX11Extras.html#ab9bcb016e23bacb0e988feb8175d2c88" title=" " alt="" coords="431,56,593,83"/>
+<area shape="rect" id="node5" href="$classX11Extras.html#a6f63e77ed045e174546d77333672b8f0" title=" " alt="" coords="641,49,839,90"/>
+</map>

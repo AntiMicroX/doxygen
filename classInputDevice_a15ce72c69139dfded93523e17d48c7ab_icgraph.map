@@ -1,0 +1,7 @@
+<map id="InputDevice::getDeviceKeyPressTime" name="InputDevice::getDeviceKeyPressTime">
+<area shape="rect" id="node1" title=" " alt="" coords="683,35,881,76"/>
+<area shape="rect" id="node2" href="$classExtraProfileSettingsDialog.html#ad5751d1a02ef93bdff60ef334839d12f" title=" " alt="" coords="431,5,631,47"/>
+<area shape="rect" id="node3" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="427,71,635,98"/>
+<area shape="rect" id="node4" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="207,71,379,98"/>
+<area shape="rect" id="node5" href="$classJoyTabWidgetHelper.html#ad1754369989cbe4a3e10c8c01e3fb89b" title="XML write entry point for the GUI." alt="" coords="5,64,159,105"/>
+</map>

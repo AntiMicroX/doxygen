@@ -1,0 +1,11 @@
+<map id="JoySensor::getMaxZone" name="JoySensor::getMaxZone">
+<area shape="rect" id="node1" title="Get the assigned max zone value." alt="" coords="743,137,919,163"/>
+<area shape="rect" id="node2" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="528,5,695,47"/>
+<area shape="rect" id="node4" href="$classJoySensorEditDialog.html#ac54b2583e87546880baf282a0f16f57a" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="535,71,688,112"/>
+<area shape="rect" id="node5" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="295,96,456,137"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#a4c1dd1342e7f76c46ed02eea0dbbf22f" title="Checks if all sensor settings and button mappings are the their default values. This is used during X..." alt="" coords="535,187,688,214"/>
+<area shape="rect" id="node9" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="291,238,459,265"/>
+<area shape="rect" id="node3" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="299,5,451,47"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a723df3dcae43b4509bf1af84191e5ad5" title="Copy slots from all sensor buttons and properties from a sensor onto another." alt="" coords="271,187,480,214"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,187,223,214"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GameControllerTrigger::setHapticTriggerMode" name="GameControllerTrigger::setHapticTriggerMode">
+<area shape="rect" id="node1" title="Changes the haptic feedback effect mode." alt="" coords="5,5,177,47"/>
+<area shape="rect" id="node2" href="$classHapticTriggerPs5.html#ad5ab589f913a99f3543d3a517adad6b5" title="Changes the haptic feedback mode to the given type." alt="" coords="225,5,384,47"/>
+</map>

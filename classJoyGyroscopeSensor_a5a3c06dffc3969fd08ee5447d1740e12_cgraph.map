@@ -1,0 +1,4 @@
+<map id="JoyGyroscopeSensor::getXCoordinate" name="JoyGyroscopeSensor::getXCoordinate">
+<area shape="rect" id="node1" title="Get the value for the corresponding X axis." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="208,13,363,39"/>
+</map>

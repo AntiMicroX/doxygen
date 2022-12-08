@@ -1,0 +1,4 @@
+<map id="InputDevice::applyAccelerometerCalibration" name="InputDevice::applyAccelerometerCalibration">
+<area shape="rect" id="node1" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a6793b28ac5f44e8fe3d8c1e333add1a8" title=" " alt="" coords="292,13,477,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="InputDeviceCalibration" name="InputDeviceCalibration">
+<area shape="rect" id="node1" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="5,81,176,108"/>
+<area shape="rect" id="node2" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="179,171,279,197"/>
+<area shape="rect" id="node3" title=" " alt="" coords="236,81,311,108"/>
+<area shape="rect" id="node4" href="$classAntiMicroSettings.html" title=" " alt="" coords="335,81,473,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="361,5,447,32"/>
+</map>

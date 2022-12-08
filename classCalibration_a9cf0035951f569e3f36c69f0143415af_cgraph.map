@@ -1,0 +1,16 @@
+<map id="Calibration::onSensorOffsetData" name="Calibration::onSensorOffsetData">
+<area shape="rect" id="node1" title="Sensor data event handler. Performs gyroscope offset and accelerometer neutral orientation estimation..." alt="" coords="5,242,236,269"/>
+<area shape="rect" id="node2" href="$classStatisticsEstimator.html#a4bb6b7ae19cdbc218a2ce1f352d054e4" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="314,5,505,47"/>
+<area shape="rect" id="node4" href="$classStatisticsEstimator.html#a9f08ed1df807774ff9ecb23cfc0a9b82" title="Gets the amount of processed samples." alt="" coords="337,71,482,112"/>
+<area shape="rect" id="node5" href="$classStatisticsEstimator.html#a63a3c46de3af4b5bb1be407bcfe44ad8" title="Processes a new sample of the current data stream and updates internal intermediate values." alt="" coords="337,136,482,177"/>
+<area shape="rect" id="node6" href="$classCalibration.html#ac9f926307bf97c12bd0595ea5599c81e" title="Shows the sensor offset calibration values to the user." alt="" coords="284,201,535,243"/>
+<area shape="rect" id="node8" href="$classCalibration.html#a946179d261fbbb93f2419697acac86d4" title="Shows user instructions for accelerometer calibration and initializes estimators." alt="" coords="296,332,523,373"/>
+<area shape="rect" id="node13" href="$classCalibration.html#a481f3588a8fa375a75f3b1b779e7a742" title="Shows user instructions for gyroscope calibration and initializes estimators." alt="" coords="309,267,509,308"/>
+<area shape="rect" id="node3" href="$classStatisticsEstimator.html#a8895a3729d2ed7bca9ce078fb17bb05a" title="Calculates the sample variance of the processed data stream from internal intermediate values." alt="" coords="623,5,769,47"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="619,171,773,198"/>
+<area shape="rect" id="node9" href="$classCalibration.html#abec21f8927d3e2d63b81b20044d99bdc" title="Asks the user for confirmation with a given message if the given condition is false." alt="" coords="592,222,800,249"/>
+<area shape="rect" id="node10" href="$classStatisticsEstimator.html#aaab49a2dc276528c02522b5a59d6c9ff" title="Resets the StatisticsEstimator so that it is ready to process a new data stream." alt="" coords="623,273,769,315"/>
+<area shape="rect" id="node11" href="$classJoySensor.html#a044d2b812c7ecff3c9ed9d101af5d4a8" title="Resets the calibration of the sensor back to uncalibrated state." alt="" coords="597,339,795,366"/>
+<area shape="rect" id="node12" href="$classCalibration.html#a4d6005148d0108fc471b1bf688f3a171" title="Show calibration message to the user and enable accelerometer data event handler." alt="" coords="583,456,809,497"/>
+<area shape="rect" id="node14" href="$classCalibration.html#aa04b4940601835dfbe0f227b10c50bee" title="Show calibration message to the user and enable gyroscope data event handler." alt="" coords="596,391,796,432"/>
+</map>

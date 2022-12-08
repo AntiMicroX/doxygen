@@ -1,0 +1,4 @@
+<map id="HapticTriggerPs5::set_effect" name="HapticTriggerPs5::set_effect">
+<area shape="rect" id="node1" title="Changes the haptic feedback effect." alt="" coords="223,5,381,47"/>
+<area shape="rect" id="node2" href="$classGameControllerTrigger.html#a0befb4630533278a26d191613fb0e53a" title="Recalculates haptic trigger effect positions, e.g. after dead zone change, and returns the current Ha..." alt="" coords="5,5,175,47"/>
+</map>

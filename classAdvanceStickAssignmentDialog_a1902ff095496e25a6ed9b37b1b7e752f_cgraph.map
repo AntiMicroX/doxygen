@@ -1,0 +1,18 @@
+<map id="AdvanceStickAssignmentDialog::disableVDPadComboBoxes" name="AdvanceStickAssignmentDialog::disableVDPadComboBoxes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,202,235,243"/>
+<area shape="rect" id="node2" href="$classAdvanceStickAssignmentDialog.html#a522ba2dc0ec7fecd84518af60d70ad60" title=" " alt="" coords="283,234,512,275"/>
+<area shape="rect" id="node14" href="$classAdvanceStickAssignmentDialog.html#ae35e7240bf2eb9621c19b1b682485070" title=" " alt="" coords="283,299,512,341"/>
+<area shape="rect" id="node15" href="$classAdvanceStickAssignmentDialog.html#a6fadc91f131b39c936e52c18e54cb755" title=" " alt="" coords="283,103,512,145"/>
+<area shape="rect" id="node16" href="$classAdvanceStickAssignmentDialog.html#a887c7159d7c067a696e6feb0e4e492b1" title=" " alt="" coords="283,169,512,210"/>
+<area shape="rect" id="node3" href="$classVDPad.html#a50bdbab44b42a672b7e874d44077b67a" title=" " alt="" coords="593,309,741,336"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="582,360,753,387"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="574,208,761,235"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="560,5,775,32"/>
+<area shape="rect" id="node8" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="577,56,757,83"/>
+<area shape="rect" id="node9" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="579,107,756,133"/>
+<area shape="rect" id="node10" href="$classVDPad.html#af486403db5899e54dc32cd0e1c3bb68c" title=" " alt="" coords="595,157,740,184"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#abcdc88c96a95fb0f5d8a721582d22851" title=" " alt="" coords="585,411,750,437"/>
+<area shape="rect" id="node13" href="$classVDPad.html#abf6c1b6613ad561aceb7998a7006a74f" title=" " alt="" coords="580,259,755,285"/>
+<area shape="rect" id="node6" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="823,208,996,235"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#ad859311bfde76dbdaac274cb5ede63d6" title=" " alt="" coords="824,411,995,437"/>
+</map>

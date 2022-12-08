@@ -1,0 +1,38 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/joybuttontypes/joydpadbutton.h" name="/home/runner/work/doxygen/antimicrox/src/joybuttontypes/joydpadbutton.h">
+<area shape="rect" id="node1" title=" " alt="" coords="4975,5,5196,61"/>
+<area shape="rect" id="node2" href="$joydpad_8h.html" title=" " alt="" coords="2151,109,2356,151"/>
+<area shape="rect" id="node10" href="$joystickstatuswindow_8cpp.html" title=" " alt="" coords="5,206,320,247"/>
+<area shape="rect" id="node11" href="$joytabwidget_8cpp.html" title=" " alt="" coords="4957,310,5216,351"/>
+<area shape="rect" id="node12" href="$quicksetdialog_8cpp.html" title=" " alt="" coords="5240,310,5509,351"/>
+<area shape="rect" id="node14" href="$inputdevice_8cpp.html" title=" " alt="" coords="5533,310,5760,351"/>
+<area shape="rect" id="node30" href="$joydpadbutton_8cpp.html" title=" " alt="" coords="4864,199,5085,255"/>
+<area shape="rect" id="node3" href="$dpadcontextmenuhelper_8h.html" title=" " alt="" coords="2151,199,2356,255"/>
+<area shape="rect" id="node5" href="$dpadcontextmenu_8cpp.html" title=" " alt="" coords="2129,414,2397,455"/>
+<area shape="rect" id="node6" href="$dpadpushbutton_8cpp.html" title=" " alt="" coords="1753,414,2007,455"/>
+<area shape="rect" id="node8" href="$dpadpushbuttongroup_8cpp.html" title=" " alt="" coords="914,414,1206,455"/>
+<area shape="rect" id="node9" href="$dpadeditdialog_8cpp.html" title=" " alt="" coords="573,414,843,455"/>
+<area shape="rect" id="node13" href="$inputdaemon_8cpp.html" title=" " alt="" coords="394,206,630,247"/>
+<area shape="rect" id="node15" href="$vdpad_8h.html" title=" " alt="" coords="3768,206,3973,247"/>
+<area shape="rect" id="node20" href="$joydpadxml_8cpp.html" title=" " alt="" coords="4307,414,4563,455"/>
+<area shape="rect" id="node25" href="$setjoystick_8cpp.html" title=" " alt="" coords="2397,310,2619,351"/>
+<area shape="rect" id="node28" href="$setjoystickxml_8cpp.html" title=" " alt="" coords="2643,310,2917,351"/>
+<area shape="rect" id="node29" href="$inputdevicebitarraystatus_8cpp.html" title=" " alt="" coords="884,206,1201,247"/>
+<area shape="rect" id="node31" href="$joydpad_8cpp.html" title=" " alt="" coords="1225,206,1431,247"/>
+<area shape="rect" id="node32" href="$mousedpadsettingsdialog_8cpp.html" title=" " alt="" coords="1455,199,1676,255"/>
+<area shape="rect" id="node33" href="$mousedpadsettingsdialoghelper_8cpp.html" title=" " alt="" coords="1751,199,2076,255"/>
+<area shape="rect" id="node34" href="$dpadeditdialoghelper_8h.html" title=" " alt="" coords="655,199,860,255"/>
+<area shape="rect" id="node4" href="$dpadcontextmenu_8h.html" title=" " alt="" coords="1835,310,2088,351"/>
+<area shape="rect" id="node7" href="$dpadcontextmenuhelper_8cpp.html" title=" " alt="" coords="2112,303,2323,359"/>
+<area shape="rect" id="node16" href="$gamecontrollerdpad_8h.html" title=" " alt="" coords="4711,303,4934,359"/>
+<area shape="rect" id="node21" href="$advancestickassignmentdialog_8cpp.html" title=" " alt="" coords="2993,310,3367,351"/>
+<area shape="rect" id="node22" href="$joyaxisbutton_8cpp.html" title=" " alt="" coords="3392,303,3613,359"/>
+<area shape="rect" id="node23" href="$joybutton_8cpp.html" title=" " alt="" coords="3637,303,3859,359"/>
+<area shape="rect" id="node24" href="$joysensorbutton_8cpp.html" title=" " alt="" coords="3883,303,4104,359"/>
+<area shape="rect" id="node26" href="$vdpad_8cpp.html" title=" " alt="" coords="4128,310,4333,351"/>
+<area shape="rect" id="node27" href="$inputdevicexml_8cpp.html" title=" " alt="" coords="4357,310,4637,351"/>
+<area shape="rect" id="node17" href="$gamecontroller_8cpp.html" title=" " alt="" coords="4587,407,4810,463"/>
+<area shape="rect" id="node18" href="$gamecontrollerdpad_8cpp.html" title=" " alt="" coords="4834,407,5057,463"/>
+<area shape="rect" id="node19" href="$gamecontrollerset_8cpp.html" title=" " alt="" coords="5081,407,5303,463"/>
+<area shape="rect" id="node35" href="$dpadeditdialog_8h.html" title=" " alt="" coords="756,310,1012,351"/>
+<area shape="rect" id="node36" href="$dpadeditdialoghelper_8cpp.html" title=" " alt="" coords="527,303,732,359"/>
+</map>

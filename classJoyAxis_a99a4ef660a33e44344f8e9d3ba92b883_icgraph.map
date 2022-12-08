@@ -1,0 +1,6 @@
+<map id="JoyAxis::hasHapticTrigger" name="JoyAxis::hasHapticTrigger">
+<area shape="rect" id="node1" title="Checks if the axis supports haptic trigger feedback." alt="" coords="483,42,669,69"/>
+<area shape="rect" id="node2" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="256,5,435,47"/>
+<area shape="rect" id="node3" href="$classJoyAxisXml.html#a044a6be446ab6cc4b6fcb359e0cef898" title=" " alt="" coords="256,71,435,98"/>
+<area shape="rect" id="node4" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,71,208,98"/>
+</map>

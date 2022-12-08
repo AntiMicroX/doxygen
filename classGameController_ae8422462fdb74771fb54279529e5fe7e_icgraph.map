@@ -1,0 +1,6 @@
+<map id="GameController::rawAxisEvent" name="GameController::rawAxisEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="721,5,944,32"/>
+<area shape="rect" id="node2" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="447,5,673,32"/>
+<area shape="rect" id="node3" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,5,399,32"/>
+<area shape="rect" id="node4" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,5,212,32"/>
+</map>

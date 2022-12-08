@@ -1,0 +1,13 @@
+<map id="JoySensorStatusBox::drawArtificialHorizon" name="JoySensorStatusBox::drawArtificialHorizon">
+<area shape="rect" id="node1" title="draws the artificial horizon instrument on the screen" alt="" coords="5,226,172,267"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="235,5,420,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="238,56,417,83"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="236,107,419,133"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="483,183,637,209"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="220,208,435,235"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="239,259,415,285"/>
+<area shape="rect" id="node8" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="255,309,400,336"/>
+<area shape="rect" id="node9" href="$classJoySensor.html#a5f5569cbac7611959c23a68866310094" title=" " alt="" coords="230,360,425,387"/>
+<area shape="rect" id="node10" href="$classJoySensor.html#a8ede92b92d962399b706bcfe80ac7458" title=" " alt="" coords="231,411,424,437"/>
+<area shape="rect" id="node11" href="$classJoySensor.html#a80ca5058beac30c05ac2b0b688ee3f52" title=" " alt="" coords="230,461,425,488"/>
+</map>

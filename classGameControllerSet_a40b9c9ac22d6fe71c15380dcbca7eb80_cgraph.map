@@ -1,0 +1,52 @@
+<map id="GameControllerSet::resetSticks" name="GameControllerSet::resetSticks">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1148,160,1189"/>
+<area shape="rect" id="node2" href="$classGameControllerSet.html#afbbd676e52346412a864cdd084b5c9ce" title=" " alt="" coords="413,584,567,625"/>
+<area shape="rect" id="node26" href="$classSetJoystick.html#adc322b55002b149c9a7432d1008b8537" title="Re&#45;enumerates inputs from the associated device and resets all mappings in this set." alt="" coords="208,1181,343,1207"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a65a723b0018e2f387b44e7a0acfffc5b" title=" " alt="" coords="662,238,867,265"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#a5d361ae7d236016146559f96be00685b" title=" " alt="" coords="681,414,849,441"/>
+<area shape="rect" id="node18" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="685,465,844,491"/>
+<area shape="rect" id="node19" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="679,515,850,542"/>
+<area shape="rect" id="node20" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="671,835,858,862"/>
+<area shape="rect" id="node22" href="$classJoyAxis.html#aa39b67a2a1bc5eb7843b40c791764298" title=" " alt="" coords="658,566,871,593"/>
+<area shape="rect" id="node23" href="$classJoyButton.html#a3d4d90943fef64581babc0343db6bdb2" title=" " alt="" coords="643,617,886,643"/>
+<area shape="rect" id="node24" href="$classJoyDPad.html#a7cd0b461c99bfcb99e7d6dc49d641e53" title=" " alt="" coords="653,667,876,694"/>
+<area shape="rect" id="node25" href="$classJoyControlStick.html#ab3439f1f30e92a8c0431ee824cc58e71" title=" " alt="" coords="666,719,863,760"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="940,267,1140,294"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#aeb069bf5f9e89bf2fb7dc73d89b5fbbd" title=" " alt="" coords="945,903,1135,944"/>
+<area shape="rect" id="node6" href="$classSetJoystick.html#a67ced6595586b28e10149b6e94a8fd5b" title=" " alt="" coords="945,319,1135,360"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#aab253b5aecb108448850005cb2f443c4" title=" " alt="" coords="945,5,1135,47"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#a6506ecba3209c605da73d86f87a10e2b" title=" " alt="" coords="945,71,1135,112"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#af29af23160b680dfa735921cc4c6b4de" title=" " alt="" coords="945,136,1135,177"/>
+<area shape="rect" id="node10" href="$classSetJoystick.html#a56ee7ab2c8907e4b11c44f0db1986e27" title=" " alt="" coords="945,201,1135,243"/>
+<area shape="rect" id="node12" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="963,385,1117,411"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#a34909d7126daa4494789b77ce86dea27" title=" " alt="" coords="945,657,1135,699"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#a979ed0c246f09523b8f4480898148cf6" title=" " alt="" coords="945,751,1135,792"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#a5ee5db087902e0fa5f5a94877af31651" title=" " alt="" coords="945,436,1135,477"/>
+<area shape="rect" id="node16" href="$classSetJoystick.html#a8a0b672ba22e9004dd0d082f856a2df5" title=" " alt="" coords="943,501,1137,543"/>
+<area shape="rect" id="node17" href="$classSetJoystick.html#a05e3d7619aa147cabdc5d314a9d0bf0a" title=" " alt="" coords="945,567,1135,608"/>
+<area shape="rect" id="node21" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="953,1329,1127,1355"/>
+<area shape="rect" id="node27" href="$classSetJoystick.html#a4f19cad0e22518b9e29ba509d9723f5b" title="Destroy all sensor objects in this set." alt="" coords="667,1105,862,1131"/>
+<area shape="rect" id="node28" href="$classSetJoystick.html#abc33c31a8cd017633e6e1efc59244787" title=" " alt="" coords="399,1206,581,1233"/>
+<area shape="rect" id="node30" href="$classSetJoystick.html#a09bab0c2743cc0d677940e7f5da28969" title=" " alt="" coords="393,1257,587,1283"/>
+<area shape="rect" id="node32" href="$classSetJoystick.html#af8d7d16a13702ae29b6590db35801d14" title=" " alt="" coords="401,1387,579,1414"/>
+<area shape="rect" id="node40" href="$classSetJoystick.html#ae963eb0bae6e55ff9308c2173cf94db7" title=" " alt="" coords="391,1683,589,1710"/>
+<area shape="rect" id="node44" href="$classSetJoystick.html#ae948ac81f57e1ae1e3e43cc704fd8c2b" title=" " alt="" coords="401,911,579,938"/>
+<area shape="rect" id="node48" href="$classSetJoystick.html#a517ad0a1738d42824b4671746f5a1af5" title="Setup sensor objects for all available hardware sensors." alt="" coords="391,1105,589,1131"/>
+<area shape="rect" id="node29" href="$classSetJoystick.html#a7ca499fe41a0a9841b4fe904b07cbc30" title=" " alt="" coords="683,1206,846,1233"/>
+<area shape="rect" id="node31" href="$classSetJoystick.html#ad859311bfde76dbdaac274cb5ede63d6" title=" " alt="" coords="679,1257,850,1283"/>
+<area shape="rect" id="node33" href="$classSetJoystick.html#ac4cf722b6e314f078d20b00bf10e887e" title=" " alt="" coords="677,1358,852,1385"/>
+<area shape="rect" id="node34" href="$classSetJoystick.html#a75a8851568f88ac1966ae2ba0704ae42" title=" " alt="" coords="637,1307,892,1334"/>
+<area shape="rect" id="node35" href="$classInputDevice.html#aaab1b5833851ecd0916725dc8b557cf8" title=" " alt="" coords="665,1409,865,1451"/>
+<area shape="rect" id="node36" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="664,1155,865,1182"/>
+<area shape="rect" id="node37" href="$classInputDevice.html#ab370bf7bbf5f75d11f0513360d3a2dd2" title=" " alt="" coords="645,1475,885,1502"/>
+<area shape="rect" id="node38" href="$classInputDevice.html#a2dca8e1dc3480828fde3b0fe2871fbc9" title=" " alt="" coords="663,1527,866,1568"/>
+<area shape="rect" id="node39" href="$classJoyAxis.html#a38eb99eb11dced53e58c8dc1d92f63bb" title="Set the initial calibrated throttle based on the first event passed by SDL." alt="" coords="671,1593,858,1619"/>
+<area shape="rect" id="node41" href="$classSetJoystick.html#a7be8ee24011bc245517a8ac10d6ecebd" title=" " alt="" coords="668,1775,861,1802"/>
+<area shape="rect" id="node42" href="$classSetJoystick.html#a35a6e4800b346b637eba5a66345e73ee" title=" " alt="" coords="670,1644,859,1685"/>
+<area shape="rect" id="node43" href="$classInputDevice.html#aba85af39454731d948fcb47105da814c" title=" " alt="" coords="660,1709,869,1751"/>
+<area shape="rect" id="node45" href="$classSetJoystick.html#a649c4cfe8bb344a9da2dcb2c8d23d9b2" title=" " alt="" coords="678,937,851,963"/>
+<area shape="rect" id="node46" href="$classSetJoystick.html#a8d5292e67292aa93b73ecbef256b2825" title=" " alt="" coords="640,785,889,811"/>
+<area shape="rect" id="node47" href="$classInputDevice.html#acfaadd312a041e0295d41637034ec2c2" title=" " alt="" coords="645,886,884,913"/>
+<area shape="rect" id="node49" href="$namespaceJoySensorFactory.html#afa6c9aa50646bc0e11aa556b95d2207a" title=" " alt="" coords="679,1054,851,1081"/>
+<area shape="rect" id="node50" href="$classSetJoystick.html#a736c16bf85c0aaea7d64ab961f319a69" title="Establishes connections for event propagation between JoySensor and InputDevice." alt="" coords="669,988,860,1029"/>
+</map>

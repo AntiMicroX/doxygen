@@ -1,0 +1,4 @@
+<map id="AxisEditDialog::implementHapticTrigger" name="AxisEditDialog::implementHapticTrigger">
+<area shape="rect" id="node1" title="Converts the haptic trigger combo box index to a HapticTriggerMode and applies it to the current axis..." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classJoyAxis.html#acc8703fa51f25216175c957121310245" title="Changes the haptic trigger effect mode." alt="" coords="249,13,469,39"/>
+</map>

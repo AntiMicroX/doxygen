@@ -1,0 +1,52 @@
+<map id="JoyButton::turboEvent" name="JoyButton::turboEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="2244,661,2408,688"/>
+<area shape="rect" id="node2" href="$classJoyButton.html#a184886d98db1c3653d8139188892c779" title=" " alt="" coords="2040,611,2196,637"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#abb09326682e89c3c32975519ee73dfb0" title="Activates mapped slots and generates QT events which highlight pressed controller buttons." alt="" coords="2043,661,2193,688"/>
+<area shape="rect" id="node50" href="$classJoyGradientButton.html#aeb260d7d14d0c19360fa34edcf121aa7" title="Activate a turbo event on a button." alt="" coords="2043,713,2193,754"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#a4acc0f1d2e12a34874522f558e1e9d3f" title=" " alt="" coords="1783,227,1982,269"/>
+<area shape="rect" id="node10" href="$classJoySensor.html#aafd5dae106262d6040b720be271cf800" title="Find the position of the three sensor axes, deactivate no longer used sensor direction button and the..." alt="" coords="1780,741,1985,768"/>
+<area shape="rect" id="node15" href="$classJoyDPad.html#a1f5c5db45f36b205d1c4a43f1616950a" title=" " alt="" coords="1785,399,1980,425"/>
+<area shape="rect" id="node21" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="593,457,744,484"/>
+<area shape="rect" id="node31" href="$classJoyAxis.html#a0e85739f3da15defbb1ad9ffb7def2d9" title=" " alt="" coords="991,633,1180,660"/>
+<area shape="rect" id="node34" href="$classJoyControlStick.html#a18e586ffa9f2fc09004dd1ebc895b3a8" title="Find the position of the two stick axes, deactivate no longer used stick direction button and then ac..." alt="" coords="1513,559,1715,601"/>
+<area shape="rect" id="node39" href="$classJoyControlStick.html#a0bd5c24e572f9485780820d54f755b88" title="Activate a stick direction button." alt="" coords="1792,559,1973,601"/>
+<area shape="rect" id="node40" href="$classJoyControlStick.html#a32b6c7a796ec7b24e9c0124a6bcffd2e" title="Stick direction button to release." alt="" coords="1792,625,1973,666"/>
+<area shape="rect" id="node41" href="$classJoyDPad.html#aa20b65bef79d9e80894a9be835b441c1" title=" " alt="" coords="1773,793,1992,820"/>
+<area shape="rect" id="node43" href="$classJoyControlStick.html#a295a9b9b1a5c4d3a49c9d9697a9527e0" title=" " alt="" coords="1794,902,1971,943"/>
+<area shape="rect" id="node48" href="$classJoyAxis.html#a8df3e761cbf9876ab5a3db30c1a02fc3" title=" " alt="" coords="1794,848,1971,875"/>
+<area shape="rect" id="node49" href="$classJoyButton.html#ad152d22f7f7d8ea561f363d43903e059" title=" " alt="" coords="1805,997,1960,1024"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#af5f9f9065334b90aa45d4c86a63337f1" title=" " alt="" coords="1507,122,1721,163"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#a65bcbfa6997970fff86e72e3a13167e0" title=" " alt="" coords="1234,122,1449,163"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#ac34e93b3e44b08cffb86551e15bedfb4" title=" " alt="" coords="1245,5,1437,32"/>
+<area shape="rect" id="node8" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="1228,188,1455,215"/>
+<area shape="rect" id="node9" href="$classInputDevice.html#aebcc4b8149c2bab8a0652323206d32bb" title=" " alt="" coords="1246,57,1437,98"/>
+<area shape="rect" id="node11" href="$classJoySensor.html#a846477c350f77e608cf39d6f450edd51" title="Slot called when m_delay_timer has timed out. The method will call createDeskEvent." alt="" coords="1505,691,1723,717"/>
+<area shape="rect" id="node13" href="$classJoySensor.html#ade1aa521f8031e35a3befc406ba60219" title="Main sensor mapping function. When activated, it generates a &quot;moved&quot; QT event which updates various p..." alt="" coords="1539,741,1689,768"/>
+<area shape="rect" id="node12" href="$classJoySensor.html#af9b16315366b758eba4fb5759e7ee13e" title=" " alt="" coords="1262,691,1421,717"/>
+<area shape="rect" id="node14" href="$classJoySensor.html#acbaa34beb6de8290766eb925876be45f" title="Activates previously queued movement event This is called by InputDevice." alt="" coords="1242,742,1441,783"/>
+<area shape="rect" id="node16" href="$classJoyDPad.html#adfcee6e2b57a7e643c74c26159a32997" title=" " alt="" coords="1503,391,1725,433"/>
+<area shape="rect" id="node18" href="$classJoyDPad.html#ac660764f3e958b5c1cf9da1a5d2f2398" title=" " alt="" coords="1544,297,1684,324"/>
+<area shape="rect" id="node17" href="$classJoyDPad.html#a10f75107588bfe924d270b5151c374e8" title=" " alt="" coords="1273,407,1409,433"/>
+<area shape="rect" id="node19" href="$classJoyDPad.html#a640159e6d6d1cc955e74b95b3f45834c" title=" " alt="" coords="1247,290,1435,331"/>
+<area shape="rect" id="node20" href="$classVDPad.html#a48d8aa1c0a915b9ae46b519e76e4be6e" title=" " alt="" coords="1277,356,1406,383"/>
+<area shape="rect" id="node22" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="5,238,243,279"/>
+<area shape="rect" id="node23" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="319,326,501,367"/>
+<area shape="rect" id="node24" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="37,434,211,475"/>
+<area shape="rect" id="node25" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="30,525,218,566"/>
+<area shape="rect" id="node26" href="$classAdvanceStickAssignmentDialog.html#a48ade79f1dfeb93ff668ac18d0e1243f" title=" " alt="" coords="295,209,525,250"/>
+<area shape="rect" id="node27" href="$classJoystickStatusWindow.html#a1a1c28e1d6f480c7424ba81b30b8b4f5" title=" " alt="" coords="327,391,493,433"/>
+<area shape="rect" id="node28" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="291,626,529,667"/>
+<area shape="rect" id="node29" href="$classQuickSetDialog.html#afacbf395389ca073edf366a412c1626b" title=" " alt="" coords="297,509,523,550"/>
+<area shape="rect" id="node30" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="299,691,521,733"/>
+<area shape="rect" id="node32" href="$classJoyAxis.html#a9c5f69db8b88f31a1df043a00ab9d09a" title=" " alt="" coords="808,576,943,603"/>
+<area shape="rect" id="node33" href="$classJoyAxis.html#a6db16ad8451e2f2b09215385d5371151" title=" " alt="" coords="577,569,760,610"/>
+<area shape="rect" id="node35" href="$classJoyControlStick.html#a376fa9faaaba5e00c4b1f9c8caa6236a" title="Take the input value for the two axes that make up a stick and activate the proper event based on the..." alt="" coords="1248,520,1435,547"/>
+<area shape="rect" id="node38" href="$classJoyControlStick.html#a1eada62b1da2f1a87dd698a19cc59ae4" title="Slot called when directionDelayTimer has timed out. The method will call createDeskEvent." alt="" coords="1232,571,1451,613"/>
+<area shape="rect" id="node36" href="$classJoyControlStick.html#ad7119f707adeb6546470809628d122be" title=" " alt="" coords="994,510,1177,551"/>
+<area shape="rect" id="node37" href="$classJoyAxis.html#aeceeef14f2a92dad67aed5d07b2669d0" title=" " alt="" coords="998,576,1173,603"/>
+<area shape="rect" id="node42" href="$classDPadEditDialog.html#adfad573034ea62490614303638c16040" title=" " alt="" coords="1513,793,1715,834"/>
+<area shape="rect" id="node44" href="$classJoyControlStickEditDialog.html#aec8873b859f10e904c9ddde9b22c3413" title=" " alt="" coords="1520,961,1708,1002"/>
+<area shape="rect" id="node45" href="$classJoyAxis.html#aa013bcc6b2391c594f043f8fe0f9b1f2" title=" " alt="" coords="1511,909,1717,936"/>
+<area shape="rect" id="node46" href="$classJoyAxis.html#ac51525cabe4d0ea5aafebe949cde458f" title=" " alt="" coords="1253,884,1430,911"/>
+<area shape="rect" id="node47" href="$classJoyAxisButton.html#a8c8633a722e2c0a226924608259221d6" title=" " alt="" coords="1250,968,1433,995"/>
+</map>

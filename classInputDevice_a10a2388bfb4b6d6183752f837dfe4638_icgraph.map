@@ -1,0 +1,11 @@
+<map id="InputDevice::getSDLJoystickID" name="InputDevice::getSDLJoystickID">
+<area shape="rect" id="node1" title=" " alt="" coords="989,83,1208,110"/>
+<area shape="rect" id="node2" href="$classInputDaemon.html#a9e5f5e28dc44a7d61625b76c6497ab0f" title="Postprocesses fetched raw events." alt="" coords="455,5,665,47"/>
+<area shape="rect" id="node5" href="$classInputDaemon.html#a69164b93be97f28321b0cea7662feb6e" title=" " alt="" coords="721,58,941,85"/>
+<area shape="rect" id="node7" href="$classInputDaemon.html#acd2ed735ec3a24f3c0ad5c280f7cc6fa" title=" " alt="" coords="725,159,938,186"/>
+<area shape="rect" id="node9" href="$classMainWindow.html#ac398cc635954d370088390a0a5bee878" title=" " alt="" coords="729,109,934,135"/>
+<area shape="rect" id="node3" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,83,399,110"/>
+<area shape="rect" id="node4" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,83,212,110"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="533,77,587,103"/>
+<area shape="rect" id="node8" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="447,138,673,165"/>
+</map>

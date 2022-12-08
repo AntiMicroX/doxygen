@@ -1,0 +1,11 @@
+<map id="u32tole" name="u32tole">
+<area shape="rect" id="node1" title=" " alt="" coords="1032,64,1103,91"/>
+<area shape="rect" id="node2" href="$structEffectRigidPs5.html#a0b3f26b04eed514a2488066840eeeb5d" title="Builds a rigid effect message." alt="" coords="829,5,984,32"/>
+<area shape="rect" id="node8" href="$structEffectVibrationPs5.html#ae6a9d4ac9fbdebc25ad25120ca9ee3d5" title="Builds a vibration effect message." alt="" coords="836,57,977,98"/>
+<area shape="rect" id="node9" href="$structEffectRigidPs5.html#abbc8ec551b087c1c5656fd59015336df" title="Builds a rigid gradient effect message. This effect starts with a strength of zero and slowly increas..." alt="" coords="829,122,984,163"/>
+<area shape="rect" id="node3" href="$classHapticTriggerPs5.html#ae9d99ac144c366bf9033957c27b22ef6" title="Low level function to write one HapticTriggerPs5 effect into a PS5 controller message." alt="" coords="629,57,781,98"/>
+<area shape="rect" id="node4" href="$classHapticTriggerPs5.html#a6a1bb343df20b307c827349e93297735" title="Creates an low level message from two HapticTriggerPs5 objects and send them to the controller." alt="" coords="411,64,581,91"/>
+<area shape="rect" id="node5" href="$classGameControllerSet.html#addf5de4dec4e1b8f94f6b6f63a94f793" title="Applies haptic feedback to the triggers of the controller." alt="" coords="208,57,363,98"/>
+<area shape="rect" id="node6" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,23,160,65"/>
+<area shape="rect" id="node7" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="5,89,160,130"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="JoySensor::calculateDirectionalDistance" name="JoySensor::calculateDirectionalDistance">
+<area shape="rect" id="node1" title="Used to calculate the distance value that should be used by the JoyButton in the given direction." alt="" coords="5,71,229,112"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a4f728f49046090ce9db1e98bd1b4d128" title="Get current X distance of the sensor past the assigned dead zone." alt="" coords="277,5,496,47"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a319f336deb6f5979ee5358e1834ed64f" title="Get current Y distance of the sensor past the assigned dead zone." alt="" coords="277,71,496,112"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a44bbf102b5564ea2c52ff25b4f1efe86" title="Get current Z distance of the sensor past the assigned dead zone." alt="" coords="277,136,496,177"/>
+</map>

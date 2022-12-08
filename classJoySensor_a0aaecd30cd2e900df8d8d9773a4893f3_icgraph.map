@@ -1,0 +1,5 @@
+<map id="JoySensor::getDistanceFromDeadZone" name="JoySensor::getDistanceFromDeadZone">
+<area shape="rect" id="node1" title="Get current radial distance of the sensor past the assigned dead zone." alt="" coords="416,5,621,47"/>
+<area shape="rect" id="node2" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node3" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="215,35,368,76"/>
+</map>

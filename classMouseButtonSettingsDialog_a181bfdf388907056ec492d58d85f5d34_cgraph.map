@@ -1,0 +1,52 @@
+<map id="MouseButtonSettingsDialog::MouseButtonSettingsDialog" name="MouseButtonSettingsDialog::MouseButtonSettingsDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1310,216,1351"/>
+<area shape="rect" id="node2" href="$classMouseButtonSettingsDialog.html#ae15a5e00ae65fffde35a6f298e971e6b" title=" " alt="" coords="270,86,513,127"/>
+<area shape="rect" id="node5" href="$classMouseButtonSettingsDialog.html#a80a3a1605d5cf324e1f865d538e9ab16" title=" " alt="" coords="285,187,498,229"/>
+<area shape="rect" id="node8" href="$classMouseButtonSettingsDialog.html#ab3bbeba1dc9c46e98b6b53469baadb6e" title=" " alt="" coords="290,253,493,294"/>
+<area shape="rect" id="node11" href="$classMouseButtonSettingsDialog.html#a63822a92010aa61f62d22413b6b16e1b" title=" " alt="" coords="290,383,493,425"/>
+<area shape="rect" id="node14" href="$classMouseButtonSettingsDialog.html#af2f3f8cacbf6c91f0dd935c4db231612" title=" " alt="" coords="290,551,493,593"/>
+<area shape="rect" id="node15" href="$classJoyButton.html#a77afa6c5934d2665bad6d494b812f372" title="Check if button should be considered a part of a real controller axis. Needed for some dialogs so the..." alt="" coords="588,473,775,500"/>
+<area shape="rect" id="node16" href="$classSpringModeRegionPreview.html#a8d2b08d077d77697a327e2d062130cbd" title=" " alt="" coords="583,529,779,570"/>
+<area shape="rect" id="node17" href="$classSpringModeRegionPreview.html#a769d674b3f0697dee55b0a7fbfe4a48f" title=" " alt="" coords="583,601,779,642"/>
+<area shape="rect" id="node18" href="$classMouseSettingsDialog.html#aa4950d5644d83623e3c3e0f8d6974636" title=" " alt="" coords="283,318,500,359"/>
+<area shape="rect" id="node19" href="$classMouseSettingsDialog.html#a2c50aa11cdd3d1c30a8b86cbb5fb6d65" title=" " alt="" coords="288,669,495,710"/>
+<area shape="rect" id="node20" href="$classJoyButton.html#adecd613014ea43710adc26c9c32ba2ab" title=" " alt="" coords="300,734,483,775"/>
+<area shape="rect" id="node21" href="$classJoyButton.html#a4b2396063cc8b5dff26c8a54f3309479" title=" " alt="" coords="285,800,498,827"/>
+<area shape="rect" id="node22" href="$classJoyButton.html#ad4007e748f2bead2dd5899fc612f94fa" title=" " alt="" coords="277,851,506,893"/>
+<area shape="rect" id="node23" href="$classMouseButtonSettingsDialog.html#a1b828fb574ef5b332f2731536f458e39" title=" " alt="" coords="290,917,493,958"/>
+<area shape="rect" id="node24" href="$classJoyButton.html#a421e623fa5b3c324c95c28c34d6a485c" title=" " alt="" coords="271,983,512,1009"/>
+<area shape="rect" id="node25" href="$classJoyButton.html#ab4b60928265f82108c16be1de7ef28b3" title=" " alt="" coords="273,1033,510,1060"/>
+<area shape="rect" id="node26" href="$classJoyButton.html#ac401cbfb9ac4d75cef4f8bc786172118" title=" " alt="" coords="300,1084,483,1111"/>
+<area shape="rect" id="node27" href="$classJoyButton.html#a60ecfef194078a1d77b4bf7a5e187cbf" title=" " alt="" coords="297,1135,486,1177"/>
+<area shape="rect" id="node28" href="$classJoyButton.html#ac9b85925d5c58f33b715a6db361012e2" title=" " alt="" coords="301,1201,481,1242"/>
+<area shape="rect" id="node29" href="$classJoyButton.html#a8f39bf2962ca3e935c6cd6ea248e0f54" title=" " alt="" coords="289,1267,493,1293"/>
+<area shape="rect" id="node30" href="$classJoyButton.html#afea7d93cb110917ab2721204338f6b7c" title=" " alt="" coords="290,1317,493,1344"/>
+<area shape="rect" id="node31" href="$classJoyButton.html#a13a762188a2239af9e5ed25c532b98f6" title=" " alt="" coords="282,1369,501,1410"/>
+<area shape="rect" id="node32" href="$classJoyButton.html#a79b44a6acc2c7860472759f5e2dca087" title=" " alt="" coords="292,1435,491,1461"/>
+<area shape="rect" id="node33" href="$classMouseButtonSettingsDialog.html#aa410dc4a95ebe7784c375e963567c6de" title=" " alt="" coords="273,1486,510,1527"/>
+<area shape="rect" id="node34" href="$classJoyButton.html#afd7d3140abdc30b8f1572add36409919" title=" " alt="" coords="285,1552,497,1579"/>
+<area shape="rect" id="node35" href="$classMouseButtonSettingsDialog.html#a0c37f18a3f4a0544925f1867ddaeca0c" title=" " alt="" coords="274,1603,509,1659"/>
+<area shape="rect" id="node36" href="$classMouseButtonSettingsDialogHelper.html#a004b32631c73e2d939f2b5f0bb01c88b" title=" " alt="" coords="270,1683,513,1725"/>
+<area shape="rect" id="node37" href="$classMouseButtonSettingsDialog.html#a4ccdbcee03e3d868b213f45a7bc02bea" title=" " alt="" coords="280,1749,503,1790"/>
+<area shape="rect" id="node38" href="$classMouseButtonSettingsDialog.html#a86f70f8fc7555ca44356d171e33333ea" title=" " alt="" coords="289,1814,494,1855"/>
+<area shape="rect" id="node39" href="$classMouseButtonSettingsDialog.html#a6d35401be722032c8035dab325b8bdbc" title=" " alt="" coords="277,1879,505,1921"/>
+<area shape="rect" id="node40" href="$classMouseButtonSettingsDialogHelper.html#a2b4f9cfdd1a8d98becc8fc15d2b1ee0b" title=" " alt="" coords="275,1945,508,2001"/>
+<area shape="rect" id="node41" href="$classMouseButtonSettingsDialogHelper.html#afd32ffec3172be5b6edd58e548a497a7" title=" " alt="" coords="275,2025,508,2081"/>
+<area shape="rect" id="node42" href="$classMouseButtonSettingsDialogHelper.html#ad77bee93c81cbbcc1b94906192954579" title=" " alt="" coords="269,2106,514,2147"/>
+<area shape="rect" id="node43" href="$classMouseButtonSettingsDialogHelper.html#a7e82b3d1e28beec44976fe3e823b82f4" title=" " alt="" coords="271,2171,512,2213"/>
+<area shape="rect" id="node44" href="$classMouseButtonSettingsDialogHelper.html#ad25ae613c02135207f862c7e8fedaa69" title=" " alt="" coords="264,2237,519,2278"/>
+<area shape="rect" id="node45" href="$classMouseButtonSettingsDialog.html#a196bee0cd8ac4b8a591c946daf522dab" title=" " alt="" coords="290,2302,493,2343"/>
+<area shape="rect" id="node46" href="$classMouseButtonSettingsDialog.html#a8f46871223acfdb08a2e0cd1721b086f" title=" " alt="" coords="290,2367,493,2409"/>
+<area shape="rect" id="node47" href="$classMouseButtonSettingsDialogHelper.html#a4fd35e604ece8e77c5ff228ffd0433b1" title=" " alt="" coords="264,2433,519,2474"/>
+<area shape="rect" id="node48" href="$classMouseButtonSettingsDialog.html#a99c0407e2f8afcf348ac683bca423ec6" title=" " alt="" coords="290,2498,493,2539"/>
+<area shape="rect" id="node49" href="$classMouseButtonSettingsDialogHelper.html#ac4595eed9f7d5752386f1d9d82862ebf" title=" " alt="" coords="264,2563,519,2605"/>
+<area shape="rect" id="node50" href="$classMouseButtonSettingsDialog.html#a2f23599f16d802415aa8ea016341199b" title=" " alt="" coords="272,2629,511,2670"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#acd84988b8ba20fb677c8ff9d10f900c3" title=" " alt="" coords="567,86,796,127"/>
+<area shape="rect" id="node4" href="$classMouseSettingsDialog.html#ab5ac51d0e5fd4f505faa11128a279109" title=" " alt="" coords="567,5,795,61"/>
+<area shape="rect" id="node6" href="$classJoyButton.html#a76e65a13abf96d01fa11ed9fd3b08a7b" title=" " alt="" coords="578,203,785,229"/>
+<area shape="rect" id="node7" href="$classJoyButton.html#a897f0f78773ace1b5916222bd757b1bc" title=" " alt="" coords="579,152,784,179"/>
+<area shape="rect" id="node9" href="$classJoyButton.html#ae52698526b927b1780ccde48e965a1c7" title=" " alt="" coords="582,304,781,331"/>
+<area shape="rect" id="node10" href="$classJoyButton.html#a51beaf1d3e91d0fd501368f52fa602f6" title=" " alt="" coords="585,253,778,280"/>
+<area shape="rect" id="node12" href="$classMouseSettingsDialog.html#a7adbe7521ee56d97cf8c38efc39f4b6c" title=" " alt="" coords="587,355,775,397"/>
+<area shape="rect" id="node13" href="$classJoyButton.html#a89b6b5b57ffe55c871447466b37b5df6" title=" " alt="" coords="584,421,779,448"/>
+</map>

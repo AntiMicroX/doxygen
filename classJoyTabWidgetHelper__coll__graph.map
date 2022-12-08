@@ -1,0 +1,11 @@
+<map id="JoyTabWidgetHelper" name="JoyTabWidgetHelper">
+<area shape="rect" id="node1" title=" " alt="" coords="146,439,299,465"/>
+<area shape="rect" id="node2" title=" " alt="" coords="72,81,147,108"/>
+<area shape="rect" id="node3" href="$classXMLConfigWriter.html" title=" " alt="" coords="72,349,203,376"/>
+<area shape="rect" id="node4" href="$classInputDeviceXml.html" title="Generic InputDevice XML serialization/deserialization helper class Reads data from the supplied Input..." alt="" coords="94,260,221,287"/>
+<area shape="rect" id="node5" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="293,171,393,197"/>
+<area shape="rect" id="node9" href="$classXMLConfigReader.html" title="Main XML config reader class." alt="" coords="615,260,753,287"/>
+<area shape="rect" id="node8" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="420,260,591,287"/>
+<area shape="rect" id="node6" href="$classAntiMicroSettings.html" title=" " alt="" coords="666,81,803,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="692,5,777,32"/>
+</map>

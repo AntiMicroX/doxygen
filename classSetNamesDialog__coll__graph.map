@@ -1,0 +1,9 @@
+<map id="SetNamesDialog" name="SetNamesDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,260,136,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="12,171,87,197"/>
+<area shape="rect" id="node3" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="122,171,222,197"/>
+<area shape="rect" id="node7" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="172,260,343,287"/>
+<area shape="rect" id="node4" title=" " alt="" coords="92,81,167,108"/>
+<area shape="rect" id="node5" href="$classAntiMicroSettings.html" title=" " alt="" coords="191,81,329,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="217,5,303,32"/>
+</map>

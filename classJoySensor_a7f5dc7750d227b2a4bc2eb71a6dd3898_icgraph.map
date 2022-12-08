@@ -1,0 +1,31 @@
+<map id="JoySensor::radToDeg" name="JoySensor::radToDeg">
+<area shape="rect" id="node1" title="Utility function which converts a given value from radians to degree." alt="" coords="1859,537,2013,563"/>
+<area shape="rect" id="node2" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="1313,92,1480,133"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="1594,339,1777,366"/>
+<area shape="rect" id="node6" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="1039,369,1201,411"/>
+<area shape="rect" id="node11" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="1578,259,1793,286"/>
+<area shape="rect" id="node12" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="1597,109,1773,135"/>
+<area shape="rect" id="node13" href="$classJoyGyroscopeSensor.html#a5a3c06dffc3969fd08ee5447d1740e12" title="Get the value for the corresponding X axis." alt="" coords="1608,588,1763,629"/>
+<area shape="rect" id="node14" href="$classJoyGyroscopeSensor.html#a66273fd0ed48b63fd967b7a82ae96c44" title="Get the value for the corresponding Y axis." alt="" coords="1608,653,1763,695"/>
+<area shape="rect" id="node15" href="$classJoyGyroscopeSensor.html#a84a551e3c26e40d3b98dcfe1809dc34d" title="Get the value for the corresponding Z axis." alt="" coords="1608,719,1763,760"/>
+<area shape="rect" id="node16" href="$classCalibration.html#ac9f926307bf97c12bd0595ea5599c81e" title="Shows the sensor offset calibration values to the user." alt="" coords="1560,784,1811,825"/>
+<area shape="rect" id="node27" href="$classJoystickStatusWindow.html#aeff382f6429d2c55b2bcd33600301dd3" title="Gyroscope &quot;moved&quot; event handler Updates raw gyroscope values on the screen." alt="" coords="1592,864,1779,905"/>
+<area shape="rect" id="node29" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="1320,479,1473,520"/>
+<area shape="rect" id="node3" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="1044,92,1196,133"/>
+<area shape="rect" id="node5" href="$classJoySensorEditDialog.html#ac54b2583e87546880baf282a0f16f57a" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="1320,260,1473,301"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a4c1dd1342e7f76c46ed02eea0dbbf22f" title="Checks if all sensor settings and button mappings are the their default values. This is used during X..." alt="" coords="1320,209,1473,235"/>
+<area shape="rect" id="node10" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="1036,158,1204,185"/>
+<area shape="rect" id="node8" href="$classJoySensor.html#a723df3dcae43b4509bf1af84191e5ad5" title="Copy slots from all sensor buttons and properties from a sensor onto another." alt="" coords="1015,209,1225,235"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="737,209,954,235"/>
+<area shape="rect" id="node17" href="$classCalibration.html#a9cf0035951f569e3f36c69f0143415af" title="Sensor data event handler. Performs gyroscope offset and accelerometer neutral orientation estimation..." alt="" coords="1281,667,1512,694"/>
+<area shape="rect" id="node20" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,718,684,745"/>
+<area shape="rect" id="node25" href="$classCalibration.html#ae3253fa86307093fede3b8504d526290" title="Resets calibration values of the currently selected device and updates UI." alt="" coords="1294,828,1499,869"/>
+<area shape="rect" id="node18" href="$classCalibration.html#a4d6005148d0108fc471b1bf688f3a171" title="Show calibration message to the user and enable accelerometer data event handler." alt="" coords="1007,595,1233,636"/>
+<area shape="rect" id="node23" href="$classCalibration.html#aa04b4940601835dfbe0f227b10c50bee" title="Show calibration message to the user and enable gyroscope data event handler." alt="" coords="1020,660,1220,701"/>
+<area shape="rect" id="node19" href="$classCalibration.html#a946179d261fbbb93f2419697acac86d4" title="Shows user instructions for accelerometer calibration and initializes estimators." alt="" coords="732,595,959,636"/>
+<area shape="rect" id="node21" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,777,177,803"/>
+<area shape="rect" id="node22" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,711,429,752"/>
+<area shape="rect" id="node24" href="$classCalibration.html#a481f3588a8fa375a75f3b1b779e7a742" title="Shows user instructions for gyroscope calibration and initializes estimators." alt="" coords="745,711,945,752"/>
+<area shape="rect" id="node26" href="$classCalibration.html#a730f9db8e246b74302ba4f8dca413829" title="Asks for confirmation and resets calibration values of the selected device afterwards." alt="" coords="487,830,674,857"/>
+<area shape="rect" id="node28" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="1309,893,1484,935"/>
+</map>

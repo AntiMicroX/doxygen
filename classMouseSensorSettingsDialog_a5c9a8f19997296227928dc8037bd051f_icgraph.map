@@ -1,0 +1,4 @@
+<map id="MouseSensorSettingsDialog::calculateMouseSpeedPreset" name="MouseSensorSettingsDialog::calculateMouseSpeedPreset">
+<area shape="rect" id="node1" title="Get the maximum mouse speed used by the buttons of the associated sensor and set the UI values to it." alt="" coords="265,5,479,47"/>
+<area shape="rect" id="node2" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="5,5,217,47"/>
+</map>

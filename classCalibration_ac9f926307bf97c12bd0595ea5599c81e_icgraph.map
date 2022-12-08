@@ -1,0 +1,13 @@
+<map id="Calibration::showSensorCalibrationValues" name="Calibration::showSensorCalibrationValues">
+<area shape="rect" id="node1" title="Shows the sensor offset calibration values to the user." alt="" coords="1560,232,1811,273"/>
+<area shape="rect" id="node2" href="$classCalibration.html#a9cf0035951f569e3f36c69f0143415af" title="Sensor data event handler. Performs gyroscope offset and accelerometer neutral orientation estimation..." alt="" coords="1281,130,1512,157"/>
+<area shape="rect" id="node5" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,181,684,207"/>
+<area shape="rect" id="node10" href="$classCalibration.html#ae3253fa86307093fede3b8504d526290" title="Resets calibration values of the currently selected device and updates UI." alt="" coords="1294,291,1499,332"/>
+<area shape="rect" id="node3" href="$classCalibration.html#a4d6005148d0108fc471b1bf688f3a171" title="Show calibration message to the user and enable accelerometer data event handler." alt="" coords="1007,5,1233,47"/>
+<area shape="rect" id="node8" href="$classCalibration.html#aa04b4940601835dfbe0f227b10c50bee" title="Show calibration message to the user and enable gyroscope data event handler." alt="" coords="1020,123,1220,164"/>
+<area shape="rect" id="node4" href="$classCalibration.html#a946179d261fbbb93f2419697acac86d4" title="Shows user instructions for accelerometer calibration and initializes estimators." alt="" coords="732,64,959,105"/>
+<area shape="rect" id="node6" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,239,177,266"/>
+<area shape="rect" id="node7" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,232,429,273"/>
+<area shape="rect" id="node9" href="$classCalibration.html#a481f3588a8fa375a75f3b1b779e7a742" title="Shows user instructions for gyroscope calibration and initializes estimators." alt="" coords="745,173,945,215"/>
+<area shape="rect" id="node11" href="$classCalibration.html#a730f9db8e246b74302ba4f8dca413829" title="Asks for confirmation and resets calibration values of the selected device afterwards." alt="" coords="487,298,674,325"/>
+</map>

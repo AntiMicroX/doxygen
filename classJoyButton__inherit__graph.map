@@ -1,0 +1,13 @@
+<map id="JoyButton" name="JoyButton">
+<area shape="rect" id="node1" title="Represents a single joystick button being part of a SetJoystick Contains multiple JoyButtonSlots whic..." alt="" coords="261,80,346,107"/>
+<area shape="rect" id="node3" href="$classJoyDPadButton.html" title=" " alt="" coords="168,155,287,181"/>
+<area shape="rect" id="node4" href="$classJoyGradientButton.html" title=" " alt="" coords="310,155,451,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="266,5,341,32"/>
+<area shape="rect" id="node5" href="$classJoyAxisButton.html" title=" " alt="" coords="55,229,168,256"/>
+<area shape="rect" id="node7" href="$classJoyControlStickButton.html" title=" " alt="" coords="192,229,356,256"/>
+<area shape="rect" id="node8" href="$classJoyControlStickModifierButton.html" title=" " alt="" coords="380,229,597,256"/>
+<area shape="rect" id="node9" href="$classJoySensorButton.html" title="Represents a sensor mapping in a SetJoystick." alt="" coords="621,229,751,256"/>
+<area shape="rect" id="node6" href="$classGameControllerTriggerButton.html" title=" " alt="" coords="5,304,217,331"/>
+<area shape="rect" id="node10" href="$classJoyAccelerometerButton.html" title="Represents an accelerometer mapping in a SetJoystick." alt="" coords="500,304,680,331"/>
+<area shape="rect" id="node11" href="$classJoyGyroscopeButton.html" title="Represents a gyroscope mapping in a SetJoystick." alt="" coords="705,304,859,331"/>
+</map>

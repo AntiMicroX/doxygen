@@ -1,0 +1,52 @@
+<map id="InputDaemon::secondInputPass" name="InputDaemon::secondInputPass">
+<area shape="rect" id="node1" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="5,1295,232,1322"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#ae8668b4649e0439c1dd30abd72c3283e" title=" " alt="" coords="292,140,507,181"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="587,676,777,717"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="597,173,767,199"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#af5f9f9065334b90aa45d4c86a63337f1" title=" " alt="" coords="292,359,507,400"/>
+<area shape="rect" id="node10" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="589,391,775,418"/>
+<area shape="rect" id="node13" href="$classInputDevice.html#ad8d98f2fb62d52cc950b392f99f41ff7" title=" " alt="" coords="292,581,507,623"/>
+<area shape="rect" id="node18" href="$classInputDevice.html#ab13479e4fc445d8b97b78d7fa6b31e70" title=" " alt="" coords="292,821,507,863"/>
+<area shape="rect" id="node20" href="$classJoyDPad.html#ac660764f3e958b5c1cf9da1a5d2f2398" title=" " alt="" coords="845,854,985,881"/>
+<area shape="rect" id="node21" href="$classSetJoystick.html#a5071c4bc7bdb1b0601b60b807a235818" title=" " alt="" coords="594,909,770,935"/>
+<area shape="rect" id="node24" href="$classInputDevice.html#a720179cfcf5f65f0b29a2b9efc55624a" title=" " alt="" coords="292,1011,507,1052"/>
+<area shape="rect" id="node26" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="599,1127,765,1154"/>
+<area shape="rect" id="node28" href="$classInputDevice.html#aaaf75191c01b7070d9e76a44a44cfc3b" title=" " alt="" coords="292,1128,507,1169"/>
+<area shape="rect" id="node33" href="$classInputDaemon.html#a5dceec80700a55f0e82e35d44d6d171a" title=" " alt="" coords="289,1194,509,1221"/>
+<area shape="rect" id="node35" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="567,1447,797,1488"/>
+<area shape="rect" id="node36" href="$classJoyButton.html#a65766cc767496485cc211a6e1511137a" title=" " alt="" coords="299,1346,499,1373"/>
+<area shape="rect" id="node37" href="$classJoyButton.html#a6f1b62fe61277f5f341dd5156f701946" title="Get the list of buttons that have a pending mouse movement event." alt="" coords="295,1397,504,1439"/>
+<area shape="rect" id="node38" href="$classInputDevice.html#af398dd46ce98825fe56b36e41a13db9b" title=" " alt="" coords="284,1463,515,1490"/>
+<area shape="rect" id="node39" href="$classJoyButton.html#adcbf2eb84178a075252fd096c5aee4e9" title=" " alt="" coords="302,1515,497,1556"/>
+<area shape="rect" id="node40" href="$classJoyButton.html#a3be083ee56eea1d917bdaf0a3e86a1a4" title=" " alt="" coords="280,1581,519,1607"/>
+<area shape="rect" id="node41" href="$classJoyButton.html#a796b6cd5a6b46036949bcecde9ed520c" title=" " alt="" coords="288,1631,511,1658"/>
+<area shape="rect" id="node42" href="$classJoySensor.html#abe3d9f8dddf28f284d06113816f71da6" title="Queues next movement event from InputDaemon." alt="" coords="288,1682,511,1709"/>
+<area shape="rect" id="node43" href="$classJoyAxis.html#ac060a3703ce33d35256e66aaa60b930b" title=" " alt="" coords="296,1733,503,1759"/>
+<area shape="rect" id="node44" href="$classJoyButton.html#afcb6355f406670af65d221d2d205d8ba" title=" " alt="" coords="288,1783,511,1810"/>
+<area shape="rect" id="node45" href="$classGameController.html#ae8422462fdb74771fb54279529e5fe7e" title=" " alt="" coords="288,1834,511,1861"/>
+<area shape="rect" id="node46" href="$classInputDevice.html#a9096dbaf2ac830c499773d69a4a052c3" title=" " alt="" coords="301,1885,498,1911"/>
+<area shape="rect" id="node47" href="$classGameController.html#aaa9506ec46b72ee6d51fbdba2b57caee" title=" " alt="" coords="299,1936,499,1977"/>
+<area shape="rect" id="node48" href="$classGameController.html#a77a2f45d14a559b6eaf752d72a0404d5" title=" " alt="" coords="286,2002,513,2029"/>
+<area shape="rect" id="node49" href="$classInputDaemon.html#acd2ed735ec3a24f3c0ad5c280f7cc6fa" title=" " alt="" coords="293,1245,506,1271"/>
+<area shape="rect" id="node50" href="$classJoyButton.html#ac5fb2a5009b967d75bca35479a1b15a3" title=" " alt="" coords="288,2053,511,2095"/>
+<area shape="rect" id="node3" href="$classJoyAxis.html#a6db16ad8451e2f2b09215385d5371151" title=" " alt="" coords="591,5,773,47"/>
+<area shape="rect" id="node6" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="579,71,785,98"/>
+<area shape="rect" id="node7" href="$classJoyAxis.html#a25bb39da433882082512abb86f193950" title=" " alt="" coords="587,122,777,149"/>
+<area shape="rect" id="node9" href="$classJoyButton.html#a4acc0f1d2e12a34874522f558e1e9d3f" title=" " alt="" coords="583,224,781,265"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#a446e296af015f6304bd7425153a4c4ae" title=" " alt="" coords="569,290,795,317"/>
+<area shape="rect" id="node12" href="$classJoyButton.html#afe3f090aab843388fc9cb257b09210e4" title=" " alt="" coords="579,341,785,367"/>
+<area shape="rect" id="node14" href="$classJoyControlStick.html#ad7119f707adeb6546470809628d122be" title=" " alt="" coords="591,443,773,484"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#a7b74d7b4a0adfc9c25cdbe4433d9b275" title=" " alt="" coords="595,509,769,535"/>
+<area shape="rect" id="node16" href="$classSetJoystick.html#a4214561d42aa44bd1b781ed88a1695ad" title=" " alt="" coords="575,559,789,586"/>
+<area shape="rect" id="node17" href="$classJoyControlStick.html#a3bd4abfc2f94e2638d76f7f0dabfb8f8" title=" " alt="" coords="580,611,784,652"/>
+<area shape="rect" id="node19" href="$classJoyDPad.html#a640159e6d6d1cc955e74b95b3f45834c" title=" " alt="" coords="588,741,776,783"/>
+<area shape="rect" id="node22" href="$classSetJoystick.html#ab3a314813bde0be4e3b80fd77deea968" title=" " alt="" coords="579,807,785,834"/>
+<area shape="rect" id="node23" href="$classJoyDPad.html#a0c62d470eb5f14bdcbd67a51e15892d3" title=" " alt="" coords="585,858,779,885"/>
+<area shape="rect" id="node25" href="$classJoySensor.html#acbaa34beb6de8290766eb925876be45f" title="Activates previously queued movement event This is called by InputDevice." alt="" coords="583,1011,781,1052"/>
+<area shape="rect" id="node27" href="$classJoySensor.html#a1696e08700734bb8b4412ea085c0b421" title="Checks if an event is queued." alt="" coords="579,1077,785,1103"/>
+<area shape="rect" id="node29" href="$classVDPad.html#a03844375e4b1fd052934a745d5081cad" title=" " alt="" coords="575,1178,789,1205"/>
+<area shape="rect" id="node30" href="$classSetJoystick.html#a556752a5816edd7f1e34dad0651f8739" title=" " alt="" coords="570,1229,794,1255"/>
+<area shape="rect" id="node31" href="$classSetJoystick.html#abcdc88c96a95fb0f5d8a721582d22851" title=" " alt="" coords="599,1279,765,1306"/>
+<area shape="rect" id="node32" href="$classVDPad.html#a3c18a68a72cb12be417cf960f7b7685b" title=" " alt="" coords="590,1330,774,1357"/>
+<area shape="rect" id="node34" href="$classInputDaemon.html#a1518b0defd68ae40f18735f22cbe717e" title=" " alt="" coords="567,1381,797,1423"/>
+</map>

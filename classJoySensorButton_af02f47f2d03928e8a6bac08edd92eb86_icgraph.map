@@ -1,0 +1,7 @@
+<map id="JoySensorButton::setChangeSetCondition" name="JoySensorButton::setChangeSetCondition">
+<area shape="rect" id="node1" title=" " alt="" coords="859,23,1065,65"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a4ac83581ace56d9a9d051c309def30c9" title="Creates reverse set change button mapping for toggle and while&#45;hold set change mappings." alt="" coords="591,23,811,65"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,31,543,57"/>
+<area shape="rect" id="node4" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,5,241,32"/>
+<area shape="rect" id="node5" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,56,189,83"/>
+</map>

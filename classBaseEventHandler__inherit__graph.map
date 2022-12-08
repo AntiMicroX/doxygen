@@ -1,0 +1,8 @@
+<map id="BaseEventHandler" name="BaseEventHandler">
+<area shape="rect" id="node1" title="Base class for input event handlers." alt="" coords="319,80,461,107"/>
+<area shape="rect" id="node3" href="$classUInputEventHandler.html" title="Input event handler class using uinput files." alt="" coords="5,155,159,181"/>
+<area shape="rect" id="node4" href="$classWinSendInputEventHandler.html" title="Input event handler class for Windows." alt="" coords="183,155,383,181"/>
+<area shape="rect" id="node5" href="$classWinVMultiEventHandler.html" title=" " alt="" coords="408,155,585,181"/>
+<area shape="rect" id="node6" href="$classXTestEventHandler.html" title=" " alt="" coords="609,155,755,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="353,5,427,32"/>
+</map>

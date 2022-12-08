@@ -1,0 +1,52 @@
+<map id="JoySensor::getType" name="JoySensor::getType">
+<area shape="rect" id="node1" title="Returns the sensor type." alt="" coords="4224,342,4369,368"/>
+<area shape="rect" id="node2" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="3715,53,3889,94"/>
+<area shape="rect" id="node5" href="$classJoySensorPreset.html#a7fcfbacaca8a54d07acab351dee7883c" title="Determines the preset used by the underlying sensor." alt="" coords="3977,53,4159,94"/>
+<area shape="rect" id="node6" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="3721,148,3883,189"/>
+<area shape="rect" id="node7" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="3985,301,4151,342"/>
+<area shape="rect" id="node9" href="$classJoySensorPreset.html#a70879dec2d063663d4cbf5cf27aea452" title="Get available presets for the underlying sensor type." alt="" coords="3960,118,4176,160"/>
+<area shape="rect" id="node10" href="$classSetJoystick.html#a901a4cd3d5df367a8091357cdc095002" title=" " alt="" coords="3973,366,4163,408"/>
+<area shape="rect" id="node41" href="$classSetJoystick.html#afb939ebedbbf1a65fae3965877278434" title="Propagate button rename event to InputDevice." alt="" coords="3969,432,4167,473"/>
+<area shape="rect" id="node42" href="$classSetJoystick.html#a69cf0a4a225683ed12448cb07a4dbffb" title=" " alt="" coords="3973,497,4163,538"/>
+<area shape="rect" id="node43" href="$classSetJoystick.html#aa58641575c516833a71258ea7e0b0eed" title=" " alt="" coords="3973,562,4163,604"/>
+<area shape="rect" id="node44" href="$classSensorPushButtonGroup.html#a5d893d1b1d86f6d355ed793c4c52a92c" title=" " alt="" coords="3975,628,4161,669"/>
+<area shape="rect" id="node45" href="$classJoySensorButton.html#af02f47f2d03928e8a6bac08edd92eb86" title=" " alt="" coords="3965,693,4171,734"/>
+<area shape="rect" id="node50" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="3991,236,4145,277"/>
+<area shape="rect" id="node3" href="$classJoySensorPushButton.html#a94edf0ecc16d7076ba38ae9fb44f7575" title="Shows sensor context menu." alt="" coords="3437,53,3597,94"/>
+<area shape="rect" id="node4" href="$classJoySensorPushButton.html#af1624743fb76f2d32d5de11d03b6febe" title=" " alt="" coords="3141,53,3309,94"/>
+<area shape="rect" id="node8" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="3726,301,3878,342"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#a736c16bf85c0aaea7d64ab961f319a69" title="Establishes connections for event propagation between JoySensor and InputDevice." alt="" coords="3707,465,3897,506"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#a517ad0a1738d42824b4671746f5a1af5" title="Setup sensor objects for all available hardware sensors." alt="" coords="3418,472,3617,499"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#adc322b55002b149c9a7432d1008b8537" title="Re&#45;enumerates inputs from the associated device and resets all mappings in this set." alt="" coords="3157,472,3292,499"/>
+<area shape="rect" id="node14" href="$classInputDevice.html#af7b290c37a1bcae1fbd0f0274d6cf646" title=" " alt="" coords="2901,414,3042,440"/>
+<area shape="rect" id="node37" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="2894,465,3049,506"/>
+<area shape="rect" id="node40" href="$classSetJoystick.html#ab9d47383844cb2c08581352a6c02bdab" title=" " alt="" coords="2884,531,3059,558"/>
+<area shape="rect" id="node15" href="$classInputDaemon.html#a70fa1dbeac61db6cc29a96cdc57a4518" title=" " alt="" coords="2621,363,2836,390"/>
+<area shape="rect" id="node16" href="$classInputDevice.html#a767b4db5d307c9d851affed3c7e23a30" title="Obtain current joystick element values, create new SetJoystick objects, and then transfer most recent..." alt="" coords="2631,414,2827,440"/>
+<area shape="rect" id="node17" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="2369,384,2573,411"/>
+<area shape="rect" id="node35" href="$classJoyTabWidgetHelper.html#aef94ae0812f28f43eb891ddc210c341e" title=" " alt="" coords="2395,436,2548,477"/>
+<area shape="rect" id="node18" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="2083,384,2321,411"/>
+<area shape="rect" id="node19" href="$classXMLConfigReader.html#af80a2c189a5d07caec8f3543765d4023" title=" " alt="" coords="2115,334,2289,360"/>
+<area shape="rect" id="node20" href="$classXMLConfigReader.html#a525fd14f51f6045160942d9a0a1425c5" title="Read input device config from the current XML file into the InputDevice object." alt="" coords="1800,334,2035,360"/>
+<area shape="rect" id="node21" href="$classJoyTabWidgetHelper.html#ae69229b650b5a129cd2ae25d77975d0d" title="XML read entry point for the GUI." alt="" coords="1599,326,1752,368"/>
+<area shape="rect" id="node22" href="$classJoyTabWidget.html#a47c76ec36601a5965910c3be16b9b1db" title=" " alt="" coords="1324,304,1551,331"/>
+<area shape="rect" id="node34" href="$classJoyTabWidgetHelper.html#aab77bfeea124b5610b21540c5c95e681" title=" " alt="" coords="1339,356,1535,397"/>
+<area shape="rect" id="node23" href="$classJoyTabWidget.html#ab5a344375911c53432349e37f0ceb23b" title=" " alt="" coords="1075,196,1263,237"/>
+<area shape="rect" id="node30" href="$classJoyTabWidget.html#af8bff794dd26441ea01dff33ca8ee29c" title=" " alt="" coords="1069,490,1268,516"/>
+<area shape="rect" id="node33" href="$classJoyTabWidget.html#adb4e4e9dded721d91549af6e16268014" title=" " alt="" coords="1061,297,1276,338"/>
+<area shape="rect" id="node24" href="$classJoyTabWidget.html#a52897728ad18ff62995aa44194412948" title=" " alt="" coords="519,250,752,292"/>
+<area shape="rect" id="node25" href="$classJoyTabWidget.html#aa64541df4b5629b43351dd13c9651b2a" title=" " alt="" coords="260,291,471,318"/>
+<area shape="rect" id="node27" href="$classJoyTabWidget.html#a3a406264aca24134162a4ee13e998b55" title=" " alt="" coords="524,120,747,161"/>
+<area shape="rect" id="node28" href="$classJoyTabWidget.html#a7e15bfce4bac6297eda8fc3a4e9d7196" title=" " alt="" coords="803,279,1010,306"/>
+<area shape="rect" id="node29" href="$classJoyTabWidget.html#a6b09ad1532669ed27aac287e6aa63faf" title=" " alt="" coords="800,178,1013,204"/>
+<area shape="rect" id="node26" href="$classJoyTabWidget.html#a6a6bd9ccd83557de08b6e698598f2123" title=" " alt="" coords="5,326,212,352"/>
+<area shape="rect" id="node31" href="$classMainWindow.html#a35cd3e8600502e124a63d32e1d457710" title=" " alt="" coords="803,548,1010,575"/>
+<area shape="rect" id="node32" href="$classJoyTabWidget.html#a7fc1e549dce3dd0e945e43b94644fc0a" title=" " alt="" coords="811,482,1002,524"/>
+<area shape="rect" id="node36" href="$classJoyTabWidgetHelper.html#acc5d7d51e925f84f9aa2936ce267f843" title=" " alt="" coords="2111,436,2293,477"/>
+<area shape="rect" id="node38" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="2651,465,2806,506"/>
+<area shape="rect" id="node39" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="2651,530,2806,572"/>
+<area shape="rect" id="node46" href="$classInputDevice.html#a4ac83581ace56d9a9d051c309def30c9" title="Creates reverse set change button mapping for toggle and while&#45;hold set change mappings." alt="" coords="3692,693,3912,734"/>
+<area shape="rect" id="node47" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="3391,700,3644,727"/>
+<area shape="rect" id="node48" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="3107,675,3343,702"/>
+<area shape="rect" id="node49" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="3159,726,3291,752"/>
+</map>

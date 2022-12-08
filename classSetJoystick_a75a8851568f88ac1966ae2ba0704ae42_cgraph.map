@@ -1,0 +1,19 @@
+<map id="SetJoystick::enableAxisConnections" name="SetJoystick::enableAxisConnections">
+<area shape="rect" id="node1" title=" " alt="" coords="5,311,260,337"/>
+<area shape="rect" id="node2" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="313,5,493,32"/>
+<area shape="rect" id="node3" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="314,56,491,83"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#aa90510371d0a6a4ae107b1d5b985b060" title=" " alt="" coords="308,107,497,149"/>
+<area shape="rect" id="node6" href="$classSetJoystick.html#ae234f327dec2c686d25862963e22fca1" title=" " alt="" coords="308,499,497,541"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#a57e40bcd1589c61ab7084f9e43dcd9ab" title=" " alt="" coords="308,434,497,475"/>
+<area shape="rect" id="node10" href="$classSetJoystick.html#a559203c2db1839239a1a684e717ef898" title=" " alt="" coords="308,303,497,345"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#af056c3429ac49876a0510f92923d0d13" title=" " alt="" coords="308,369,497,410"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#a2746cd7adb6a4ead514b72c7c0437d5e" title=" " alt="" coords="308,173,497,214"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#a707a2c73b9102a8346ad8f2fb401d48f" title=" " alt="" coords="308,238,497,279"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#a1b5df193132075192fe7a64ebc9933fb" title=" " alt="" coords="308,565,497,606"/>
+<area shape="rect" id="node17" href="$classSetJoystick.html#aeb069bf5f9e89bf2fb7dc73d89b5fbbd" title=" " alt="" coords="308,630,497,671"/>
+<area shape="rect" id="node5" href="$classJoyAxis.html#afddf7399e2086fda738fe588f5e7d7cd" title=" " alt="" coords="597,253,732,280"/>
+<area shape="rect" id="node8" href="$classJoyAxisButton.html#a8b73356f8efc91ad97e2c281b3603cc8" title=" " alt="" coords="579,376,750,403"/>
+<area shape="rect" id="node9" href="$classJoyButton.html#abbccee98e377453167a47b49874eeab7" title=" " alt="" coords="569,431,761,473"/>
+<area shape="rect" id="node11" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="571,311,758,337"/>
+<area shape="rect" id="node16" href="$classJoyAxis.html#a26e2606a8916cfd5fe8f4fc15c7dc886" title=" " alt="" coords="545,572,784,599"/>
+</map>

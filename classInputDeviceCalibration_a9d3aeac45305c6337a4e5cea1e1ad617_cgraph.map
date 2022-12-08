@@ -1,0 +1,9 @@
+<map id="InputDeviceCalibration::applyCalibrations" name="InputDeviceCalibration::applyCalibrations">
+<area shape="rect" id="node1" title="Applies all applicable stored calibration values to the individual input elements of the parent contr..." alt="" coords="5,100,176,141"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#a52f588b41e135631a7e0f5856ae7f5a4" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="228,5,467,47"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#ad83a4d69f3e7f6ed62452f502dffcae3" title="Applies calibration to the specified gyroscope in all sets See JoySensor::setCalibration." alt="" coords="241,71,454,112"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#a3cafa58f87991e5ebbb3a24314417adf" title="Applies calibration to the specified stick in all sets See JoyControlStick::setCalibration." alt="" coords="224,137,471,163"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="234,187,461,214"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a6793b28ac5f44e8fe3d8c1e333add1a8" title=" " alt="" coords="536,46,721,73"/>
+<area shape="rect" id="node6" href="$classJoyControlStick.html#af8061d7792e96912abc05a9c863f76fe" title="Sets the axis calibration values and sets the calibration flag. Calibrated value is calculated by the..." alt="" coords="519,137,739,163"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="JoySensor::readConfig" name="JoySensor::readConfig">
+<area shape="rect" id="node1" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="5,81,169,108"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a4572b9f66468a2e390634591d6d4ecbc" title="Sets the dead zone of the sensor to the given value." alt="" coords="233,5,415,32"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#a33e05f28756fd796e46189227a107532" title="Set the diagonal range value for a sensor." alt="" coords="217,56,431,83"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#a029cd202c660d928574726bb0e83a68b" title="Sets the maximum zone of the sensor to the given value." alt="" coords="237,107,411,133"/>
+<area shape="rect" id="node6" href="$classJoySensor.html#a074fa1e59a98d7468a8ccc02183b8a6f" title="Sets the sensor input delaqy to the given value." alt="" coords="226,157,422,184"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="479,56,636,83"/>
+</map>

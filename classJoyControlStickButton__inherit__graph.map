@@ -1,0 +1,6 @@
+<map id="JoyControlStickButton" name="JoyControlStickButton">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,169,256"/>
+<area shape="rect" id="node2" href="$classJoyGradientButton.html" title=" " alt="" coords="17,155,158,181"/>
+<area shape="rect" id="node3" href="$classJoyButton.html" title="Represents a single joystick button being part of a SetJoystick Contains multiple JoyButtonSlots whic..." alt="" coords="45,80,130,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="50,5,125,32"/>
+</map>

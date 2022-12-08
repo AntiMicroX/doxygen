@@ -1,0 +1,12 @@
+<map id="GameControllerMappingDialogHelper::raiseDeadZones" name="GameControllerMappingDialogHelper::raiseDeadZones">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,228,149"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="306,13,497,54"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#a65ac9f7b25b04650d7243219ad6e8ebd" title="Raise the dead zones for axes. Used when launching the controller mapping window." alt="" coords="302,107,501,149"/>
+<area shape="rect" id="node10" href="$classInputDevice.html#abdb4f37884e573d9c30dc57fc1638d3e" title=" " alt="" coords="276,173,527,200"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="575,5,789,32"/>
+<area shape="rect" id="node5" href="$classJoyAxis.html#adfc4d225aa1dbd3408d22ab20ad72ba3" title=" " alt="" coords="581,57,783,98"/>
+<area shape="rect" id="node8" href="$classJoyAxis.html#ac5ff6fa9b248c890b805cca11a7c9cd5" title=" " alt="" coords="586,122,778,163"/>
+<area shape="rect" id="node9" href="$classJoyAxis.html#a368b17910df9a49089bd6f46cab2ff1c" title=" " alt="" coords="599,188,765,215"/>
+<area shape="rect" id="node6" href="$classJoyAxis.html#a12c4147c5f4a320aee710f8753263aa6" title=" " alt="" coords="852,68,1013,95"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="837,123,1028,149"/>
+</map>

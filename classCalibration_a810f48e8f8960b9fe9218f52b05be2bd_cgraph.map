@@ -1,0 +1,11 @@
+<map id="Calibration::onStickOffsetData" name="Calibration::onStickOffsetData">
+<area shape="rect" id="node1" title="Stick data event handler. Performs stick offset estimation and stops itself if the value was found or..." alt="" coords="5,187,224,214"/>
+<area shape="rect" id="node2" href="$classStatisticsEstimator.html#a4bb6b7ae19cdbc218a2ce1f352d054e4" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="296,5,487,47"/>
+<area shape="rect" id="node4" href="$classStatisticsEstimator.html#a9f08ed1df807774ff9ecb23cfc0a9b82" title="Gets the amount of processed samples." alt="" coords="319,71,464,112"/>
+<area shape="rect" id="node5" href="$classJoyControlStick.html#a2798057ca20a52307ced3f75eb5d9aaa" title="Get the assigned dead zone value." alt="" coords="283,137,500,163"/>
+<area shape="rect" id="node6" href="$classPT1Filter.html#a4119f510213a816516ed16fb41a53ef8" title="Get the current filter output value." alt="" coords="319,187,463,214"/>
+<area shape="rect" id="node7" href="$classPT1Filter.html#a30421d33f61b781f9422577b6db07e1b" title="Processes a new sample." alt="" coords="323,238,460,265"/>
+<area shape="rect" id="node8" href="$classStatisticsEstimator.html#a63a3c46de3af4b5bb1be407bcfe44ad8" title="Processes a new sample of the current data stream and updates internal intermediate values." alt="" coords="319,289,464,331"/>
+<area shape="rect" id="node9" href="$classCalibration.html#ada69dfce5bbe35ea761528dedf593ef3" title="Shows the stick offset and gain calibration values to the user." alt="" coords="272,355,511,396"/>
+<area shape="rect" id="node3" href="$classStatisticsEstimator.html#a8895a3729d2ed7bca9ce078fb17bb05a" title="Calculates the sample variance of the processed data stream from internal intermediate values." alt="" coords="559,5,704,47"/>
+</map>

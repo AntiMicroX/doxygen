@@ -1,0 +1,19 @@
+<map id="SetJoystick::refreshSensors" name="SetJoystick::refreshSensors">
+<area shape="rect" id="node1" title="Setup sensor objects for all available hardware sensors." alt="" coords="5,195,204,221"/>
+<area shape="rect" id="node2" href="$namespaceJoySensorFactory.html#afa6c9aa50646bc0e11aa556b95d2207a" title=" " alt="" coords="267,85,439,112"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a4f19cad0e22518b9e29ba509d9723f5b" title="Destroy all sensor objects in this set." alt="" coords="256,136,451,163"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#a736c16bf85c0aaea7d64ab961f319a69" title="Establishes connections for event propagation between JoySensor and InputDevice." alt="" coords="258,187,449,229"/>
+<area shape="rect" id="node16" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="253,253,454,280"/>
+<area shape="rect" id="node17" href="$classInputDevice.html#addf5eadaadf9e24f6543c678675f6684" title=" " alt="" coords="252,304,455,331"/>
+<area shape="rect" id="node5" href="$classJoySensor.html#ade5fe9722741d61eeac6811fe6a53cf2" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="519,5,684,32"/>
+<area shape="rect" id="node6" href="$classSetJoystick.html#ad25c23746ca3fba566aff75c55de919a" title="Forwards set change slot mapping event to InputDevice." alt="" coords="507,57,696,98"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#a901a4cd3d5df367a8091357cdc095002" title=" " alt="" coords="507,187,696,229"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#afb939ebedbbf1a65fae3965877278434" title="Propagate button rename event to InputDevice." alt="" coords="503,318,700,359"/>
+<area shape="rect" id="node13" href="$classSetJoystick.html#a69cf0a4a225683ed12448cb07a4dbffb" title=" " alt="" coords="507,122,696,163"/>
+<area shape="rect" id="node14" href="$classSetJoystick.html#aa58641575c516833a71258ea7e0b0eed" title=" " alt="" coords="507,253,696,294"/>
+<area shape="rect" id="node15" href="$classSetJoystick.html#aeb069bf5f9e89bf2fb7dc73d89b5fbbd" title=" " alt="" coords="507,383,696,425"/>
+<area shape="rect" id="node8" href="$classJoyButton.html#abbccee98e377453167a47b49874eeab7" title=" " alt="" coords="753,126,945,167"/>
+<area shape="rect" id="node9" href="$classJoySensorButton.html#a5d0f3124e09afbc5dc408ac0cd2fea67" title="Get the JoySensor associated to this button." alt="" coords="748,195,951,221"/>
+<area shape="rect" id="node10" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="777,253,922,280"/>
+<area shape="rect" id="node12" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="756,325,943,352"/>
+</map>

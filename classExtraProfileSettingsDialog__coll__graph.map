@@ -1,0 +1,9 @@
+<map id="ExtraProfileSettingsDialog" name="ExtraProfileSettingsDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="5,260,197,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="56,171,131,197"/>
+<area shape="rect" id="node3" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="166,171,266,197"/>
+<area shape="rect" id="node7" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="225,260,396,287"/>
+<area shape="rect" id="node4" title=" " alt="" coords="136,81,211,108"/>
+<area shape="rect" id="node5" href="$classAntiMicroSettings.html" title=" " alt="" coords="235,81,373,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="261,5,347,32"/>
+</map>

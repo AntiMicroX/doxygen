@@ -1,0 +1,12 @@
+<map id="JoyAxis::setDeadZone" name="JoyAxis::setDeadZone">
+<area shape="rect" id="node1" title=" " alt="" coords="793,107,959,134"/>
+<area shape="rect" id="node2" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="553,5,731,47"/>
+<area shape="rect" id="node3" href="$classSetJoystick.html#a65ac9f7b25b04650d7243219ad6e8ebd" title="Raise the dead zones for axes. Used when launching the controller mapping window." alt="" coords="543,71,741,112"/>
+<area shape="rect" id="node6" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="539,137,745,163"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#ab3214fccc9b07b7f4b47ae886c62cd60" title=" " alt="" coords="549,188,735,229"/>
+<area shape="rect" id="node4" href="$classGameControllerMappingDialogHelper.html#a2302e55d686dfedb8b6e0dfa880bb199" title=" " alt="" coords="260,5,483,47"/>
+<area shape="rect" id="node5" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="260,71,483,112"/>
+<area shape="rect" id="node7" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="284,137,459,163"/>
+<area shape="rect" id="node8" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,137,204,163"/>
+<area shape="rect" id="node10" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="252,188,491,229"/>
+</map>

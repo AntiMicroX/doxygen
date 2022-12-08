@@ -1,0 +1,6 @@
+<map id="InputDeviceCalibration::setStickCalibration" name="InputDeviceCalibration::setStickCalibration">
+<area shape="rect" id="node1" title="Updates the stored calibration for the given stick from the parent controller." alt="" coords="692,5,863,47"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#af28d7eb0a83c9ed3bca11e9218c12517" title="Updates stored calibration for this controller and applies calibration to the specified stick in all ..." alt="" coords="459,5,644,47"/>
+<area shape="rect" id="node3" href="$classCalibration.html#a61d733b70d5fd8a60c8f98e50469ed0e" title="Save calibration values into the device object." alt="" coords="225,13,411,39"/>
+<area shape="rect" id="node4" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,13,177,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="JoyAxis::getDefaultMaxZone" name="JoyAxis::getDefaultMaxZone">
+<area shape="rect" id="node1" title=" " alt="" coords="697,56,905,83"/>
+<area shape="rect" id="node2" href="$classJoyAxis.html#ad614a1d4afe02119dfbd787ee89be66e" title=" " alt="" coords="512,56,649,83"/>
+<area shape="rect" id="node3" href="$classJoyAxis.html#a854637def50e6ef091c87ee78e7dbb58" title=" " alt="" coords="271,5,464,32"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#a5de4017d04f877e12df92334f41d08f3" title="Check if this set has any mapped event." alt="" coords="279,56,455,83"/>
+<area shape="rect" id="node7" href="$classJoyAxisXml.html#a044a6be446ab6cc4b6fcb359e0cef898" title=" " alt="" coords="278,107,457,133"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#a36b0da099fef84270b6cc7c76741e689" title=" " alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node6" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="13,81,215,108"/>
+</map>

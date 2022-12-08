@@ -1,0 +1,6 @@
+<map id="JoySensorButton::getPartialName" name="JoySensorButton::getPartialName">
+<area shape="rect" id="node1" title="Get the name of the button. Shows the sensor direction name instead of a button number." alt="" coords="5,31,244,57"/>
+<area shape="rect" id="node2" href="$classJoySensorButton.html#a1e9b55aa408992da8e0afe3ed26bb0f4" title=" " alt="" coords="292,5,548,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#ad06f47ea3f0d796b838ae74d4f913b25" title="Get the name of this sensor." alt="" coords="323,56,517,83"/>
+<area shape="rect" id="node4" href="$classJoySensor.html#ab87d04540552c4a31eebfb656357838e" title=" " alt="" coords="596,56,803,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MouseControlStickSettingsDialog::changeMouseMode" name="MouseControlStickSettingsDialog::changeMouseMode">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,204,207"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a332a38a549ccfe4d68faac2b91d17e1d" title=" " alt="" coords="252,67,451,108"/>
+<area shape="rect" id="node6" href="$classJoyControlStick.html#ac695c4212005e61e5ecfbde0305501d1" title=" " alt="" coords="252,132,451,173"/>
+<area shape="rect" id="node8" href="$classSpringModeRegionPreview.html#a8d2b08d077d77697a327e2d062130cbd" title=" " alt="" coords="253,197,449,239"/>
+<area shape="rect" id="node10" href="$classSpringModeRegionPreview.html#a769d674b3f0697dee55b0a7fbfe4a48f" title=" " alt="" coords="253,263,449,304"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="503,5,722,47"/>
+<area shape="rect" id="node4" href="$classJoyButton.html#aca69f26410f28982be9a6e952ec3c494" title=" " alt="" coords="499,71,727,112"/>
+<area shape="rect" id="node5" href="$classJoyButton.html#a77afa6c5934d2665bad6d494b812f372" title="Check if button should be considered a part of a real controller axis. Needed for some dialogs so the..." alt="" coords="775,78,961,105"/>
+<area shape="rect" id="node7" href="$classJoyButton.html#a28224ca61d50adb1338643ae63bab3a3" title=" " alt="" coords="517,139,709,166"/>
+<area shape="rect" id="node9" href="$classSpringModeRegionPreview.html#ac11ce802ca9098d5d61a1c7550e3a4f2" title=" " alt="" coords="515,197,711,239"/>
+<area shape="rect" id="node11" href="$classSpringModeRegionPreview.html#a78b54db3c38d88222b2491d21bb7daac" title=" " alt="" coords="515,263,711,304"/>
+</map>

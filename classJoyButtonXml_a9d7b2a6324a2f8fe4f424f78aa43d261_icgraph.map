@@ -1,0 +1,7 @@
+<map id="JoyButtonXml::readButtonConfig" name="JoyButtonXml::readButtonConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="748,23,939,65"/>
+<area shape="rect" id="node2" href="$classJoyButtonXml.html#a9d79d75b14b57419ed1fc5639dde8515" title=" " alt="" coords="511,31,700,57"/>
+<area shape="rect" id="node3" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="258,31,457,57"/>
+<area shape="rect" id="node5" href="$classJoyDPadXml.html#ae9a3556242b984c81fc6945acafc5586" title=" " alt="" coords="252,81,463,108"/>
+</map>

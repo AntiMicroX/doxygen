@@ -1,0 +1,6 @@
+<map id="InputDevice::hasSensor" name="InputDevice::hasSensor">
+<area shape="rect" id="node1" title="Checks if this input device has a sensor of given type." alt="" coords="5,42,180,69"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="228,5,419,47"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#a13ab630b5472f06989d7ac86547f41be" title="Checks if this set has a sensor." alt="" coords="239,71,408,98"/>
+<area shape="rect" id="node3" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="467,13,681,39"/>
+</map>

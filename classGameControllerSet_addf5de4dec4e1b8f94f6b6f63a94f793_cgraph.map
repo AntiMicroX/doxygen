@@ -1,0 +1,16 @@
+<map id="GameControllerSet::applyHapticTrigger" name="GameControllerSet::applyHapticTrigger">
+<area shape="rect" id="node1" title="Applies haptic feedback to the triggers of the controller." alt="" coords="5,99,160,141"/>
+<area shape="rect" id="node2" href="$classGameController.html#a457cc578ceb767c5ae8a5855d3383e39" title=" " alt="" coords="208,5,427,32"/>
+<area shape="rect" id="node3" href="$classJoyAxis.html#afa272ae458b07e76eca5e37a1d90a851" title="Always returns nullptr for JoyAxis base objects." alt="" coords="225,56,410,83"/>
+<area shape="rect" id="node4" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="217,107,418,133"/>
+<area shape="rect" id="node5" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="232,157,403,184"/>
+<area shape="rect" id="node6" href="$classHapticTriggerPs5.html#a6a1bb343df20b307c827349e93297735" title="Creates an low level message from two HapticTriggerPs5 objects and send them to the controller." alt="" coords="232,208,403,235"/>
+<area shape="rect" id="node7" href="$classHapticTriggerPs5.html#ae9d99ac144c366bf9033957c27b22ef6" title="Low level function to write one HapticTriggerPs5 effect into a PS5 controller message." alt="" coords="475,201,627,242"/>
+<area shape="rect" id="node8" href="$structEffectNonePs5.html#ad478ec644b75405766c06fb065eb3a7f" title=" " alt="" coords="675,107,831,133"/>
+<area shape="rect" id="node9" href="$structEffectRigidPs5.html#a0b3f26b04eed514a2488066840eeeb5d" title="Builds a rigid effect message." alt="" coords="675,208,830,235"/>
+<area shape="rect" id="node12" href="$structEffectClickPs5.html#a66b83b614e37e71acad3db33c117ea88" title="Builds a click effect message." alt="" coords="675,157,830,184"/>
+<area shape="rect" id="node13" href="$structEffectVibrationPs5.html#ae6a9d4ac9fbdebc25ad25120ca9ee3d5" title="Builds a vibration effect message." alt="" coords="682,259,823,301"/>
+<area shape="rect" id="node14" href="$structEffectRigidPs5.html#abbc8ec551b087c1c5656fd59015336df" title="Builds a rigid gradient effect message. This effect starts with a strength of zero and slowly increas..." alt="" coords="675,325,830,366"/>
+<area shape="rect" id="node10" href="$haptictriggerps5_8cpp.html#a8036c662041fb8dd8ac3da09d7c207ab" title=" " alt="" coords="879,212,949,239"/>
+<area shape="rect" id="node11" href="$haptictriggerps5_8cpp.html#ab374c4dad9b0cdbaf78199c33951aba1" title=" " alt="" coords="879,267,949,293"/>
+</map>

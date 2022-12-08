@@ -1,0 +1,8 @@
+<map id="GameController" name="GameController">
+<area shape="rect" id="node1" title="Represents a typical gamepad (like PS4 or Xbox gamepad)" alt="" coords="5,260,131,287"/>
+<area shape="rect" id="node2" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="91,171,191,197"/>
+<area shape="rect" id="node6" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="155,260,325,287"/>
+<area shape="rect" id="node3" title=" " alt="" coords="83,81,157,108"/>
+<area shape="rect" id="node4" href="$classAntiMicroSettings.html" title=" " alt="" coords="182,81,319,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="208,5,293,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="InputDevice::setButtonName" name="InputDevice::setButtonName">
+<area shape="rect" id="node1" title=" " alt="" coords="5,69,216,95"/>
+<area shape="rect" id="node2" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="773,14,988,41"/>
+<area shape="rect" id="node3" href="$classJoyButton.html#a5577eb227e3fd535fdcbbf395648e215" title=" " alt="" coords="275,39,470,66"/>
+<area shape="rect" id="node4" href="$classInputDevice.html#ac755b9a6c5992b14f07fbb5118ba2da9" title=" " alt="" coords="264,91,481,132"/>
+<area shape="rect" id="node5" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="532,36,723,77"/>
+<area shape="rect" id="node6" href="$classJoyButton.html#a7123f5432bda7b5b9d4b2b95bdabf4db" title=" " alt="" coords="529,102,725,129"/>
+<area shape="rect" id="node7" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="534,153,721,179"/>
+<area shape="rect" id="node8" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="794,153,967,179"/>
+</map>

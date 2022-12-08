@@ -1,0 +1,9 @@
+<map id="WinVMultiEventHandler::sendKeyboardEvent" name="WinVMultiEventHandler::sendKeyboardEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,183,153"/>
+<area shape="rect" id="node2" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="565,5,762,32"/>
+<area shape="rect" id="node3" href="$classJoyButtonSlot.html#a509e28e2c92e8aea3433a19f2d0311b2" title=" " alt="" coords="565,137,762,178"/>
+<area shape="rect" id="node4" href="$classQtKeyMapperBase.html#a5df0f313bce11847f8495126373e7178" title=" " alt="" coords="231,119,487,145"/>
+<area shape="rect" id="node5" href="$classWinSendInputEventHandler.html#a299112bc5d77f35105007de683821c1e" title=" " alt="" coords="259,53,459,94"/>
+<area shape="rect" id="node7" href="$classJoyButtonSlot.html#a23e2639dee82e872b1ebf3958b0db68c" title=" " alt="" coords="261,220,457,247"/>
+<area shape="rect" id="node6" href="$classWinExtras.html#a0bfa711c1abe72486dfebc8ff6fe7f5a" title="Convert a virtual key into the corresponding keyboard scan code." alt="" coords="535,60,792,87"/>
+</map>

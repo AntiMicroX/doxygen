@@ -1,0 +1,5 @@
+<map id="InputDeviceXml::writeConfig" name="InputDeviceXml::writeConfig">
+<area shape="rect" id="node1" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="427,13,635,39"/>
+<area shape="rect" id="node2" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="207,13,379,39"/>
+<area shape="rect" id="node3" href="$classJoyTabWidgetHelper.html#ad1754369989cbe4a3e10c8c01e3fb89b" title="XML write entry point for the GUI." alt="" coords="5,5,159,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="JoyButton::getTurboInterval" name="JoyButton::getTurboInterval">
+<area shape="rect" id="node1" title=" " alt="" coords="748,70,947,97"/>
+<area shape="rect" id="node2" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="272,5,443,47"/>
+<area shape="rect" id="node3" href="$classAdvanceButtonDialog.html#a64efeb2a6c8cf0ea259bb02c0f96080d" title=" " alt="" coords="522,63,685,104"/>
+<area shape="rect" id="node4" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="507,129,700,155"/>
+<area shape="rect" id="node5" href="$classJoyDPadXml.html#ac78c8fd1ad107f6a3baed4910863cb0c" title=" " alt="" coords="266,75,449,102"/>
+<area shape="rect" id="node6" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,101,208,127"/>
+<area shape="rect" id="node7" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="273,177,441,203"/>
+<area shape="rect" id="node8" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="256,227,459,254"/>
+</map>

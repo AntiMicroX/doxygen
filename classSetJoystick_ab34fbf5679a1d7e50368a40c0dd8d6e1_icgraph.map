@@ -1,0 +1,7 @@
+<map id="SetJoystick::setName" name="SetJoystick::setName">
+<area shape="rect" id="node1" title=" " alt="" coords="539,71,700,98"/>
+<area shape="rect" id="node2" href="$classGameControllerSet.html#ab3cda1f3ec063776efe78d7ab11b53f4" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="298,5,453,47"/>
+<area shape="rect" id="node3" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="276,71,475,98"/>
+<area shape="rect" id="node4" href="$classSetNamesDialog.html#ae528a4531307d5d5ddcd09427fcbfa19" title=" " alt="" coords="260,123,491,164"/>
+<area shape="rect" id="node5" href="$classSetNamesDialog.html#a13c775506f1e54bc28b579805b979da9" title=" " alt="" coords="5,123,212,164"/>
+</map>

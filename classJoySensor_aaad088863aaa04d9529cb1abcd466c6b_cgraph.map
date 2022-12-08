@@ -1,0 +1,5 @@
+<map id="JoySensor::reset" name="JoySensor::reset">
+<area shape="rect" id="node1" title="Resets internal variables back to default." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="190,5,347,32"/>
+<area shape="rect" id="node3" href="$classJoySensor.html#a6a551421242cfdec065b80b7270f26ab" title="Reset all the properties of the sensor direction buttons." alt="" coords="180,56,357,83"/>
+</map>

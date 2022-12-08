@@ -1,0 +1,6 @@
+<map id="HapticTriggerPs5::send" name="HapticTriggerPs5::send">
+<area shape="rect" id="node1" title="Creates an low level message from two HapticTriggerPs5 objects and send them to the controller." alt="" coords="411,46,581,73"/>
+<area shape="rect" id="node2" href="$classGameControllerSet.html#addf5de4dec4e1b8f94f6b6f63a94f793" title="Applies haptic feedback to the triggers of the controller." alt="" coords="208,39,363,80"/>
+<area shape="rect" id="node3" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node4" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="5,71,160,112"/>
+</map>

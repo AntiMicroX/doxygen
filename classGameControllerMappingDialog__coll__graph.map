@@ -1,0 +1,10 @@
+<map id="GameControllerMappingDialog" name="GameControllerMappingDialog">
+<area shape="rect" id="node1" title=" " alt="" coords="370,364,593,391"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,267,80,294"/>
+<area shape="rect" id="node3" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="365,171,465,197"/>
+<area shape="rect" id="node7" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="352,267,523,294"/>
+<area shape="rect" id="node8" href="$classGameControllerMappingDialogHelper.html" title=" " alt="" coords="105,260,327,301"/>
+<area shape="rect" id="node4" title=" " alt="" coords="220,81,295,108"/>
+<area shape="rect" id="node5" href="$classAntiMicroSettings.html" title=" " alt="" coords="449,81,586,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="475,5,560,32"/>
+</map>

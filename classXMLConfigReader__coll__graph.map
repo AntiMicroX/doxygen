@@ -1,0 +1,8 @@
+<map id="XMLConfigReader" name="XMLConfigReader">
+<area shape="rect" id="node1" title="Main XML config reader class." alt="" coords="5,260,143,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="25,81,99,108"/>
+<area shape="rect" id="node3" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="148,171,248,197"/>
+<area shape="rect" id="node6" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="191,260,362,287"/>
+<area shape="rect" id="node4" href="$classAntiMicroSettings.html" title=" " alt="" coords="129,81,267,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="155,5,241,32"/>
+</map>

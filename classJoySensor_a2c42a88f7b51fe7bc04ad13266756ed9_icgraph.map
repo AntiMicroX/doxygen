@@ -1,0 +1,4 @@
+<map id="JoySensor::readConfig" name="JoySensor::readConfig">
+<area shape="rect" id="node1" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="252,5,416,32"/>
+<area shape="rect" id="node2" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,5,204,32"/>
+</map>

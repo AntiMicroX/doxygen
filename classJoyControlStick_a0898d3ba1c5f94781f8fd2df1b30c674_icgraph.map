@@ -1,0 +1,13 @@
+<map id="JoyControlStick::calculateXDistanceFromDeadZone" name="JoyControlStick::calculateXDistanceFromDeadZone">
+<area shape="rect" id="node1" title="Get distance of the X axis past the assigned dead zone." alt="" coords="899,169,1087,211"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a5b043c1100b4d83df1858b028820e70c" title="Used to calculate the distance value that should be used for keyboard events and distance slots." alt="" coords="647,71,835,112"/>
+<area shape="rect" id="node6" href="$classJoyControlStick.html#afb2b5e5e03f384d3d0533518baedf7ab" title=" " alt="" coords="647,136,835,177"/>
+<area shape="rect" id="node8" href="$classJoyControlStick.html#acbf146b02dd22b8970e90580dbac5a61" title=" " alt="" coords="631,201,851,243"/>
+<area shape="rect" id="node10" href="$classJoyControlStick.html#a8d8449aae58887816a8662e79a233ad1" title="Used to calculate the distance value that should be used for mouse movement." alt="" coords="644,267,837,308"/>
+<area shape="rect" id="node3" href="$classJoyControlStickModifierButton.html#a65412dae4962e20798e45533f0b98948" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="335,5,552,47"/>
+<area shape="rect" id="node5" href="$classJoyControlStickButton.html#a22064a3a113464fb9969ebb30e011d22" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="339,71,547,112"/>
+<area shape="rect" id="node4" href="$classJoyControlStickModifierButton.html#ac2f9e7924a72d288733c987fc3498a91" title="Get the distance factor that should be used for mouse movement." alt="" coords="5,5,256,47"/>
+<area shape="rect" id="node7" href="$classJoyControlStickModifierButton.html#adaf7679f50f4cd6b8d0b217351c7032c" title=" " alt="" coords="304,136,583,177"/>
+<area shape="rect" id="node9" href="$classJoyControlStickButton.html#a3fde8ac631cd01ff73e1e13b4317330c" title=" " alt="" coords="304,201,583,243"/>
+<area shape="rect" id="node11" href="$classJoyControlStickButton.html#ab1f0e0a9f9d2ba01768619401f666fff" title="Get the distance factor that should be used for mouse movement." alt="" coords="318,267,569,308"/>
+</map>

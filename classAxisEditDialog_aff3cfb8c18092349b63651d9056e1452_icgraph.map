@@ -1,0 +1,4 @@
+<map id="AxisEditDialog::selectHapticTrigger" name="AxisEditDialog::selectHapticTrigger">
+<area shape="rect" id="node1" title="Converts HapticTriggerMode from the current axis to combo box index and selects to element." alt="" coords="232,5,439,47"/>
+<area shape="rect" id="node2" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="5,5,184,47"/>
+</map>

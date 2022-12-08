@@ -1,0 +1,5 @@
+<map id="JoyButtonSlotXml" name="JoyButtonSlotXml">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,141,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,5,105,32"/>
+<area shape="rect" id="node3" href="$classJoyButtonSlot.html" title="Represents action which can be performed after pressing button." alt="" coords="90,81,201,108"/>
+</map>

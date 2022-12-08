@@ -1,0 +1,4 @@
+<map id="UInputEventHandler::sendMouseAbsEvent" name="UInputEventHandler::sendMouseAbsEvent">
+<area shape="rect" id="node1" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node2" href="$classUInputEventHandler.html#aa04ce5a2e42124cf21a2872ee4511918" title="Write uinput event to selected file uinput file." alt="" coords="219,5,373,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="GameControllerMappingDialog::populateGameControllerBindings" name="GameControllerMappingDialog::populateGameControllerBindings">
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,252,200"/>
+<area shape="rect" id="node2" href="$classGameControllerMappingDialog.html#abb381d0bdff1176412936a3dd4e5155a" title=" " alt="" coords="304,5,527,47"/>
+<area shape="rect" id="node3" href="$classGameControllerMappingDialog.html#a4316f311a7f8bfdb293b714320b092f6" title=" " alt="" coords="304,71,527,112"/>
+<area shape="rect" id="node4" href="$classGameController.html#a625c4369e1e1cab6a201b02804024fc2" title=" " alt="" coords="300,137,531,163"/>
+<area shape="rect" id="node5" href="$classGameController.html#a24bf287c7d3b8496ece2033800649120" title=" " alt="" coords="314,188,517,229"/>
+<area shape="rect" id="node6" href="$classInputDevice.html#a4c662c7a0415e247266e6b205d064763" title=" " alt="" coords="309,254,521,281"/>
+<area shape="rect" id="node10" href="$classInputDevice.html#a8d061d1a518f77dcdecbb2ecd32e9d30" title=" " alt="" coords="300,305,531,331"/>
+<area shape="rect" id="node7" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="596,272,787,313"/>
+<area shape="rect" id="node9" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="588,221,795,247"/>
+<area shape="rect" id="node8" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="852,279,1067,306"/>
+<area shape="rect" id="node11" href="$classSetJoystick.html#a446e296af015f6304bd7425153a4c4ae" title=" " alt="" coords="579,338,804,365"/>
+<area shape="rect" id="node12" href="$classSetJoystick.html#ac5baae46a0b3924a83b523ad89819a53" title=" " alt="" coords="873,338,1046,365"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="JoyControlStick::calculateMouseDirectionalDistance" name="JoyControlStick::calculateMouseDirectionalDistance">
+<area shape="rect" id="node1" title="Used to calculate the distance value that should be used for mouse movement." alt="" coords="5,71,199,112"/>
+<area shape="rect" id="node2" href="$classJoyControlStick.html#a1110ba6e8d87b226653e7d4c38602c92" title=" " alt="" coords="247,5,545,47"/>
+<area shape="rect" id="node3" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="302,71,490,112"/>
+<area shape="rect" id="node4" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="302,136,490,177"/>
+</map>
