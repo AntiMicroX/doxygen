@@ -1,0 +1,11 @@
+<map id="SetJoystick::setName" name="SetJoystick::setName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="539,70,700,95"/>
+<area shape="rect" id="Node000002" href="$classGameControllerSet.html#ab3cda1f3ec063776efe78d7ab11b53f4" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="298,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="551,69,452,46,454,41,552,64"/>
+<area shape="rect" id="Node000003" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="276,70,475,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="525,85,475,85,475,80,525,80"/>
+<area shape="rect" id="Node000004" href="$classSetNamesDialog.html#ae528a4531307d5d5ddcd09427fcbfa19" title=" " alt="" coords="260,120,491,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="552,101,462,123,460,117,551,96"/>
+<area shape="rect" id="Node000005" href="$classSetNamesDialog.html#a13c775506f1e54bc28b579805b979da9" title=" " alt="" coords="5,120,212,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,143,212,143,212,137,246,137"/>
+</map>

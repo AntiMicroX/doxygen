@@ -1,0 +1,9 @@
+<map id="SimpleKeyGrabberButton" name="SimpleKeyGrabberButton">
+<area shape="rect" id="Node000001" title="Button widget used for detecting pressed buttons it is used mainly in advanced button mapping window ..." alt="" coords="5,168,192,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,80,131,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,118,98,167,93,168,81,119"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonSlot.html" title="Represents action which can be performed after pressing button." alt="" coords="155,80,266,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,116,116,170,112,166,183,112"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,5,248,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="213,45,213,80,208,80,208,45"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="AutoProfileWatcher" name="AutoProfileWatcher">
+<area shape="rect" id="Node000001" title="Manages auto profile functionality. Allows for profiles to be associated with specific applications." alt="" coords="33,168,180,193"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="195,172,207,180,198,188,180,191,180,186,196,183,201,181,192,177"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,44,33,74,37,104,48,123,61,140,91,166,87,170,57,144,43,126,32,106,27,74,32,44"/>
+<area shape="rect" id="Node000005" href="$classAutoProfileInfo.html" title="Links information about targeted application with recommended profile." alt="" coords="47,80,166,105"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="64,40,98,78,94,81,60,43"/>
+<area shape="rect" id="Node000003" href="$classAntiMicroSettings.html" title=" " alt="" coords="190,80,327,105"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="242,117,207,146,179,160,151,170,149,165,177,155,204,142,238,113"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="216,5,301,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="261,45,261,80,256,80,256,45"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="109,119,109,167,104,167,104,119"/>
+</map>

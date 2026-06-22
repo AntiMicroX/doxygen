@@ -1,0 +1,9 @@
+<map id="JoyControlStick::isDefault" name="JoyControlStick::isDefault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="507,31,695,56"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a5de4017d04f877e12df92334f41d08f3" title="Check if this set has any mapped event." alt="" coords="269,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,35,445,30,446,24,494,30"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="256,55,459,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="494,57,459,60,459,55,493,51"/>
+<area shape="rect" id="Node000003" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,5,208,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,21,208,21,208,15,256,15"/>
+</map>

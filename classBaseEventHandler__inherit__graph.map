@@ -1,0 +1,13 @@
+<map id="BaseEventHandler" name="BaseEventHandler">
+<area shape="rect" id="Node000001" title="Base class for input event handlers." alt="" coords="319,79,461,104"/>
+<area shape="rect" id="Node000003" href="$classUInputEventHandler.html" title="Input event handler class using uinput files." alt="" coords="5,152,159,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="328,110,132,154,131,149,327,104"/>
+<area shape="rect" id="Node000004" href="$classWinSendInputEventHandler.html" title="Input event handler class for Windows." alt="" coords="183,152,383,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="363,114,302,154,299,150,360,109"/>
+<area shape="rect" id="Node000005" href="$classWinVMultiEventHandler.html" title=" " alt="" coords="408,152,585,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="420,109,481,150,478,154,417,114"/>
+<area shape="rect" id="Node000006" href="$classXTestEventHandler.html" title=" " alt="" coords="609,152,755,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="451,105,635,149,634,154,449,110"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="353,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,44,393,79,387,79,387,44"/>
+</map>

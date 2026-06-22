@@ -1,0 +1,11 @@
+<map id="MouseControlStickSettingsDialogHelper::updateAccelExtraDuration" name="MouseControlStickSettingsDialogHelper::updateAccelExtraDuration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,235,85"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a2f99c6ea892e027e2a07151bc9256725" title=" " alt="" coords="283,37,481,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,55,269,55,269,60,235,60"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="529,5,748,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,42,515,38,516,43,482,48"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a8c448fa3d079ea5bd1c5bb4effee45e5" title=" " alt="" coords="547,69,730,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="482,67,534,74,533,79,481,72"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="796,77,999,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="730,87,782,87,782,92,730,92"/>
+</map>

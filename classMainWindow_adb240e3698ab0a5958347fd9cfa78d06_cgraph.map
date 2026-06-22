@@ -1,0 +1,9 @@
+<map id="MainWindow::checkAutoProfileWatcherTimer" name="MainWindow::checkAutoProfileWatcherTimer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,228,95"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="276,5,464,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,53,300,31,301,36,206,58"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileWatcher.html#a3e42030d3b71933be269e7eda00d253b" title=" " alt="" coords="297,55,443,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,73,283,73,283,78,228,78"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileWatcher.html#ab08f83cac9bd6aaa66e250f25fe7a794" title=" " alt="" coords="297,119,443,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,93,284,115,283,120,196,98"/>
+</map>

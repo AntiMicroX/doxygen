@@ -1,0 +1,21 @@
+<map id="SetJoystick::propogateSetAxisButtonClick" name="SetJoystick::propogateSetAxisButtonClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1143,67,1332,107"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a75a8851568f88ac1966ae2ba0704ae42" title=" " alt="" coords="840,74,1095,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1129,89,1095,89,1095,84,1129,84"/>
+<area shape="rect" id="Node000003" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="625,37,780,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="839,75,780,69,780,63,840,70"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#af8d7d16a13702ae29b6590db35801d14" title=" " alt="" coords="613,102,792,127"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="834,103,792,108,792,103,833,98"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#adc322b55002b149c9a7432d1008b8537" title="Re&#45;enumerates inputs from the associated device and resets all mappings in this set." alt="" coords="431,102,565,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="600,117,566,117,566,112,600,112"/>
+<area shape="rect" id="Node000006" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="218,37,373,77"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="439,101,366,80,367,75,440,96"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#a9691a678e1bb444edc9f28368c4aeb8c" title=" " alt="" coords="208,102,383,127"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="417,117,383,117,383,112,417,112"/>
+<area shape="rect" id="Node000010" href="$classSetJoystick.html#ab9d47383844cb2c08581352a6c02bdab" title=" " alt="" coords="208,151,383,177"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="433,133,349,154,348,149,432,128"/>
+<area shape="rect" id="Node000007" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,5,160,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="204,46,160,40,160,34,205,41"/>
+<area shape="rect" id="Node000008" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="5,69,160,109"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="205,74,160,80,160,75,204,68"/>
+</map>

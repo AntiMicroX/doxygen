@@ -1,0 +1,27 @@
+<map id="JoyTabWidgetHelper" name="JoyTabWidgetHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="615,432,768,457"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="709,80,783,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="798,95,839,103,880,118,898,128,912,142,921,159,925,179,925,358,920,372,908,385,867,406,814,422,759,434,758,429,812,417,865,401,904,380,916,369,919,358,919,180,916,161,908,145,895,133,878,122,838,108,797,100"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="401,168,501,193"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="696,111,491,171,490,165,694,106"/>
+<area shape="rect" id="Node000007" href="$classXMLConfigReader.html" title="Main XML config reader class." alt="" coords="747,256,884,281"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="761,116,767,128,795,200,814,255,809,257,790,202,762,130,756,119"/>
+<area shape="rect" id="Node000008" href="$classXMLConfigWriter.html" title=" " alt="" coords="370,344,501,369"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="751,119,752,164,747,220,739,249,728,276,713,301,691,322,658,337,610,346,501,356,501,351,609,341,657,332,689,318,708,298,724,274,734,247,741,219,747,164,746,119"/>
+<area shape="rect" id="Node000009" href="$classInputDeviceXml.html" title="Generic InputDevice XML serialization/deserialization helper class Reads data from the supplied Input..." alt="" coords="148,256,275,281"/>
+<area shape="poly" id="edge15_Node000009_Node000002" title=" " alt="" coords="696,107,576,132,516,140,462,141,366,138,323,142,283,154,244,178,206,219,202,227,202,236,208,255,202,257,196,237,197,226,201,216,241,174,281,149,322,137,366,133,462,136,516,135,575,127,695,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="516,193,573,215,598,231,618,254,646,303,667,354,691,431,686,433,662,356,641,305,613,258,594,235,570,220,514,198"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="433,256,603,281"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="477,201,491,216,515,254,510,257,487,219,473,205"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="515,192,621,215,774,253,773,259,620,220,514,197"/>
+<area shape="poly" id="edge13_Node000008_Node000003" title=" " alt="" coords="406,201,371,224,357,239,347,257,345,270,347,283,362,307,387,326,412,342,409,346,383,331,358,310,342,285,339,270,342,255,353,236,368,220,403,197"/>
+<area shape="poly" id="edge16_Node000009_Node000003" title=" " alt="" coords="388,186,288,195,245,205,219,219,211,237,212,256,206,256,206,236,215,216,243,200,287,190,387,180"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="432,255,404,246,385,234,381,220,388,208,416,191,419,196,392,212,387,221,389,230,406,241,434,250"/>
+<area shape="rect" id="Node000005" href="$classAntiMicroSettings.html" title=" " alt="" coords="5,80,143,105"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="138,106,402,165,401,171,137,111"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="31,5,117,31"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="77,45,77,80,71,80,71,45"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="801,294,702,433,697,430,797,291"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="481,371,580,405,655,429,654,435,578,411,479,376"/>
+<area shape="poly" id="edge14_Node000008_Node000009" title=" " alt="" coords="209,295,209,308,215,318,239,332,277,342,370,351,369,357,277,347,237,337,211,322,204,309,203,295"/>
+</map>

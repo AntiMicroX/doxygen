@@ -1,0 +1,19 @@
+<map id="XMLConfigWriter" name="XMLConfigWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,344,402,369"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="301,80,375,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,102,477,127,525,145,569,166,605,190,629,217,635,233,636,249,632,266,621,283,607,296,586,307,530,326,464,340,402,350,402,345,463,335,528,321,584,302,604,291,617,280,627,264,631,248,630,234,625,220,601,194,566,170,522,150,475,132,388,108"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="288,168,388,193"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="341,119,341,167,335,167,335,119"/>
+<area shape="rect" id="Node000007" href="$classInputDeviceXml.html" title="Generic InputDevice XML serialization/deserialization helper class Reads data from the supplied Input..." alt="" coords="152,256,279,281"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="307,115,253,157,227,186,207,218,206,237,212,255,206,257,200,238,202,217,222,183,249,153,304,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,207,339,344,334,344,335,207"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="437,256,607,281"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="359,202,394,230,425,244,458,253,456,259,423,249,391,234,355,206"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="275,188,244,199,219,219,213,237,215,255,209,256,208,236,214,216,241,194,274,183"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="501,248,465,220,426,203,387,193,389,188,428,198,467,215,504,244"/>
+<area shape="rect" id="Node000005" href="$classAntiMicroSettings.html" title=" " alt="" coords="5,80,143,105"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="123,107,303,165,302,170,122,112"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="31,5,117,31"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="77,45,77,80,71,80,71,45"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="213,295,214,308,219,318,242,338,272,348,270,353,240,342,215,322,209,309,208,295"/>
+</map>

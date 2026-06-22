@@ -1,0 +1,7 @@
+<map id="JoyAxis::setButtonsSpringRelativeStatus" name="JoyAxis::setButtonsSpringRelativeStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,5,697,45"/>
+<area shape="rect" id="Node000002" href="$classMouseAxisSettingsDialog.html#a11467a071da81d67557bb43c39dd1453" title=" " alt="" coords="249,5,460,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,28,460,28,460,23,494,23"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="5,5,201,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,28,202,28,202,23,236,23"/>
+</map>

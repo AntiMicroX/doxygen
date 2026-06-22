@@ -1,0 +1,10 @@
+<map id="JoySensor::calculateZDistanceFromDeadZone" name="JoySensor::calculateZDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title="Get current Z distance of the sensor past the assigned dead zone." alt="" coords="540,37,759,77"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="695,26,679,19,649,16,623,18,607,23,602,29,605,36,599,38,596,28,605,18,622,13,649,11,681,13,698,21"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab595f8d8998b4a1c59a6902a4e41d0a4" title="Used to calculate the distance value that should be used by the JoyButton in the given direction." alt="" coords="268,37,492,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,60,492,60,492,55,527,55"/>
+<area shape="rect" id="Node000003" href="$classJoySensorButton.html#a800643b8cf843a28b687b58a56121dfc" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="5,5,220,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,45,220,41,220,36,255,40"/>
+<area shape="rect" id="Node000004" href="$classJoySensorButton.html#a6b16befa64adc6ff073cf73a12f9a5b6" title="Get the distance factor that should be used for mouse movement." alt="" coords="12,69,213,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="255,75,214,80,213,75,254,70"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="JoyButton::setTurboMode" name="JoyButton::setTurboMode">
+<area shape="rect" id="Node000001" title="Set the turbo mode that the button should use." alt="" coords="975,63,1159,88"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonXml.html#a9d7b2a6324a2f8fe4f424f78aa43d261" title=" " alt="" coords="736,23,927,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="961,64,927,59,927,54,961,58"/>
+<area shape="rect" id="Node000006" href="$classAdvanceButtonDialog.html#a147bdc81b9bdeecf5f523971141bc6a3" title=" " alt="" coords="749,87,913,127"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="961,92,914,99,913,94,961,87"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonXml.html#a9d79d75b14b57419ed1fc5639dde8515" title=" " alt="" coords="499,31,688,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="723,46,688,46,688,41,723,41"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="252,5,451,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,35,451,31,451,26,485,29"/>
+<area shape="rect" id="Node000005" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,31,204,56"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="485,46,204,46,204,41,485,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,32,205,36,204,30,238,27"/>
+<area shape="rect" id="Node000007" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="508,87,679,127"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="736,110,679,110,679,105,736,105"/>
+</map>

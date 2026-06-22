@@ -1,0 +1,7 @@
+<map id="JoyDPad::setButtonsMouseMode" name="JoyDPad::setButtonsMouseMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,237,31"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a28224ca61d50adb1338643ae63bab3a3" title=" " alt="" coords="285,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,15,272,15,272,21,237,21"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="525,5,728,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,15,512,15,512,21,478,21"/>
+</map>

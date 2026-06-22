@@ -1,0 +1,7 @@
+<map id="JoyControlStickButtonPushButton::tryFlash" name="JoyControlStickButtonPushButton::tryFlash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,200,75"/>
+<area shape="rect" id="Node000002" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="266,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,40,252,34,253,39,200,45"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#aa1eb52e9cce61ac403f9b451c512f197" title="Checks if this button is currently active." alt="" coords="248,70,439,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,63,235,67,234,73,200,69"/>
+</map>

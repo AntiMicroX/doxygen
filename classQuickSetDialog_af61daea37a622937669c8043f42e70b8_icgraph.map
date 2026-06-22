@@ -1,0 +1,33 @@
+<map id="QuickSetDialog::invokeMethodLastBtn" name="QuickSetDialog::invokeMethodLastBtn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="768,101,991,141"/>
+<area shape="rect" id="Node000002" href="$classQuickSetDialog.html#acbf347f1a8cb27a6385245ef205e3e13" title=" " alt="" coords="521,5,713,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="818,98,719,60,684,48,686,43,721,55,820,94"/>
+<area shape="rect" id="Node000006" href="$classQuickSetDialog.html#abc94158041ae6895da77662156b64591" title=" " alt="" coords="513,69,720,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="754,109,720,105,720,99,755,103"/>
+<area shape="rect" id="Node000008" href="$classQuickSetDialog.html#ac798af7932e1bd769e7f678698163380" title=" " alt="" coords="518,133,715,173"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="755,139,716,144,715,139,754,134"/>
+<area shape="rect" id="Node000011" href="$classQuickSetDialog.html#ad2dbc145f771f61cad3736c044dfa249" title=" " alt="" coords="519,229,715,269"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="827,150,660,232,658,227,824,145"/>
+<area shape="rect" id="Node000003" href="$classQuickSetDialog.html#a07fd82f8f1876081285948af84d3fdfa" title=" " alt="" coords="247,5,459,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,28,460,28,460,23,507,23"/>
+<area shape="rect" id="Node000004" href="$classQuickSetDialog.html#a524c363dab8fac9758adbbb314d64888" title=" " alt="" coords="5,101,193,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,52,242,60,142,104,140,99,240,55,263,47"/>
+<area shape="rect" id="Node000005" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="5,165,193,205"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="249,55,243,59,226,82,220,106,213,130,195,155,177,167,174,163,191,151,208,128,214,104,221,80,239,55,246,50"/>
+<area shape="rect" id="Node000007" href="$classQuickSetDialog.html#aecc56c37a7b9b387e3ea4afb8637596a" title=" " alt="" coords="252,69,455,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="500,92,455,92,455,87,500,87"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="239,106,194,112,193,107,238,101"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="260,116,243,124,219,139,195,156,167,168,165,163,192,151,216,135,240,119,258,111"/>
+<area shape="rect" id="Node000009" href="$classQuickSetDialog.html#a87890e10b6ecb7d69d90597206b63625" title=" " alt="" coords="246,197,461,237"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="521,179,437,200,436,195,520,174"/>
+<area shape="rect" id="Node000010" href="$classQuickSetDialog.html#aeb73ff69d1eaa456ec7d8971465e4670" title=" " alt="" coords="241,133,465,173"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="505,156,466,156,466,151,505,151"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="258,195,240,188,216,172,192,156,165,144,167,139,195,151,219,167,243,183,260,190"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="232,205,193,200,194,194,233,199"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="227,140,193,136,194,130,228,135"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="228,172,194,176,193,171,227,167"/>
+<area shape="rect" id="Node000012" href="$classQuickSetDialog.html#a1aab64d84f8e7fe3403ce792468d96bb" title=" " alt="" coords="243,261,463,301"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="505,266,464,271,463,265,505,260"/>
+<area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="246,256,239,251,221,227,214,202,208,178,191,155,174,144,177,139,195,151,213,176,220,201,226,225,243,247,249,252"/>
+<area shape="poly" id="edge19_Node000012_Node000005" title=" " alt="" coords="263,260,240,252,140,208,142,203,242,247,265,255"/>
+</map>

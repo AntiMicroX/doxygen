@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['id_0',['id',['../structX11Extras_1_1ptrInformation.html#a3c4e7b3c615e6879ea20efa6da23833a',1,'X11Extras::ptrInformation']]],
+  ['identifier_1',['identifier',['../classQtKeyMapperBase.html#aa1757ad84ca4ef1b1f75c5cb6f597cc7',1,'QtKeyMapperBase']]],
+  ['idlemouserefreshrate_2',['IDLEMOUSEREFRESHRATE',['../classGlobalVariables_1_1JoyButton.html#a056681a8780e7adf26473333a43809df',1,'GlobalVariables::JoyButton']]],
+  ['ignoreevents_3',['ignoreEvents',['../classJoyButton.html#a80a8ebf91ad025b72cf2730b45962043',1,'JoyButton']]],
+  ['ignorerelease_4',['ignoreRelease',['../classButtonEditDialog.html#aa221722104932dabd4aaa92b2a51d66f',1,'ButtonEditDialog']]],
+  ['ignoresetqueue_5',['ignoreSetQueue',['../classJoyButton.html#ad93af6ca5cd463d285cecc583e34996d',1,'JoyButton']]],
+  ['index_6',['index',['../classQuickSetDialog.html#aa0a9f118bbfafdf88a5686e5b709c608',1,'QuickSetDialog::index'],['../structStickCalibrationData.html#ac212abf4f33546dade00f46c6f608c9a',1,'StickCalibrationData::index'],['../classJoyControlStick.html#a02c269575fb7fb193fc54d0b9ae42e55',1,'JoyControlStick::index']]],
+  ['info_7',['info',['../classAddEditAutoProfileDialog.html#ad8fd0bbe460bb9115d81a535e415bf1b',1,'AddEditAutoProfileDialog::info'],['../classEditAllDefaultAutoProfileDialog.html#ac002eefd53ce5a949d6f46edabafc04f',1,'EditAllDefaultAutoProfileDialog::info']]],
+  ['initial_5fvalue_8',['initial_value',['../struct__SDL__JoystickAxisInfo.html#a05e9834d8d2e5fd8006bac5ef82daeb7',1,'_SDL_JoystickAxisInfo']]],
+  ['initialthrottlestate_9',['initialThrottleState',['../classAxisEditDialog.html#aea57fb627d5a5b53c490ca4cdd3f8ac6',1,'AxisEditDialog']]],
+  ['inpausehold_10',['inpauseHold',['../classJoyButton.html#ae5bac4fb8e4f83af54f6fdf735323013',1,'JoyButton']]],
+  ['inputdaemonmutex_11',['inputDaemonMutex',['../namespacePadderCommon.html#a0d2c122ca80fd3a6afc111c3933cfd2d',1,'PadderCommon']]],
+  ['instance_12',['instance',['../classButtonEditDialog.html#ad0226b98a811561d406503a2d6b64e2a',1,'ButtonEditDialog::instance'],['../classLogger.html#a5e9fd267cd621afeb1201131071425ea',1,'Logger::instance'],['../classEventHandlerFactory.html#a45436fb9807f91c52751ff0e7fd3613b',1,'EventHandlerFactory::instance']]],
+  ['instance_5fid_13',['instance_id',['../struct__SDL__Joystick.html#a8540442bb8ba4727aa0d690407f0f0a4',1,'_SDL_Joystick']]],
+  ['internalmapper_14',['internalMapper',['../classAntKeyMapper.html#a88915a7955da26a01cec223e6398cd59',1,'AntKeyMapper']]],
+  ['invokestring_15',['invokeString',['../classQuickSetDialog.html#a2ec5e2b9413393ef3a3d0b2928fe5acf',1,'QuickSetDialog']]],
+  ['is_5fgame_5fcontroller_16',['is_game_controller',['../struct__SDL__Joystick.html#a227c594ca4f70af9882cc9598d1fec2a',1,'_SDL_Joystick']]],
+  ['is_5fmessage_5fsent_17',['is_message_sent',['../classLogHelper.html#a22b66934578c560c9f31af1c28b92ee4',1,'LogHelper']]],
+  ['isactive_18',['isactive',['../classJoyAxis.html#a9987aa4202245b3fc7d6f4b9cc064301',1,'JoyAxis::isActive'],['../classJoyControlStick.html#a414c186c0debddf583cfe022c0c7611a',1,'JoyControlStick::isActive']]],
+  ['isbuttonpressed_19',['isButtonPressed',['../classJoyButton.html#a83c52fa2f881581b1a64b5eed094b8cb',1,'JoyButton']]],
+  ['isbuttonpressedqueue_20',['isButtonPressedQueue',['../classJoyButton.html#a0a5a1b9461a66a92438aa503163b2d06',1,'JoyButton']]],
+  ['isdown_21',['isDown',['../classJoyButton.html#a7b0583e6f3d8c56fd299b558fb8448b2',1,'JoyButton']]],
+  ['iskeypressed_22',['isKeyPressed',['../classJoyButton.html#ada0dc4886bdad4f8128ffb3fda2314b3',1,'JoyButton']]]
+];

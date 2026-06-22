@@ -1,0 +1,7 @@
+<map id="MainSettingsDialog::insertTempControllerMapping" name="MainSettingsDialog::insertTempControllerMapping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,5,688,45"/>
+<area shape="rect" id="Node000002" href="$classMainSettingsDialog.html#a9c9003d7ae226d7e887736ba2fe22bbe" title=" " alt="" coords="211,5,417,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,28,418,28,418,23,452,23"/>
+<area shape="rect" id="Node000003" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="5,5,163,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,28,163,28,163,23,197,23"/>
+</map>

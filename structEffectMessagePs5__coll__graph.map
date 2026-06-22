@@ -1,0 +1,13 @@
+<map id="EffectMessagePs5" name="EffectMessagePs5">
+<area shape="rect" id="Node000001" title="Binary representation of a PS5 controller haptic feedback message." alt="" coords="203,196,343,221"/>
+<area shape="rect" id="Node000002" href="$structTriggerEffectMsgPs5.html" title="Effect message for a single trigger." alt="" coords="196,93,349,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,133,275,196,270,196,270,133"/>
+<area shape="rect" id="Node000003" href="$structEffectNonePs5.html" title="Effect message for no trigger effect." alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,34,246,91,244,96,103,38"/>
+<area shape="rect" id="Node000004" href="$structEffectRigidPs5.html" title="Effect message for a rigid trigger effect." alt="" coords="146,5,261,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,40,265,91,261,94,219,43"/>
+<area shape="rect" id="Node000005" href="$structEffectClickPs5.html" title="Effect message for a click trigger effect." alt="" coords="285,5,399,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="326,43,284,94,280,91,322,40"/>
+<area shape="rect" id="Node000006" href="$structEffectVibrationPs5.html" title="Effect message for a vibration trigger effect." alt="" coords="423,5,565,31"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="452,38,303,96,301,91,450,33"/>
+</map>

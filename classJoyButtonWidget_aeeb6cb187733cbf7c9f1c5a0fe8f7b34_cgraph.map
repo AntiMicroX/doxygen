@@ -1,0 +1,31 @@
+<map id="JoyButtonWidget::JoyButtonWidget" name="JoyButtonWidget::JoyButtonWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,208,253"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a5746df6ea4d7fe87c3641243ef934738" title=" " alt="" coords="275,43,497,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,211,172,144,211,107,255,77,269,70,272,75,257,82,214,111,176,147,123,214"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonWidget.html#a6ceafa7be2b1af2a13944cfc20362b57" title=" " alt="" coords="269,169,503,195"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,212,302,194,303,200,209,217"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="565,284,753,309"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="208,230,354,237,436,244,517,255,565,269,598,278,597,283,563,274,515,261,435,250,354,242,208,236"/>
+<area shape="rect" id="Node000009" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="285,271,487,296"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="209,248,303,266,302,271,208,254"/>
+<area shape="rect" id="Node000010" href="$classFlashButtonWidget.html#a14c9ecbbd3dfaef78b78371e17aac539" title=" " alt="" coords="309,321,463,361"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="143,250,196,279,257,306,296,319,295,324,255,311,193,284,140,255"/>
+<area shape="rect" id="Node000012" href="$classJoyButtonWidget.html#a681d3c384a94a2febb23b1f733cfcbaf" title=" " alt="" coords="256,385,516,411"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="125,251,179,312,216,344,257,370,276,379,274,384,255,375,213,348,175,315,121,255"/>
+<area shape="rect" id="Node000013" href="$classJoyButtonWidget.html#a0267d5a6052af73bc621af6bb25c3341" title=" " alt="" coords="290,92,482,117"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="144,210,255,154,337,120,339,125,257,159,146,215"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="590,120,729,145"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,167,576,145,577,150,458,172"/>
+<area shape="rect" id="Node000005" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="582,55,737,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="418,167,515,126,563,105,583,97,585,102,565,110,517,131,420,172"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="472,192,517,212,534,226,542,241,551,256,566,269,579,277,577,281,562,274,547,259,538,244,529,230,515,216,470,197"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="585,169,734,195"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="503,179,570,179,570,185,503,185"/>
+<area shape="rect" id="Node000008" href="$classFlashButtonWidget.html#a84af4cf2103d6f054e117915850199ec" title=" " alt="" coords="582,219,737,259"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="448,192,569,218,568,223,447,197"/>
+<area shape="rect" id="Node000011" href="$classFlashButtonWidget.html#a15b2a9c645747d9f1f8368389da5830a" title=" " alt="" coords="582,334,737,374"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="464,342,568,347,568,352,463,347"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="482,92,568,82,569,88,483,97"/>
+<area shape="rect" id="Node000014" href="$classJoyButton.html#aa1eb52e9cce61ac403f9b451c512f197" title="Checks if this button is currently active." alt="" coords="564,5,755,31"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="478,89,515,77,529,69,538,60,563,41,583,32,585,37,565,46,542,64,532,73,517,82,480,94"/>
+</map>

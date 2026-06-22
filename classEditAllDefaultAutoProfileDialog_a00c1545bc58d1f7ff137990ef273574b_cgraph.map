@@ -1,0 +1,9 @@
+<map id="EditAllDefaultAutoProfileDialog::saveAutoProfileInformation" name="EditAllDefaultAutoProfileDialog::saveAutoProfileInformation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,256,95"/>
+<area shape="rect" id="Node000002" href="$classAutoProfileInfo.html#a9268ba686a854dfefe57d4840daa171d" title=" " alt="" coords="314,5,501,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,53,331,31,333,36,228,58"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileInfo.html#a7b0185a8bf7465f368b9a0f14226d78f" title=" " alt="" coords="314,55,501,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,73,300,73,300,78,256,78"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileInfo.html#aa0152b5c57f4a4abebfd1b2b54e61272" title=" " alt="" coords="304,120,511,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,93,333,115,331,120,227,98"/>
+</map>

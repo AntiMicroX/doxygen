@@ -1,0 +1,15 @@
+<map id="MainSettingsDialog::refreshExtraMouseInfo" name="MainSettingsDialog::refreshExtraMouseInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,184,109"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="240,19,412,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,67,260,45,262,51,177,72"/>
+<area shape="rect" id="Node000003" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="247,69,405,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,87,234,87,234,92,184,92"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="232,134,420,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="177,107,262,128,260,133,175,112"/>
+<area shape="rect" id="Node000004" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="468,5,655,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,67,474,46,475,51,401,72"/>
+<area shape="rect" id="Node000005" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="483,69,640,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="405,87,469,87,469,92,405,92"/>
+<area shape="rect" id="Node000006" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="483,133,640,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="401,107,475,127,474,132,400,112"/>
+</map>

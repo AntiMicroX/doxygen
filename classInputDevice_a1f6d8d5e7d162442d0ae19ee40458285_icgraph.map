@@ -1,0 +1,16 @@
+<map id="InputDevice::getSettings" name="InputDevice::getSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="935,45,1117,70"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#a8a246d58fb4be6f912506d46b7cb187c" title=" " alt="" coords="700,5,887,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="921,46,887,41,887,36,922,40"/>
+<area shape="rect" id="Node000004" href="$classAdvanceButtonDialog.html#a537e84c8a495aa615b417b3851b59b62" title=" " alt="" coords="704,69,883,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="922,74,883,80,882,74,921,69"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="469,5,652,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="686,28,652,28,652,23,686,23"/>
+<area shape="rect" id="Node000005" href="$classAdvanceButtonDialog.html#a973a9cf7b58950cda18e39fdffb87e09" title=" " alt="" coords="479,69,642,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="690,92,642,92,642,87,690,87"/>
+<area shape="rect" id="Node000006" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="5,69,176,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="466,89,421,88,224,88,176,89,176,84,224,83,421,83,466,84"/>
+<area shape="rect" id="Node000007" href="$classAdvanceButtonDialog.html#af8430c4a355c90c657d69a44a85e6b84" title=" " alt="" coords="224,97,421,137"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="466,103,422,108,421,103,465,98"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="210,106,176,102,177,97,210,101"/>
+</map>

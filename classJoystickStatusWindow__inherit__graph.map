@@ -1,0 +1,5 @@
+<map id="JoystickStatusWindow" name="JoystickStatusWindow">
+<area shape="rect" id="Node000001" title="The joystick &quot;Properties&quot; window. Shows various raw values to the user." alt="" coords="5,79,172,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,126,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,44,91,79,86,79,86,44"/>
+</map>

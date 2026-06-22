@@ -1,0 +1,16 @@
+<map id="Calibration::resetCalibrationValues" name="Calibration::resetCalibrationValues">
+<area shape="rect" id="Node000001" title="Resets calibration values of the currently selected device and updates UI." alt="" coords="5,77,211,117"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a7f99f881b46a50a7a12192d5d9d4314a" title="Resets the calibration of both stick axes back to uncalibrated state." alt="" coords="267,5,501,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,74,258,39,293,31,294,36,259,45,159,79"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a044d2b812c7ecff3c9ed9d101af5d4a8" title="Resets the calibration of the sensor back to uncalibrated state." alt="" coords="285,55,483,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,83,271,77,271,82,211,88"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#ac9f926307bf97c12bd0595ea5599c81e" title="Shows the sensor offset calibration values to the user." alt="" coords="259,169,509,209"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,114,260,154,286,162,285,167,258,159,154,119"/>
+<area shape="rect" id="Node000007" href="$classCalibration.html#ada69dfce5bbe35ea761528dedf593ef3" title="Shows the stick offset and gain calibration values to the user." alt="" coords="265,105,503,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="211,104,251,109,251,114,210,110"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="557,120,745,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="480,166,576,146,577,151,481,171"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="574,176,729,201"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="510,186,560,186,560,191,510,191"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="503,126,544,127,544,132,503,131"/>
+</map>

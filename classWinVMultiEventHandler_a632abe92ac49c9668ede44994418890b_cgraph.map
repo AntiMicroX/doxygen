@@ -1,0 +1,8 @@
+<map id="WinVMultiEventHandler::sendMouseButtonEvent" name="WinVMultiEventHandler::sendMouseButtonEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="485,13,683,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,20,237,19,437,19,472,19,471,25,437,24,237,24,190,25"/>
+<area shape="rect" id="Node000003" href="$classWinSendInputEventHandler.html#a8c2d4eed230a6a236f76dfed9a175f66" title=" " alt="" coords="237,33,437,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,33,224,37,223,43,189,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="437,39,472,35,472,41,438,45"/>
+</map>

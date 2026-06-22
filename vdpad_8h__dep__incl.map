@@ -1,0 +1,36 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/vdpad.h" name="/home/runner/work/doxygen/antimicrox/src/vdpad.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2087,5,2293,45"/>
+<area shape="rect" id="Node000002" href="$gamecontrollerdpad_8h.html" title=" " alt="" coords="499,93,721,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2074,31,1839,37,1522,49,1162,68,797,96,722,105,721,99,796,91,1162,63,1522,44,1839,32,2073,26"/>
+<area shape="rect" id="Node000006" href="$joydpadxml_8cpp.html" title=" " alt="" coords="746,203,1002,243"/>
+<area shape="poly" id="edge16_Node000001_Node000006" title=" " alt="" coords="2074,31,1752,37,1354,48,1166,57,1008,68,894,81,860,88,844,95,836,107,833,120,836,148,848,177,862,202,858,204,843,180,831,150,827,119,831,104,840,91,858,83,893,75,1007,62,1166,52,1354,43,1752,31,2073,25"/>
+<area shape="rect" id="Node000007" href="$advancestickassignmentdialog_8cpp.html" title=" " alt="" coords="853,101,1228,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2074,35,1703,58,1241,96,1176,103,1176,98,1240,91,1702,53,2073,30"/>
+<area shape="rect" id="Node000008" href="$joytabwidget_8cpp.html" title=" " alt="" coords="1253,101,1511,141"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2074,38,1821,61,1524,96,1478,103,1477,98,1523,91,1820,56,2073,33"/>
+<area shape="rect" id="Node000009" href="$quicksetdialog_8cpp.html" title=" " alt="" coords="1535,101,1805,141"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2074,50,1775,103,1774,98,2073,45"/>
+<area shape="rect" id="Node000010" href="$inputdevice_8cpp.html" title=" " alt="" coords="1829,101,2055,141"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2128,53,1993,103,1991,98,2126,48"/>
+<area shape="rect" id="Node000011" href="$joyaxisbutton_8cpp.html" title=" " alt="" coords="2079,93,2301,148"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2193,59,2193,93,2187,93,2187,59"/>
+<area shape="rect" id="Node000012" href="$joybutton_8cpp.html" title=" " alt="" coords="2325,93,2546,148"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2253,48,2367,91,2365,96,2252,53"/>
+<area shape="rect" id="Node000013" href="$joysensorbutton_8cpp.html" title=" " alt="" coords="2570,93,2791,148"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2307,44,2559,91,2570,93,2569,98,2557,96,2306,49"/>
+<area shape="rect" id="Node000014" href="$setjoystick_8cpp.html" title=" " alt="" coords="2815,101,3037,141"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2307,33,2537,56,2804,91,2844,98,2843,103,2803,96,2537,61,2306,38"/>
+<area shape="rect" id="Node000015" href="$vdpad_8cpp.html" title=" " alt="" coords="3061,101,3266,141"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2307,28,2641,47,2845,65,3049,91,3088,98,3087,103,3048,96,2845,70,2641,52,2306,33"/>
+<area shape="rect" id="Node000016" href="$inputdevicexml_8cpp.html" title=" " alt="" coords="3290,101,3570,141"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2306,27,2735,46,3006,64,3278,91,3330,98,3330,103,3278,96,3005,70,2734,51,2306,32"/>
+<area shape="rect" id="Node000017" href="$setjoystickxml_8cpp.html" title=" " alt="" coords="3594,101,3869,141"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="2307,25,2541,29,2858,39,3218,59,3402,73,3582,91,3635,98,3634,103,3582,96,3402,78,3218,64,2857,44,2541,34,2306,30"/>
+<area shape="rect" id="Node000003" href="$gamecontroller_8cpp.html" title=" " alt="" coords="5,196,228,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="486,149,240,199,229,201,228,196,239,193,485,144"/>
+<area shape="rect" id="Node000004" href="$gamecontrollerdpad_8cpp.html" title=" " alt="" coords="252,196,475,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="534,156,429,198,427,193,532,151"/>
+<area shape="rect" id="Node000005" href="$gamecontrollerset_8cpp.html" title=" " alt="" coords="499,196,721,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="613,162,613,196,607,196,607,162"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="692,150,825,201,823,206,690,155"/>
+</map>

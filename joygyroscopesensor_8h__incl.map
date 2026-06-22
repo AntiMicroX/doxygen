@@ -1,0 +1,22 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/sensors/joygyroscopesensor.h" name="/home/runner/work/doxygen/antimicrox/src/sensors/joygyroscopesensor.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,5,401,60"/>
+<area shape="rect" id="Node000002" href="$joysensor_8h.html" title=" " alt="" coords="250,108,346,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,60,301,94,295,94,295,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,71,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,136,85,183,83,178,256,131"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,181,170,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="272,136,173,178,171,173,270,131"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,181,265,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="289,136,253,173,249,169,285,132"/>
+<area shape="rect" id="Node000006" href="$joysensordirection_8h.html" title=" " alt="" coords="290,181,445,207"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="311,132,349,170,345,173,308,136"/>
+<area shape="rect" id="Node000008" href="$joysensortype_8h.html" title=" " alt="" coords="469,181,596,207"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="336,131,482,175,481,180,335,136"/>
+<area shape="rect" id="Node000010" href="$pt1filter_8h.html" title=" " alt="" coords="620,181,704,207"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="347,128,607,178,606,183,346,134"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="343,255,437,280"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="374,206,385,241,380,242,369,208"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="511,209,427,251,424,246,509,204"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="485,255,581,280"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="535,207,535,241,530,241,530,207"/>
+</map>

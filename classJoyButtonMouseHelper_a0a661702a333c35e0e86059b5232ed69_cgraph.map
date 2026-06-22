@@ -1,0 +1,13 @@
+<map id="JoyButtonMouseHelper::changeThread" name="JoyButtonMouseHelper::changeThread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,176,125"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a65766cc767496485cc211a6e1511137a" title=" " alt="" coords="243,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,82,173,61,223,41,256,31,258,36,225,46,175,66,130,87"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#adcbf2eb84178a075252fd096c5aee4e9" title=" " alt="" coords="246,55,441,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,92,232,86,232,91,177,97"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a3be083ee56eea1d917bdaf0a3e86a1a4" title=" " alt="" coords="224,120,463,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,111,216,116,215,121,176,117"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a05c5e6f5b25e48a279522fc6a61f6745" title=" " alt="" coords="247,170,440,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,122,225,154,255,164,253,169,223,159,139,127"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="511,177,699,203"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="440,187,497,187,497,193,440,193"/>
+</map>

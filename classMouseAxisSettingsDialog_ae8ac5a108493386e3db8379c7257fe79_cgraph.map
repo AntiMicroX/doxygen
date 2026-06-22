@@ -1,0 +1,9 @@
+<map id="MouseAxisSettingsDialog::calculateMinAccelerationThreshold" name="MouseAxisSettingsDialog::calculateMinAccelerationThreshold">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,264,87"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#ab4b60928265f82108c16be1de7ef28b3" title=" " alt="" coords="312,5,549,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,45,340,30,341,36,256,50"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="341,55,521,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,65,327,65,327,70,264,70"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="342,104,519,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,85,341,99,340,104,255,90"/>
+</map>

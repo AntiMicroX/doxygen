@@ -1,0 +1,18 @@
+<map id="InputDevice::getSDLJoystickID" name="InputDevice::getSDLJoystickID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="989,70,1208,95"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#a9e5f5e28dc44a7d61625b76c6497ab0f" title="Postprocesses fetched raw events." alt="" coords="455,5,665,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1013,70,941,60,797,45,665,35,665,29,797,40,942,55,1013,65"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#a69164b93be97f28321b0cea7662feb6e" title=" " alt="" coords="721,70,941,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="976,85,942,85,942,80,976,80"/>
+<area shape="rect" id="Node000007" href="$classInputDaemon.html#acd2ed735ec3a24f3c0ad5c280f7cc6fa" title=" " alt="" coords="725,119,938,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1016,100,902,122,901,117,1015,95"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,66,399,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,51,386,69,384,63,459,46"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,66,212,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,81,212,81,212,76,246,76"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="533,70,587,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="707,85,588,85,588,80,707,80"/>
+<area shape="rect" id="Node000008" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="447,119,673,145"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="711,135,674,135,674,129,711,129"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="488,119,446,109,382,94,383,89,447,104,489,114"/>
+</map>

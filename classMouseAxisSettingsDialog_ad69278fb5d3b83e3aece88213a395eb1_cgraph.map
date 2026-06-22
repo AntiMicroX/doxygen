@@ -1,0 +1,9 @@
+<map id="MouseAxisSettingsDialog::updateAccelerationCurvePresetComboBox" name="MouseAxisSettingsDialog::updateAccelerationCurvePresetComboBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,34,240,89"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a3bde4162e0a945278df1bee28c832dde" title=" " alt="" coords="310,5,501,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,44,296,37,297,42,241,49"/>
+<area shape="rect" id="Node000004" href="$classMouseSettingsDialog.html#a7fb4cca0b5f8d3d9280adb6f511d7454" title=" " alt="" coords="288,70,523,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,74,275,78,274,83,240,79"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ad107fc4d6e2725fd5b09a2412c18b1e3" title=" " alt="" coords="571,13,765,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,23,557,23,557,28,501,28"/>
+</map>

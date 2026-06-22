@@ -1,0 +1,9 @@
+<map id="UInputEventHandler::sendMouseButtonEvent" name="UInputEventHandler::sendMouseButtonEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,189,87"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="239,5,436,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,46,261,31,262,36,190,51"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="237,55,437,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,65,224,65,224,70,189,70"/>
+<area shape="rect" id="Node000004" href="$classUInputEventHandler.html#aa04ce5a2e42124cf21a2872ee4511918" title="Write uinput event to selected file uinput file." alt="" coords="260,105,415,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,85,247,101,246,106,181,90"/>
+</map>

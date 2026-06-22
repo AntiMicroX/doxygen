@@ -1,0 +1,13 @@
+<map id="JoyAxis::setHapticTriggerMode" name="JoyAxis::setHapticTriggerMode">
+<area shape="rect" id="Node000001" title="Changes the haptic trigger effect mode." alt="" coords="733,42,953,67"/>
+<area shape="rect" id="Node000002" href="$classAxisEditDialog.html#a0c9bfce91a235cd4d1dc435cc32259c9" title="Converts the haptic trigger combo box index to a HapticTriggerMode and applies it to the current axis..." alt="" coords="484,5,680,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="719,43,680,39,681,34,720,38"/>
+<area shape="rect" id="Node000004" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="479,70,685,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="720,71,686,74,685,69,719,65"/>
+<area shape="rect" id="Node000003" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="252,5,431,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,28,431,28,431,23,470,23"/>
+<area shape="rect" id="Node000005" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="254,70,429,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,85,429,85,429,80,465,80"/>
+<area shape="rect" id="Node000006" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,70,204,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="240,85,204,85,204,80,240,80"/>
+</map>

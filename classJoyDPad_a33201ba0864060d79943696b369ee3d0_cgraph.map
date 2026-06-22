@@ -1,0 +1,10 @@
+<map id="JoyDPad::setButtonsSpringRelativeStatus" name="JoyDPad::setButtonsSpringRelativeStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a05d1bf3c01aeaa6c28b207ae42740be5" title=" " alt="" coords="248,5,456,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,234,23,234,28,200,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="740,13,943,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,20,504,19,692,19,726,19,726,25,692,24,504,24,456,25"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a835d1f839a755c87758d7cc67b933d9f" title=" " alt="" coords="504,33,692,73"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,35,491,38,490,44,456,40"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="692,40,726,36,727,41,692,45"/>
+</map>

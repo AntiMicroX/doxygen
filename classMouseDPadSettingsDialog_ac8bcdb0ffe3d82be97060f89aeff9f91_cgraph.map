@@ -1,0 +1,9 @@
+<map id="MouseDPadSettingsDialog::updateSpringWidth" name="MouseDPadSettingsDialog::updateSpringWidth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,45"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a155353a48732ebfab8dab8d9e3be14f5" title=" " alt="" coords="247,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,23,233,23,233,28,199,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a5adef3dd0e7043373b3cf67a24351532" title=" " alt="" coords="489,13,681,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,23,476,23,476,28,441,28"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="729,13,932,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="682,23,716,23,716,28,682,28"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="JoyButtonSlot::isModifierKey" name="JoyButtonSlot::isModifierKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,212,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="68,31,59,21,64,11,81,5,109,3,144,7,154,11,158,17,153,20,151,15,143,12,109,8,82,10,67,15,65,20,72,27"/>
+<area shape="rect" id="Node000002" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="260,29,461,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,39,246,39,246,45,212,45"/>
+<area shape="rect" id="Node000003" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="509,29,688,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,39,495,39,495,45,461,45"/>
+</map>

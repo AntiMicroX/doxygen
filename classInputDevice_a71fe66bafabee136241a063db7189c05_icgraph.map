@@ -1,0 +1,9 @@
+<map id="InputDevice::getCalibrationBackend" name="InputDevice::getCalibrationBackend">
+<area shape="rect" id="Node000001" title="Returns a pointer to the internal calibration storage backend." alt="" coords="548,23,748,63"/>
+<area shape="rect" id="Node000002" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="294,5,498,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,35,498,31,498,26,535,29"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="292,55,500,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="535,57,500,60,500,55,534,51"/>
+<area shape="rect" id="Node000003" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="5,5,244,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,21,244,21,244,15,280,15"/>
+</map>

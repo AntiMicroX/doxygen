@@ -1,0 +1,5 @@
+<map id="WinExtras::getCurrentWindowText" name="WinExtras::getCurrentWindowText">
+<area shape="rect" id="Node000001" title="Get the window text of the window currently in focus." alt="" coords="5,5,249,31"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="297,5,485,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,15,284,15,284,21,249,21"/>
+</map>

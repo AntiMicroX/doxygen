@@ -1,0 +1,20 @@
+<map id="VirtualKeyboardMouseWidget::establishVirtualMouseSignalConnections" name="VirtualKeyboardMouseWidget::establishVirtualMouseSignalConnections">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,300,77"/>
+<area shape="rect" id="Node000002" href="$classVirtualMousePushButton.html#a4f872aaaf166112e40fdb7e865852805" title=" " alt="" coords="368,5,551,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,39,354,34,355,39,300,45"/>
+<area shape="rect" id="Node000003" href="$classVirtualKeyboardMouseWidget.html#ae535d1ab2f639bb93110c6081dce1731" title=" " alt="" coords="348,69,571,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="300,70,334,74,334,79,300,75"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#af8126f12b4a9a65a316a335288e8cb79" title=" " alt="" coords="888,26,1104,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,68,618,61,751,49,874,41,875,47,751,54,619,67,571,73"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="632,77,820,102"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="571,87,618,87,618,92,571,92"/>
+<area shape="rect" id="Node000006" href="$classVirtualKeyboardMouseWidget.html#a379b1e56c40759f5efbb912692779997" title=" " alt="" coords="619,127,833,167"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="554,107,620,121,618,126,552,112"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="806,124,832,111,846,99,855,87,864,74,880,62,898,53,900,58,883,66,868,78,859,90,850,103,835,116,808,129"/>
+<area shape="rect" id="Node000007" href="$classVirtualKeyboardMouseWidget.html#af08328d72e52c3e97a2eb1e656a9d9ee" title=" " alt="" coords="889,76,1103,116"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="832,124,875,116,876,121,833,129"/>
+<area shape="rect" id="Node000008" href="$classVirtualKeyboardMouseWidget.html#a77281128042634ae233e6e679e2f0471" title=" " alt="" coords="889,140,1103,180"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="834,149,875,151,875,157,833,155"/>
+<area shape="rect" id="Node000009" href="$classQuickSetDialog.html#a6999eeac1d5729196462849d67a0f394" title=" " alt="" coords="881,204,1111,244"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="796,164,882,189,911,198,909,203,881,195,794,169"/>
+</map>

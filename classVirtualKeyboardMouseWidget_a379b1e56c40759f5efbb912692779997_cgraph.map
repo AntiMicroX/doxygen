@@ -1,0 +1,11 @@
+<map id="VirtualKeyboardMouseWidget::nullifyDialogPointer" name="VirtualKeyboardMouseWidget::nullifyDialogPointer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,220,139"/>
+<area shape="rect" id="Node000002" href="$classVirtualKeyboardMouseWidget.html#af08328d72e52c3e97a2eb1e656a9d9ee" title=" " alt="" coords="275,5,490,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,96,267,55,292,47,294,52,269,60,162,101"/>
+<area shape="rect" id="Node000003" href="$classVirtualKeyboardMouseWidget.html#a77281128042634ae233e6e679e2f0471" title=" " alt="" coords="275,69,490,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,104,261,100,262,105,220,110"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#af8126f12b4a9a65a316a335288e8cb79" title=" " alt="" coords="275,134,491,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,127,261,131,261,137,220,132"/>
+<area shape="rect" id="Node000005" href="$classQuickSetDialog.html#a6999eeac1d5729196462849d67a0f394" title=" " alt="" coords="268,184,497,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,136,269,168,299,178,298,183,267,173,171,141"/>
+</map>

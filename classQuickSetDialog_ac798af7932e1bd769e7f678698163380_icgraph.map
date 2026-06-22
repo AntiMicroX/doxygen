@@ -1,0 +1,13 @@
+<map id="QuickSetDialog::showDPadButtonDialog" name="QuickSetDialog::showDPadButtonDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="513,37,711,77"/>
+<area shape="rect" id="Node000002" href="$classQuickSetDialog.html#a87890e10b6ecb7d69d90597206b63625" title=" " alt="" coords="246,5,461,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="499,46,461,41,461,36,500,41"/>
+<area shape="rect" id="Node000005" href="$classQuickSetDialog.html#aeb73ff69d1eaa456ec7d8971465e4670" title=" " alt="" coords="241,69,465,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="500,74,466,78,465,73,500,69"/>
+<area shape="rect" id="Node000003" href="$classQuickSetDialog.html#a524c363dab8fac9758adbbb314d64888" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,28,193,28,193,23,232,23"/>
+<area shape="rect" id="Node000004" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="5,69,193,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="261,51,180,72,179,67,259,46"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="259,68,179,48,180,43,261,63"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="228,92,193,92,193,87,228,87"/>
+</map>

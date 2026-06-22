@@ -1,0 +1,13 @@
+<map id="JoyAccelerometerSensor::calculateSensorDirection" name="JoyAccelerometerSensor::calculateSensorDirection">
+<area shape="rect" id="Node000001" title="Find the direction zone of the current sensor position." alt="" coords="5,121,197,161"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="247,29,432,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,118,185,90,244,64,266,56,268,61,246,68,188,95,137,123"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="250,103,429,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="197,128,236,124,237,129,198,133"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="245,152,433,177"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="198,148,232,151,231,156,197,153"/>
+<area shape="rect" id="Node000005" href="$classPT1Filter.html#a30421d33f61b781f9422577b6db07e1b" title="Processes a new sample." alt="" coords="271,201,408,227"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="161,158,246,186,277,195,276,200,245,191,159,163"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,292,21,297,11,313,5,339,3,373,7,385,16,382,20,371,11,339,8,314,10,300,15,298,20,305,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="301,104,292,94,297,84,313,78,339,76,373,80,385,89,382,94,371,85,339,81,314,83,300,88,298,94,305,101"/>
+</map>

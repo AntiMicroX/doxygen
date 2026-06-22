@@ -1,0 +1,9 @@
+<map id="InputDeviceCalibration::setGyroscopeCalibration" name="InputDeviceCalibration::setGyroscopeCalibration">
+<area shape="rect" id="Node000001" title="Updates the stored calibration for the given gyroscope from the parent controller." alt="" coords="729,5,920,45"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a5afca28cfa26229bfaff2d1efa176c94" title="Updates stored calibration for this controller and applies calibration to the specified gyroscope in ..." alt="" coords="459,5,681,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="716,28,682,28,682,23,716,23"/>
+<area shape="rect" id="Node000003" href="$classCalibration.html#a61d733b70d5fd8a60c8f98e50469ed0e" title="Save calibration values into the device object." alt="" coords="225,13,411,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,28,411,28,411,23,445,23"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,13,177,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,28,177,28,177,23,212,23"/>
+</map>

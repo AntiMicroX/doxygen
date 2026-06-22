@@ -1,0 +1,17 @@
+<map id="InputDevice::updateSetVDPadNames" name="InputDevice::updateSetVDPadNames">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,221,125"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="279,55,469,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,90,264,85,265,90,222,95"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#abcdc88c96a95fb0f5d8a721582d22851" title=" " alt="" coords="291,5,457,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,82,268,41,301,31,302,37,270,46,161,87"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a36abcec4baeb617b7f20b8818bb48358" title=" " alt="" coords="269,120,479,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="218,122,256,126,255,132,217,127"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="527,63,741,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,73,513,73,513,78,470,78"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#a30323027d8b249a1a1511862462ce171" title=" " alt="" coords="549,5,719,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,15,535,15,535,21,457,21"/>
+<area shape="poly" id="edge8_Node000006_Node000001" title=" " alt="" coords="322,123,235,111,235,106,323,117"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="432,117,562,88,563,94,433,123"/>
+<area shape="rect" id="Node000007" href="$classSetJoystick.html#ae1d30f1fe45b223ffa8693218c056ef7" title=" " alt="" coords="533,113,735,153"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="479,130,519,130,519,135,479,135"/>
+</map>

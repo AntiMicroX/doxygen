@@ -1,0 +1,10 @@
+<map id="JoyControlStick::isCalibrated" name="JoyControlStick::isCalibrated">
+<area shape="rect" id="Node000001" title="Check if the stick is calibrated." alt="" coords="732,5,939,31"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,5,684,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="719,21,684,21,684,15,719,15"/>
+<area shape="rect" id="Node000003" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,5,177,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,17,429,17,225,17,178,18,178,12,225,11,429,11,464,12"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,26,429,66"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="464,34,430,37,429,32,463,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="211,35,177,31,178,26,212,30"/>
+</map>

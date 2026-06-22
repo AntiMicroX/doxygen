@@ -1,0 +1,7 @@
+<map id="JoyAxisContextMenu::setTriggerPreset" name="JoyAxisContextMenu::setTriggerPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,163,63"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="216,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,32,202,27,202,32,163,37"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="211,55,399,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,49,197,53,197,58,163,55"/>
+</map>

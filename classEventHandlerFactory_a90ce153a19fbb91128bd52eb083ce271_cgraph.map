@@ -1,0 +1,9 @@
+<map id="EventHandlerFactory::getInstance" name="EventHandlerFactory::getInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,163,109"/>
+<area shape="rect" id="Node000002" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="211,5,397,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,67,221,47,223,52,154,72"/>
+<area shape="rect" id="Node000003" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="225,69,383,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,87,212,87,212,92,163,92"/>
+<area shape="rect" id="Node000004" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="225,133,383,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,107,223,127,221,132,153,112"/>
+</map>

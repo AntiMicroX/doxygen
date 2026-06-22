@@ -1,0 +1,11 @@
+<map id="JoyTabWidgetContainer::disableFlashes" name="JoyTabWidgetContainer::disableFlashes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,179,87"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a4b46385874694fb65374d837d9847284" title=" " alt="" coords="237,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,45,241,31,242,36,180,51"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a852d4353b05688c5b143897ae2f8f1d4" title=" " alt="" coords="231,55,395,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,65,217,65,217,70,179,70"/>
+<area shape="rect" id="Node000004" href="$classJoyTabWidgetContainer.html#aa09b355ef6bfc5dc4b575a9463ee1ea5" title=" " alt="" coords="227,105,400,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,85,223,99,222,104,169,90"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="448,112,636,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,122,434,122,434,127,400,127"/>
+</map>

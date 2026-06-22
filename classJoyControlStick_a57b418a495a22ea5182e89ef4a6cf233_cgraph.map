@@ -1,0 +1,11 @@
+<map id="JoyControlStick::copyAssignments" name="JoyControlStick::copyAssignments">
+<area shape="rect" id="Node000001" title="Copy slots from all stick buttons and properties from a stick onto another." alt="" coords="5,59,249,84"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a5f380246b40f29a3349500b8efc2f997" title="Copy assignments and properties from one button to another. Used for set copying." alt="" coords="297,29,505,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,56,284,52,284,57,246,61"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#ae0680b1adfe088c2178be2aa38e2050e" title=" " alt="" coords="309,79,493,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="250,81,296,86,295,91,249,86"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="553,5,759,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,30,539,26,540,32,506,35"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="555,55,757,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="506,50,542,53,541,59,505,55"/>
+</map>

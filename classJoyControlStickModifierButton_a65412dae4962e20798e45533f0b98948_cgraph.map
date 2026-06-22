@@ -1,0 +1,14 @@
+<map id="JoyControlStickModifierButton::getDistanceFromDeadZone" name="JoyControlStickModifierButton::getDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="5,117,223,157"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a5b043c1100b4d83df1858b028820e70c" title="Used to calculate the distance value that should be used for keyboard events and distance slots." alt="" coords="271,117,459,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,135,257,135,257,140,223,140"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="516,29,704,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,115,506,79,528,71,530,76,508,84,415,120"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="516,117,704,157"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="459,135,502,135,502,140,459,140"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#af9c934203a22e91c53d45a2a8f356248" title="Get current radial distance of the stick position past the assigned dead zone." alt="" coords="507,205,713,245"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="423,155,541,198,539,203,421,160"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="564,30,562,20,569,10,585,5,610,3,639,6,654,13,652,18,637,11,610,8,586,10,572,15,567,21,569,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="564,118,562,108,569,98,585,93,610,91,639,94,654,101,652,106,637,99,610,96,586,98,572,103,567,109,569,116"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="564,206,562,196,569,186,585,181,610,179,639,182,654,189,652,194,637,187,610,184,586,186,572,191,567,197,569,204"/>
+</map>

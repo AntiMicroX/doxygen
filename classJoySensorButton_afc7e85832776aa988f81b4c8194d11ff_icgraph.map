@@ -1,0 +1,29 @@
+<map id="JoySensorButton::setAssignmentChanged" name="JoySensorButton::setAssignmentChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1316,136,1551,176"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a736c16bf85c0aaea7d64ab961f319a69" title="Establishes connections for event propagation between JoySensor and InputDevice." alt="" coords="1069,100,1260,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1302,141,1260,135,1260,130,1303,136"/>
+<area shape="rect" id="Node000010" href="$classJoySensorButton.html#af02f47f2d03928e8a6bac08edd92eb86" title=" " alt="" coords="1061,168,1268,208"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1303,174,1269,178,1268,173,1302,169"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a517ad0a1738d42824b4671746f5a1af5" title="Setup sensor objects for all available hardware sensors." alt="" coords="804,105,1003,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1055,122,1003,121,1003,116,1055,116"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#adc322b55002b149c9a7432d1008b8537" title="Re&#45;enumerates inputs from the associated device and resets all mappings in this set." alt="" coords="551,103,686,129"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="790,119,686,119,686,114,790,114"/>
+<area shape="rect" id="Node000005" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="249,37,403,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="540,103,403,75,404,70,542,98"/>
+<area shape="rect" id="Node000008" href="$classSetJoystick.html#a9691a678e1bb444edc9f28368c4aeb8c" title=" " alt="" coords="239,102,413,127"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="537,118,414,118,414,112,537,113"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#ab9d47383844cb2c08581352a6c02bdab" title=" " alt="" coords="239,151,413,177"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="538,132,404,154,404,149,538,127"/>
+<area shape="rect" id="Node000006" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,5,160,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,48,160,38,160,33,235,43"/>
+<area shape="rect" id="Node000007" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="5,69,160,109"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="235,72,160,82,160,77,235,67"/>
+<area shape="rect" id="Node000011" href="$classInputDevice.html#a4ac83581ace56d9a9d051c309def30c9" title="Creates reverse set change button mapping for toggle and while&#45;hold set change mappings." alt="" coords="793,176,1013,216"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1048,194,1013,195,1013,190,1048,189"/>
+<area shape="rect" id="Node000012" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="492,201,745,226"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="780,206,746,208,745,203,779,201"/>
+<area shape="rect" id="Node000013" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="208,201,444,226"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="478,216,444,216,444,211,478,211"/>
+<area shape="rect" id="Node000014" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="260,250,392,275"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="530,231,393,254,392,249,529,226"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="JoyAxisContextMenu::buildAxisMenu" name="JoyAxisContextMenu::buildAxisMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,182,163,222"/>
+<area shape="rect" id="Node000002" href="$classJoyAxisContextMenu.html#acac6fe6c01df44b32d84d95913f2c3c7" title=" " alt="" coords="232,89,389,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,179,210,138,229,131,231,136,212,143,124,184"/>
+<area shape="rect" id="Node000008" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="467,203,655,228"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="163,202,453,210,453,215,163,207"/>
+<area shape="rect" id="Node000009" href="$classJoyAxisContextMenu.html#a04da5e38929b25e9d606937e256ed22b" title=" " alt="" coords="211,267,411,307"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="139,220,245,260,243,265,137,224"/>
+<area shape="rect" id="Node000010" href="$classJoyAxisContextMenu.html#aa369997b4c8bc45e220281a2f3a32d96" title=" " alt="" coords="232,153,389,193"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="163,189,218,182,219,187,163,194"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="459,104,664,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,108,445,110,445,116,389,114"/>
+<area shape="rect" id="Node000004" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="461,153,662,179"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,124,493,148,491,153,389,129"/>
+<area shape="rect" id="Node000006" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="471,5,651,31"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="350,86,401,62,458,39,484,32,486,37,460,45,403,67,352,91"/>
+<area shape="rect" id="Node000007" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="473,55,650,80"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="389,93,470,80,471,85,390,98"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="389,126,412,138,427,152,437,165,445,177,460,189,473,196,471,200,457,194,442,181,432,168,423,155,409,143,386,131"/>
+<area shape="rect" id="Node000005" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="712,153,891,179"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,163,699,163,699,169,662,169"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="389,168,447,166,447,172,390,173"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="390,183,473,198,472,203,389,189"/>
+</map>

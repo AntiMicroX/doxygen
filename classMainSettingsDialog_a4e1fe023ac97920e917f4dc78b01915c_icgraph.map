@@ -1,0 +1,8 @@
+<map id="MainSettingsDialog::refreshExtraMouseInfo" name="MainSettingsDialog::refreshExtraMouseInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="445,5,624,45"/>
+<area shape="rect" id="Node000002" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="5,5,163,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,25,397,24,211,24,163,25,163,20,211,19,397,19,432,19"/>
+<area shape="rect" id="Node000003" href="$classMainSettingsDialog.html#a6cf6a429394b9e95e342a4581611e465" title=" " alt="" coords="211,33,397,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,40,398,45,397,39,432,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="197,42,163,38,163,33,197,37"/>
+</map>

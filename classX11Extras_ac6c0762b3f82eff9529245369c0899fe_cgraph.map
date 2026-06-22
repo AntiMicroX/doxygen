@@ -1,0 +1,18 @@
+<map id="X11Extras::findClientWindow" name="X11Extras::findClientWindow">
+<area shape="rect" id="Node000001" title="Find the proper client window within a hierarchy. This check is needed in some environments where the..." alt="" coords="5,107,216,132"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="68,108,59,98,64,88,81,82,111,80,148,84,158,89,162,95,157,98,155,93,147,89,111,85,83,87,68,92,65,98,72,105"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="804,107,947,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,117,790,117,790,122,216,122"/>
+<area shape="rect" id="Node000003" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="825,5,925,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="146,104,263,67,395,34,453,24,529,15,681,9,811,12,811,17,681,14,530,21,454,29,396,40,265,73,148,109"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#addc3448425326be8bcd2b0138abe643a" title="Go through a window&#39;s properties and search for an Atom from a defined list. If an Atom is found in a..." alt="" coords="264,81,481,107"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="216,106,250,103,251,108,217,112"/>
+<area shape="rect" id="Node000006" href="$classX11Extras.html#abebf4a3a16685c4b274980f040671ae9" title=" " alt="" coords="534,183,751,208"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="149,130,203,146,264,161,396,179,520,188,520,194,396,184,264,166,202,151,148,135"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="482,97,790,112,790,118,482,102"/>
+<area shape="rect" id="Node000005" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="529,31,756,56"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="441,79,560,56,561,61,442,84"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="692,54,757,73,830,99,828,104,755,78,691,59"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="756,28,811,22,812,28,757,34"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="691,180,755,161,828,135,830,140,757,166,692,185"/>
+</map>

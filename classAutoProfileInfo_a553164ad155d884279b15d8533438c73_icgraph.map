@@ -1,0 +1,11 @@
+<map id="AutoProfileInfo::isPartialState" name="AutoProfileInfo::isPartialState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="649,37,828,77"/>
+<area shape="rect" id="Node000002" href="$classAddEditAutoProfileDialog.html#a518993ac329de2e2bee5eeb392d124ec" title=" " alt="" coords="408,5,601,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,46,601,41,602,36,636,41"/>
+<area shape="rect" id="Node000003" href="$classMainSettingsDialog.html#a2ac3157f0e50f95986221adbbb008239" title=" " alt="" coords="412,69,597,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="636,74,598,79,597,74,635,69"/>
+<area shape="rect" id="Node000004" href="$classMainSettingsDialog.html#a07b54c6c80f72c4c5b28b32a58cbcca6" title=" " alt="" coords="211,69,360,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,92,360,92,360,87,398,87"/>
+<area shape="rect" id="Node000005" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="5,69,163,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,92,163,92,163,87,197,87"/>
+</map>

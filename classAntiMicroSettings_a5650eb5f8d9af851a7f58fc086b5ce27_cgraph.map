@@ -1,0 +1,16 @@
+<map id="AntiMicroSettings::applySettingsToLogger" name="AntiMicroSettings::applySettingsToLogger">
+<area shape="rect" id="Node000001" title="applies settings from command line to logger" alt="" coords="5,127,175,167"/>
+<area shape="rect" id="Node000002" href="$classCommandLineUtility.html#aba6b64467cd8351051bac970ceba52f7" title=" " alt="" coords="239,5,395,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,124,163,90,221,55,236,48,239,53,224,60,166,94,118,129"/>
+<area shape="rect" id="Node000003" href="$classCommandLineUtility.html#ab7ae77d077c422505fb129a7aad2cf6c" title=" " alt="" coords="238,69,395,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,124,224,110,225,115,170,129"/>
+<area shape="rect" id="Node000004" href="$classLogger.html#ada09e06da95e8b6c2cd0beac8d7ed32b" title="Get the Instance of logger." alt="" coords="241,134,392,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,144,227,144,227,149,175,149"/>
+<area shape="rect" id="Node000006" href="$classLogger.html#a5fbd8b1351633453037807a8707b46d7" title=" " alt="" coords="223,183,411,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="175,162,245,178,244,183,174,168"/>
+<area shape="rect" id="Node000007" href="$classLogger.html#a00fdcdbeb39a2d5d4fb27cc36c35c101" title="Set the highest logging level. Determines which messages are output to the output stream." alt="" coords="241,233,393,258"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="123,164,170,192,224,218,248,226,246,231,222,222,167,196,121,169"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="459,159,647,185"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,152,445,158,445,163,392,157"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="411,184,445,180,445,186,411,189"/>
+</map>

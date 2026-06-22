@@ -1,0 +1,66 @@
+<map id="JoyControlStick" name="JoyControlStick">
+<area shape="rect" id="Node000001" title="Represents stick of a joystick." alt="" coords="938,168,1059,193"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickButton.html" title=" " alt="" coords="1057,1163,1221,1188"/>
+<area shape="poly" id="edge39_Node000004_Node000001" title=" " alt="" coords="1074,192,1135,206,1195,225,1241,248,1255,262,1260,278,1260,1102,1254,1125,1239,1143,1218,1156,1194,1165,1193,1160,1215,1151,1235,1139,1249,1123,1255,1102,1255,278,1250,265,1238,253,1193,230,1134,211,1073,197"/>
+<area shape="rect" id="Node000015" href="$classJoyAxis.html" title="Represents single axis of of joystick (or other input)" alt="" coords="603,267,674,292"/>
+<area shape="poly" id="edge28_Node000015_Node000001" title=" " alt="" coords="939,199,858,220,675,270,673,265,857,215,938,194"/>
+<area shape="rect" id="Node000022" href="$classJoyControlStickModifierButton.html" title=" " alt="" coords="815,1163,1033,1188"/>
+<area shape="poly" id="edge42_Node000022_Node000001" title=" " alt="" coords="975,205,948,237,938,257,935,278,935,1102,929,1163,923,1162,929,1102,929,278,933,255,943,235,971,201"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="308,80,383,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="397,92,584,100,702,110,820,127,900,145,966,165,965,170,898,150,820,132,702,115,584,105,397,97"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html" title="Represents a single joystick button being part of a SetJoystick Contains multiple JoyButtonSlots whic..." alt="" coords="204,1000,289,1025"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="294,101,222,111,144,126,110,137,83,150,65,164,59,180,59,585,61,642,69,689,81,730,98,767,142,842,197,936,220,974,238,998,234,1002,215,978,192,939,137,845,93,770,76,732,64,691,56,642,53,585,53,179,61,161,80,145,108,132,143,121,221,105,293,96"/>
+<area shape="rect" id="Node000007" href="$classJoyButtonSlot.html" title="Represents action which can be performed after pressing button." alt="" coords="189,217,299,243"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="319,116,303,131,272,178,251,218,247,216,267,175,299,128,316,112"/>
+<area shape="rect" id="Node000008" href="$classJoyButtonMouseHelper.html" title=" " alt="" coords="76,316,247,341"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="308,114,277,132,243,156,211,185,185,219,174,244,168,271,164,316,158,316,162,270,169,242,180,216,207,181,240,151,274,127,306,109"/>
+<area shape="rect" id="Node000010" href="$classJoyDPad.html" title=" " alt="" coords="545,815,620,840"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="397,95,514,106,653,124,717,135,770,148,806,162,816,170,820,179,820,330,817,467,812,524,801,576,784,625,758,675,724,727,678,783,651,805,621,818,619,813,648,800,674,779,719,723,754,672,779,623,796,574,806,523,812,467,815,330,815,180,812,173,803,166,768,153,716,140,652,129,513,112,396,101"/>
+<area shape="rect" id="Node000013" href="$classSetJoystickXml.html" title="SetJoystick XML serialization/deserialization helper class Reads data from the supplied SetJoystick o..." alt="" coords="385,453,505,479"/>
+<area shape="poly" id="edge19_Node000013_Node000002" title=" " alt="" coords="347,119,347,170,351,239,364,316,388,390,410,425,434,451,430,455,406,428,383,392,359,317,346,240,341,171,341,119"/>
+<area shape="rect" id="Node000014" href="$classJoyAxisXml.html" title=" " alt="" coords="397,365,493,391"/>
+<area shape="poly" id="edge22_Node000014_Node000002" title=" " alt="" coords="352,119,369,197,398,291,419,332,439,364,435,367,415,334,394,293,364,198,347,120"/>
+<area shape="poly" id="edge24_Node000015_Node000002" title=" " alt="" coords="374,112,391,128,415,160,428,189,443,215,471,240,501,255,527,259,556,260,591,264,604,267,602,272,590,269,555,265,527,264,499,260,468,245,439,219,423,191,410,163,387,131,371,116"/>
+<area shape="rect" id="Node000017" href="$classJoyButtonXml.html" title=" " alt="" coords="177,1088,287,1113"/>
+<area shape="poly" id="edge31_Node000017_Node000002" title=" " alt="" coords="294,99,209,106,114,120,72,131,38,145,16,161,10,170,8,180,8,882,14,920,30,955,54,986,83,1014,148,1058,204,1086,202,1090,145,1062,80,1018,50,990,25,958,9,922,3,882,3,179,5,168,12,157,36,140,71,126,113,115,208,101,294,94"/>
+<area shape="rect" id="Node000018" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="559,168,659,193"/>
+<area shape="poly" id="edge34_Node000018_Node000002" title=" " alt="" coords="395,107,575,165,573,170,393,112"/>
+<area shape="rect" id="Node000003" href="$classJoyStickDirectionsType.html" title=" " alt="" coords="931,80,1101,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1014,119,1004,168,998,167,1008,118"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1132,1149,1128,1102,1128,278,1126,263,1120,249,1099,226,1070,208,1040,196,1042,191,1072,203,1102,222,1124,246,1131,261,1133,278,1133,1102,1137,1149"/>
+<area shape="rect" id="Node000005" href="$classJoyGradientButton.html" title=" " alt="" coords="372,1088,513,1113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="527,1111,787,1136,1044,1160,1057,1161,1056,1167,1044,1165,787,1142,526,1116"/>
+<area shape="rect" id="Node000016" href="$classJoyAxisButton.html" title=" " alt="" coords="386,1163,499,1188"/>
+<area shape="poly" id="edge26_Node000016_Node000005" title=" " alt="" coords="445,1128,445,1162,440,1162,440,1128"/>
+<area shape="poly" id="edge41_Node000022_Node000005" title=" " alt="" coords="528,1112,848,1160,848,1165,527,1117"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="286,1029,360,1062,416,1085,414,1090,358,1066,283,1034"/>
+<area shape="rect" id="Node000011" href="$classJoyDPadButton.html" title=" " alt="" coords="538,1088,657,1113"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="303,1025,551,1085,550,1091,302,1030"/>
+<area shape="poly" id="edge32_Node000017_Node000006" title=" " alt="" coords="239,1039,236,1050,234,1088,229,1088,231,1049,234,1037"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="252,257,255,297,251,342,242,369,231,390,208,424,184,457,174,477,165,503,152,550,143,588,146,623,153,642,165,662,178,673,194,674,212,676,230,686,242,703,248,719,249,758,249,926,249,1000,244,1000,244,926,244,758,243,720,238,706,226,690,211,681,194,680,176,678,161,666,148,644,140,624,138,587,147,548,160,502,169,475,179,454,203,420,227,387,237,367,245,341,250,297,246,257"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="159,355,148,422,139,503,130,608,131,654,139,713,155,789,174,847,230,975,242,999,238,1001,226,977,169,849,150,791,133,714,126,655,125,608,133,502,143,421,154,354"/>
+<area shape="rect" id="Node000009" href="$classVDPad.html" title=" " alt="" coords="448,912,512,937"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="437,945,279,1002,277,997,435,940"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="562,851,494,914,491,910,558,847"/>
+<area shape="poly" id="edge16_Node000011_Node000010" title=" " alt="" coords="574,853,555,909,550,942,552,976,572,1039,594,1087,589,1089,567,1041,547,976,545,942,550,908,569,852"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="599,1074,609,976,608,937,601,899,585,841,590,840,607,898,613,936,615,976,604,1075"/>
+<area shape="rect" id="Node000012" href="$classSetJoystick.html" title="A set of mapped events which can by switched by a controller event. Contains controller input objects..." alt="" coords="535,688,630,713"/>
+<area shape="poly" id="edge17_Node000010_Node000012" title=" " alt="" coords="585,727,585,815,580,815,580,727"/>
+<area shape="poly" id="edge20_Node000013_Node000012" title=" " alt="" coords="521,694,475,682,457,675,445,666,431,642,423,616,420,563,428,513,438,478,444,480,434,515,426,563,428,616,436,640,449,662,459,670,477,677,523,688"/>
+<area shape="poly" id="edge29_Node000015_Node000012" title=" " alt="" coords="580,674,584,561,590,488,600,414,616,344,632,292,637,293,621,346,605,415,596,488,590,561,585,674"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="519,479,536,488,550,501,559,516,566,538,576,592,585,688,579,688,571,592,561,539,554,518,546,504,533,493,517,484"/>
+<area shape="poly" id="edge21_Node000013_Node000014" title=" " alt="" coords="448,405,448,453,443,453,443,405"/>
+<area shape="poly" id="edge23_Node000014_Node000015" title=" " alt="" coords="590,295,509,318,479,342,456,367,452,363,475,338,507,314,589,290"/>
+<area shape="poly" id="edge27_Node000016_Node000015" title=" " alt="" coords="590,295,524,303,471,309,448,316,427,326,407,343,388,367,367,406,358,441,358,475,362,509,371,580,369,620,357,665,326,731,290,781,252,822,212,857,173,893,136,934,102,984,75,1050,74,1060,77,1070,99,1090,134,1108,181,1123,288,1148,386,1164,385,1169,287,1153,180,1128,132,1113,95,1094,73,1073,68,1061,69,1049,98,982,131,930,169,889,208,854,248,818,286,778,321,728,352,663,364,619,366,580,357,510,353,476,353,441,362,404,383,364,403,339,424,322,446,311,470,304,523,298,589,289"/>
+<area shape="poly" id="edge25_Node000015_Node000016" title=" " alt="" coords="513,1172,604,1168,699,1157,741,1148,774,1136,796,1120,802,1112,804,1102,804,582,801,549,793,524,781,502,766,484,729,445,710,421,691,392,642,294,647,291,696,389,714,418,733,442,770,480,785,499,798,522,806,548,809,582,809,1102,807,1114,800,1124,777,1140,742,1153,700,1162,604,1173,513,1177"/>
+<area shape="poly" id="edge30_Node000013_Node000017" title=" " alt="" coords="301,1090,337,1081,371,1066,395,1044,402,1030,404,1014,404,699,403,599,409,556,423,502,435,478,439,480,428,504,414,557,409,600,409,699,409,1014,407,1032,399,1047,374,1071,339,1086,302,1095"/>
+<area shape="poly" id="edge33_Node000012_Node000018" title=" " alt="" coords="653,198,673,216,691,243,703,268,710,292,711,316,705,368,693,430,679,499,663,551,641,602,609,665,594,689,590,686,604,663,636,600,658,550,674,497,688,429,700,367,706,316,704,293,698,270,687,245,669,219,649,202"/>
+<area shape="rect" id="Node000019" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="408,267,579,292"/>
+<area shape="poly" id="edge36_Node000019_Node000018" title=" " alt="" coords="604,208,595,227,582,245,562,259,540,269,538,264,559,254,578,241,591,224,600,206"/>
+<area shape="poly" id="edge35_Node000018_Node000019" title=" " alt="" coords="476,255,471,235,476,216,490,206,510,198,559,187,560,192,511,203,492,211,481,219,476,235,482,254"/>
+<area shape="rect" id="Node000020" href="$classAntiMicroSettings.html" title=" " alt="" coords="769,80,906,105"/>
+<area shape="poly" id="edge37_Node000018_Node000020" title=" " alt="" coords="795,113,641,170,639,165,793,108"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="795,5,880,31"/>
+<area shape="poly" id="edge38_Node000020_Node000021" title=" " alt="" coords="840,45,840,80,835,80,835,45"/>
+<area shape="poly" id="edge40_Node000001_Node000022" title=" " alt="" coords="959,1154,985,1131,993,1118,996,1102,996,278,996,194,1001,194,1001,278,1001,1102,998,1119,989,1135,963,1158"/>
+</map>

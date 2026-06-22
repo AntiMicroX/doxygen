@@ -1,0 +1,29 @@
+<map id="JoyTabWidget::openConfigFileDialog" name="JoyTabWidget::openConfigFileDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,196,203"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a197e76d4113e8258e6637981830dd219" title=" " alt="" coords="270,5,471,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,161,168,105,203,74,243,48,280,32,282,37,245,52,207,78,172,109,120,165"/>
+<area shape="rect" id="Node000003" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="841,99,986,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,161,176,123,208,105,243,91,322,74,402,64,484,60,564,62,711,77,828,97,827,102,710,82,563,68,484,66,403,69,322,79,245,97,211,110,179,128,127,165"/>
+<area shape="rect" id="Node000004" href="$namespacePadderCommon.html#aaa09739d2df84421a5a3467a06ce941c" title="Returns the &quot;human&#45;readable&quot; name of the given profile." alt="" coords="796,300,1031,325"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,202,138,231,167,265,203,297,245,321,326,347,411,362,497,368,582,367,662,360,736,350,852,326,853,331,737,355,663,365,582,372,497,373,410,367,325,352,243,326,200,301,163,268,134,234,113,205"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="277,171,465,196"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,181,263,181,263,186,196,186"/>
+<area shape="rect" id="Node000006" href="$classJoyTabWidget.html#a36e998d3e94e46005927ca3cc138aaa0" title=" " alt="" coords="265,221,476,261"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,201,263,215,262,220,195,206"/>
+<area shape="rect" id="Node000007" href="$namespacePadderCommon.html#a9034e2106269ccc67eb0ce52c40907d9" title=" " alt="" coords="244,285,497,311"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="129,201,181,237,245,270,273,279,271,284,243,275,178,241,126,206"/>
+<area shape="rect" id="Node000008" href="$classJoyTabWidget.html#aa1bde824a4ce46e48e71a11636174943" title=" " alt="" coords="273,106,468,146"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="195,161,262,146,263,152,196,166"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="469,122,826,118,827,123,469,127"/>
+<area shape="rect" id="Node000009" href="$classJoyTabWidget.html#afdc2166911c519519a473818504da844" title=" " alt="" coords="545,164,748,189"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="469,141,564,159,563,164,468,146"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="706,161,827,135,828,140,707,167"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="674,187,876,291,874,296,672,192"/>
+<area shape="rect" id="Node000010" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="1095,165,1289,191"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="748,174,1082,175,1082,180,748,180"/>
+<area shape="rect" id="Node000011" href="$classInputDevice.html#a894f087cdfe06136fade922ff053d522" title=" " alt="" coords="801,215,1026,240"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="715,187,833,209,832,215,714,192"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="985,212,1106,191,1106,196,986,217"/>
+<area shape="rect" id="Node000012" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="1079,215,1305,240"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="1026,225,1065,225,1065,230,1026,230"/>
+</map>

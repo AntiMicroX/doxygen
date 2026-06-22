@@ -1,0 +1,29 @@
+<map id="MouseAxisSettingsDialog::changeMouseMode" name="MouseAxisSettingsDialog::changeMouseMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,126,193,166"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="265,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,124,172,81,205,58,240,40,260,32,261,37,242,44,208,63,175,85,123,128"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="267,55,444,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,123,241,89,272,81,273,86,242,94,148,128"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#a1d88b64f64042f2b6f3ceccf07a6a8fa" title=" " alt="" coords="242,104,469,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,133,231,128,231,134,194,138"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#aca69f26410f28982be9a6e952ec3c494" title=" " alt="" coords="241,154,469,194"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="194,154,228,157,228,163,193,159"/>
+<area shape="rect" id="Node000009" href="$classSpringModeRegionPreview.html#a8d2b08d077d77697a327e2d062130cbd" title=" " alt="" coords="257,218,453,258"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="145,164,242,203,266,211,265,217,240,209,143,169"/>
+<area shape="rect" id="Node000012" href="$classSpringModeRegionPreview.html#a769d674b3f0697dee55b0a7fbfe4a48f" title=" " alt="" coords="257,282,453,322"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="120,164,172,216,206,244,243,268,257,275,254,279,240,272,203,248,168,220,116,168"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a28224ca61d50adb1338643ae63bab3a3" title=" " alt="" coords="519,67,711,92"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="444,101,513,91,513,97,445,107"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="761,92,964,117"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="712,87,748,90,747,96,711,92"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="470,156,755,117,756,122,470,161"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#a77afa6c5934d2665bad6d494b812f372" title="Check if button should be considered a part of a real controller axis. Needed for some dialogs so the..." alt="" coords="522,168,709,193"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="470,174,508,175,508,181,469,180"/>
+<area shape="rect" id="Node000010" href="$classSpringModeRegionPreview.html#ac11ce802ca9098d5d61a1c7550e3a4f2" title=" " alt="" coords="517,218,713,258"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="454,235,503,235,503,241,454,241"/>
+<area shape="rect" id="Node000011" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="521,283,709,308"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="447,255,544,277,543,282,446,261"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="454,297,507,295,508,301,454,302"/>
+<area shape="rect" id="Node000013" href="$classSpringModeRegionPreview.html#a78b54db3c38d88222b2491d21bb7daac" title=" " alt="" coords="517,333,713,373"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="454,318,504,328,503,334,453,324"/>
+</map>

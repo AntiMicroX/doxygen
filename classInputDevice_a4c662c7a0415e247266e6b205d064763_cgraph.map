@@ -1,0 +1,9 @@
+<map id="InputDevice::getNumberAxes" name="InputDevice::getNumberAxes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,217,67"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="273,5,464,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,40,260,35,260,40,218,45"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="265,70,472,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,64,252,67,251,73,217,69"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="520,13,735,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,23,506,23,506,28,464,28"/>
+</map>

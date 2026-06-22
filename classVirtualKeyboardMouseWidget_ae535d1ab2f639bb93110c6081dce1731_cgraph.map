@@ -1,0 +1,16 @@
+<map id="VirtualKeyboardMouseWidget::processSingleMouseSelection" name="VirtualKeyboardMouseWidget::processSingleMouseSelection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,228,89"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#af8126f12b4a9a65a316a335288e8cb79" title=" " alt="" coords="545,5,761,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,47,276,41,408,29,532,21,532,26,408,34,276,46,229,52"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="289,56,477,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,66,276,66,276,71,228,71"/>
+<area shape="rect" id="Node000004" href="$classVirtualKeyboardMouseWidget.html#a379b1e56c40759f5efbb912692779997" title=" " alt="" coords="276,106,491,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,86,277,100,276,106,210,91"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="463,103,489,90,503,78,512,66,522,53,537,41,555,33,557,38,540,46,525,57,517,69,507,82,492,95,465,108"/>
+<area shape="rect" id="Node000005" href="$classVirtualKeyboardMouseWidget.html#af08328d72e52c3e97a2eb1e656a9d9ee" title=" " alt="" coords="546,55,761,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="490,103,532,95,533,101,491,109"/>
+<area shape="rect" id="Node000006" href="$classVirtualKeyboardMouseWidget.html#a77281128042634ae233e6e679e2f0471" title=" " alt="" coords="546,119,761,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="491,129,532,131,532,136,491,134"/>
+<area shape="rect" id="Node000007" href="$classQuickSetDialog.html#a6999eeac1d5729196462849d67a0f394" title=" " alt="" coords="539,183,768,223"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="453,143,539,169,568,177,567,182,538,174,451,149"/>
+</map>

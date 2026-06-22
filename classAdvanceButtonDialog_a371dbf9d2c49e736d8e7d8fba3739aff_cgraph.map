@@ -1,0 +1,17 @@
+<map id="AdvanceButtonDialog::updateWindowTitleButtonName" name="AdvanceButtonDialog::updateWindowTitleButtonName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,244,137"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="310,5,469,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,94,223,66,291,39,316,32,318,37,293,45,226,71,167,99"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a102a4bbc464b9dfc5a8227c0fb4611c8" title=" " alt="" coords="308,55,471,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,94,307,80,308,85,233,99"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a28e4e0906126f95384245e73988bdb19" title=" " alt="" coords="301,104,477,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,114,288,114,288,119,244,119"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#acf2e65dcec7b0d2a8a2c21c36c489ad6" title=" " alt="" coords="292,153,487,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,134,308,148,307,153,232,139"/>
+<area shape="rect" id="Node000008" href="$classSetJoystick.html#a00ecd09902d11bbfe7e6e82ad25ae456" title=" " alt="" coords="295,203,483,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="168,134,226,161,293,187,321,196,320,202,291,193,224,166,165,139"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a39c9ccaf641bb8bf50b29d4c4e04c165" title="Get a 1 indexed number of button." alt="" coords="535,129,749,155"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="487,154,521,151,521,156,487,159"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="548,179,736,204"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="487,173,534,178,534,183,487,178"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QuickSetDialog::restoreHatsStates" name="QuickSetDialog::restoreHatsStates">
+<area shape="rect" id="Node000001" title=" " alt="" coords="516,37,723,77"/>
+<area shape="rect" id="Node000002" href="$classQuickSetDialog.html#afacbf395389ca073edf366a412c1626b" title=" " alt="" coords="241,37,468,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,60,468,60,468,55,502,55"/>
+<area shape="rect" id="Node000003" href="$classQuickSetDialog.html#a524c363dab8fac9758adbbb314d64888" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,44,193,40,194,34,228,39"/>
+<area shape="rect" id="Node000004" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="5,69,193,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,76,194,80,193,75,227,71"/>
+</map>

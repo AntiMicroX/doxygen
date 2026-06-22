@@ -1,0 +1,16 @@
+<map id="JoyControlStickModifierButton::getLastAccelerationDistance" name="JoyControlStickModifierButton::getLastAccelerationDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,223,165"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#af3d500edee6291808903b8cccf833e9e" title=" " alt="" coords="271,125,529,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,143,257,143,257,148,223,148"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#ae90f62171258764a4d5840fa7af02c57" title=" " alt="" coords="577,61,776,101"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,123,576,102,577,107,488,128"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a382e793296ce44f3382df46cc571b88a" title=" " alt="" coords="583,125,771,165"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="530,143,569,143,569,148,530,148"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#a1938cd9ca4c5da529ab5fb7edd9674df" title=" " alt="" coords="583,189,771,229"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="488,163,577,184,576,189,487,168"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a033cec8c362b923e61ec638645e7a80c" title="Calculate the bearing (in degrees) corresponding to the current position of the X and Y axes of a sti..." alt="" coords="825,29,1013,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="776,66,812,61,812,66,777,71"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#af4ceb950523eedb36857e695d259d383" title=" " alt="" coords="824,93,1015,133"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="777,92,811,96,810,102,776,97"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="874,30,871,20,879,10,895,5,919,3,948,6,963,13,961,18,946,11,919,8,896,10,882,15,877,21,879,28"/>
+</map>

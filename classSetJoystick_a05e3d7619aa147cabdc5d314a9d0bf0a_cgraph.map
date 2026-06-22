@@ -1,0 +1,8 @@
+<map id="SetJoystick::propogateSetVDPadNameChange" name="SetJoystick::propogateSetVDPadNameChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,195,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="54,30,51,20,59,10,75,5,100,3,129,6,145,13,142,18,127,11,100,8,76,10,62,15,56,21,59,28"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#aa77d0bf75d7d1f1d2db5256db2e10f50" title=" " alt="" coords="243,7,453,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,36,229,31,229,37,195,41"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#ae1d30f1fe45b223ffa8693218c056ef7" title=" " alt="" coords="247,57,449,97"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="195,57,234,62,233,67,194,63"/>
+</map>

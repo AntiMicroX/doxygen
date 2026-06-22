@@ -1,0 +1,11 @@
+<map id="X11Extras::x11ResetMouseAccelerationChange" name="X11Extras::x11ResetMouseAccelerationChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,205,87"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a60a2f22efb4419a05464fb18bf3ac9f1" title=" " alt="" coords="253,5,449,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,45,274,31,275,36,206,50"/>
+<area shape="rect" id="Node000003" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="280,55,423,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,65,266,65,266,70,206,70"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#ada76380c3586cf352e3fb1b87c2f6c1d" title=" " alt="" coords="261,104,442,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,85,275,99,274,104,205,90"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="497,104,685,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,114,483,114,483,119,442,119"/>
+</map>

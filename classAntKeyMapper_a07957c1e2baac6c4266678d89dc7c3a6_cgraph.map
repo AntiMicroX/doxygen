@@ -1,0 +1,5 @@
+<map id="AntKeyMapper::returnVirtualKey" name="AntKeyMapper::returnVirtualKey">
+<area shape="rect" id="Node000001" title="Translate a Qt key to a platform virtual key code." alt="" coords="5,5,236,31"/>
+<area shape="rect" id="Node000002" href="$classQtKeyMapperBase.html#a5df0f313bce11847f8495126373e7178" title="Get platform virtual key for a given Qt key." alt="" coords="284,5,540,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,15,270,15,270,21,236,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialogHelper::updateMinAccelThreshold" name="MouseControlStickSettingsDialogHelper::updateMinAccelThreshold">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,288,75"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a127c4774ca9d7bb99f04e89a1707d998" title=" " alt="" coords="336,35,535,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,52,322,52,322,57,288,57"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="591,5,810,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,41,577,36,578,42,535,46"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#abf976dbf566397b7a361660d137b0118" title=" " alt="" coords="583,70,819,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="535,62,569,66,569,71,535,68"/>
+</map>

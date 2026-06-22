@@ -1,0 +1,10 @@
+<map id="JoyControlStick::setButtonsSpringRelativeStatus" name="JoyControlStick::setButtonsSpringRelativeStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,204,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a05d1bf3c01aeaa6c28b207ae42740be5" title=" " alt="" coords="252,5,460,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="744,13,947,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,20,508,19,696,19,730,19,730,25,696,24,508,24,460,25"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a835d1f839a755c87758d7cc67b933d9f" title=" " alt="" coords="508,33,696,73"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="460,35,495,38,494,44,460,40"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="696,40,730,36,731,41,696,45"/>
+</map>

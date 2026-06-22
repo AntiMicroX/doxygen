@@ -1,0 +1,10 @@
+<map id="ButtonEditDialog::clearButtonSlots" name="ButtonEditDialog::clearButtonSlots">
+<area shape="rect" id="Node000001" title=" " alt="" coords="751,5,965,45"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,25,703,24,469,22,236,24,188,25,188,20,236,19,469,17,703,19,737,19"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#a7b7f4ddddf1b67c7883cc03d7469987f" title=" " alt="" coords="520,33,703,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="737,42,703,46,703,40,737,36"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="236,33,472,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="506,56,472,56,472,51,506,51"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="222,42,188,38,189,33,223,36"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="InputDevice::isGameController" name="InputDevice::isGameController">
+<area shape="rect" id="Node000001" title="Check if device is using the SDL Game Controller API." alt="" coords="1161,219,1384,244"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a10a6d5bfd9b2237a544e2b0c7957b42e" title=" " alt="" coords="899,80,1101,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1233,215,1025,108,1027,103,1235,210"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a6a50aff41b62b36387bf342fdbfec47f" title=" " alt="" coords="887,169,1113,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1188,219,1071,197,1072,192,1189,214"/>
+<area shape="rect" id="Node000007" href="$classJoyAxis.html#a9c5f69db8b88f31a1df043a00ab9d09a" title=" " alt="" coords="933,219,1067,244"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1148,234,1067,234,1067,229,1148,229"/>
+<area shape="rect" id="Node000011" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="37,179,211,219"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="1233,252,1168,280,1077,315,966,351,840,383,704,405,634,411,564,412,493,409,424,400,356,384,290,362,239,333,195,294,160,254,136,221,140,218,165,251,199,290,242,328,292,357,357,379,425,394,494,404,564,407,634,405,704,399,839,377,965,346,1075,310,1166,276,1231,247"/>
+<area shape="rect" id="Node000016" href="$classGameControllerMappingDialog.html#a8a3d4193180a3392dda025775aed26d3" title=" " alt="" coords="889,422,1111,462"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="1257,257,1200,330,1160,370,1115,406,1078,424,1075,419,1112,401,1156,366,1196,326,1253,254"/>
+<area shape="rect" id="Node000003" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="590,5,826,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="949,78,838,45,786,33,787,28,839,39,951,73"/>
+<area shape="rect" id="Node000004" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="642,55,774,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="884,85,774,76,774,70,885,80"/>
+<area shape="rect" id="Node000005" href="$classAppLaunchHelper.html#a13afb00ecda614a2290209339436d4a7" title=" " alt="" coords="577,104,839,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="885,105,839,109,839,103,884,99"/>
+<area shape="rect" id="Node000008" href="$classJoyAxis.html#a6db16ad8451e2f2b09215385d5371151" title=" " alt="" coords="617,154,799,194"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="921,219,799,195,800,189,922,213"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="633,219,783,244"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="919,234,784,234,784,229,919,229"/>
+<area shape="rect" id="Node000010" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="5,37,243,77"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="618,230,596,221,576,208,560,189,553,168,552,127,551,88,544,71,528,55,487,32,443,17,397,10,349,9,303,13,258,20,183,39,182,34,257,15,302,8,349,4,397,5,444,12,490,27,531,51,548,68,556,87,558,127,558,167,565,186,579,204,598,217,620,225"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="619,223,576,208,561,198,552,188,543,178,528,170,484,158,438,151,391,150,345,152,259,165,188,182,186,177,258,159,345,147,391,144,439,146,485,153,530,165,546,173,556,184,565,194,579,204,620,218"/>
+<area shape="rect" id="Node000012" href="$classAdvanceStickAssignmentDialog.html#a48ade79f1dfeb93ff668ac18d0e1243f" title=" " alt="" coords="295,65,525,105"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="618,227,596,220,576,208,558,188,550,166,544,145,528,125,496,107,499,102,531,121,548,143,555,165,562,185,579,204,598,215,620,222"/>
+<area shape="rect" id="Node000013" href="$classJoystickStatusWindow.html#a1a1c28e1d6f480c7424ba81b30b8b4f5" title=" " alt="" coords="327,179,493,219"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="619,224,494,211,494,206,619,219"/>
+<area shape="rect" id="Node000014" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="291,243,529,283"/>
+<area shape="poly" id="edge15_Node000009_Node000014" title=" " alt="" coords="619,243,530,253,530,248,619,238"/>
+<area shape="rect" id="Node000015" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="299,307,521,347"/>
+<area shape="poly" id="edge16_Node000009_Node000015" title=" " alt="" coords="662,252,530,298,490,310,488,305,529,293,660,247"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="281,75,242,71,243,66,282,69"/>
+<area shape="poly" id="edge14_Node000013_Node000011" title=" " alt="" coords="313,202,212,202,212,197,313,197"/>
+</map>

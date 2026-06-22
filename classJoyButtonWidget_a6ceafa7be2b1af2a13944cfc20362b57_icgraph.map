@@ -1,0 +1,9 @@
+<map id="JoyButtonWidget::enableFlashes" name="JoyButtonWidget::enableFlashes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="525,35,759,60"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a435b6567cdb461077fee16ac1d23523c" title=" " alt="" coords="237,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,37,477,33,478,28,512,31"/>
+<area shape="rect" id="Node000004" href="$classJoyButtonWidget.html#aeeb6cb187733cbf7c9f1c5a0fe8f7b34" title=" " alt="" coords="256,55,459,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,63,459,68,459,63,511,57"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a3dfe834b2836b316908ace3f38c06db2" title=" " alt="" coords="5,5,189,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,21,190,21,190,15,224,15"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="JoyControlStick::getMaxZone" name="JoyControlStick::getMaxZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="489,109,700,134"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStickStatusBox.html#a450e6a133de4e4d7894b967b051f9e31" title=" " alt="" coords="247,5,434,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="552,106,440,60,406,48,408,43,442,55,554,101"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickStatusBox.html#ade94a0ecf5b485ce1e8d57ecdc82617f" title=" " alt="" coords="242,69,439,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="480,110,439,104,440,99,481,104"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStickStatusBox.html#a6c5557dfac58f22349a66743ec3cca4b" title=" " alt="" coords="240,133,441,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="481,138,442,143,441,138,480,133"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="243,197,439,237"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="554,142,442,188,408,200,406,195,440,183,552,137"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickStatusBox.html#ae321df188d9d51864893166076cf8582" title=" " alt="" coords="5,69,192,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,51,175,72,174,67,251,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="228,92,192,92,192,87,228,87"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="251,132,174,112,175,107,252,127"/>
+</map>

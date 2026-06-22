@@ -1,0 +1,13 @@
+<map id="JoyButton::isCycleResetActive" name="JoyButton::isCycleResetActive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,42,716,67"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="267,5,438,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,43,438,38,438,32,484,38"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="256,70,449,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="484,71,450,75,449,69,484,66"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="5,21,208,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="275,70,170,49,171,43,276,65"/>
+<area shape="rect" id="Node000005" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,70,208,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="242,85,208,85,208,80,242,80"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="23,119,191,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="276,101,171,122,170,117,275,95"/>
+</map>

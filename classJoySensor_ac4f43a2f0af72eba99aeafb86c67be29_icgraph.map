@@ -1,0 +1,24 @@
+<map id="JoySensor::propertyUpdated" name="JoySensor::propertyUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="479,145,683,171"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a723df3dcae43b4509bf1af84191e5ad5" title="Copy slots from all sensor buttons and properties from a sensor onto another." alt="" coords="219,5,429,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,138,501,91,466,66,430,46,396,33,397,28,432,41,469,62,504,87,559,134"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#aeb9b9c1096c032dff35178953e9a841d" title=" " alt="" coords="220,55,428,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="529,143,430,110,392,98,394,93,431,105,531,138"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a4572b9f66468a2e390634591d6d4ecbc" title="Sets the dead zone of the sensor to the given value." alt="" coords="233,120,415,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="465,149,415,144,415,139,465,144"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a33e05f28756fd796e46189227a107532" title="Set the diagonal range value for a sensor." alt="" coords="217,169,431,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="466,171,431,175,431,169,465,166"/>
+<area shape="rect" id="Node000008" href="$classJoySensor.html#a029cd202c660d928574726bb0e83a68b" title="Sets the maximum zone of the sensor to the given value." alt="" coords="237,219,411,244"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="530,178,431,209,383,221,381,216,430,203,529,173"/>
+<area shape="rect" id="Node000009" href="$classJoySensor.html#a074fa1e59a98d7468a8ccc02183b8a6f" title="Sets the sensor input delaqy to the given value." alt="" coords="226,268,422,293"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="555,182,500,221,432,259,398,270,396,265,430,254,497,217,552,177"/>
+<area shape="rect" id="Node000005" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="7,154,168,194"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,150,169,163,168,157,236,145"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#a2c42a88f7b51fe7bc04ad13266756ed9" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="5,219,169,244"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="232,152,219,159,204,170,195,182,186,195,171,208,144,221,141,216,168,204,182,192,191,179,200,167,216,154,230,148"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="204,181,168,179,168,174,204,175"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="250,200,150,221,149,216,248,195"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="256,218,217,209,168,196,169,191,218,203,257,213"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="223,234,169,234,169,229,223,229"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="248,268,149,247,150,241,250,263"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="InputDaemon" name="InputDaemon">
+<area shape="rect" id="Node000001" title="Fetches hardware events from SDL and dispatch them to input objects like JoyAxis or JoyButton...." alt="" coords="61,256,171,281"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,80,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,119,35,155,36,174,41,192,52,211,67,228,99,254,95,258,63,232,48,215,36,194,31,175,29,155,33,119"/>
+<area shape="rect" id="Node000003" href="$classSDLEventReader.html" title=" " alt="" coords="51,168,181,193"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="63,114,108,166,104,169,59,118"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,207,119,255,113,255,113,207"/>
+<area shape="rect" id="Node000004" href="$classAntiMicroSettings.html" title=" " alt="" coords="133,80,270,105"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="213,118,221,144,225,174,222,205,210,234,193,250,173,260,170,255,190,245,206,230,217,204,219,174,215,145,208,119"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="174,116,155,131,125,170,121,166,151,127,170,112"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="159,5,244,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="204,45,204,80,199,80,199,45"/>
+</map>

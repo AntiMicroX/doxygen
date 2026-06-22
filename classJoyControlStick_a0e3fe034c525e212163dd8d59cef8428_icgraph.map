@@ -1,0 +1,18 @@
+<map id="JoyControlStick::getCircleXCoordinate" name="JoyControlStick::getCircleXCoordinate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="499,133,685,173"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStickStatusBox.html#a450e6a133de4e4d7894b967b051f9e31" title=" " alt="" coords="257,5,443,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,127,506,93,449,60,421,48,423,43,452,55,509,88,557,123"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickStatusBox.html#ade94a0ecf5b485ce1e8d57ecdc82617f" title=" " alt="" coords="251,69,449,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="502,132,425,112,427,107,503,127"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStickStatusBox.html#a6c5557dfac58f22349a66743ec3cca4b" title=" " alt="" coords="249,133,451,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="485,156,451,156,451,151,485,151"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="5,219,201,259"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="495,179,451,188,202,228,201,223,450,183,494,174"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStickEditDialog.html#aa479f7bd7941c5be7efd683d3c0c8fd2" title=" " alt="" coords="256,248,444,288"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="546,183,452,232,408,250,405,245,450,227,543,178"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickStatusBox.html#ae321df188d9d51864893166076cf8582" title=" " alt="" coords="10,69,197,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,51,182,72,180,67,258,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="238,92,197,92,197,87,238,87"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="258,132,180,112,182,107,260,127"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="242,258,201,253,202,248,243,253"/>
+</map>

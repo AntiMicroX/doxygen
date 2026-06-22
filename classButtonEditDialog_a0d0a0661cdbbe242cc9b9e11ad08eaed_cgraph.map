@@ -1,0 +1,7 @@
+<map id="ButtonEditDialog::invokeMethodLastBtn" name="ButtonEditDialog::invokeMethodLastBtn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,188,67"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="236,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,33,222,29,223,34,189,38"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialogHelper.html#a2160209c705906abf0510c903f432f42" title=" " alt="" coords="243,55,417,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,56,230,61,229,66,188,61"/>
+</map>

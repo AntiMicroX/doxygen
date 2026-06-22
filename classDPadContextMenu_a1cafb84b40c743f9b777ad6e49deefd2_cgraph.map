@@ -1,0 +1,11 @@
+<map id="DPadContextMenu::generateActionMode" name="DPadContextMenu::generateActionMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,213,63"/>
+<area shape="rect" id="Node000002" href="$classDPadContextMenu.html#a13e390013b02411aabc85d1e4b17891a" title="Set the appropriate mode for a DPad based on the item chosen." alt="" coords="261,31,500,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,41,248,41,248,46,213,46"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#ae912673a382e0ffcdd1472373ffe832b" title=" " alt="" coords="548,31,707,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,41,534,41,534,46,500,46"/>
+<area shape="rect" id="Node000004" href="$classJoyDPad.html#a1db40c71508768b2ad1472dfd5444c26" title=" " alt="" coords="755,5,951,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,32,741,28,741,33,707,37"/>
+<area shape="rect" id="Node000005" href="$classJoyDPad.html#a628d1a553aa0acf58bc12b3bb7e9a671" title=" " alt="" coords="756,55,949,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="707,49,743,53,742,58,707,54"/>
+</map>

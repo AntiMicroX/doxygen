@@ -1,0 +1,21 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/gui/buttoneditdialog.h" name="/home/runner/work/doxygen/antimicrox/src/gui/buttoneditdialog.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,5,379,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="117,93,191,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,48,180,86,176,82,222,44"/>
+<area shape="rect" id="Node000003" href="$buttoneditdialoghelper_8h.html" title=" " alt="" coords="215,93,461,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,44,316,82,312,86,267,48"/>
+<area shape="rect" id="Node000004" href="$joybuttonslot_8h.html" title=" " alt="" coords="278,167,398,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,119,341,153,335,153,335,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,240,127,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,195,124,239,122,234,294,189"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="151,240,226,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="315,194,227,236,224,232,313,190"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="251,240,329,265"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="332,194,308,230,303,227,328,191"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="353,240,419,265"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="348,191,373,227,368,230,344,194"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="443,240,521,265"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="362,190,447,231,445,236,360,194"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="545,240,723,265"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="386,189,573,234,572,239,385,195"/>
+</map>

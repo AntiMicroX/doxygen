@@ -1,0 +1,11 @@
+<map id="JoyAxis::setThrottle" name="JoyAxis::setThrottle">
+<area shape="rect" id="Node000001" title="Set throttle value for axis." alt="" coords="5,62,155,87"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a211c80f9aa20fa22c8f91a5cdcb0831a" title=" " alt="" coords="217,13,376,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,59,226,38,228,44,137,65"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#a6ef384b558f88cd5a2b478ffdad409bf" title=" " alt="" coords="203,62,391,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,72,189,72,189,77,155,77"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#aa4a59be160684251db79afe32d9aa3f0" title=" " alt="" coords="205,111,388,137"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,85,228,106,226,111,136,90"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="439,5,635,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,23,425,23,425,28,376,28"/>
+</map>

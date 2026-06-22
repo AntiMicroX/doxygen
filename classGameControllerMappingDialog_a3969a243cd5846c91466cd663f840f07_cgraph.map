@@ -1,0 +1,62 @@
+<map id="GameControllerMappingDialog::discardMapping" name="GameControllerMappingDialog::discardMapping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,572,228,612"/>
+<area shape="rect" id="Node000002" href="$classGameControllerMappingDialog.html#a60b30c08f5f3aaa622bead8cb8339664" title=" " alt="" coords="276,191,499,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,570,362,240,366,243,135,573"/>
+<area shape="rect" id="Node000010" href="$classGameControllerMappingDialog.html#ae066f4c1eaab2dcbb49625577a50443b" title=" " alt="" coords="276,383,499,423"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="145,570,345,428,348,433,148,574"/>
+<area shape="rect" id="Node000016" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="1111,511,1299,537"/>
+<area shape="poly" id="edge33_Node000001_Node000016" title=" " alt="" coords="153,610,257,664,329,695,410,724,498,748,589,763,682,765,728,761,773,752,835,733,896,709,1012,650,1108,590,1175,543,1178,547,1111,595,1014,655,898,714,837,738,774,757,729,766,682,771,589,768,497,753,408,729,327,700,255,669,150,614"/>
+<area shape="rect" id="Node000023" href="$classGameControllerMappingDialog.html#ab303cc0b92ffe2698af4a00d6b49c3cc" title=" " alt="" coords="276,817,499,857"/>
+<area shape="poly" id="edge34_Node000001_Node000023" title=" " alt="" coords="130,611,153,650,185,700,228,752,278,797,299,809,297,814,274,801,224,755,181,703,148,653,126,613"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#aa99decc43d13d337bfa34cb52decc1b1" title=" " alt="" coords="549,283,771,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,228,547,268,582,278,581,283,546,273,435,233"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a5f71c01f8d1fbf2c88329de738254f95" title=" " alt="" coords="558,333,762,358"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,229,472,274,509,297,548,318,572,326,570,331,546,322,506,302,469,278,410,233"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a7a81bcba71b406cd97992c79dfbfc5a5" title=" " alt="" coords="550,70,770,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="411,188,470,146,507,123,546,104,567,97,569,102,548,109,509,128,473,150,414,193"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a9a8ce6419ffdcf23f02dec08e33e9c09" title=" " alt="" coords="557,119,763,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="441,188,546,153,579,145,580,150,547,159,442,193"/>
+<area shape="rect" id="Node000007" href="$classInputDevice.html#a9643c53a43602cb4e6d9a036e26738dd" title=" " alt="" coords="547,169,773,194"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="499,196,533,192,534,198,499,201"/>
+<area shape="rect" id="Node000008" href="$classInputDevice.html#a0560366317174dad6a8f03348b73d495" title=" " alt="" coords="556,219,764,259"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="499,219,542,224,542,229,499,225"/>
+<area shape="rect" id="Node000009" href="$classInputDevice.html#a7f625e784ec36598f2da6be46bc1cdbd" title=" " alt="" coords="556,5,764,45"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="402,189,460,123,500,86,545,55,558,48,561,53,548,60,504,91,464,127,406,192"/>
+<area shape="poly" id="edge26_Node000010_Node000003" title=" " alt="" coords="419,380,477,348,546,318,572,309,573,314,548,322,479,353,422,385"/>
+<area shape="poly" id="edge27_Node000010_Node000004" title=" " alt="" coords="483,380,585,358,586,363,484,385"/>
+<area shape="poly" id="edge28_Node000010_Node000005" title=" " alt="" coords="403,381,448,320,496,242,509,203,513,169,520,137,530,121,545,105,550,101,553,105,548,109,534,124,525,139,518,170,514,204,501,244,453,323,407,384"/>
+<area shape="poly" id="edge29_Node000010_Node000006" title=" " alt="" coords="401,381,496,241,508,216,516,194,525,174,545,154,553,149,556,153,548,158,530,177,521,196,513,218,501,244,406,384"/>
+<area shape="poly" id="edge30_Node000010_Node000007" title=" " alt="" coords="397,381,419,343,452,295,494,246,545,204,560,197,562,201,548,209,498,249,456,298,423,346,401,384"/>
+<area shape="poly" id="edge31_Node000010_Node000008" title=" " alt="" coords="405,381,464,325,503,295,545,268,560,261,562,266,548,273,506,299,468,329,409,385"/>
+<area shape="rect" id="Node000011" href="$classGameControllerMappingDialog.html#a5d84dc1367e041feccee277aa2cefcca" title=" " alt="" coords="549,383,771,423"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="499,400,535,400,535,405,499,405"/>
+<area shape="rect" id="Node000018" href="$classGameControllerMappingDialog.html#af62bb9249504e75fcc19311e423e0074" title="TODO: Possibly remove. This was used for decrementing a reference count." alt="" coords="549,575,771,615"/>
+<area shape="poly" id="edge18_Node000010_Node000018" title=" " alt="" coords="405,421,463,490,503,528,548,560,560,567,557,571,545,565,500,532,459,494,401,425"/>
+<area shape="rect" id="Node000019" href="$classGameControllerMappingDialog.html#a0e052745846c6f0a0db24bf2e4ed5023" title=" " alt="" coords="549,447,771,487"/>
+<area shape="poly" id="edge19_Node000010_Node000019" title=" " alt="" coords="474,420,562,441,561,446,473,425"/>
+<area shape="rect" id="Node000020" href="$classGameControllerMappingDialog.html#a44a1f4a7547fa03e424502851da555a1" title="TODO: Possibly remove. This was used for decrementing a reference count." alt="" coords="549,639,771,679"/>
+<area shape="poly" id="edge22_Node000010_Node000020" title=" " alt="" coords="400,422,420,464,453,519,496,576,521,602,548,625,557,630,554,635,545,629,517,606,491,580,448,522,416,467,395,424"/>
+<area shape="rect" id="Node000021" href="$classGameControllerMappingDialog.html#a35b9cc27c94a29800fb8b0ab6043b3e8" title=" " alt="" coords="549,511,771,551"/>
+<area shape="poly" id="edge23_Node000010_Node000021" title=" " alt="" coords="418,421,476,459,548,496,566,504,564,508,546,501,474,463,415,425"/>
+<area shape="rect" id="Node000022" href="$classGameControllerMappingDialog.html#ade5b53cb41c0797978bfa03fa94d843d" title=" " alt="" coords="549,703,771,743"/>
+<area shape="poly" id="edge32_Node000010_Node000022" title=" " alt="" coords="396,422,414,476,444,548,464,586,488,624,516,658,548,689,555,693,552,698,545,693,512,662,484,627,460,589,439,550,409,478,391,424"/>
+<area shape="rect" id="Node000012" href="$classGameControllerMappingDialog.html#a1a77b5b6f04786c2d21ad2ffa4ddab42" title=" " alt="" coords="821,447,1044,487"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="747,420,835,441,833,446,745,425"/>
+<area shape="poly" id="edge17_Node000011_Node000016" title=" " alt="" coords="771,387,836,385,907,391,978,405,1013,417,1045,432,1062,447,1071,463,1079,479,1094,494,1113,504,1111,509,1090,498,1074,482,1066,466,1058,450,1043,437,1011,422,977,411,906,396,836,391,771,392"/>
+<area shape="rect" id="Node000017" href="$classGameControllerMappingDialog.html#aef612f6ebc54a017003c46f8b4145870" title=" " alt="" coords="821,332,1044,372"/>
+<area shape="poly" id="edge16_Node000011_Node000017" title=" " alt="" coords="768,380,811,372,812,377,769,385"/>
+<area shape="rect" id="Node000013" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="1109,409,1302,434"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1044,446,1114,434,1115,439,1045,451"/>
+<area shape="rect" id="Node000014" href="$classInputDevice.html#a9621d2cced8732848d09941f3448c2ee" title=" " alt="" coords="1100,458,1311,483"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1044,466,1086,466,1086,472,1044,471"/>
+<area shape="rect" id="Node000015" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="1092,721,1319,746"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="956,485,1183,709,1179,713,952,489"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="1029,484,1132,506,1131,511,1028,489"/>
+<area shape="poly" id="edge20_Node000019_Node000012" title=" " alt="" coords="772,464,808,464,808,469,772,469"/>
+<area shape="poly" id="edge21_Node000019_Node000016" title=" " alt="" coords="751,484,822,496,966,510,1098,518,1098,523,965,516,821,501,750,489"/>
+<area shape="poly" id="edge24_Node000021_Node000012" title=" " alt="" coords="745,508,833,487,835,492,747,513"/>
+<area shape="poly" id="edge25_Node000021_Node000016" title=" " alt="" coords="772,537,821,540,933,544,1044,540,1097,536,1098,541,1044,545,933,549,821,545,771,543"/>
+<area shape="poly" id="edge36_Node000023_Node000015" title=" " alt="" coords="472,855,547,867,688,875,746,873,799,866,907,840,1043,796,1163,749,1165,754,1045,801,909,845,800,871,746,878,688,880,546,872,471,860"/>
+<area shape="rect" id="Node000024" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="587,817,733,857"/>
+<area shape="poly" id="edge35_Node000023_Node000024" title=" " alt="" coords="499,835,573,835,573,840,499,840"/>
+</map>

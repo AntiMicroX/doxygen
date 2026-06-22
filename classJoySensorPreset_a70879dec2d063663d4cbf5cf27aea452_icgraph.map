@@ -1,0 +1,7 @@
+<map id="JoySensorPreset::getAvailablePresets" name="JoySensorPreset::getAvailablePresets">
+<area shape="rect" id="Node000001" title="Get available presets for the underlying sensor type." alt="" coords="227,37,443,77"/>
+<area shape="rect" id="Node000002" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,44,179,39,179,34,213,39"/>
+<area shape="rect" id="Node000003" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="11,69,173,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,76,173,81,172,76,212,71"/>
+</map>

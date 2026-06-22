@@ -1,0 +1,17 @@
+<map id="JoyControlStickPushButton::generateLabel" name="JoyControlStickPushButton::generateLabel">
+<area shape="rect" id="Node000001" title="Generate the string that will be displayed on the button." alt="" coords="5,112,200,152"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a15845226575e7d1c81bf119653c86a3d" title=" " alt="" coords="248,70,479,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,111,282,95,283,101,201,116"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#a3665f4f4ae6cc0f7ca44502b61f7c3ea" title=" " alt="" coords="253,119,474,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="200,129,239,129,239,135,200,135"/>
+<area shape="rect" id="Node000008" href="$classFlashButtonWidget.html#aff41eff76f8396ff1b9e2539d680c4cf" title=" " alt="" coords="286,169,441,209"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="195,149,273,167,272,172,194,155"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a56be6df75476edd92b67205c4517b9d5" title=" " alt="" coords="547,5,726,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,67,533,44,534,49,425,73"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="543,70,731,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="479,80,529,80,529,85,479,85"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#acaa44dff5cfea5fa898837b603f603c0" title=" " alt="" coords="527,119,747,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="435,93,552,114,551,119,434,98"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a54f11ad3964117bc76b9571fd6f28014" title=" " alt="" coords="795,112,993,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="747,129,781,129,781,135,747,135"/>
+</map>

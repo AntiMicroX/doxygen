@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::calculateMouseSpeedPreset" name="MouseControlStickSettingsDialog::calculateMouseSpeedPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,260,87"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="311,5,511,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,45,325,30,326,36,247,50"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a76e65a13abf96d01fa11ed9fd3b08a7b" title=" " alt="" coords="308,55,515,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,65,294,65,294,70,260,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a897f0f78773ace1b5916222bd757b1bc" title=" " alt="" coords="309,104,514,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,85,326,99,325,104,246,90"/>
+</map>

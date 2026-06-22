@@ -1,0 +1,8 @@
+<map id="AdvanceButtonDialog::changeTurboText" name="AdvanceButtonDialog::changeTurboText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,5,624,45"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="5,5,176,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,25,413,24,224,24,176,25,176,20,224,19,413,19,448,19"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html#a5aed7f9d23471bcfca1a6595cb4e4391" title=" " alt="" coords="224,33,413,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,40,414,44,413,39,447,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="210,43,176,38,177,33,211,37"/>
+</map>

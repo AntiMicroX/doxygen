@@ -1,0 +1,19 @@
+<map id="JoyAxisWidget::generateLabel" name="JoyAxisWidget::generateLabel">
+<area shape="rect" id="Node000001" title="Generate the string that will be displayed on the button." alt="" coords="5,92,223,117"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a955d16488b3807bd9d34e88e5df05cd2" title=" " alt="" coords="279,63,417,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,89,265,83,265,88,216,95"/>
+<area shape="rect" id="Node000009" href="$classFlashButtonWidget.html#aff41eff76f8396ff1b9e2539d680c4cf" title=" " alt="" coords="271,113,425,153"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="220,115,257,119,257,124,220,120"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a2dc48e4d0de59b87938f5c0489d6e198" title=" " alt="" coords="473,5,668,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,60,507,32,508,37,399,65"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="479,55,662,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="418,73,466,73,466,78,418,78"/>
+<area shape="rect" id="Node000006" href="$classJoyAxis.html#a96710fb06ec9e989cd71ffce4ee7ca57" title=" " alt="" coords="481,120,660,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="399,85,508,114,507,119,397,91"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="719,55,901,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,73,705,73,705,78,662,78"/>
+<area shape="rect" id="Node000007" href="$classJoyAxis.html#a9ceda991c13da3a99868acc436ed20f3" title=" " alt="" coords="718,120,902,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="660,130,704,130,704,135,660,135"/>
+<area shape="rect" id="Node000008" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="716,169,904,195"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="633,143,735,164,734,169,632,148"/>
+</map>

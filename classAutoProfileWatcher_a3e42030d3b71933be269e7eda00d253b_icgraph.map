@@ -1,0 +1,10 @@
+<map id="AutoProfileWatcher::startTimer" name="AutoProfileWatcher::startTimer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="800,5,947,45"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#adb240e3698ab0a5958347fd9cfa78d06" title=" " alt="" coords="529,5,752,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="786,28,752,28,752,23,786,23"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a2f0c03d3d51748ab794e698322110614" title=" " alt="" coords="5,13,203,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,25,481,24,251,24,203,25,203,20,251,19,481,19,516,19"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#ae9f72ff45056908317963a1e7fa634a0" title="Build list of current input devices and pass it to settings dialog instance. Open Settings dialog." alt="" coords="251,33,481,73"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="516,41,482,44,481,39,515,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="237,42,203,39,203,33,237,37"/>
+</map>

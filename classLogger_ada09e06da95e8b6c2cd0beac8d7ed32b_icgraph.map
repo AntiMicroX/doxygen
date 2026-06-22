@@ -1,0 +1,11 @@
+<map id="Logger::getInstance" name="Logger::getInstance">
+<area shape="rect" id="Node000001" title="Get the Instance of logger." alt="" coords="377,70,528,95"/>
+<area shape="rect" id="Node000002" href="$classAntiMicroSettings.html#a5650eb5f8d9af851a7f58fc086b5ce27" title="applies settings from command line to logger" alt="" coords="134,5,303,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,69,300,48,301,43,388,64"/>
+<area shape="rect" id="Node000004" href="$classLogHelper.html#a9a8cfd5c3aadd0422c13db0e66e37177" title=" " alt="" coords="137,70,300,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="363,85,300,85,300,80,363,80"/>
+<area shape="rect" id="Node000005" href="$classStreamPrinter.html#a3592b2b36fab0bfcd31356437ab26b42" title=" " alt="" coords="108,119,329,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="379,101,280,122,279,117,378,96"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,28,60,28,60,23,120,23"/>
+</map>

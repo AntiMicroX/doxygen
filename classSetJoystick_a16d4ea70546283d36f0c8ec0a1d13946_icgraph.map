@@ -1,0 +1,7 @@
+<map id="SetJoystick::getSensors" name="SetJoystick::getSensors">
+<area shape="rect" id="Node000001" title="Get all sensor objects in this set." alt="" coords="261,31,436,56"/>
+<area shape="rect" id="Node000002" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="5,5,213,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,35,213,32,214,26,248,30"/>
+<area shape="rect" id="Node000003" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="8,55,211,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,56,211,60,211,55,247,51"/>
+</map>

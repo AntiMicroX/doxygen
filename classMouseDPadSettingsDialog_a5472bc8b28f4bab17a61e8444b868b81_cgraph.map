@@ -1,0 +1,9 @@
+<map id="MouseDPadSettingsDialog::calculateMouseSpeedPreset" name="MouseDPadSettingsDialog::calculateMouseSpeedPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,219,87"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="293,5,447,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,45,289,31,290,36,218,50"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a76e65a13abf96d01fa11ed9fd3b08a7b" title=" " alt="" coords="267,55,473,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,65,253,65,253,70,219,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a897f0f78773ace1b5916222bd757b1bc" title=" " alt="" coords="267,104,473,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,85,290,99,289,104,217,90"/>
+</map>

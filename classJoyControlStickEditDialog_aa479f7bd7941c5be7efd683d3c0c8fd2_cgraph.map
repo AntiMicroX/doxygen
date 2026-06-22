@@ -1,0 +1,28 @@
+<map id="JoyControlStickEditDialog::refreshStickStats" name="JoyControlStickEditDialog::refreshStickStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,309,193,349"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a033cec8c362b923e61ec638645e7a80c" title="Calculate the bearing (in degrees) corresponding to the current position of the X and Y axes of a sti..." alt="" coords="262,29,450,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,308,120,261,147,199,187,135,212,105,240,79,248,73,251,77,243,83,215,109,191,138,152,202,125,263,109,310"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a40e3aafc2c097e430c76d3cfc839e358" title="Get the raw radial distance of the stick. Values will be between 0 &#45; 32,767." alt="" coords="253,117,459,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="111,308,161,239,198,200,240,167,251,161,254,165,243,172,201,204,165,242,115,311"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ab305b0da04baf7dff592764bbc8cc706" title="Get the current percentage of the outer square that should be ignored when performing the final axis ..." alt="" coords="263,181,449,221"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="124,307,175,269,240,231,258,223,260,228,243,236,178,273,127,311"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a0e3fe034c525e212163dd8d59cef8428" title=" " alt="" coords="263,245,449,285"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="180,307,262,286,263,291,181,312"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#ae042621e02d88cf4f4574b7c45029e1f" title=" " alt="" coords="263,309,449,349"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="193,327,249,327,249,332,193,332"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStick.html#af9c934203a22e91c53d45a2a8f356248" title="Get current radial distance of the stick position past the assigned dead zone." alt="" coords="253,397,459,437"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="160,347,285,390,283,395,158,352"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#ac12ecf9bf840ecee8fa8b2873304fc66" title="Get the value for the corresponding X axis." alt="" coords="241,462,471,487"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="120,348,172,398,206,425,243,447,263,455,261,460,240,452,203,429,168,402,117,352"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#ad68f8a723bdefd42af7b4317ab40371a" title="Get the value for the corresponding Y axis." alt="" coords="242,511,470,537"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="113,348,133,381,162,422,199,464,243,498,254,504,252,509,240,502,196,467,158,426,129,384,109,351"/>
+<area shape="rect" id="Node000012" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="262,561,450,586"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="110,349,127,391,155,445,193,501,217,526,243,547,252,552,249,557,240,552,213,530,189,504,150,448,122,393,105,351"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="308,30,306,20,313,10,330,5,356,3,386,6,402,13,400,18,384,11,356,8,331,10,316,15,311,21,314,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="308,118,306,108,313,98,330,93,356,91,386,94,402,101,400,106,384,99,356,96,331,98,316,103,311,109,314,116"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a153940c564b3853d142059e9104f7c71" title=" " alt="" coords="519,245,707,285"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="449,263,504,263,504,268,449,268"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStick.html#a474ce78a526ae11be203450f605ef5ad" title=" " alt="" coords="519,309,707,349"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="449,327,504,327,504,332,449,332"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="308,398,306,388,313,378,330,373,356,371,386,374,402,381,400,386,384,379,356,376,331,378,316,383,311,389,314,396"/>
+</map>

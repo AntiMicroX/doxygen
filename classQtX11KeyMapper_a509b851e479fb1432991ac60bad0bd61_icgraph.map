@@ -1,0 +1,5 @@
+<map id="QtX11KeyMapper::populateMappingHashes" name="QtX11KeyMapper::populateMappingHashes">
+<area shape="rect" id="Node000001" title="Populate the Qt &lt;&#45;&gt; platform virtual key mappings. Implementations must fill qtKeyToVirtKeyHash (Qt &#45;..." alt="" coords="260,5,460,45"/>
+<area shape="rect" id="Node000002" href="$classQtX11KeyMapper.html#aa74d98d691cd1a9edd1f0cdec235d0e7" title=" " alt="" coords="5,5,212,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,28,212,28,212,23,246,23"/>
+</map>

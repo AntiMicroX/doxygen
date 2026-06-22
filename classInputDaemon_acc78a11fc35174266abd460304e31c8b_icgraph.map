@@ -1,0 +1,13 @@
+<map id="InputDaemon::joysticksRefreshed" name="InputDaemon::joysticksRefreshed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="633,22,876,48"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,60,60,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,23,539,13,402,8,254,14,180,23,109,37,80,48,54,62,52,57,77,43,107,32,180,18,254,9,402,3,539,8,652,18"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#a7fa47112e0cac297ba679920c594a838" title=" " alt="" coords="363,48,585,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="620,50,586,53,586,48,619,44"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="108,48,315,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="349,63,315,63,315,58,349,58"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#a7dbb5a72a490efb5b6f881528f1186ba" title=" " alt="" coords="129,121,293,146"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="415,79,259,123,257,118,413,74"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="160,119,59,84,61,79,161,114"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="243,111,234,103,211,100,192,102,183,106,181,112,186,119,182,122,175,113,179,103,191,96,211,94,236,98,246,107"/>
+</map>

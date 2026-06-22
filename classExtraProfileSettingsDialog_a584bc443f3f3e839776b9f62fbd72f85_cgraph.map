@@ -1,0 +1,9 @@
+<map id="ExtraProfileSettingsDialog::changeDeviceKeyPress" name="ExtraProfileSettingsDialog::changeDeviceKeyPress">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,197,67"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="250,5,438,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,33,236,28,237,34,198,38"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a4c29ccb8fbb979b7cfffeba529868bb1" title=" " alt="" coords="245,55,443,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,56,232,60,231,65,197,61"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#ac58f8bcb235ffc831d26dfe408664ecb" title=" " alt="" coords="491,63,709,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,73,477,73,477,78,443,78"/>
+</map>

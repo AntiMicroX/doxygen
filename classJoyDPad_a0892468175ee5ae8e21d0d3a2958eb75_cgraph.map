@@ -1,0 +1,7 @@
+<map id="JoyDPad::setDPadName" name="JoyDPad::setDPadName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,180,56"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#aa77d0bf75d7d1f1d2db5256db2e10f50" title=" " alt="" coords="228,5,439,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,31,214,28,215,33,181,37"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a628d1a553aa0acf58bc12b3bb7e9a671" title=" " alt="" coords="237,55,430,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,49,223,54,223,59,180,55"/>
+</map>

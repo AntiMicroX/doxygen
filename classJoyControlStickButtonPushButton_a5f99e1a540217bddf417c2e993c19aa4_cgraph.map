@@ -1,0 +1,17 @@
+<map id="JoyControlStickButtonPushButton::generateLabel" name="JoyControlStickButtonPushButton::generateLabel">
+<area shape="rect" id="Node000001" title="Generate the string that will be displayed on the button." alt="" coords="5,55,200,95"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2dc48e4d0de59b87938f5c0489d6e198" title=" " alt="" coords="279,5,474,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,53,247,41,296,31,297,36,249,46,193,58"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickButton.html#a86579104005fc594de94d9bc126fb4e9" title=" " alt="" coords="248,55,505,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,73,234,73,234,78,200,78"/>
+<area shape="rect" id="Node000008" href="$classFlashButtonWidget.html#aff41eff76f8396ff1b9e2539d680c4cf" title=" " alt="" coords="299,119,454,159"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="190,93,287,116,286,121,188,98"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#aa1eb52e9cce61ac403f9b451c512f197" title="Checks if this button is currently active." alt="" coords="559,5,750,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,53,578,31,579,36,475,58"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="563,55,746,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="506,73,550,73,550,78,506,78"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#a81da76522d4f12f081c169f0a0365996" title=" " alt="" coords="553,119,756,159"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="465,93,555,114,553,119,464,98"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="804,55,987,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="746,73,790,73,790,78,746,78"/>
+</map>

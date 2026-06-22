@@ -1,0 +1,11 @@
+<map id="JoyButtonContextMenu::switchToggle" name="JoyButtonContextMenu::switchToggle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,177,63"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a4305272f6fe2c5708f2ad7f1ce911514" title=" " alt="" coords="225,5,416,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,31,211,27,212,33,178,36"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a3850d1fdd6cac80b3ca0c0b3d2bfe6a6" title=" " alt="" coords="243,55,398,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,50,230,55,229,60,177,55"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="464,29,667,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,57,450,51,451,57,399,62"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#aa4ecc1c547c8789db4473db1353fadb0" title=" " alt="" coords="470,79,661,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="399,72,457,78,456,83,398,78"/>
+</map>

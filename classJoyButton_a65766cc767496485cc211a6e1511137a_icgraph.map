@@ -1,0 +1,37 @@
+<map id="JoyButton::getMouseHelper" name="JoyButton::getMouseHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="803,351,1003,377"/>
+<area shape="rect" id="Node000002" href="$classAppLaunchHelper.html#a3e71e64a159717dac8d285b28b45b9d2" title=" " alt="" coords="500,5,755,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="894,339,880,280,853,205,834,165,812,126,785,90,753,59,735,48,738,43,756,55,789,87,816,123,839,162,858,203,885,279,899,337"/>
+<area shape="rect" id="Node000004" href="$classAppLaunchHelper.html#a94fa84e2dab56fbb299ac1003886c1b0" title=" " alt="" coords="510,69,745,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="891,339,873,292,844,234,804,174,780,147,753,123,733,112,736,107,756,119,784,143,808,171,849,231,878,290,896,337"/>
+<area shape="rect" id="Node000005" href="$classAppLaunchHelper.html#a6d69ff98fa39bfbc9768bf6a164c573a" title=" " alt="" coords="510,133,745,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="886,341,865,306,835,265,797,223,753,188,730,176,733,171,756,183,801,219,839,261,869,303,891,338"/>
+<area shape="rect" id="Node000006" href="$classJoyButtonMouseHelper.html#a0a661702a333c35e0e86059b5232ed69" title=" " alt="" coords="542,197,713,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="875,344,822,301,753,258,708,240,710,235,756,254,825,297,879,340"/>
+<area shape="rect" id="Node000007" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,441,212,466"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="867,347,815,322,754,303,683,290,627,286,571,291,501,303,390,332,285,371,196,412,134,443,132,438,194,407,283,366,389,327,499,297,571,285,627,281,684,285,755,297,817,317,869,342"/>
+<area shape="rect" id="Node000008" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="527,312,728,352"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="788,353,728,346,728,341,789,348"/>
+<area shape="rect" id="Node000009" href="$classMouseSettingsDialog.html#a4a3da2adef113d4d6580b36fe62067ed" title=" " alt="" coords="543,376,711,416"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="789,380,712,389,711,384,789,375"/>
+<area shape="rect" id="Node000010" href="$classInputDaemon.html#ac0e260b8e967de67806f8554ffab9bef" title=" " alt="" coords="260,433,452,473"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="868,386,816,410,755,431,677,445,596,454,452,459,452,454,596,449,676,440,754,425,814,405,866,381"/>
+<area shape="rect" id="Node000011" href="$classAppLaunchHelper.html#ace273a69c32eb1af6a4ae5ce85067475" title=" " alt="" coords="514,491,741,531"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="879,388,825,431,756,474,710,493,708,488,753,470,822,427,875,384"/>
+<area shape="rect" id="Node000013" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="287,555,425,581"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="892,390,871,427,841,470,803,512,756,545,715,563,671,575,582,588,497,588,425,582,426,577,497,583,582,582,670,570,713,558,753,540,799,508,837,467,867,424,887,388"/>
+<area shape="rect" id="Node000014" href="$classMainSettingsDialog.html#a07b54c6c80f72c4c5b28b32a58cbcca6" title=" " alt="" coords="553,656,702,696"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="898,391,882,445,854,514,813,585,787,618,756,646,731,661,703,671,701,666,729,656,753,642,783,614,808,582,849,511,877,443,893,389"/>
+<area shape="rect" id="Node000016" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="514,606,741,631"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="894,391,875,434,845,488,806,543,782,567,756,589,716,608,714,603,753,584,779,563,802,539,841,485,870,432,889,389"/>
+<area shape="rect" id="Node000003" href="$classAppLaunchHelper.html#ab38c79745e55b3c4665c5b29a5d57a0f" title=" " alt="" coords="261,37,451,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,45,452,49,451,43,486,39"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="496,77,451,71,452,66,497,71"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="246,456,212,456,212,451,246,451"/>
+<area shape="rect" id="Node000012" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="329,498,383,523"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="500,513,383,513,383,508,500,508"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="300,553,259,537,187,501,130,468,132,464,189,496,261,532,302,548"/>
+<area shape="rect" id="Node000015" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="277,656,435,696"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="539,679,435,679,435,673,539,673"/>
+<area shape="poly" id="edge19_Node000016_Node000013" title=" " alt="" coords="545,606,424,583,425,578,546,601"/>
+</map>

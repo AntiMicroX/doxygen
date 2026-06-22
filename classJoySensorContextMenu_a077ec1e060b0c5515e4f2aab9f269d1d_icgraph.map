@@ -1,0 +1,5 @@
+<map id="JoySensorContextMenu::openMouseSettingsDialog" name="JoySensorContextMenu::openMouseSettingsDialog">
+<area shape="rect" id="Node000001" title="Opens MouseSensorSettingsDialog from context menu." alt="" coords="227,5,427,45"/>
+<area shape="rect" id="Node000002" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,28,179,28,179,23,213,23"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="JoyAxis::removeVDPads" name="JoyAxis::removeVDPads">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,5,664,31"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#ac51525cabe4d0ea5aafebe949cde458f" title=" " alt="" coords="261,5,439,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,21,439,21,439,15,473,15"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a856e968760351507439829045910de04" title=" " alt="" coords="5,5,213,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,21,213,21,213,15,247,15"/>
+</map>

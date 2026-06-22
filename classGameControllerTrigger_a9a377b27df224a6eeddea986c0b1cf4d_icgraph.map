@@ -1,0 +1,7 @@
+<map id="GameControllerTrigger::reset" name="GameControllerTrigger::reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,37,400,77"/>
+<area shape="rect" id="Node000002" href="$classGameControllerTrigger.html#a29c6221684b8eb4b3a4017ed93c6e866" title=" " alt="" coords="5,5,183,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,46,183,41,183,36,217,40"/>
+<area shape="rect" id="Node000003" href="$classGameControllerTrigger.html#ab63a97404553aedc7cac20b65df5b763" title=" " alt="" coords="9,69,179,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,74,179,80,179,74,216,69"/>
+</map>

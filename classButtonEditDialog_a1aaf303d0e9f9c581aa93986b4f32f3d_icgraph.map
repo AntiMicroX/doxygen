@@ -1,0 +1,10 @@
+<map id="ButtonEditDialog::sendTempSlotToAdvanced" name="ButtonEditDialog::sendTempSlotToAdvanced">
+<area shape="rect" id="Node000001" title=" " alt="" coords="749,35,956,75"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#aed42bcab312b02768501578c3738d279" title=" " alt="" coords="520,5,701,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,43,701,39,702,34,736,38"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="236,35,472,75"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="736,60,701,60,520,60,472,59,472,54,520,55,701,55,736,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,40,472,44,472,39,506,35"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,35,188,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,57,188,57,188,52,222,52"/>
+</map>

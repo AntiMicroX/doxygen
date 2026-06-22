@@ -1,0 +1,35 @@
+<map id="JoyButton::resetPrivVars" name="JoyButton::resetPrivVars">
+<area shape="rect" id="Node000001" title=" " alt="" coords="909,209,1088,234"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a9c65911b5b33fc6bec20d7418cea4324" title=" " alt="" coords="735,209,861,234"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="895,224,862,224,862,219,895,219"/>
+<area shape="rect" id="Node000003" href="$classGameControllerTrigger.html#a9a377b27df224a6eeddea986c0b1cf4d" title=" " alt="" coords="496,69,665,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="775,200,736,161,685,124,660,112,662,107,688,119,740,157,779,197"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadButton.html#aebe0fc163770e4f98ab9cbaeb96b4f08" title=" " alt="" coords="501,134,660,159"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="759,205,686,173,647,162,648,157,688,168,762,200"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#ae9adbedab9e5f99a893833b19035896b" title=" " alt="" coords="517,183,644,209"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="721,215,644,206,645,201,722,210"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStick.html#ae9e4c58304bb10ae998f854e4247f39f" title="Reset all the properties of the stick direction buttons and the stick modifier button." alt="" coords="475,233,687,258"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="722,232,687,236,687,231,721,227"/>
+<area shape="rect" id="Node000012" href="$classJoyAxis.html#afce1f31390f589a417e9c70f47bd7187" title=" " alt="" coords="488,282,673,307"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="760,242,688,272,643,285,642,279,686,267,758,237"/>
+<area shape="rect" id="Node000017" href="$classJoyButton.html#a0e609c3e96518adfec008f3a04849900" title=" " alt="" coords="497,331,664,357"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="779,246,740,285,715,304,688,321,656,334,654,329,685,316,712,300,736,281,775,242"/>
+<area shape="rect" id="Node000004" href="$classGameControllerTrigger.html#a29c6221684b8eb4b3a4017ed93c6e866" title=" " alt="" coords="249,5,427,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,68,414,48,415,43,492,63"/>
+<area shape="rect" id="Node000005" href="$classGameControllerTrigger.html#ab63a97404553aedc7cac20b65df5b763" title=" " alt="" coords="253,69,423,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="482,92,423,92,423,87,482,87"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadButton.html#adce03b9dac0e26f1601907b36bb11263" title=" " alt="" coords="259,134,417,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="487,149,418,149,418,144,487,144"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#ae522566bf421862cb84d33aeefff71af" title=" " alt="" coords="257,207,419,233"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="461,235,419,231,420,226,461,230"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#add8f98ad0df0e0dfbd6380abc4422385" title=" " alt="" coords="5,200,201,240"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="243,223,201,223,201,217,243,217"/>
+<area shape="rect" id="Node000013" href="$classJoyAxis.html#a6123cf3edbb03ad45f114c333cdfd5f4" title=" " alt="" coords="275,257,401,282"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="474,286,401,279,402,273,475,281"/>
+<area shape="rect" id="Node000014" href="$classJoyAxis.html#a9e0633e04b88d2eecb10c8cf9599a86e" title=" " alt="" coords="283,306,393,331"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="475,308,394,316,393,311,474,303"/>
+<area shape="rect" id="Node000016" href="$classJoyAxis.html#a3e8aa5f4ba3afb8959ddd2d153a5fff1" title=" " alt="" coords="269,355,407,381"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="500,313,476,321,452,333,428,345,390,358,388,353,426,340,449,328,474,316,499,308"/>
+<area shape="rect" id="Node000015" href="$classJoyAxis.html#a62d21dc1238df0c8e221365a434efe50" title=" " alt="" coords="48,306,159,331"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="269,321,159,321,159,316,269,316"/>
+</map>

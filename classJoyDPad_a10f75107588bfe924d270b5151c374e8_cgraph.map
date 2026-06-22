@@ -1,0 +1,43 @@
+<map id="JoyDPad::JoyDPad" name="JoyDPad::JoyDPad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,369,141,395"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#adfcee6e2b57a7e643c74c26159a32997" title=" " alt="" coords="189,279,412,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,367,231,322,233,327,110,372"/>
+<area shape="rect" id="Node000010" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="1404,368,1592,393"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="142,379,556,379,1002,379,1390,378,1390,384,1002,385,556,385,142,385"/>
+<area shape="rect" id="Node000020" href="$classJoyDPad.html#a34741c739ea51b8a4116be258667054c" title=" " alt="" coords="205,420,396,445"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="132,392,230,414,229,420,131,397"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a1f5c5db45f36b205d1c4a43f1616950a" title=" " alt="" coords="460,261,655,287"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,286,446,282,446,288,413,291"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#abb09326682e89c3c32975519ee73dfb0" title="Activates mapped slots and generates QT events which highlight pressed controller buttons." alt="" coords="703,261,853,287"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="655,271,689,271,689,277,655,277"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#ab227ec29550f974ac09dd1f891c93440" title=" " alt="" coords="924,261,1077,287"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="854,271,910,271,910,277,854,277"/>
+<area shape="rect" id="Node000011" href="$classLogger.html#a182b6e000ffbce476d6a28b885a00d32" title=" " alt="" coords="911,311,1090,336"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="837,284,930,305,929,310,835,289"/>
+<area shape="rect" id="Node000012" href="$classJoyButton.html#a9a7e651c64b30bf748ac14e0a03955ee" title=" " alt="" coords="901,155,1100,180"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="805,259,960,184,962,188,807,264"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="1154,254,1337,294"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1078,271,1140,271,1140,277,1078,277"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#acf2e65dcec7b0d2a8a2c21c36c489ad6" title=" " alt="" coords="1148,319,1343,344"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1056,284,1178,313,1177,318,1055,289"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="1407,254,1589,294"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1337,271,1393,271,1393,277,1337,277"/>
+<area shape="rect" id="Node000009" href="$classJoyButton.html#a39c9ccaf641bb8bf50b29d4c4e04c165" title="Get a 1 indexed number of button." alt="" coords="1391,319,1605,344"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1343,329,1377,329,1377,334,1343,334"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1312,341,1419,363,1418,368,1311,347"/>
+<area shape="rect" id="Node000013" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="1176,204,1315,229"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1065,177,1169,199,1167,204,1064,183"/>
+<area shape="rect" id="Node000014" href="$classVDPad.html#a48d8aa1c0a915b9ae46b519e76e4be6e" title=" " alt="" coords="1181,56,1310,81"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1023,152,1078,122,1147,92,1174,83,1176,88,1149,96,1081,127,1025,157"/>
+<area shape="rect" id="Node000018" href="$classVDPad.html#adcf9719ec120514f2400d62d1c6cfbf8" title=" " alt="" coords="1161,105,1330,131"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="1064,152,1167,131,1169,136,1065,157"/>
+<area shape="rect" id="Node000019" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="1171,155,1320,180"/>
+<area shape="poly" id="edge19_Node000012_Node000019" title=" " alt="" coords="1100,165,1157,165,1157,170,1100,170"/>
+<area shape="rect" id="Node000015" href="$classJoyDPad.html#ac660764f3e958b5c1cf9da1a5d2f2398" title=" " alt="" coords="1428,31,1568,56"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1310,60,1414,49,1414,54,1311,65"/>
+<area shape="poly" id="edge16_Node000015_Node000003" title=" " alt="" coords="1428,39,1297,34,1222,38,1148,47,1065,66,982,91,823,150,689,210,596,257,593,252,687,205,821,145,981,86,1064,61,1148,42,1222,32,1297,29,1428,34"/>
+<area shape="rect" id="Node000016" href="$classJoyDPad.html#a4bf1289844f0e4c7537a6f0021c6662a" title=" " alt="" coords="1661,5,1784,31"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1568,33,1647,24,1648,29,1569,38"/>
+<area shape="rect" id="Node000017" href="$classJoyDPad.html#ac13be0949c8eed6f55ca25920f06b960" title=" " alt="" coords="1653,55,1792,80"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="1569,48,1640,56,1639,61,1568,53"/>
+</map>

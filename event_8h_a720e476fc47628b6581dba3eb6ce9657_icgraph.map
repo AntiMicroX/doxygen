@@ -1,0 +1,13 @@
+<map id="X11KeyCodeToX11KeySym" name="X11KeyCodeToX11KeySym">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,109,665,134"/>
+<area shape="rect" id="Node000002" href="$classSimpleKeyGrabberButton.html#ab6a33975387e7840e45cf0a6e5a701df" title=" " alt="" coords="221,5,407,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,105,420,60,386,48,387,43,422,55,528,100"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#aa9469772bd8abc88407492e2c9385687" title=" " alt="" coords="207,69,421,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="455,110,421,106,422,100,456,105"/>
+<area shape="rect" id="Node000004" href="$classXMLConfigMigration.html#a422d184461a5aeddae8214bbd9ac99f9" title=" " alt="" coords="228,133,400,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="456,138,400,145,400,140,455,133"/>
+<area shape="rect" id="Node000006" href="$classVirtualKeyPushButton.html#a74da413e3983df7fe256e5950f97da7b" title=" " alt="" coords="229,197,399,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="528,142,422,188,387,200,386,195,420,183,526,138"/>
+<area shape="rect" id="Node000005" href="$classXMLConfigMigration.html#a8af9befbbce30c416f18704190dc4e35" title=" " alt="" coords="5,133,159,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,156,159,156,159,151,215,151"/>
+</map>

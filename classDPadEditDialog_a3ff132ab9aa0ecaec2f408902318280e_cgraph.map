@@ -1,0 +1,13 @@
+<map id="DPadEditDialog::selectCurrentPreset" name="DPadEditDialog::selectCurrentPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,223,113"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="271,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,70,270,39,301,31,302,36,271,45,174,75"/>
+<area shape="rect" id="Node000003" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="273,55,474,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,79,259,76,259,81,223,85"/>
+<area shape="rect" id="Node000005" href="$classJoyDPad.html#a5e31e9bf9edfcc87b69d389dbe9d2ea9" title=" " alt="" coords="290,104,457,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="223,100,276,105,276,110,222,105"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="279,153,467,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,110,271,138,306,147,305,153,270,143,177,115"/>
+<area shape="rect" id="Node000004" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="524,55,703,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,65,511,65,511,70,474,70"/>
+</map>

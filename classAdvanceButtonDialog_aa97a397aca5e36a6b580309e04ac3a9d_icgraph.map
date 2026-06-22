@@ -1,0 +1,9 @@
+<map id="AdvanceButtonDialog::clearAllSlots" name="AdvanceButtonDialog::clearAllSlots">
+<area shape="rect" id="Node000001" title=" " alt="" coords="520,37,683,77"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="269,5,439,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,48,439,39,440,34,507,42"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="236,69,472,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,72,472,77,472,71,506,67"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,69,188,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,92,188,92,188,87,222,87"/>
+</map>

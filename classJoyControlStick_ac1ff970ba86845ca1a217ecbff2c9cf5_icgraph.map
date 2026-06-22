@@ -1,0 +1,11 @@
+<map id="JoyControlStick::deadZoneChanged" name="JoyControlStick::deadZoneChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="763,35,957,75"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a61e269bc3ba21ed3d087bdd1c2c9aafd" title=" " alt="" coords="499,42,715,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="749,57,715,57,715,52,749,52"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="253,5,449,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,43,449,39,450,34,485,38"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="252,70,451,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="485,71,451,74,451,69,485,65"/>
+<area shape="rect" id="Node000005" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,70,204,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,85,204,85,204,80,238,80"/>
+</map>

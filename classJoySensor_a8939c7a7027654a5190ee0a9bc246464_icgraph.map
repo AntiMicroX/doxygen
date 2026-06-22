@@ -1,0 +1,7 @@
+<map id="JoySensor::sensorDelayChanged" name="JoySensor::sensorDelayChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,5,693,31"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a074fa1e59a98d7468a8ccc02183b8a6f" title="Sets the sensor input delaqy to the given value." alt="" coords="217,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,21,414,21,414,15,448,15"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a2c42a88f7b51fe7bc04ad13266756ed9" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,21,170,21,170,15,204,15"/>
+</map>

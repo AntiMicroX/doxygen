@@ -1,0 +1,20 @@
+<map id="QuickSetDialog::connectBtnForDialog" name="QuickSetDialog::connectBtnForDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,208,153"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="290,5,429,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,110,189,75,255,41,280,32,282,37,257,46,191,80,137,115"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#abbccee98e377453167a47b49874eeab7" title=" " alt="" coords="263,55,455,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,110,257,96,258,101,196,115"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a6dd1ad602ca81b63035a872724c96e98" title=" " alt="" coords="274,120,445,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,130,260,130,260,135,208,135"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#aa8eaea52cff793034b943af1eb292b6c" title=" " alt="" coords="264,170,455,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,150,258,164,257,170,195,155"/>
+<area shape="rect" id="Node000006" href="$classQuickSetDialog.html#abc94158041ae6895da77662156b64591" title=" " alt="" coords="256,234,463,274"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="138,151,192,185,257,220,275,227,273,232,255,224,190,190,135,155"/>
+<area shape="rect" id="Node000007" href="$classQuickSetDialog.html#af61daea37a622937669c8043f42e70b8" title=" " alt="" coords="511,262,733,302"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="463,262,497,266,497,271,462,268"/>
+<area shape="rect" id="Node000008" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="781,212,969,237"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="463,246,768,228,768,233,463,251"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="710,259,805,238,806,243,712,265"/>
+<area shape="rect" id="Node000009" href="$classButtonEditDialogHelper.html#a2160209c705906abf0510c903f432f42" title=" " alt="" coords="788,262,963,302"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="734,279,774,279,774,285,734,285"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QtKeyMapperBase" name="QtKeyMapperBase">
+<area shape="rect" id="Node000001" title="Base class for platform&#45;specific Qt key mappers." alt="" coords="272,79,415,104"/>
+<area shape="rect" id="Node000003" href="$classQtUInputKeyMapper.html" title=" " alt="" coords="5,152,159,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,110,125,154,124,149,287,105"/>
+<area shape="rect" id="Node000004" href="$classQtVMultiKeyMapper.html" title=" " alt="" coords="183,152,335,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,115,275,154,271,150,318,111"/>
+<area shape="rect" id="Node000005" href="$classQtWinKeyMapper.html" title=" " alt="" coords="360,152,495,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="369,111,415,150,412,154,366,115"/>
+<area shape="rect" id="Node000006" href="$classQtX11KeyMapper.html" title=" " alt="" coords="519,152,653,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="396,105,547,149,546,154,394,110"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="306,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,44,346,79,341,79,341,44"/>
+</map>

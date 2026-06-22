@@ -1,0 +1,59 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,564,80,589"/>
+<area shape="rect" id="Node000001" href="$classAboutDialog.html" title=" " alt="" coords="191,5,294,31"/>
+<area shape="poly" id="edge84_Node000000_Node000001" title=" " alt="" coords="42,550,46,440,58,287,68,209,83,138,102,80,113,58,126,40,140,29,156,21,191,14,192,19,158,26,143,33,130,44,118,60,107,82,88,140,74,210,63,288,51,440,47,550"/>
+<area shape="rect" id="Node000002" href="$classAddEditAutoProfileDialog.html" title=" " alt="" coords="150,55,335,80"/>
+<area shape="poly" id="edge85_Node000000_Node000002" title=" " alt="" coords="42,550,48,449,61,311,72,241,86,178,104,125,126,89,148,74,151,79,130,93,109,128,91,179,77,242,66,312,53,450,47,550"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html" title=" " alt="" coords="161,104,324,129"/>
+<area shape="poly" id="edge86_Node000000_Node000003" title=" " alt="" coords="43,550,50,458,64,335,75,273,89,217,106,171,126,139,142,127,160,119,162,124,145,131,130,142,110,173,94,218,80,274,69,336,55,459,48,550"/>
+<area shape="rect" id="Node000004" href="$classAdvanceStickAssignmentDialog.html" title=" " alt="" coords="128,153,357,179"/>
+<area shape="poly" id="edge87_Node000000_Node000004" title=" " alt="" coords="43,550,52,468,68,359,92,256,108,216,126,188,141,177,144,181,130,192,112,218,97,258,73,360,57,468,49,550"/>
+<area shape="rect" id="Node000005" href="$classAxisEditDialog.html" title=" " alt="" coords="184,203,301,228"/>
+<area shape="poly" id="edge88_Node000000_Node000005" title=" " alt="" coords="44,550,54,477,71,384,95,295,110,261,126,237,153,221,183,213,184,218,155,226,130,241,114,264,100,297,76,385,60,478,50,551"/>
+<area shape="rect" id="Node000006" href="$classButtonEditDialog.html" title=" " alt="" coords="177,252,309,277"/>
+<area shape="poly" id="edge89_Node000000_Node000006" title=" " alt="" coords="41,550,43,494,55,423,66,386,81,350,101,316,126,287,149,272,176,264,177,269,152,277,130,291,105,319,85,352,71,388,60,425,49,495,46,550"/>
+<area shape="rect" id="Node000007" href="$classCalibration.html" title="Opens calibration window used for calibration." alt="" coords="196,301,289,327"/>
+<area shape="poly" id="edge90_Node000000_Node000007" title=" " alt="" coords="43,550,48,504,62,446,86,387,104,360,126,336,142,325,160,318,195,311,196,316,161,323,144,330,130,340,108,363,91,389,67,448,53,505,48,551"/>
+<area shape="rect" id="Node000008" href="$classCapturedWindowInfoDialog.html" title=" " alt="" coords="143,351,343,376"/>
+<area shape="poly" id="edge91_Node000000_Node000008" title=" " alt="" coords="45,550,54,512,69,468,93,423,108,403,126,385,145,374,147,378,130,389,112,406,97,426,74,470,59,514,51,551"/>
+<area shape="rect" id="Node000009" href="$classDPadEditDialog.html" title=" " alt="" coords="181,400,304,425"/>
+<area shape="poly" id="edge92_Node000000_Node000009" title=" " alt="" coords="50,550,77,492,99,461,126,436,152,422,180,414,182,420,154,427,130,440,103,465,82,495,55,552"/>
+<area shape="rect" id="Node000010" href="$classEditAllDefaultAutoProfileDialog.html" title=" " alt="" coords="151,450,334,490"/>
+<area shape="poly" id="edge93_Node000000_Node000010" title=" " alt="" coords="63,552,91,525,127,500,153,488,155,493,129,504,95,529,66,556"/>
+<area shape="rect" id="Node000011" href="$classExtraProfileSettingsDialog.html" title=" " alt="" coords="147,515,339,540"/>
+<area shape="poly" id="edge94_Node000000_Node000011" title=" " alt="" coords="92,559,127,549,176,538,177,543,129,554,94,564"/>
+<area shape="rect" id="Node000012" href="$classGameControllerMappingDialog.html" title=" " alt="" coords="131,564,354,589"/>
+<area shape="poly" id="edge95_Node000000_Node000012" title=" " alt="" coords="94,574,131,574,131,579,94,579"/>
+<area shape="rect" id="Node000013" href="$classJoyControlStickEditDialog.html" title=" " alt="" coords="149,613,337,639"/>
+<area shape="poly" id="edge96_Node000000_Node000013" title=" " alt="" coords="94,589,129,598,182,611,181,616,127,603,93,594"/>
+<area shape="rect" id="Node000014" href="$classJoySensorEditDialog.html" title="The configuration dialog for a JoySensor itself." alt="" coords="166,663,319,688"/>
+<area shape="poly" id="edge97_Node000000_Node000014" title=" " alt="" coords="66,598,94,624,129,648,167,661,165,666,127,652,91,628,62,602"/>
+<area shape="rect" id="Node000015" href="$classJoystickStatusWindow.html" title="The joystick &quot;Properties&quot; window. Shows various raw values to the user." alt="" coords="159,712,326,737"/>
+<area shape="poly" id="edge98_Node000000_Node000015" title=" " alt="" coords="57,600,85,651,105,676,129,697,160,712,158,716,127,702,101,680,80,654,52,603"/>
+<area shape="rect" id="Node000016" href="$classMainSettingsDialog.html" title=" " alt="" coords="168,761,317,787"/>
+<area shape="poly" id="edge99_Node000000_Node000016" title=" " alt="" coords="52,602,61,636,77,675,99,714,130,747,148,758,168,765,167,770,146,762,126,751,95,717,72,677,56,637,47,603"/>
+<area shape="rect" id="Node000017" href="$classMouseSettingsDialog.html" title=" " alt="" coords="163,811,323,836"/>
+<area shape="poly" id="edge100_Node000000_Node000017" title=" " alt="" coords="49,603,55,646,69,698,93,751,110,775,130,796,145,806,163,814,161,819,143,811,126,800,106,779,89,754,64,700,50,647,44,604"/>
+<area shape="rect" id="Node000023" href="$classQKeyDisplayDialog.html" title=" " alt="" coords="169,860,316,885"/>
+<area shape="poly" id="edge106_Node000000_Node000023" title=" " alt="" coords="47,603,50,655,62,720,73,755,87,788,106,819,130,845,148,858,170,866,168,871,146,863,126,849,102,822,83,790,68,756,57,722,45,655,41,603"/>
+<area shape="rect" id="Node000024" href="$classQuickSetDialog.html" title=" " alt="" coords="181,909,304,935"/>
+<area shape="poly" id="edge107_Node000000_Node000024" title=" " alt="" coords="50,603,60,672,78,760,101,843,115,875,130,896,154,911,182,919,180,924,151,916,126,900,110,878,96,845,72,762,55,673,45,603"/>
+<area shape="rect" id="Node000025" href="$classSetAxisThrottleDialog.html" title=" " alt="" coords="161,959,325,984"/>
+<area shape="poly" id="edge108_Node000000_Node000025" title=" " alt="" coords="49,603,58,682,74,785,98,883,113,920,130,945,144,956,162,964,160,969,142,961,126,949,108,923,93,885,69,786,53,683,44,603"/>
+<area shape="rect" id="Node000026" href="$classSetNamesDialog.html" title=" " alt="" coords="177,1008,308,1033"/>
+<area shape="poly" id="edge109_Node000000_Node000026" title=" " alt="" coords="48,603,56,692,71,810,81,869,95,922,111,966,130,995,152,1009,178,1017,176,1022,149,1014,126,999,106,968,90,924,76,870,65,810,50,692,43,603"/>
+<area shape="rect" id="Node000027" href="$classUnixWindowInfoDialog.html" title=" " alt="" coords="157,1057,328,1083"/>
+<area shape="poly" id="edge110_Node000000_Node000027" title=" " alt="" coords="48,603,53,700,67,833,78,901,92,961,109,1011,130,1044,143,1054,158,1062,156,1066,140,1059,126,1048,104,1013,87,963,73,902,62,834,48,701,42,603"/>
+<area shape="rect" id="Node000028" href="$classWinAppProfileTimerDialog.html" title=" " alt="" coords="146,1107,339,1132"/>
+<area shape="poly" id="edge111_Node000000_Node000028" title=" " alt="" coords="47,603,52,711,64,858,75,933,89,1001,107,1056,130,1094,147,1106,144,1111,126,1097,102,1059,84,1002,69,934,59,859,46,711,42,604"/>
+<area shape="rect" id="Node000018" href="$classMouseAxisSettingsDialog.html" title=" " alt="" coords="413,704,601,729"/>
+<area shape="poly" id="edge101_Node000017_Node000018" title=" " alt="" coords="335,806,356,796,371,783,379,768,388,753,404,738,428,727,430,732,407,743,392,756,384,771,375,786,359,800,337,811"/>
+<area shape="rect" id="Node000019" href="$classMouseButtonSettingsDialog.html" title=" " alt="" coords="406,753,609,779"/>
+<area shape="poly" id="edge102_Node000017_Node000019" title=" " alt="" coords="315,805,447,776,449,781,316,810"/>
+<area shape="rect" id="Node000020" href="$classMouseControlStickSettingsDialog.html" title=" " alt="" coords="409,803,606,843"/>
+<area shape="poly" id="edge103_Node000017_Node000020" title=" " alt="" coords="336,821,409,821,409,826,336,826"/>
+<area shape="rect" id="Node000021" href="$classMouseDPadSettingsDialog.html" title=" " alt="" coords="411,868,604,893"/>
+<area shape="poly" id="edge104_Node000017_Node000021" title=" " alt="" coords="319,836,358,845,450,865,449,871,357,850,317,841"/>
+<area shape="rect" id="Node000022" href="$classMouseSensorSettingsDialog.html" title="Mouse settings dialog specialized for sensors." alt="" coords="405,917,609,943"/>
+<area shape="poly" id="edge105_Node000017_Node000022" title=" " alt="" coords="337,835,359,845,375,860,384,875,392,890,407,904,430,915,428,920,404,908,388,893,379,878,371,863,356,850,335,839"/>
+</map>

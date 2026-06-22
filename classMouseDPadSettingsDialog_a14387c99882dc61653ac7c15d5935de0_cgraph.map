@@ -1,0 +1,9 @@
+<map id="MouseDPadSettingsDialog::calculateWheelSpeedPreset" name="MouseDPadSettingsDialog::calculateWheelSpeedPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,216,87"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="289,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,45,285,31,286,36,215,50"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a8f39bf2962ca3e935c6cd6ea248e0f54" title=" " alt="" coords="264,55,468,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,65,251,65,251,70,216,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#afea7d93cb110917ab2721204338f6b7c" title=" " alt="" coords="265,104,467,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,85,286,99,285,104,214,90"/>
+</map>

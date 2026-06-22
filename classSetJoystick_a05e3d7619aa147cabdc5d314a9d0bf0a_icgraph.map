@@ -1,0 +1,14 @@
+<map id="SetJoystick::propogateSetVDPadNameChange" name="SetJoystick::propogateSetVDPadNameChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="829,37,1019,77"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="962,26,949,19,924,16,902,18,889,23,884,29,887,36,882,38,879,28,886,18,901,13,924,11,950,14,965,21"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a5d361ae7d236016146559f96be00685b" title=" " alt="" coords="613,45,781,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,60,782,60,782,55,816,55"/>
+<area shape="rect" id="Node000003" href="$classGameControllerSet.html#afbbd676e52346412a864cdd084b5c9ce" title=" " alt="" coords="411,37,565,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="600,60,566,60,566,55,600,55"/>
+<area shape="rect" id="Node000004" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="208,37,363,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,60,363,60,363,55,397,55"/>
+<area shape="rect" id="Node000005" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,5,160,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,46,160,40,161,35,195,40"/>
+<area shape="rect" id="Node000006" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="5,69,160,109"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="195,74,161,80,160,74,194,69"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="UInputEventHandler::sendTextEntryEvent" name="UInputEventHandler::sendTextEntryEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,240,164,280"/>
+<area shape="rect" id="Node000002" href="$classQtKeyMapperBase.html#a5f8f3d468b761f286578334871bb4456" title="Get key information (virtual key + modifiers) for a character." alt="" coords="239,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,239,106,200,131,150,166,99,187,75,210,55,225,46,228,50,214,59,191,79,170,102,136,152,111,202,95,241"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#acc60e327809d5d2b334973db440802b1" title=" " alt="" coords="231,70,449,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,238,112,208,138,171,171,135,211,104,223,98,225,103,213,109,175,139,142,175,117,211,99,241"/>
+<area shape="rect" id="Node000006" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="254,119,426,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,238,149,194,178,172,211,154,240,143,242,148,213,158,181,177,152,199,106,242"/>
+<area shape="rect" id="Node000007" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="239,169,441,194"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="125,237,211,203,243,194,244,200,213,208,127,242"/>
+<area shape="rect" id="Node000009" href="$classAntKeyMapper.html#a7096412c4b87d2314f90603cf49d6181" title=" " alt="" coords="231,218,449,243"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="164,248,217,242,217,247,165,254"/>
+<area shape="rect" id="Node000010" href="$classAntKeyMapper.html#aa5a2d74e172693019c4984f5d89ba3b0" title=" " alt="" coords="233,268,447,308"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="165,266,220,272,219,277,164,271"/>
+<area shape="rect" id="Node000011" href="$classQtKeyMapperBase.html#a320ec78a9a4a978014992808ca787796" title="Get Qt key for a given platform virtual key." alt="" coords="226,333,454,358"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="123,278,166,299,213,317,247,327,246,332,211,323,163,303,121,282"/>
+<area shape="rect" id="Node000012" href="$classQtKeyMapperBase.html#a5df0f313bce11847f8495126373e7178" title="Get platform virtual key for a given Qt key." alt="" coords="212,382,468,407"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="105,278,151,324,181,347,213,367,234,375,232,380,211,372,178,352,147,328,101,282"/>
+<area shape="rect" id="Node000013" href="$classUInputEventHandler.html#abd71760acc51be1442f4f8e2edc9a79d" title=" " alt="" coords="263,432,417,472"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="99,279,143,347,175,385,213,416,251,434,249,439,211,421,171,389,138,350,94,282"/>
+<area shape="rect" id="Node000014" href="$classUInputEventHandler.html#aa04ce5a2e42124cf21a2872ee4511918" title="Write uinput event to selected file uinput file." alt="" coords="533,460,687,500"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="93,280,105,324,129,381,145,410,164,438,187,462,213,482,251,500,291,511,333,518,376,520,458,514,529,501,530,506,458,519,376,525,333,523,290,516,249,505,211,486,183,466,160,441,140,413,124,384,100,326,88,281"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="516,13,704,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,23,502,23,502,28,441,28"/>
+<area shape="rect" id="Node000005" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="539,70,681,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,80,525,80,525,85,449,85"/>
+<area shape="rect" id="Node000008" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="521,169,699,194"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="441,179,507,179,507,184,441,184"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="417,457,519,468,519,473,417,463"/>
+</map>

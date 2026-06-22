@@ -1,0 +1,9 @@
+<map id="InputDevice::sensorButtonDownEvent" name="InputDevice::sensorButtonDownEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,200,63"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a19593f04a7f6996d9d7d6e82baf7853b" title=" " alt="" coords="248,31,472,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,41,234,41,234,46,200,46"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a4b46385874694fb65374d837d9847284" title=" " alt="" coords="523,5,677,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,29,509,25,510,30,472,34"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a7084000be8699a34315d91da8466ce71" title=" " alt="" coords="520,55,680,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="472,52,507,55,506,61,472,57"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="sendSpringEvent" name="sendSpringEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,307,136,332"/>
+<area shape="rect" id="Node000002" href="$classBaseEventHandler.html#a9a014e472ec57408d16b8b5eed964e90" title=" " alt="" coords="184,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,306,78,256,95,184,110,145,129,106,153,71,182,40,188,36,191,40,186,44,157,74,133,109,115,147,100,185,83,257,76,307"/>
+<area shape="rect" id="Node000003" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="213,55,385,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,306,83,266,104,209,136,149,158,121,182,97,206,83,208,87,186,101,162,125,141,152,109,211,88,267,77,307"/>
+<area shape="rect" id="Node000004" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="504,91,661,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="74,305,87,272,109,228,141,184,160,164,183,148,219,129,258,115,340,98,420,94,491,96,491,102,420,99,341,104,260,120,221,134,185,152,164,168,145,187,113,231,92,274,79,307"/>
+<area shape="rect" id="Node000007" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="767,155,924,195"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="104,304,256,251,357,222,461,198,537,187,615,179,753,173,753,178,615,185,538,192,462,203,358,227,258,256,106,309"/>
+<area shape="rect" id="Node000008" href="$classX11Extras.html#ad8f5c52f7fd053fc6b6354e8f29612bb" title=" " alt="" coords="229,356,369,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="131,329,226,350,225,356,129,335"/>
+<area shape="rect" id="Node000010" href="$event_8cpp.html#a42a7842a656f2dfc8b8545391502de03" title=" " alt="" coords="253,307,344,332"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="137,317,240,317,240,322,137,322"/>
+<area shape="rect" id="Node000019" href="$classBaseEventHandler.html#a40a02bef908bd0f86f9625a58cc697b7" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="187,406,411,446"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="90,330,132,360,185,390,206,399,204,404,183,395,129,364,87,334"/>
+<area shape="rect" id="Node000020" href="$classBaseEventHandler.html#aa79baec050fe242ee44ed4b8f87714e6" title="Move cursor to selected relative location (deltax delaty)" alt="" coords="187,470,411,510"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="81,331,120,391,150,426,186,456,196,462,193,466,182,460,146,430,116,394,77,334"/>
+<area shape="rect" id="Node000021" href="$classBaseEventHandler.html#a6b337790de6e8b78e7abccc2a8a36ba5" title="Do nothing by default. Useful for child classes to define behavior." alt="" coords="187,534,411,574"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="78,331,90,369,111,420,143,474,163,498,186,520,192,525,189,529,182,524,159,502,138,477,106,422,85,370,73,333"/>
+<area shape="rect" id="Node000005" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="752,91,939,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,109,738,109,738,114,662,114"/>
+<area shape="rect" id="Node000006" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="767,27,924,67"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="661,90,753,67,754,72,662,95"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="662,128,754,150,753,156,661,133"/>
+<area shape="rect" id="Node000009" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="511,712,654,737"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="370,368,394,377,415,392,431,411,441,431,450,470,448,509,440,547,432,586,430,623,438,661,448,679,463,697,479,710,499,718,497,723,477,714,459,701,444,682,433,663,424,624,427,585,434,546,442,508,445,470,436,433,426,414,411,396,392,382,368,373"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="316,304,542,137,545,142,319,309"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="322,304,383,273,460,242,536,221,614,205,753,183,754,188,615,210,538,226,462,247,385,278,324,309"/>
+<area shape="rect" id="Node000011" href="$event_8cpp.html#a5d4afd531123bc0d5093ae323f20519f" title="detects executor for selected file (for .py files python, for .exe &quot;&quot; etc)" alt="" coords="514,257,651,283"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="344,309,500,282,501,287,345,314"/>
+<area shape="rect" id="Node000012" href="$classJoyButtonSlot.html#afdcd95c7e86430f19bee3decaf7b61f2" title=" " alt="" coords="481,307,685,332"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="345,317,467,317,467,322,345,322"/>
+<area shape="rect" id="Node000013" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="483,356,683,381"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="345,325,496,351,495,356,344,330"/>
+<area shape="rect" id="Node000014" href="$classJoyButtonSlot.html#aa08ff979d05b38df8f584b77bb750abb" title=" " alt="" coords="484,405,681,431"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="345,320,380,327,415,341,430,353,440,366,448,379,463,390,480,398,478,403,460,395,444,383,435,370,426,357,412,346,378,332,344,325"/>
+<area shape="rect" id="Node000015" href="$namespacePadderCommon.html#a1bf383168922bc793ea7d5d99a975d38" title=" " alt="" coords="463,455,703,495"/>
+<area shape="poly" id="edge17_Node000010_Node000015" title=" " alt="" coords="345,317,381,324,415,341,427,353,434,366,440,392,446,417,452,428,463,440,471,446,468,450,460,444,448,432,441,419,435,393,429,368,423,357,412,345,379,329,344,322"/>
+<area shape="rect" id="Node000016" href="$classBaseEventHandler.html#afd723bd1451d78a34976642783026c40" title=" " alt="" coords="461,519,704,559"/>
+<area shape="poly" id="edge18_Node000010_Node000016" title=" " alt="" coords="345,316,381,323,399,330,415,341,431,362,439,383,441,425,441,466,448,486,463,506,468,509,464,513,459,509,444,488,436,467,435,425,434,384,427,364,412,345,397,335,380,328,344,321"/>
+<area shape="rect" id="Node000017" href="$classBaseEventHandler.html#a068ae99c4210979beb9e397960f33641" title=" " alt="" coords="471,583,695,623"/>
+<area shape="poly" id="edge19_Node000010_Node000017" title=" " alt="" coords="345,315,382,322,400,330,415,341,436,370,444,399,445,428,441,457,437,486,437,514,444,542,463,570,467,573,463,577,459,573,439,544,431,515,431,485,435,456,439,428,439,400,431,372,411,345,397,334,380,327,344,320"/>
+<area shape="rect" id="Node000018" href="$classBaseEventHandler.html#a9474d07cb2e38dca07ffac6f08a161ed" title=" " alt="" coords="479,647,687,687"/>
+<area shape="poly" id="edge20_Node000010_Node000018" title=" " alt="" coords="345,315,382,322,400,329,415,342,440,378,449,415,448,452,441,489,434,526,432,562,440,598,463,634,469,639,465,643,459,637,435,600,427,562,429,525,436,488,442,452,444,416,435,380,411,345,397,334,380,327,344,320"/>
+</map>

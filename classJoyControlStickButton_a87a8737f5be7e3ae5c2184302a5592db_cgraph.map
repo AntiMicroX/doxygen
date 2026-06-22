@@ -1,0 +1,18 @@
+<map id="JoyControlStickButton::getLastAccelerationDistance" name="JoyControlStickButton::getLastAccelerationDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,157,221,197"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ac5b937badd1c088bec283d00e97cdb54" title=" " alt="" coords="269,157,500,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,175,256,175,256,180,222,180"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#ae90f62171258764a4d5840fa7af02c57" title=" " alt="" coords="548,61,747,101"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,155,547,111,569,103,570,108,549,116,436,160"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a382e793296ce44f3382df46cc571b88a" title=" " alt="" coords="553,125,741,165"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="500,161,539,156,540,161,500,166"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#a1938cd9ca4c5da529ab5fb7edd9674df" title=" " alt="" coords="553,189,741,229"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="500,189,540,194,539,199,500,194"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="554,254,741,279"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="433,195,549,239,580,248,578,253,547,244,431,200"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a033cec8c362b923e61ec638645e7a80c" title="Calculate the bearing (in degrees) corresponding to the current position of the X and Y axes of a sti..." alt="" coords="796,29,984,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="747,66,782,61,783,66,747,71"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#af4ceb950523eedb36857e695d259d383" title=" " alt="" coords="795,93,985,133"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="747,92,781,96,781,102,747,97"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="845,30,842,20,849,10,865,5,890,3,918,6,934,13,931,18,917,11,890,8,867,10,852,15,847,21,850,28"/>
+</map>

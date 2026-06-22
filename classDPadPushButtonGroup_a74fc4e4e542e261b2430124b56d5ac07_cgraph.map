@@ -1,0 +1,9 @@
+<map id="DPadPushButtonGroup::openDPadButtonDialog" name="DPadPushButtonGroup::openDPadButtonDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,185,87"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="244,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,47,266,31,267,36,186,52"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonWidget.html#ab722c96c5d829aa855b769cdb293b187" title=" " alt="" coords="233,55,456,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,65,220,65,220,70,185,70"/>
+<area shape="rect" id="Node000004" href="$classJoyDPad.html#a0101f057cf5bfc971812c6497439ab79" title=" " alt="" coords="261,104,428,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,82,267,99,266,104,185,88"/>
+</map>

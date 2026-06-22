@@ -1,0 +1,12 @@
+<map id="XMLConfigReader::configJoystick" name="XMLConfigReader::configJoystick">
+<area shape="rect" id="Node000001" title="Read input device config from the current XML file into the InputDevice object." alt="" coords="5,31,240,56"/>
+<area shape="rect" id="Node000002" href="$classXMLConfigReader.html#af80a2c189a5d07caec8f3543765d4023" title=" " alt="" coords="288,31,463,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,41,274,41,274,46,240,46"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="511,5,699,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,31,497,27,497,33,463,36"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#a446e72a0f575c2d827d6c52afc39fab9" title=" " alt="" coords="515,55,694,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="463,50,502,54,501,59,463,55"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#ae9a3556242b984c81fc6945acafc5586" title=" " alt="" coords="747,55,957,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="694,73,733,74,733,79,694,79"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="747,61,708,61,708,56,747,56"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="JoyButton::moveMouseCursor" name="JoyButton::moveMouseCursor">
+<area shape="rect" id="Node000001" title="Take cursor mouse information provided by all buttons and send a cursor mode mouse event to the displ..." alt="" coords="5,196,220,221"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a699f062ddf1b266d5ccfc88dd70d9666" title=" " alt="" coords="279,147,491,172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,193,300,172,301,177,184,199"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#af33b4a6f64f9dcac7450eed7ad2697e1" title="Combines mouse movement distances from multiple mouse mappings." alt="" coords="268,196,501,221"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,206,254,206,254,211,220,211"/>
+<area shape="rect" id="Node000004" href="$event_8cpp.html#a42a7842a656f2dfc8b8545391502de03" title=" " alt="" coords="339,245,430,271"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,219,326,245,325,250,183,224"/>
+<area shape="rect" id="Node000005" href="$event_8cpp.html#a5d4afd531123bc0d5093ae323f20519f" title="detects executor for selected file (for .py files python, for .exe &quot;&quot; etc)" alt="" coords="602,5,739,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="430,257,467,250,484,243,499,232,517,210,524,186,525,163,523,138,520,113,521,89,529,64,547,40,566,27,587,19,589,24,569,32,551,44,534,66,527,90,526,113,528,138,530,162,529,187,521,212,503,236,487,248,468,256,431,262"/>
+<area shape="rect" id="Node000006" href="$classJoyButtonSlot.html#afdcd95c7e86430f19bee3decaf7b61f2" title=" " alt="" coords="569,55,773,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="430,256,467,250,484,242,500,232,513,216,520,199,523,163,525,127,533,108,547,91,555,85,558,89,551,95,537,111,530,128,528,164,525,200,518,218,503,236,487,247,468,255,431,262"/>
+<area shape="rect" id="Node000007" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="592,105,749,145"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="430,254,466,247,500,232,516,216,523,198,531,180,548,161,578,144,580,149,551,165,536,182,528,200,520,219,503,236,467,252,431,259"/>
+<area shape="rect" id="Node000010" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="855,166,1012,206"/>
+<area shape="poly" id="edge12_Node000004_Node000010" title=" " alt="" coords="429,249,500,232,524,218,548,206,624,190,702,181,776,178,841,178,841,183,776,183,702,186,625,195,550,211,526,223,502,236,431,254"/>
+<area shape="rect" id="Node000011" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="571,220,771,245"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="430,251,556,240,557,245,431,257"/>
+<area shape="rect" id="Node000012" href="$classJoyButtonSlot.html#aa08ff979d05b38df8f584b77bb750abb" title=" " alt="" coords="572,269,769,295"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="430,259,558,270,558,275,430,264"/>
+<area shape="rect" id="Node000013" href="$namespacePadderCommon.html#a1bf383168922bc793ea7d5d99a975d38" title=" " alt="" coords="551,319,791,359"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="428,268,550,305,580,313,578,318,549,310,426,273"/>
+<area shape="rect" id="Node000014" href="$classBaseEventHandler.html#afd723bd1451d78a34976642783026c40" title=" " alt="" coords="549,383,792,423"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="402,269,464,317,506,345,550,369,568,376,566,381,548,374,503,350,461,322,399,273"/>
+<area shape="rect" id="Node000015" href="$classBaseEventHandler.html#a068ae99c4210979beb9e397960f33641" title=" " alt="" coords="559,447,783,487"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="396,270,419,303,454,347,499,394,551,433,562,439,560,444,548,438,495,398,450,351,415,306,392,273"/>
+<area shape="rect" id="Node000016" href="$classBaseEventHandler.html#a9474d07cb2e38dca07ffac6f08a161ed" title=" " alt="" coords="567,511,775,551"/>
+<area shape="poly" id="edge16_Node000004_Node000016" title=" " alt="" coords="393,270,412,314,445,375,492,441,520,471,551,497,560,503,557,507,548,501,516,475,488,445,441,378,408,316,388,272"/>
+<area shape="rect" id="Node000008" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="840,38,1027,78"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="749,102,840,79,842,84,750,107"/>
+<area shape="rect" id="Node000009" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="855,102,1012,142"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="750,121,841,120,841,126,750,127"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="750,140,842,162,841,167,749,146"/>
+</map>

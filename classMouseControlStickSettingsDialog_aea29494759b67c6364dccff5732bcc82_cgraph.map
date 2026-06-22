@@ -1,0 +1,11 @@
+<map id="MouseControlStickSettingsDialog::changeMouseCurve" name="MouseControlStickSettingsDialog::changeMouseCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,205,77"/>
+<area shape="rect" id="Node000002" href="$classMouseSettingsDialog.html#a7adbe7521ee56d97cf8c38efc39f4b6c" title=" " alt="" coords="259,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,42,245,37,245,42,206,47"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#ac5369b80f0dd9d2952e793f369aab644" title=" " alt="" coords="253,69,452,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,68,240,72,239,77,205,73"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a89b6b5b57ffe55c871447466b37b5df6" title=" " alt="" coords="500,77,695,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="452,87,486,87,486,92,452,92"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="743,77,945,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="695,87,729,87,729,92,695,92"/>
+</map>

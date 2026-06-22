@@ -1,0 +1,16 @@
+<map id="JoyControlStick::releaseButtonEvents" name="JoyControlStick::releaseButtonEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="760,60,937,100"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStickEditDialog.html#aec8873b859f10e904c9ddde9b22c3413" title=" " alt="" coords="515,19,703,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="746,65,702,57,703,52,747,60"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#aa013bcc6b2391c594f043f8fe0f9b1f2" title=" " alt="" coords="505,95,712,121"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="747,95,712,99,712,93,746,89"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="261,5,457,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,36,457,33,458,28,501,30"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a856e968760351507439829045910de04" title=" " alt="" coords="5,95,213,121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="491,111,214,111,214,105,491,105"/>
+<area shape="rect" id="Node000006" href="$classJoyAxis.html#ac51525cabe4d0ea5aafebe949cde458f" title=" " alt="" coords="271,121,448,146"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="492,123,448,127,448,122,492,117"/>
+<area shape="rect" id="Node000007" href="$classJoyAxisButton.html#a8c8633a722e2c0a226924608259221d6" title=" " alt="" coords="268,170,451,195"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="559,128,458,160,412,173,411,167,457,155,557,123"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="257,126,213,121,214,116,257,120"/>
+</map>

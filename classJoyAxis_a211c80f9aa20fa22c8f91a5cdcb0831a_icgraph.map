@@ -1,0 +1,49 @@
+<map id="JoyAxis::adjustRange" name="JoyAxis::adjustRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1199,221,1357,246"/>
+<area shape="rect" id="Node000002" href="$classGameControllerTrigger.html#a9a377b27df224a6eeddea986c0b1cf4d" title=" " alt="" coords="973,69,1142,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1245,215,1088,112,1090,107,1247,211"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#afce1f31390f589a417e9c70f47bd7187" title=" " alt="" coords="965,207,1150,233"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1185,230,1150,228,1150,223,1185,225"/>
+<area shape="rect" id="Node000010" href="$classJoyAxis.html#a38eb99eb11dced53e58c8dc1d92f63bb" title="Set the initial calibrated throttle based on the first event passed by SDL." alt="" coords="964,270,1151,295"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1208,252,1116,273,1114,267,1207,246"/>
+<area shape="rect" id="Node000018" href="$classJoyAxis.html#aa4be4a311b6656e63eacfdde5ce6861a" title="Set throttle value for axis." alt="" coords="983,367,1132,393"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1248,256,1079,369,1076,365,1245,251"/>
+<area shape="rect" id="Node000003" href="$classGameControllerTrigger.html#a29c6221684b8eb4b3a4017ed93c6e866" title=" " alt="" coords="710,5,887,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="962,69,879,48,881,43,963,63"/>
+<area shape="rect" id="Node000004" href="$classGameControllerTrigger.html#ab63a97404553aedc7cac20b65df5b763" title=" " alt="" coords="714,69,883,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="959,92,883,92,883,87,959,87"/>
+<area shape="rect" id="Node000006" href="$classJoyAxis.html#a6123cf3edbb03ad45f114c333cdfd5f4" title=" " alt="" coords="735,134,862,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1010,205,915,173,862,161,863,155,917,168,1012,200"/>
+<area shape="rect" id="Node000007" href="$classJoyAxis.html#a9e0633e04b88d2eecb10c8cf9599a86e" title=" " alt="" coords="743,183,854,209"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="951,213,854,204,854,198,951,208"/>
+<area shape="rect" id="Node000009" href="$classJoyAxis.html#a3e8aa5f4ba3afb8959ddd2d153a5fff1" title=" " alt="" coords="730,233,867,258"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="952,233,868,241,867,236,951,228"/>
+<area shape="rect" id="Node000008" href="$classJoyAxis.html#a62d21dc1238df0c8e221365a434efe50" title=" " alt="" coords="489,183,599,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="730,199,600,199,600,193,730,193"/>
+<area shape="rect" id="Node000011" href="$classSetJoystick.html#af8d7d16a13702ae29b6590db35801d14" title=" " alt="" coords="709,282,888,307"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="951,290,888,293,888,288,950,285"/>
+<area shape="rect" id="Node000012" href="$classSetJoystick.html#adc322b55002b149c9a7432d1008b8537" title="Re&#45;enumerates inputs from the associated device and resets all mappings in this set." alt="" coords="477,282,611,307"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="696,297,612,297,612,292,696,292"/>
+<area shape="rect" id="Node000013" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="230,217,385,257"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="477,281,384,259,386,253,478,276"/>
+<area shape="rect" id="Node000016" href="$classSetJoystick.html#a9691a678e1bb444edc9f28368c4aeb8c" title=" " alt="" coords="220,282,395,307"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="463,297,395,297,395,292,463,292"/>
+<area shape="rect" id="Node000017" href="$classSetJoystick.html#ab9d47383844cb2c08581352a6c02bdab" title=" " alt="" coords="220,331,395,357"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="470,313,370,334,369,329,468,308"/>
+<area shape="rect" id="Node000014" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="5,185,160,225"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="216,227,160,219,161,214,217,222"/>
+<area shape="rect" id="Node000015" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="5,249,160,289"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="217,253,161,261,160,256,216,248"/>
+<area shape="rect" id="Node000019" href="$classGameControllerTrigger.html#abfde3c0a5d3bacf59188fd8c81968642" title=" " alt="" coords="710,332,887,372"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="969,373,887,364,888,359,969,368"/>
+<area shape="rect" id="Node000020" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="695,397,902,422"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="969,393,903,400,902,395,969,387"/>
+<area shape="rect" id="Node000023" href="$classAxisEditDialog.html#a37e715b68fb2ba3f3ab6046d178aa065" title=" " alt="" coords="681,447,916,473"/>
+<area shape="poly" id="edge22_Node000018_Node000023" title=" " alt="" coords="1016,401,917,437,867,450,866,445,915,432,1014,396"/>
+<area shape="rect" id="Node000021" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="457,394,631,419"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="682,411,631,410,631,405,682,405"/>
+<area shape="rect" id="Node000022" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="208,394,407,419"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="443,409,407,409,407,404,443,404"/>
+<area shape="rect" id="Node000024" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="455,444,633,484"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="668,465,634,465,634,460,668,459"/>
+</map>

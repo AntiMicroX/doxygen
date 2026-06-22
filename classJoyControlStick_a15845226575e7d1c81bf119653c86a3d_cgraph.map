@@ -1,0 +1,11 @@
+<map id="JoyControlStick::getPartialName" name="JoyControlStick::getPartialName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,236,95"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a56be6df75476edd92b67205c4517b9d5" title=" " alt="" coords="305,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,67,291,44,292,49,183,73"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="300,70,488,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,80,286,80,286,85,236,85"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#acaa44dff5cfea5fa898837b603f603c0" title=" " alt="" coords="284,119,504,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,93,310,114,309,119,191,98"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a54f11ad3964117bc76b9571fd6f28014" title=" " alt="" coords="552,112,751,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="504,129,538,129,538,135,504,135"/>
+</map>

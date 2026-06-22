@@ -1,0 +1,13 @@
+<map id="JoySensor::released" name="JoySensor::released">
+<area shape="rect" id="Node000001" title=" " alt="" coords="468,106,619,131"/>
+<area shape="rect" id="Node000002" href="$classJoySensorPushButton.html#a10ee6820582b80466fabe671f72d6766" title="Disables highlight when the sensor axis is moved." alt="" coords="256,5,416,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="505,102,419,60,390,48,392,43,421,55,507,97"/>
+<area shape="rect" id="Node000003" href="$classJoySensorPushButton.html#a3139b404a84ce7a6db343043f414e1a6" title="Enables highlight when the sensor axis is moved." alt="" coords="256,69,416,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="454,109,416,103,417,98,454,103"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#ade1aa521f8031e35a3befc406ba60219" title="Main sensor mapping function. When activated, it generates a &quot;moved&quot; QT event which updates various p..." alt="" coords="261,134,411,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="454,133,412,139,411,134,454,128"/>
+<area shape="rect" id="Node000006" href="$classJoySensorPushButton.html#af1624743fb76f2d32d5de11d03b6febe" title=" " alt="" coords="252,184,420,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="501,139,421,173,389,186,387,181,419,168,499,134"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#acbaa34beb6de8290766eb925876be45f" title="Activates previously queued movement event This is called by InputDevice." alt="" coords="5,127,204,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,149,204,149,204,144,247,144"/>
+</map>

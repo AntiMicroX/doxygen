@@ -1,0 +1,10 @@
+<map id="X11Extras::isWindowRelevant" name="X11Extras::isWindowRelevant">
+<area shape="rect" id="Node000001" title="Go through a window&#39;s properties and search for an Atom from a defined list. If an Atom is found in a..." alt="" coords="5,29,223,55"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="545,5,688,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,34,531,19,531,25,223,39"/>
+<area shape="rect" id="Node000003" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="271,55,497,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,50,257,53,257,58,223,55"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="444,52,542,31,543,36,445,57"/>
+<area shape="rect" id="Node000004" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="567,55,667,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="498,65,553,65,553,70,498,70"/>
+</map>

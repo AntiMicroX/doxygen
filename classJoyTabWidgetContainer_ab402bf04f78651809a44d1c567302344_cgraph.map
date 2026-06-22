@@ -1,0 +1,22 @@
+<map id="JoyTabWidgetContainer::addTab" name="JoyTabWidgetContainer::addTab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,195,179,235"/>
+<area shape="rect" id="Node000002" href="$classJoyTabWidgetContainer.html#ac8ab600e457b95087ad31cee3c5ce34a" title=" " alt="" coords="251,138,425,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,193,237,179,239,184,179,198"/>
+<area shape="rect" id="Node000008" href="$classJoyTabWidget.html#aad2fd172233a13f59576a7b04294e0fe" title=" " alt="" coords="227,203,449,228"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="179,213,213,213,213,218,179,218"/>
+<area shape="rect" id="Node000009" href="$classJoyTabWidgetContainer.html#a7a552473d3f3f6d0d233bed4611bd43c" title=" " alt="" coords="251,253,425,293"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="179,233,239,247,237,252,178,238"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a4b46385874694fb65374d837d9847284" title=" " alt="" coords="507,5,661,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,136,419,89,457,63,496,41,516,33,518,38,499,46,459,68,422,93,363,140"/>
+<area shape="rect" id="Node000004" href="$classJoyTabWidgetContainer.html#a6689df09f425f32d878cee6a958100a0" title=" " alt="" coords="497,55,671,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,135,510,97,511,102,399,141"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="719,175,907,200"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="425,151,542,149,671,155,750,169,749,174,670,161,542,154,425,156"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a852d4353b05688c5b143897ae2f8f1d4" title=" " alt="" coords="502,171,666,196"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="425,164,489,171,488,176,425,170"/>
+<area shape="rect" id="Node000007" href="$classJoyTabWidgetContainer.html#aa6f7bad0bd1e28b25ff977bbaf57d961" title=" " alt="" coords="497,221,671,261"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="412,175,450,187,519,213,517,218,448,193,410,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,93,672,112,777,166,774,170,669,116,630,98"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="670,218,744,201,745,206,671,223"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="425,282,481,287,543,287,607,283,670,270,703,258,734,242,784,206,787,211,736,246,705,263,671,275,608,288,543,293,480,292,425,288"/>
+</map>

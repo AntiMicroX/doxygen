@@ -1,0 +1,11 @@
+<map id="InputDevice::setRawAxisDeadZone" name="InputDevice::setRawAxisDeadZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,109,543,134"/>
+<area shape="rect" id="Node000002" href="$classGameControllerMappingDialogHelper.html#a2302e55d686dfedb8b6e0dfa880bb199" title=" " alt="" coords="13,5,236,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,106,243,60,204,48,205,43,245,55,373,101"/>
+<area shape="rect" id="Node000003" href="$classGameControllerMappingDialogHelper.html#a1642e763367455214fd7a1b4026673cc" title=" " alt="" coords="13,69,236,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,110,236,104,236,99,288,104"/>
+<area shape="rect" id="Node000004" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="5,133,244,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,138,245,143,244,138,287,133"/>
+<area shape="rect" id="Node000005" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="13,197,236,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="373,141,245,188,205,200,204,195,243,183,371,136"/>
+</map>

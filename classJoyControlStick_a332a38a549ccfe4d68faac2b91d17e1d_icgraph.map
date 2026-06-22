@@ -1,0 +1,10 @@
+<map id="JoyControlStick::setButtonsExtraAccelerationStatus" name="JoyControlStick::setButtonsExtraAccelerationStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="623,41,821,81"/>
+<area shape="rect" id="Node000002" href="$classMouseControlStickSettingsDialog.html#a476f86c223a02146ad662276ed96a6aa" title=" " alt="" coords="338,5,537,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="608,50,537,41,537,35,609,44"/>
+<area shape="rect" id="Node000004" href="$classMouseControlStickSettingsDialogHelper.html#aaffa5888388face9ed9fb4acbf4601b6" title=" " alt="" coords="300,70,575,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="609,78,575,83,574,77,609,73"/>
+<area shape="rect" id="Node000003" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,34,252,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,41,253,50,252,44,324,36"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="286,82,252,78,253,73,287,77"/>
+</map>

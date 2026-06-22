@@ -1,0 +1,5 @@
+<map id="WinExtras::scancodeFromVirtualKey" name="WinExtras::scancodeFromVirtualKey">
+<area shape="rect" id="Node000001" title="Convert a virtual key into the corresponding keyboard scan code." alt="" coords="5,5,263,31"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="311,5,499,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,15,297,15,297,21,263,21"/>
+</map>

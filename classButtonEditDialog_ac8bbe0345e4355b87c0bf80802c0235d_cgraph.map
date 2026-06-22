@@ -1,0 +1,9 @@
+<map id="ButtonEditDialog::checkTurboSetting" name="ButtonEditDialog::checkTurboSetting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,219,63"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a6e3ee0e05fe5d243b142c5f22011c2e9" title=" " alt="" coords="267,31,477,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,41,253,41,253,46,219,46"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="525,5,731,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,30,511,27,512,32,478,36"/>
+<area shape="rect" id="Node000004" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="528,55,728,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="478,51,515,54,514,59,477,56"/>
+</map>

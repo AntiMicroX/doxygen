@@ -1,0 +1,6 @@
+<map id="JoyControlStick::determineFourWayDiagonalDirection" name="JoyControlStick::determineFourWayDiagonalDirection">
+<area shape="rect" id="Node000001" title="Find the current stick direction based on a Four Way Diagonal mode stick." alt="" coords="241,29,437,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="380,18,366,11,339,8,316,10,302,15,297,21,300,28,295,30,292,20,299,10,315,5,339,3,367,6,382,13"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#aa4796b8825e4352c74e8a5ec2e009dc4" title=" " alt="" coords="5,29,193,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,52,193,52,193,47,228,47"/>
+</map>

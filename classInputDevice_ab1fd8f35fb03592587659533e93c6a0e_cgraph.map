@@ -1,0 +1,15 @@
+<map id="InputDevice::setSensorName" name="InputDevice::setSensorName">
+<area shape="rect" id="Node000001" title="Sets the name of a sensor in all sets Used during XML loading." alt="" coords="5,79,216,105"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="769,21,984,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,77,191,49,226,36,263,26,330,15,399,7,535,3,662,7,768,17,768,22,662,13,535,8,399,13,331,20,265,31,228,41,193,54,135,82"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a3f246fcacc2f0a0f01bd1e5a62d1de23" title=" " alt="" coords="271,40,476,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,77,257,72,257,77,215,82"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#acdfc97b4ab3898eb88d01565f0c7eff2" title="Rename sensor in all sets to the name in the current set." alt="" coords="264,104,483,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,102,251,116,250,121,158,107"/>
+<area shape="poly" id="edge7_Node000004_Node000001" title=" " alt="" coords="279,107,229,100,230,95,280,101"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="531,43,721,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="456,101,529,83,530,89,457,107"/>
+<area shape="rect" id="Node000006" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="543,111,709,137"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="483,121,529,121,529,127,483,127"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="721,49,755,45,756,50,722,54"/>
+</map>

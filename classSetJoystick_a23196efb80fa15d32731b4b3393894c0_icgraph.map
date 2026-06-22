@@ -1,0 +1,17 @@
+<map id="SetJoystick::setIgnoreEventState" name="SetJoystick::setIgnoreEventState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="577,128,777,168"/>
+<area shape="rect" id="Node000002" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="5,25,243,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,119,596,71,564,48,528,31,487,20,445,12,358,9,276,15,205,27,204,22,275,10,358,3,445,7,489,14,530,26,567,44,600,67,652,115"/>
+<area shape="rect" id="Node000003" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="37,114,211,154"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="563,147,529,146,212,139,212,133,529,141,564,142"/>
+<area shape="rect" id="Node000004" href="$classAdvanceStickAssignmentDialog.html#a48ade79f1dfeb93ff668ac18d0e1243f" title=" " alt="" coords="295,41,525,81"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="601,126,472,84,474,79,603,121"/>
+<area shape="rect" id="Node000005" href="$classJoystickStatusWindow.html#a1a1c28e1d6f480c7424ba81b30b8b4f5" title=" " alt="" coords="327,156,493,196"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="564,162,494,170,493,164,563,157"/>
+<area shape="rect" id="Node000006" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="291,220,529,260"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="620,175,530,210,491,222,490,217,528,205,618,170"/>
+<area shape="rect" id="Node000007" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="299,284,521,324"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="650,180,598,228,565,253,531,274,503,286,501,281,528,269,562,248,594,224,646,176"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="281,56,243,54,243,49,282,51"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="313,164,211,149,212,144,313,159"/>
+</map>

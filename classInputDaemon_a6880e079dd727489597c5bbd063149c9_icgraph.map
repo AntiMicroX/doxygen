@@ -1,0 +1,12 @@
+<map id="InputDaemon::getReleaseEventsGeneratedLocal" name="InputDaemon::getReleaseEventsGeneratedLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="704,37,939,77"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#a3dd07cf1254f9f94dc9008081ad14ff9" title=" " alt="" coords="450,5,653,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="690,44,652,40,653,35,691,39"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#a9e5f5e28dc44a7d61625b76c6497ab0f" title="Postprocesses fetched raw events." alt="" coords="447,69,656,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="691,75,656,80,656,74,690,70"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,45,399,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,45,400,50,399,45,436,39"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,45,212,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,60,212,60,212,55,246,55"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="432,75,399,70,400,65,433,70"/>
+</map>

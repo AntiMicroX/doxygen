@@ -1,0 +1,15 @@
+<map id="MainWindow::checkEachTenMinutesBattery" name="MainWindow::checkEachTenMinutesBattery">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,209,113"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a30076e3116e3b40bb01db2b9a2933266" title="Check state of batteries in controllers and notify user (only when powerLevSDL matches current batter..." alt="" coords="257,80,488,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,90,244,90,244,95,209,95"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a9bf88d0be91afb0648bd86cb2fc77480" title=" " alt="" coords="554,5,749,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,77,535,39,570,31,572,36,537,45,412,83"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af398dd46ce98825fe56b36e41a13db9b" title=" " alt="" coords="536,55,767,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="488,80,522,76,523,82,488,85"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="555,104,748,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="488,100,541,104,540,110,488,105"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="557,153,745,179"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="415,103,537,138,576,148,575,153,535,143,413,108"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a197e76d4113e8258e6637981830dd219" title=" " alt="" coords="815,55,1016,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="767,65,801,65,801,70,767,70"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="InputDeviceCalibration::applyCalibrations" name="InputDeviceCalibration::applyCalibrations">
+<area shape="rect" id="Node000001" title="Applies all applicable stored calibration values to the individual input elements of the parent contr..." alt="" coords="5,99,176,139"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a52f588b41e135631a7e0f5856ae7f5a4" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="228,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,96,223,55,248,47,249,52,225,60,132,101"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#ad83a4d69f3e7f6ed62452f502dffcae3" title="Applies calibration to the specified gyroscope in all sets See JoySensor::setCalibration." alt="" coords="241,69,454,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,106,226,100,227,106,177,112"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a3cafa58f87991e5ebbb3a24314417adf" title="Applies calibration to the specified stick in all sets See JoyControlStick::setCalibration." alt="" coords="224,134,471,159"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="177,125,218,130,217,135,176,131"/>
+<area shape="rect" id="Node000007" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="234,183,461,209"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="137,136,225,169,257,178,255,183,223,175,135,141"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a6793b28ac5f44e8fe3d8c1e333add1a8" title=" " alt="" coords="536,45,721,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,36,522,43,522,48,467,42"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="454,75,522,67,523,72,454,80"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#af8061d7792e96912abc05a9c863f76fe" title="Sets the axis calibration values and sets the calibration flag. Calibrated value is calculated by the..." alt="" coords="519,134,739,159"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="471,144,505,144,505,149,471,149"/>
+</map>

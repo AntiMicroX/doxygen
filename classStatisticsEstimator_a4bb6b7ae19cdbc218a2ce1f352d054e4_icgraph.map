@@ -1,0 +1,38 @@
+<map id="StatisticsEstimator::calculateRelativeErrorSq" name="StatisticsEstimator::calculateRelativeErrorSq">
+<area shape="rect" id="Node000001" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="1560,243,1751,283"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#a9cf0035951f569e3f36c69f0143415af" title="Sensor data event handler. Performs gyroscope offset and accelerometer neutral orientation estimation..." alt="" coords="1281,127,1512,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1599,239,1423,155,1426,150,1601,234"/>
+<area shape="rect" id="Node000010" href="$classCalibration.html#a1e79902d8c7fa6e66eb578c7252e7ef7" title="Stick data event handler. Performs stick gain estimation and stops itself if the value was found or t..." alt="" coords="1291,250,1502,275"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="1546,265,1502,265,1502,260,1546,260"/>
+<area shape="rect" id="Node000013" href="$classCalibration.html#a810f48e8f8960b9fe9218f52b05be2bd" title="Stick data event handler. Performs stick offset estimation and stops itself if the value was found or..." alt="" coords="1287,341,1506,366"/>
+<area shape="poly" id="edge21_Node000001_Node000013" title=" " alt="" coords="1585,290,1435,343,1433,338,1584,285"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="1443,118,1440,113,1432,110,1397,106,1369,108,1354,113,1351,118,1359,125,1355,129,1346,119,1350,109,1368,103,1397,101,1433,105,1443,109,1447,115"/>
+<area shape="rect" id="Node000003" href="$classCalibration.html#a4d6005148d0108fc471b1bf688f3a171" title="Show calibration message to the user and enable accelerometer data event handler." alt="" coords="1007,5,1233,45"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="1357,124,1232,66,1182,48,1184,43,1234,62,1360,119"/>
+<area shape="rect" id="Node000008" href="$classCalibration.html#aa04b4940601835dfbe0f227b10c50bee" title="Show calibration message to the user and enable gyroscope data event handler." alt="" coords="1020,120,1220,160"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="1268,143,1220,143,1220,137,1268,137"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#a946179d261fbbb93f2419697acac86d4" title="Shows user instructions for accelerometer calibration and initializes estimators." alt="" coords="732,63,959,103"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="1011,51,942,65,941,60,1010,46"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="972,84,1099,92,1234,105,1341,125,1340,130,1233,111,1098,97,972,89"/>
+<area shape="rect" id="Node000005" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,157,684,182"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="771,110,621,159,620,154,770,104"/>
+<area shape="rect" id="Node000006" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,157,177,182"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="464,169,429,168,225,168,178,169,178,164,225,163,429,163,464,163"/>
+<area shape="rect" id="Node000007" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,177,429,217"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="464,185,430,189,429,183,463,180"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="211,186,177,182,178,177,212,181"/>
+<area shape="rect" id="Node000009" href="$classCalibration.html#a481f3588a8fa375a75f3b1b779e7a742" title="Shows user instructions for gyroscope calibration and initializes estimators." alt="" coords="745,149,945,189"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="1006,155,946,161,945,156,1006,150"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="959,174,1091,176,1233,169,1291,161,1344,150,1345,155,1291,166,1234,175,1091,181,959,179"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="732,172,684,172,684,167,732,167"/>
+<area shape="poly" id="edge15_Node000010_Node000010" title=" " alt="" coords="1443,241,1440,236,1432,232,1397,229,1369,231,1354,236,1351,241,1359,248,1355,252,1346,242,1350,232,1368,225,1397,223,1433,227,1443,232,1447,238"/>
+<area shape="rect" id="Node000011" href="$classCalibration.html#adbb2662b3b1e21cb667df5325abc68cc" title="Shows user instructions for stick gain calibration, initializes estimators and connects stick data ev..." alt="" coords="1023,235,1217,275"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="1277,262,1217,260,1217,255,1277,257"/>
+<area shape="rect" id="Node000012" href="$classCalibration.html#ab574aecefa0f5d607f57f94487af38a8" title="Shows user instructions for stick offset calibration, initializes estimators and connects stick data ..." alt="" coords="744,235,947,275"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="1010,266,947,266,947,261,1010,261"/>
+<area shape="poly" id="edge19_Node000012_Node000005" title=" " alt="" coords="768,233,620,185,622,180,770,228"/>
+<area shape="poly" id="edge18_Node000012_Node000010" title=" " alt="" coords="945,275,1007,284,1120,290,1233,284,1325,273,1325,278,1234,289,1120,296,1006,289,944,280"/>
+<area shape="poly" id="edge20_Node000012_Node000011" title=" " alt="" coords="961,243,1023,243,1023,249,961,248"/>
+<area shape="poly" id="edge23_Node000013_Node000012" title=" " alt="" coords="1273,342,1144,324,1006,300,914,277,915,272,1007,295,1145,319,1274,337"/>
+<area shape="poly" id="edge22_Node000013_Node000013" title=" " alt="" coords="1443,331,1440,327,1432,323,1397,319,1369,321,1354,326,1351,332,1359,339,1355,342,1346,332,1350,322,1368,316,1397,314,1433,318,1443,323,1447,328"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="JoySensor::reset" name="JoySensor::reset">
+<area shape="rect" id="Node000001" title="Resets internal variables back to default." alt="" coords="472,63,599,88"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#af9b16315366b758eba4fb5759e7ee13e" title=" " alt="" coords="254,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,61,423,46,379,33,380,28,425,41,478,56"/>
+<area shape="rect" id="Node000003" href="$classJoyAccelerometerSensor.html#a302d00903f30bf08efa87afc1d323074" title="Resets internal variables back to default." alt="" coords="243,55,424,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="458,78,424,78,424,73,458,73"/>
+<area shape="rect" id="Node000005" href="$classJoyGyroscopeSensor.html#a4d27003200f8185d5e3edb082fa33de2" title="Resets internal variables back to default." alt="" coords="256,119,411,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="482,95,398,122,396,117,480,90"/>
+<area shape="rect" id="Node000004" href="$classJoyAccelerometerSensor.html#a3273f70da9e0795d25f420f6a12d60b9" title=" " alt="" coords="5,55,195,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,78,195,78,195,73,229,73"/>
+<area shape="rect" id="Node000006" href="$classJoyGyroscopeSensor.html#a3ab0a046fc8f7fd7ab11f443d3025e3e" title=" " alt="" coords="19,119,181,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="242,142,181,142,181,137,242,137"/>
+</map>

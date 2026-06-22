@@ -1,0 +1,7 @@
+<map id="JoyDPad::setJoyMode" name="JoyDPad::setJoyMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,164,56"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a1db40c71508768b2ad1472dfd5444c26" title=" " alt="" coords="212,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,32,198,28,199,33,165,37"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a628d1a553aa0acf58bc12b3bb7e9a671" title=" " alt="" coords="213,55,407,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,49,200,53,200,58,164,54"/>
+</map>

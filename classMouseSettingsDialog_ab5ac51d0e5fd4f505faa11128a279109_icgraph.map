@@ -1,0 +1,19 @@
+<map id="MouseSettingsDialog::updateExtraAccelerationCurvePresetComboBox" name="MouseSettingsDialog::updateExtraAccelerationCurvePresetComboBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="632,101,860,155"/>
+<area shape="rect" id="Node000002" href="$classMouseAxisSettingsDialog.html#a8279dc216edc17aa135b081c480cc40e" title=" " alt="" coords="321,7,563,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="673,98,583,63,537,49,539,44,585,57,675,93"/>
+<area shape="rect" id="Node000004" href="$classMouseButtonSettingsDialog.html#ae15a5e00ae65fffde35a6f298e971e6b" title=" " alt="" coords="321,72,563,112"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="618,116,563,109,564,104,618,110"/>
+<area shape="rect" id="Node000006" href="$classMouseControlStickSettingsDialog.html#a917e76579d85b4e6749426cc9ef6d6a0" title=" " alt="" coords="300,140,584,180"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="618,144,584,148,584,142,618,139"/>
+<area shape="rect" id="Node000008" href="$classMouseDPadSettingsDialog.html#a8f86534d3cdb65b2a3fd0eb67ecec905" title=" " alt="" coords="321,208,563,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="669,163,585,195,530,211,528,205,583,189,668,158"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="31,5,227,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,29,227,28,227,23,307,23"/>
+<area shape="rect" id="Node000005" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="23,69,234,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,94,234,93,234,88,307,88"/>
+<area shape="rect" id="Node000007" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,134,252,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="286,163,252,163,252,158,286,158"/>
+<area shape="rect" id="Node000009" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="28,213,229,253"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="307,233,230,234,230,229,307,228"/>
+</map>

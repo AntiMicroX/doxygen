@@ -1,0 +1,7 @@
+<map id="InputDevice::removeControlStick" name="InputDevice::removeControlStick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#aee4515edc1daad9be16eb4e25862ae25" title=" " alt="" coords="259,13,460,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="508,13,723,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,23,494,23,494,28,460,28"/>
+</map>

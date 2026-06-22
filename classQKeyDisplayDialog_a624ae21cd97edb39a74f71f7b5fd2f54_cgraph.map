@@ -1,0 +1,15 @@
+<map id="QKeyDisplayDialog::QKeyDisplayDialog" name="QKeyDisplayDialog::QKeyDisplayDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,160,167"/>
+<area shape="rect" id="Node000002" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="235,69,392,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,125,221,110,222,115,161,130"/>
+<area shape="rect" id="Node000006" href="$classBaseEventHandler.html#a5e12d8db74c331459884d757e53b11f3" title=" " alt="" coords="208,134,419,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,144,194,144,194,149,161,149"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="219,183,407,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="161,161,241,178,239,183,160,166"/>
+<area shape="rect" id="Node000003" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="467,5,653,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,67,469,46,470,51,392,72"/>
+<area shape="rect" id="Node000004" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="481,69,639,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="392,87,468,87,468,92,392,92"/>
+<area shape="rect" id="Node000005" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="481,133,639,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="392,107,470,127,469,132,391,112"/>
+</map>

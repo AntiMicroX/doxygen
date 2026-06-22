@@ -1,0 +1,16 @@
+<map id="ExtraProfileSettingsDialog" name="ExtraProfileSettingsDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,197,281"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="56,168,131,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,207,103,255,98,256,93,207"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="166,168,266,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,202,156,219,114,258,110,254,153,215,180,198"/>
+<area shape="rect" id="Node000005" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="225,256,396,281"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="210,207,210,220,214,231,228,244,245,254,242,258,224,248,210,233,205,220,205,207"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="136,80,211,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,117,212,166,208,169,183,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="300,244,283,219,266,206,247,196,250,191,269,201,287,216,304,241"/>
+<area shape="rect" id="Node000006" href="$classAntiMicroSettings.html" title=" " alt="" coords="235,80,373,105"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="284,117,230,169,226,166,281,113"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="261,5,347,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="307,45,307,80,301,80,301,45"/>
+</map>

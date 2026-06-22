@@ -1,0 +1,12 @@
+<map id="MainSettingsDialog::convToUniqueIDAutoProfGroupSett" name="MainSettingsDialog::convToUniqueIDAutoProfGroupSett">
+<area shape="rect" id="Node000001" title=" " alt="" coords="657,39,913,79"/>
+<area shape="rect" id="Node000002" href="$classMainSettingsDialog.html#ae075b085dd2e591e721a3c45e41754b1" title=" " alt="" coords="211,5,376,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,52,376,34,376,28,643,46"/>
+<area shape="rect" id="Node000004" href="$classMainSettingsDialog.html#a2ac3157f0e50f95986221adbbb008239" title=" " alt="" coords="424,67,609,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="644,76,610,80,609,74,643,71"/>
+<area shape="rect" id="Node000003" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="5,37,163,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,43,163,48,162,43,197,37"/>
+<area shape="rect" id="Node000005" href="$classMainSettingsDialog.html#a07b54c6c80f72c4c5b28b32a58cbcca6" title=" " alt="" coords="219,69,368,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="410,91,368,91,368,86,410,85"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="205,79,162,72,163,67,206,73"/>
+</map>

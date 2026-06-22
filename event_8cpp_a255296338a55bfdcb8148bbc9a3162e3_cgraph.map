@@ -1,0 +1,14 @@
+<map id="sendevent" name="sendevent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,138,96,163"/>
+<area shape="rect" id="Node000002" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="177,72,335,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,135,171,113,173,118,97,140"/>
+<area shape="rect" id="Node000005" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="431,133,588,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="96,148,417,150,417,155,96,154"/>
+<area shape="rect" id="Node000006" href="$classBaseEventHandler.html#aa79baec050fe242ee44ed4b8f87714e6" title="Move cursor to selected relative location (deltax delaty)" alt="" coords="144,188,368,228"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="97,161,171,182,170,187,96,166"/>
+<area shape="rect" id="Node000003" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="416,5,603,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,69,418,46,420,52,333,75"/>
+<area shape="rect" id="Node000004" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="431,69,588,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="335,89,417,88,417,93,335,94"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="336,108,418,129,417,134,334,114"/>
+</map>

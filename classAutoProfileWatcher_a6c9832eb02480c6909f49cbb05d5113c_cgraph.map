@@ -1,0 +1,94 @@
+<map id="AutoProfileWatcher::AutoProfileWatcher" name="AutoProfileWatcher::AutoProfileWatcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,768,160,808"/>
+<area shape="rect" id="Node000002" href="$classAutoProfileWatcher.html#ae6ec8b944a048017f3e9958525ccfb62" title=" " alt="" coords="224,506,371,546"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,766,269,555,273,559,102,769"/>
+<area shape="rect" id="Node000027" href="$classAutoProfileWatcher.html#a561af8319ef8031986ac0eaee221c6a3" title=" " alt="" coords="208,1000,387,1040"/>
+<area shape="poly" id="edge44_Node000001_Node000027" title=" " alt="" coords="104,806,270,987,266,991,100,810"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileWatcher.html#a9192562fc92f52545e3c0fe663026f95" title=" " alt="" coords="495,290,641,330"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,505,326,470,354,428,390,384,433,347,480,324,483,329,436,351,394,388,358,431,330,473,311,507"/>
+<area shape="rect" id="Node000012" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="785,351,957,376"/>
+<area shape="poly" id="edge29_Node000002_Node000012" title=" " alt="" coords="313,504,363,453,396,427,434,406,476,391,520,378,609,362,696,355,772,355,772,360,696,361,610,367,521,383,477,396,436,411,399,432,366,457,317,508"/>
+<area shape="rect" id="Node000013" href="$classX11Extras.html#af0461fc5624d3d74bc19b1cd888d8498" title=" " alt="" coords="762,406,981,431"/>
+<area shape="poly" id="edge36_Node000002_Node000013" title=" " alt="" coords="322,504,371,470,402,454,434,441,514,422,596,411,676,407,748,407,748,412,676,412,597,416,515,427,435,446,404,459,374,475,325,508"/>
+<area shape="rect" id="Node000014" href="$classX11Extras.html#a0e404fe7dacdcebf5b40a0cc7095f3ba" title=" " alt="" coords="469,456,667,482"/>
+<area shape="poly" id="edge17_Node000002_Node000014" title=" " alt="" coords="370,506,434,492,484,481,485,487,435,497,371,511"/>
+<area shape="rect" id="Node000017" href="$classAutoProfileWatcher.html#aeef04441dc24fcc1fbe3ac6f9188d85f" title=" " alt="" coords="480,506,656,546"/>
+<area shape="poly" id="edge24_Node000002_Node000017" title=" " alt="" coords="371,524,466,524,466,529,371,529"/>
+<area shape="rect" id="Node000018" href="$classAutoProfileWatcher.html#aede9b73dd288fbf048295581e3632fe6" title=" " alt="" coords="467,786,669,826"/>
+<area shape="poly" id="edge25_Node000002_Node000018" title=" " alt="" coords="306,545,321,593,347,654,385,718,409,747,436,772,456,784,453,789,433,776,405,751,381,721,342,657,316,594,301,547"/>
+<area shape="rect" id="Node000019" href="$classWinExtras.html#aea45e724d345e5df2f0962cf6ddcecc0" title="Get the window text of the window currently in focus." alt="" coords="749,68,993,94"/>
+<area shape="poly" id="edge26_Node000002_Node000019" title=" " alt="" coords="300,505,314,452,339,379,378,301,403,265,433,232,467,203,505,178,587,139,671,111,749,93,750,99,672,116,589,144,508,183,471,208,437,236,408,268,383,304,344,381,319,453,305,507"/>
+<area shape="rect" id="Node000020" href="$classAutoProfileWatcher.html#ad10abb38c59ca407452c0a31171b5697" title=" " alt="" coords="759,673,983,713"/>
+<area shape="poly" id="edge28_Node000002_Node000020" title=" " alt="" coords="371,541,435,556,510,569,570,576,629,586,702,606,768,633,826,663,823,668,766,638,700,611,627,591,569,581,510,574,434,561,370,546"/>
+<area shape="rect" id="Node000021" href="$classAutoProfileWatcher.html#ac8d3fde4dea7576bd0ea05913304c826" title=" " alt="" coords="792,854,951,894"/>
+<area shape="poly" id="edge30_Node000002_Node000021" title=" " alt="" coords="315,545,364,601,398,631,436,656,473,672,507,679,568,682,630,684,664,692,703,708,748,737,788,773,849,841,845,845,785,776,745,741,700,713,663,697,629,689,568,687,506,685,472,677,433,661,395,635,361,605,311,548"/>
+<area shape="rect" id="Node000022" href="$classX11Extras.html#ae7ce87e08a42d280a4deb8ae9a792f40" title=" " alt="" coords="769,19,973,44"/>
+<area shape="poly" id="edge31_Node000002_Node000022" title=" " alt="" coords="297,506,306,438,327,343,344,292,367,241,397,193,433,151,468,122,506,99,548,79,590,64,676,43,755,32,756,37,677,48,592,69,550,84,509,103,471,127,437,155,401,196,372,243,349,293,332,345,311,439,303,506"/>
+<area shape="rect" id="Node000023" href="$classAutoProfileWatcher.html#a4fd5593ecb32c3bfd11d72ab1a5839f9" title=" " alt="" coords="437,850,699,890"/>
+<area shape="poly" id="edge35_Node000002_Node000023" title=" " alt="" coords="304,546,315,604,338,683,356,725,377,766,404,804,436,836,443,841,439,845,433,840,400,807,373,768,351,727,333,684,310,605,299,547"/>
+<area shape="rect" id="Node000024" href="$classAutoProfileWatcher.html#a18477f7419ee770068f2531ab1ffdcfd" title=" " alt="" coords="435,722,701,762"/>
+<area shape="poly" id="edge37_Node000002_Node000024" title=" " alt="" coords="311,545,330,579,358,622,394,665,436,701,460,715,457,719,433,706,390,668,354,625,326,582,306,548"/>
+<area shape="rect" id="Node000025" href="$classX11Extras.html#ac4d3c4697880b6d792761b422cfdf5ed" title=" " alt="" coords="772,247,971,272"/>
+<area shape="poly" id="edge38_Node000002_Node000025" title=" " alt="" coords="300,505,314,456,339,392,356,359,378,327,403,299,433,276,479,253,528,238,579,229,630,225,726,229,807,241,806,247,726,234,630,230,579,234,529,243,481,258,436,280,407,303,382,331,361,362,343,394,319,458,305,507"/>
+<area shape="rect" id="Node000026" href="$classAutoProfileInfo.html#a51f57cf7cda4e66b052d12e5a8879785" title=" " alt="" coords="479,622,657,647"/>
+<area shape="poly" id="edge43_Node000002_Node000026" title=" " alt="" coords="330,544,379,573,436,600,487,616,485,621,434,605,376,577,327,549"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#a1a495d6ed3faab16025c918e4dc00e44" title="Find the application file location for a given PID." alt="" coords="776,118,967,158"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="588,288,655,229,700,196,748,168,765,161,767,165,751,173,703,200,659,233,591,292"/>
+<area shape="rect" id="Node000006" href="$classX11Extras.html#a5ca91422edbd69ea7189538dca43f2b1" title="Check window and any parents for the window property &quot;_NET_WM_PID&quot;." alt="" coords="766,298,977,323"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="641,308,752,308,752,313,641,313"/>
+<area shape="rect" id="Node000011" href="$classWinExtras.html#a71cc9f5d653d596a27c72847b5e403ce" title="Check foreground window (window in focus) and obtain the corresponding exe file path." alt="" coords="776,182,967,222"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="611,288,675,260,748,232,774,224,775,229,750,237,677,265,613,293"/>
+<area shape="poly" id="edge14_Node000003_Node000012" title=" " alt="" coords="642,320,786,346,785,351,641,326"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="612,328,676,357,750,385,800,400,799,405,748,390,674,362,610,333"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="1061,95,1249,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="967,125,1046,117,1047,122,967,131"/>
+<area shape="rect" id="Node000007" href="$classX11Extras.html#a9affa85055348376e96413c5c526947d" title=" " alt="" coords="1060,348,1249,388"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="935,320,1047,343,1046,348,934,326"/>
+<area shape="rect" id="Node000008" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="1316,355,1459,380"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="977,309,1116,315,1268,333,1334,348,1333,354,1268,338,1116,321,977,314"/>
+<area shape="rect" id="Node000009" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="1041,247,1268,272"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="943,295,1069,272,1070,277,944,300"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1250,365,1302,365,1302,370,1250,370"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="1214,270,1269,289,1318,316,1360,344,1357,349,1316,321,1267,294,1212,275"/>
+<area shape="rect" id="Node000010" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="1337,146,1437,171"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1184,244,1343,174,1345,179,1186,249"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="960,180,992,168,1016,153,1040,137,1083,121,1085,127,1043,142,1019,157,995,173,962,185"/>
+<area shape="poly" id="edge16_Node000013_Node000008" title=" " alt="" coords="981,417,1118,412,1268,397,1334,381,1335,387,1268,402,1118,418,981,422"/>
+<area shape="poly" id="edge18_Node000014_Node000008" title=" " alt="" coords="648,479,750,490,898,506,1015,518,1071,517,1129,510,1193,494,1267,466,1296,451,1323,431,1365,389,1369,393,1326,435,1299,455,1269,471,1195,499,1130,515,1071,523,1015,523,897,511,749,496,647,484"/>
+<area shape="rect" id="Node000015" href="$classX11Extras.html#addc3448425326be8bcd2b0138abe643a" title="Go through a window&#39;s properties and search for an Atom from a defined list. If an Atom is found in a..." alt="" coords="763,456,980,482"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="667,466,749,466,749,472,667,472"/>
+<area shape="rect" id="Node000016" href="$classX11Extras.html#abebf4a3a16685c4b274980f040671ae9" title=" " alt="" coords="1046,564,1263,590"/>
+<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="669,478,703,492,718,505,727,519,736,532,751,543,820,568,893,582,965,587,1032,587,1032,592,965,592,892,587,818,573,748,547,732,535,723,522,714,508,700,497,667,483"/>
+<area shape="poly" id="edge20_Node000015_Node000008" title=" " alt="" coords="980,464,1118,452,1194,440,1267,422,1312,405,1352,385,1355,390,1314,410,1269,427,1195,445,1119,457,981,469"/>
+<area shape="poly" id="edge21_Node000015_Node000009" title=" " alt="" coords="969,454,992,440,1004,428,1011,416,1017,391,1023,364,1039,334,1075,301,1113,277,1116,281,1078,305,1043,337,1028,365,1023,392,1016,418,1008,432,995,444,971,458"/>
+<area shape="poly" id="edge23_Node000016_Node000008" title=" " alt="" coords="1228,562,1266,543,1304,508,1334,467,1357,426,1373,392,1378,394,1362,429,1338,470,1308,512,1270,547,1230,567"/>
+<area shape="poly" id="edge27_Node000019_Node000005" title=" " alt="" coords="994,90,1047,95,1047,100,993,95"/>
+<area shape="poly" id="edge34_Node000022_Node000005" title=" " alt="" coords="949,42,994,53,1042,73,1091,89,1090,94,1040,78,992,58,948,47"/>
+<area shape="poly" id="edge32_Node000022_Node000008" title=" " alt="" coords="974,37,1153,55,1228,67,1270,80,1288,116,1319,189,1379,341,1374,343,1314,191,1283,118,1266,84,1227,72,1153,60,973,42"/>
+<area shape="poly" id="edge33_Node000022_Node000010" title=" " alt="" coords="933,16,1004,7,1090,3,1181,11,1226,21,1269,36,1302,55,1331,81,1373,132,1369,136,1327,85,1299,60,1267,41,1225,26,1180,16,1089,8,1004,12,934,22"/>
+<area shape="poly" id="edge41_Node000025_Node000005" title=" " alt="" coords="970,245,992,232,1003,222,1009,211,1015,187,1021,162,1028,150,1040,138,1063,123,1066,128,1043,142,1033,153,1026,164,1020,188,1014,213,1007,225,995,236,972,249"/>
+<area shape="poly" id="edge39_Node000025_Node000008" title=" " alt="" coords="945,244,1029,232,1122,223,1208,221,1243,224,1269,232,1304,254,1334,283,1358,314,1375,342,1371,344,1354,317,1330,287,1301,258,1267,237,1242,230,1208,226,1123,228,1030,237,946,250"/>
+<area shape="poly" id="edge42_Node000025_Node000009" title=" " alt="" coords="971,257,1028,257,1028,262,971,262"/>
+<area shape="poly" id="edge40_Node000025_Node000010" title=" " alt="" coords="960,244,992,232,1006,222,1015,210,1024,198,1040,188,1114,164,1190,152,1262,148,1324,150,1324,155,1262,154,1190,157,1115,169,1042,193,1028,202,1019,213,1010,225,995,237,962,249"/>
+<area shape="poly" id="edge49_Node000027_Node000018" title=" " alt="" coords="306,998,325,962,353,918,389,874,433,836,453,825,456,830,436,840,393,877,357,922,329,965,310,1000"/>
+<area shape="poly" id="edge51_Node000027_Node000023" title=" " alt="" coords="314,997,365,948,398,922,433,900,449,893,451,898,436,905,401,926,368,952,318,1001"/>
+<area shape="poly" id="edge52_Node000027_Node000024" title=" " alt="" coords="301,999,316,952,342,890,381,826,405,797,433,772,441,767,444,771,436,776,409,801,385,829,347,893,321,954,306,1000"/>
+<area shape="rect" id="Node000028" href="$classAutoProfileWatcher.html#a271cfd222b93c64b8c079cfa8c0279d5" title=" " alt="" coords="475,914,661,954"/>
+<area shape="poly" id="edge45_Node000027_Node000028" title=" " alt="" coords="346,997,434,965,467,955,469,960,435,970,348,1002"/>
+<area shape="rect" id="Node000029" href="$classAutoProfileWatcher.html#a2e2c4fa67534c7f681d0c5455ce5e607" title=" " alt="" coords="440,1208,696,1248"/>
+<area shape="poly" id="edge48_Node000027_Node000029" title=" " alt="" coords="311,1039,330,1073,358,1115,393,1158,436,1193,447,1200,444,1204,433,1198,390,1161,353,1118,325,1076,306,1041"/>
+<area shape="rect" id="Node000030" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="495,1272,641,1312"/>
+<area shape="poly" id="edge50_Node000027_Node000030" title=" " alt="" coords="307,1039,322,1084,348,1144,386,1206,409,1233,436,1257,458,1270,483,1279,481,1284,456,1275,433,1262,406,1237,382,1209,343,1146,317,1086,302,1041"/>
+<area shape="rect" id="Node000031" href="$classAutoProfileInfo.html#a93b07c48618aa5b09c62c2c7bac81d4b" title=" " alt="" coords="471,1336,665,1376"/>
+<area shape="poly" id="edge53_Node000027_Node000031" title=" " alt="" coords="304,1039,316,1096,339,1173,357,1213,378,1253,405,1290,436,1321,459,1336,457,1340,433,1326,401,1293,374,1256,352,1216,334,1174,311,1097,299,1040"/>
+<area shape="rect" id="Node000032" href="$classAutoProfileInfo.html#adbbc10755c2428a8af350dc7b2f79d22" title=" " alt="" coords="483,979,653,1004"/>
+<area shape="poly" id="edge54_Node000027_Node000032" title=" " alt="" coords="387,1008,469,999,470,1004,387,1013"/>
+<area shape="rect" id="Node000033" href="$classAutoProfileInfo.html#a1d36951304a4e5da913e9673f2d587d8" title=" " alt="" coords="475,1029,661,1069"/>
+<area shape="poly" id="edge55_Node000027_Node000033" title=" " alt="" coords="387,1027,461,1035,461,1040,387,1032"/>
+<area shape="rect" id="Node000034" href="$classAutoProfileInfo.html#a0c30776585e8ccc8f4023a494cdb773c" title=" " alt="" coords="469,1093,667,1133"/>
+<area shape="poly" id="edge56_Node000027_Node000034" title=" " alt="" coords="339,1037,436,1078,462,1087,460,1092,434,1083,337,1042"/>
+<area shape="rect" id="Node000035" href="$classAutoProfileInfo.html#abba6d0528f83ca5aabb4e61960bde2dc" title=" " alt="" coords="449,1158,687,1183"/>
+<area shape="poly" id="edge57_Node000027_Node000035" title=" " alt="" coords="316,1038,366,1091,399,1119,436,1143,456,1151,454,1156,433,1147,396,1124,362,1095,312,1042"/>
+<area shape="poly" id="edge46_Node000028_Node000020" title=" " alt="" coords="661,918,700,900,716,887,726,874,747,841,843,722,847,726,751,844,730,877,720,891,703,905,663,923"/>
+<area shape="poly" id="edge47_Node000028_Node000021" title=" " alt="" coords="661,913,778,890,779,895,662,918"/>
+</map>

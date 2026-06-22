@@ -1,0 +1,7 @@
+<map id="SetJoystick::propogateSetDPadButtonClick" name="SetJoystick::propogateSetDPadButtonClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,195,67"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a089e9a69356d82336da47361bfc94b63" title=" " alt="" coords="272,5,412,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,33,258,25,259,31,195,39"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#ad443e3975db718bb0f7559cb86d02874" title=" " alt="" coords="243,55,441,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,56,229,60,229,65,195,61"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="JoyButton::setSpringRelativeStatus" name="JoyButton::setSpringRelativeStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,213,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="497,13,700,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,20,261,19,449,19,484,19,483,25,449,24,261,24,214,25"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a835d1f839a755c87758d7cc67b933d9f" title=" " alt="" coords="261,33,449,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,35,248,38,248,44,213,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="449,40,483,36,484,41,450,45"/>
+</map>

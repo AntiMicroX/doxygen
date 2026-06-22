@@ -1,0 +1,8 @@
+<map id="RUNATSTARTUPLOCATION" name="RUNATSTARTUPLOCATION">
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,13,599,38"/>
+<area shape="rect" id="Node000002" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="5,5,163,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,25,360,24,211,24,163,25,163,20,211,19,360,19,394,19"/>
+<area shape="rect" id="Node000003" href="$classMainSettingsDialog.html#a07b54c6c80f72c4c5b28b32a58cbcca6" title=" " alt="" coords="211,33,360,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="394,42,361,46,360,41,394,37"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="197,44,162,39,163,34,198,38"/>
+</map>

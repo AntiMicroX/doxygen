@@ -1,0 +1,7 @@
+<map id="JoyAxis::setButtonsWheelSpeedY" name="JoyAxis::setButtonsWheelSpeedY">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,195,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a7f76ad6c68868cd464b66b5963689332" title=" " alt="" coords="243,13,437,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,23,229,23,229,28,195,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="485,13,688,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,23,472,23,472,28,437,28"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Calibration::startStickGainCalibration" name="Calibration::startStickGainCalibration">
+<area shape="rect" id="Node000001" title="Shows user instructions for stick gain calibration, initializes estimators and connects stick data ev..." alt="" coords="987,75,1180,115"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#ab574aecefa0f5d607f57f94487af38a8" title="Shows user instructions for stick offset calibration, initializes estimators and connects stick data ..." alt="" coords="736,75,939,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="973,107,939,107,939,102,973,102"/>
+<area shape="poly" id="edge9_Node000002_Node000001" title=" " alt="" coords="952,84,987,84,987,89,952,89"/>
+<area shape="rect" id="Node000003" href="$classCalibration.html#a1e79902d8c7fa6e66eb578c7252e7ef7" title="Stick data event handler. Performs stick gain estimation and stops itself if the value was found or t..." alt="" coords="477,29,688,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="728,75,643,57,644,52,729,70"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="479,83,686,108"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="722,98,686,98,686,93,722,93"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="702,42,817,48,939,61,1003,73,1002,78,938,66,816,53,701,47"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="628,20,625,15,617,12,583,8,555,10,541,15,538,20,546,27,542,31,533,21,537,11,554,5,583,3,618,7,629,11,632,17"/>
+<area shape="rect" id="Node000005" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,83,177,108"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="465,95,429,94,225,94,178,95,178,90,225,89,429,89,465,89"/>
+<area shape="rect" id="Node000006" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,103,429,143"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="466,111,430,115,429,110,465,105"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="211,112,177,108,178,103,212,107"/>
+</map>

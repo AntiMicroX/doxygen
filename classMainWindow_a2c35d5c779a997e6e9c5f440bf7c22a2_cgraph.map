@@ -1,0 +1,9 @@
+<map id="MainWindow::saveAppConfig" name="MainWindow::saveAppConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,216,56"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a894f087cdfe06136fade922ff053d522" title=" " alt="" coords="264,31,489,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,41,250,41,250,46,216,46"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="554,5,747,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,30,540,26,541,31,490,36"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="537,55,764,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="490,51,524,54,523,59,489,56"/>
+</map>

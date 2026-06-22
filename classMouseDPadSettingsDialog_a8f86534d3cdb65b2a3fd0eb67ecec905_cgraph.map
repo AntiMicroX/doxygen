@@ -1,0 +1,11 @@
+<map id="MouseDPadSettingsDialog::calculateExtraAccelerationCurve" name="MouseDPadSettingsDialog::calculateExtraAccelerationCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,62,248,102"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#aab3df2ad40eacaed9f1f9c5b4f415321" title=" " alt="" coords="316,26,504,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,64,302,57,303,62,249,69"/>
+<area shape="rect" id="Node000005" href="$classMouseSettingsDialog.html#ab5ac51d0e5fd4f505faa11128a279109" title=" " alt="" coords="296,91,524,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="249,95,283,99,282,104,248,100"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a5f5921607d183f4f221f3a4f97249d8e" title=" " alt="" coords="575,5,798,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,34,562,28,562,33,504,39"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#acd84988b8ba20fb677c8ff9d10f900c3" title=" " alt="" coords="572,55,801,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="504,53,559,59,558,64,504,59"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="JoyAxis::isDefault" name="JoyAxis::isDefault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,143,80"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a8552b6736231d1611c8809602e189d68" title=" " alt="" coords="191,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,52,226,31,227,36,133,57"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#a61149f5541d5dc820ae2a04a6ca9af68" title=" " alt="" coords="194,55,402,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,65,180,65,180,70,143,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#aaae603630f3485683593320bd446927d" title="Check if button properties are at their default values." alt="" coords="222,104,374,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,77,227,98,226,104,132,83"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="453,75,659,100"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="374,105,439,98,440,103,375,111"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a6cbb7efc0329d7f86455f62b1957a644" title="Returns the default mouse curve for this JoyButton type. Can be overwritten by subclasses." alt="" coords="453,125,659,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="375,122,440,129,439,135,374,128"/>
+</map>

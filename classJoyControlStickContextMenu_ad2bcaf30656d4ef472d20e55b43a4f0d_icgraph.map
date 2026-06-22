@@ -1,0 +1,9 @@
+<map id="JoyControlStickContextMenu::getHelperLocal" name="JoyControlStickContextMenu::getHelperLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="525,37,733,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStickContextMenu.html#a700f7fb3baa7aebe89b43a3daa01937e" title=" " alt="" coords="261,5,477,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,46,477,41,478,36,512,40"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickContextMenu.html#a00fe5d89b13fa5116b5cadd7480e8d93" title=" " alt="" coords="265,69,473,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="512,74,474,79,473,74,511,69"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickContextMenu.html#a0290b608bf0fd639af32767a20a4b7a8" title=" " alt="" coords="5,69,213,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,92,214,92,214,87,252,87"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="X11Extras::getApplicationPid" name="X11Extras::getApplicationPid">
+<area shape="rect" id="Node000001" title="Check window and any parents for the window property &quot;_NET_WM_PID&quot;." alt="" coords="659,45,869,70"/>
+<area shape="rect" id="Node000002" href="$classCapturedWindowInfoDialog.html#afadb9b4bbaec10e076a5ab94495194c6" title=" " alt="" coords="403,5,611,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,46,611,41,611,36,649,40"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileWatcher.html#a9192562fc92f52545e3c0fe663026f95" title=" " alt="" coords="433,69,580,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="648,74,581,83,580,78,648,69"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileWatcher.html#ae6ec8b944a048017f3e9958525ccfb62" title=" " alt="" coords="208,69,355,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="419,92,355,92,355,87,419,87"/>
+<area shape="rect" id="Node000005" href="$classAutoProfileWatcher.html#a6c9832eb02480c6909f49cbb05d5113c" title=" " alt="" coords="5,69,160,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,92,160,92,160,87,194,87"/>
+</map>

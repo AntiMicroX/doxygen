@@ -1,0 +1,9 @@
+<map id="MouseDPadSettingsDialog::calculateReleaseSpringRadius" name="MouseDPadSettingsDialog::calculateReleaseSpringRadius">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,232,67"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a89fe10b4ca2c7ecddcb372f659fc1dcb" title=" " alt="" coords="280,27,475,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,45,266,45,266,50,232,50"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a5f5921607d183f4f221f3a4f97249d8e" title=" " alt="" coords="523,5,745,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,34,509,30,510,35,475,39"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a60ecfef194078a1d77b4bf7a5e187cbf" title=" " alt="" coords="539,55,729,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,55,526,61,525,66,474,61"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="JoyAccelerometerSensor::reset" name="JoyAccelerometerSensor::reset">
+<area shape="rect" id="Node000001" title="Resets internal variables back to default." alt="" coords="5,23,187,63"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="419,5,577,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,22,234,15,322,11,405,11,405,17,322,16,235,21,187,27"/>
+<area shape="rect" id="Node000003" href="$classPT1Filter.html#a674d30fb88a821087c6e056313177432" title="Resets the filter state to default." alt="" coords="238,31,358,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,41,224,41,224,46,187,46"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#aaad088863aaa04d9529cb1abcd466c6b" title="Resets internal variables back to default." alt="" coords="235,80,361,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,61,233,74,231,79,178,66"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="332,77,450,33,452,38,334,82"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a6a551421242cfdec065b80b7270f26ab" title="Reset all the properties of the sensor direction buttons." alt="" coords="409,80,587,105"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="362,90,396,90,396,95,362,95"/>
+</map>

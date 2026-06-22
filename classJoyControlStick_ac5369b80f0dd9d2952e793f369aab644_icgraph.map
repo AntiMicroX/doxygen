@@ -1,0 +1,7 @@
+<map id="JoyControlStick::setButtonsMouseCurve" name="JoyControlStick::setButtonsMouseCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="548,13,747,53"/>
+<area shape="rect" id="Node000002" href="$classMouseControlStickSettingsDialog.html#aea29494759b67c6364dccff5732bcc82" title=" " alt="" coords="300,13,500,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,35,500,35,500,30,535,30"/>
+<area shape="rect" id="Node000003" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,5,252,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,35,252,35,252,30,286,30"/>
+</map>

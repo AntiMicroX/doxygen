@@ -1,0 +1,9 @@
+<map id="SetJoystick::getAxes" name="SetJoystick::getAxes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,70,416,95"/>
+<area shape="rect" id="Node000002" href="$classGameControllerSet.html#abd666978fe84da99c8338e8020051510" title=" " alt="" coords="32,5,187,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,69,186,47,187,42,274,64"/>
+<area shape="rect" id="Node000003" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="5,70,213,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,85,214,85,214,80,248,80"/>
+<area shape="rect" id="Node000004" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="8,119,211,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,101,170,122,169,117,265,96"/>
+</map>

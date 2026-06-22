@@ -1,0 +1,27 @@
+<map id="InputDeviceCalibration::setCalibration" name="InputDeviceCalibration::setCalibration">
+<area shape="rect" id="Node000001" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="1072,101,1243,141"/>
+<area shape="rect" id="Node000002" href="$classInputDeviceCalibration.html#addc1dec011a16cfe8fbae9ee6bd5507f" title="Reads all calibration values from the given XML stream into the internal calibration data storage." alt="" coords="831,5,1001,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1106,98,1023,60,989,48,991,43,1025,55,1108,93"/>
+<area shape="rect" id="Node000005" href="$classInputDeviceCalibration.html#a518884e58baecbba160e6693ea0b0e56" title="Updates the stored calibration for the given accelerometer from the parent controller." alt="" coords="808,69,1024,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1058,111,1024,106,1024,101,1059,106"/>
+<area shape="rect" id="Node000009" href="$classInputDeviceCalibration.html#a3d04bd49db756048a7a7178f45d2e1fb" title="Updates the stored calibration for the given gyroscope from the parent controller." alt="" coords="821,133,1011,173"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1059,137,1012,143,1011,138,1058,132"/>
+<area shape="rect" id="Node000011" href="$classInputDeviceCalibration.html#a2d055fdeb19863038e21803dadbac47c" title="Updates the stored calibration for the given stick from the parent controller." alt="" coords="831,197,1001,237"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1108,150,1025,188,991,200,989,195,1023,183,1106,145"/>
+<area shape="rect" id="Node000003" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="534,13,738,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,28,738,28,738,23,817,23"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="225,13,464,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="520,28,464,28,464,23,520,23"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a216ea5e55d506dd9ee24d226e365406e" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="512,69,760,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="794,92,760,92,760,87,794,87"/>
+<area shape="rect" id="Node000007" href="$classCalibration.html#a61d733b70d5fd8a60c8f98e50469ed0e" title="Save calibration values into the device object." alt="" coords="252,141,437,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="532,115,404,143,403,138,530,110"/>
+<area shape="rect" id="Node000008" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,141,177,166"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="238,156,178,156,178,151,238,151"/>
+<area shape="rect" id="Node000010" href="$classInputDevice.html#a5afca28cfa26229bfaff2d1efa176c94" title="Updates stored calibration for this controller and applies calibration to the specified gyroscope in ..." alt="" coords="525,133,747,173"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="807,156,748,156,748,151,807,151"/>
+<area shape="poly" id="edge10_Node000010_Node000007" title=" " alt="" coords="511,156,438,156,438,151,511,151"/>
+<area shape="rect" id="Node000012" href="$classInputDevice.html#af28d7eb0a83c9ed3bca11e9218c12517" title="Updates stored calibration for this controller and applies calibration to the specified stick in all ..." alt="" coords="543,197,729,237"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="817,220,729,220,729,215,817,215"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="530,197,403,169,404,163,532,192"/>
+</map>

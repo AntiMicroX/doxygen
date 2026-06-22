@@ -1,0 +1,12 @@
+<map id="AdvanceButtonDialog::appendBlankKeyGrabber" name="AdvanceButtonDialog::appendBlankKeyGrabber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,196,139"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#ab72e06536fc36f403249d7f48a925a82" title=" " alt="" coords="244,69,412,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,104,230,99,231,105,197,109"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="460,134,648,159"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="197,122,447,137,446,143,196,127"/>
+<area shape="rect" id="Node000003" href="$classSimpleKeyGrabberButton.html#a365ee8b3c43a1499e0fd5cda58d855c1" title=" " alt="" coords="461,5,647,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,67,469,47,470,52,400,72"/>
+<area shape="rect" id="Node000004" href="$classSimpleKeyGrabberButton.html#a25cefc81223387f0bfd2183627109ff8" title=" " alt="" coords="461,69,647,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,87,447,87,447,92,412,92"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,107,491,128,489,133,407,112"/>
+</map>

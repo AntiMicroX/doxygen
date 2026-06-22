@@ -1,0 +1,9 @@
+<map id="InputDevice::stickButtonDownEvent" name="InputDevice::stickButtonDownEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,188,63"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a19593f04a7f6996d9d7d6e82baf7853b" title=" " alt="" coords="236,31,460,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,41,222,41,222,46,188,46"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a4b46385874694fb65374d837d9847284" title=" " alt="" coords="511,5,665,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,29,497,25,498,30,460,34"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a7084000be8699a34315d91da8466ce71" title=" " alt="" coords="508,55,668,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="460,52,495,55,494,61,460,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MouseButtonSettingsDialog::updateExtraAccelerationCurve" name="MouseButtonSettingsDialog::updateExtraAccelerationCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,233,77"/>
+<area shape="rect" id="Node000002" href="$classMouseSettingsDialog.html#a6a10e7b70653efc2ddc5c467321aa9d9" title=" " alt="" coords="288,5,503,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,41,274,37,275,42,234,47"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a9c9b250fd48631ca1632a9ad8562c040" title=" " alt="" coords="281,69,509,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,68,268,72,267,77,233,73"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="557,77,760,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="509,87,543,87,543,92,509,92"/>
+</map>

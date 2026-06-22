@@ -1,0 +1,16 @@
+<map id="WinSendInputEventHandler::sendTextEntryEvent" name="WinSendInputEventHandler::sendTextEntryEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,205,125"/>
+<area shape="rect" id="Node000002" href="$classQtKeyMapperBase.html#a5f8f3d468b761f286578334871bb4456" title="Get key information (virtual key + modifiers) for a character." alt="" coords="281,55,483,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,91,267,85,268,90,206,97"/>
+<area shape="rect" id="Node000004" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="281,5,483,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,82,197,61,253,41,290,31,291,36,254,46,199,66,150,87"/>
+<area shape="rect" id="Node000006" href="$classAntKeyMapper.html#a7096412c4b87d2314f90603cf49d6181" title=" " alt="" coords="273,120,491,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="206,112,259,118,259,123,205,117"/>
+<area shape="rect" id="Node000007" href="$classWinExtras.html#a0bfa711c1abe72486dfebc8ff6fe7f5a" title="Convert a virtual key into the corresponding keyboard scan code." alt="" coords="253,169,511,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,122,254,155,290,164,289,169,253,161,155,127"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="559,116,747,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,93,575,111,574,116,482,98"/>
+<area shape="rect" id="Node000005" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="563,5,742,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,15,550,15,550,21,483,21"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="452,167,510,155,578,142,579,147,511,161,453,172"/>
+</map>

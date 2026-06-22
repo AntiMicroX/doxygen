@@ -1,0 +1,15 @@
+<map id="JoyButtonStatusBox::JoyButtonStatusBox" name="JoyButtonStatusBox::JoyButtonStatusBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,138,164,178"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="250,5,389,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,136,147,88,177,62,211,41,236,30,238,35,213,46,180,67,150,92,104,139"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonStatusBox.html#ab23cbfc10e746e657b2d7c481b785f9c" title=" " alt="" coords="244,55,395,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,136,211,105,234,97,236,102,213,110,134,140"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a39c9ccaf641bb8bf50b29d4c4e04c165" title="Get a 1 indexed number of button." alt="" coords="212,120,427,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,147,198,143,199,148,165,152"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="225,169,413,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,163,212,168,212,174,164,169"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="245,219,394,244"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,176,213,203,246,213,245,218,211,209,134,181"/>
+<area shape="rect" id="Node000007" href="$classJoyButtonStatusBox.html#aaffb2ae6022f739808223995f27c8a9d" title=" " alt="" coords="244,269,395,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="109,176,155,215,213,253,232,262,230,267,211,258,152,219,105,180"/>
+</map>

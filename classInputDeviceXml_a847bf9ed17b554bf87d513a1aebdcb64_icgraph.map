@@ -1,0 +1,5 @@
+<map id="InputDeviceXml::readConfig" name="InputDeviceXml::readConfig">
+<area shape="rect" id="Node000001" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="292,5,496,31"/>
+<area shape="rect" id="Node000002" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="5,5,244,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,21,244,21,244,15,278,15"/>
+</map>

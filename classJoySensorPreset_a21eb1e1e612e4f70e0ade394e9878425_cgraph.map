@@ -1,0 +1,11 @@
+<map id="JoySensorPreset::setSensorPreset" name="JoySensorPreset::setSensorPreset">
+<area shape="rect" id="Node000001" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="5,47,204,87"/>
+<area shape="rect" id="Node000002" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="252,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,45,274,31,275,36,205,50"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="259,55,447,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,65,245,65,245,70,204,70"/>
+<area shape="rect" id="Node000005" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="259,105,446,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,85,253,99,252,104,191,90"/>
+<area shape="rect" id="Node000003" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="501,5,680,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,15,487,15,487,21,453,21"/>
+</map>

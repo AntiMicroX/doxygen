@@ -1,0 +1,20 @@
+<map id="AdvanceStickAssignmentDialog::openQuickAssignDialogStick2" name="AdvanceStickAssignmentDialog::openQuickAssignDialogStick2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,235,165"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#abc686c5ea33ed35e474c75348fda188f" title=" " alt="" coords="329,5,448,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,122,209,85,282,48,323,32,325,37,284,52,212,90,153,127"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="551,70,741,110"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,122,224,105,282,91,348,84,414,80,537,80,537,86,415,85,348,89,283,97,226,110,173,127"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="303,107,474,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="235,131,289,126,290,131,235,137"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a4c662c7a0415e247266e6b205d064763" title=" " alt="" coords="283,156,495,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="235,152,269,155,269,161,235,158"/>
+<area shape="rect" id="Node000008" href="$classJoyAxis.html#a9ceda991c13da3a99868acc436ed20f3" title=" " alt="" coords="297,205,481,231"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="184,162,283,191,316,200,315,205,282,197,182,167"/>
+<area shape="rect" id="Node000009" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="295,255,483,280"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="150,163,210,203,284,241,305,248,303,253,282,246,207,207,147,167"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="797,77,1012,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="742,87,784,87,784,93,742,93"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="451,153,494,142,581,112,583,117,495,147,452,159"/>
+<area shape="rect" id="Node000007" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="543,156,749,181"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="495,166,529,166,529,171,495,171"/>
+</map>

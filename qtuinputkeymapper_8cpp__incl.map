@@ -1,0 +1,21 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/qtuinputkeymapper.cpp" name="/home/runner/work/doxygen/antimicrox/src/qtuinputkeymapper.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,5,477,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,108,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,48,112,92,110,87,271,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,93,243,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,48,224,89,221,84,302,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="267,93,329,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="332,47,313,82,308,80,327,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="353,93,408,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="352,44,370,80,366,82,347,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="432,93,535,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="375,43,451,84,449,89,373,48"/>
+<area shape="rect" id="Node000007" href="$qtuinputkeymapper_8h.html" title=" " alt="" coords="559,93,719,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,43,583,87,582,92,411,48"/>
+<area shape="rect" id="Node000008" href="$qtkeymapperbase_8h.html" title=" " alt="" coords="564,167,715,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="642,119,642,153,637,153,637,119"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="560,240,625,265"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="634,194,610,230,606,227,629,191"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="650,240,725,265"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="649,191,674,227,670,230,645,194"/>
+</map>

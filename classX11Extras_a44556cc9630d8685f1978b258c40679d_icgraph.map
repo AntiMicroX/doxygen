@@ -1,0 +1,25 @@
+<map id="X11Extras::windowHasProperty" name="X11Extras::windowHasProperty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="927,130,1153,155"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a5ca91422edbd69ea7189538dca43f2b1" title="Check window and any parents for the window property &quot;_NET_WM_PID&quot;." alt="" coords="665,77,875,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="961,130,834,105,836,99,962,125"/>
+<area shape="rect" id="Node000007" href="$classX11Extras.html#ac4d3c4697880b6d792761b422cfdf5ed" title=" " alt="" coords="671,130,869,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="913,145,870,145,870,140,913,140"/>
+<area shape="rect" id="Node000008" href="$classX11Extras.html#addc3448425326be8bcd2b0138abe643a" title="Go through a window&#39;s properties and search for an Atom from a defined list. If an Atom is found in a..." alt="" coords="661,209,879,234"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="983,162,815,211,814,206,981,157"/>
+<area shape="rect" id="Node000003" href="$classCapturedWindowInfoDialog.html#afadb9b4bbaec10e076a5ab94495194c6" title=" " alt="" coords="404,69,612,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="651,92,612,92,612,87,651,87"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileWatcher.html#a9192562fc92f52545e3c0fe663026f95" title=" " alt="" coords="435,5,581,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="703,76,581,46,582,41,704,71"/>
+<area shape="rect" id="Node000005" href="$classAutoProfileWatcher.html#ae6ec8b944a048017f3e9958525ccfb62" title=" " alt="" coords="208,127,355,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,51,404,60,350,94,307,128,303,124,347,89,401,55,421,46"/>
+<area shape="rect" id="Node000006" href="$classAutoProfileWatcher.html#a6c9832eb02480c6909f49cbb05d5113c" title=" " alt="" coords="5,127,160,167"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="194,149,160,149,160,144,194,144"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="693,130,606,112,607,107,694,125"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="657,146,355,149,355,143,657,141"/>
+<area shape="rect" id="Node000009" href="$classX11Extras.html#ac6c0762b3f82eff9529245369c0899fe" title="Find the proper client window within a hierarchy. This check is needed in some environments where the..." alt="" coords="403,209,613,234"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="648,224,614,224,614,219,648,219"/>
+<area shape="rect" id="Node000010" href="$classX11Extras.html#a0e404fe7dacdcebf5b40a0cc7095f3ba" title=" " alt="" coords="409,258,607,283"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="689,239,577,261,576,255,688,234"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="549,199,538,191,508,187,484,189,471,194,468,200,475,207,471,210,463,200,467,190,483,184,508,182,540,186,552,195"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="418,256,401,249,371,231,343,210,299,169,303,165,346,206,374,227,404,244,420,251"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="JoyAxisXml::readButtonConfig" name="JoyAxisXml::readButtonConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,223,31"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#a446e72a0f575c2d827d6c52afc39fab9" title=" " alt="" coords="271,5,449,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,15,257,15,257,21,223,21"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#ae9a3556242b984c81fc6945acafc5586" title=" " alt="" coords="497,5,708,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,24,484,24,484,30,449,29"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="497,12,463,12,463,6,497,6"/>
+</map>

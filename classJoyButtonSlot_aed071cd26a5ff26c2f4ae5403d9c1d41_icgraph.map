@@ -1,0 +1,11 @@
+<map id="JoyButtonSlot::setTextData" name="JoyButtonSlot::setTextData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,95,464,120"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonSlotXml.html#ae1a67e6f62ab1e8753d43416775b420a" title=" " alt="" coords="5,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,91,276,68,219,46,175,33,176,28,221,41,278,63,328,86"/>
+<area shape="rect" id="Node000003" href="$classSimpleKeyGrabberButton.html#a3ae9151e0acc2d7e07a03356d2f6be62" title=" " alt="" coords="19,55,206,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,96,206,90,206,84,255,91"/>
+<area shape="rect" id="Node000004" href="$classSimpleKeyGrabberButton.html#a7a3a4926db7e4657ae7dea0fdf7da8c0" title=" " alt="" coords="19,119,206,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,124,206,130,206,125,254,119"/>
+<area shape="rect" id="Node000005" href="$classSimpleKeyGrabberButton.html#a705250705121647cd8ee154e0ac5a532" title=" " alt="" coords="19,183,206,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="327,128,221,174,186,186,184,181,219,169,325,124"/>
+</map>

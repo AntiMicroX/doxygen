@@ -1,0 +1,15 @@
+<map id="InputDevice::reset" name="InputDevice::reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="807,31,948,56"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#a70fa1dbeac61db6cc29a96cdc57a4518" title=" " alt="" coords="544,5,759,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,37,759,33,759,27,793,31"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a767b4db5d307c9d851affed3c7e23a30" title="Obtain current joystick element values, create new SetJoystick objects, and then transfer most recent..." alt="" coords="553,55,749,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="793,55,750,60,749,54,793,50"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="292,25,496,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="539,57,496,52,497,47,540,52"/>
+<area shape="rect" id="Node000006" href="$classJoyTabWidgetHelper.html#aef94ae0812f28f43eb891ddc210c341e" title=" " alt="" coords="317,75,471,115"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="540,82,471,90,470,84,539,77"/>
+<area shape="rect" id="Node000005" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="5,25,244,51"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,41,244,41,244,35,278,35"/>
+<area shape="rect" id="Node000007" href="$classJoyTabWidgetHelper.html#acc5d7d51e925f84f9aa2936ce267f843" title=" " alt="" coords="33,75,216,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="304,98,216,98,216,93,304,93"/>
+</map>

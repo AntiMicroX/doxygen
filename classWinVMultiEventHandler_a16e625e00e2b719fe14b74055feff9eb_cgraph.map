@@ -1,0 +1,18 @@
+<map id="WinVMultiEventHandler::sendTextEntryEvent" name="WinVMultiEventHandler::sendTextEntryEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,183,125"/>
+<area shape="rect" id="Node000002" href="$classWinSendInputEventHandler.html#a5405605d8aa615257b64de1a07ae5c81" title=" " alt="" coords="231,85,431,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,102,217,102,217,107,183,107"/>
+<area shape="rect" id="Node000003" href="$classQtKeyMapperBase.html#a5f8f3d468b761f286578334871bb4456" title="Get key information (virtual key + modifiers) for a character." alt="" coords="507,55,708,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,91,493,85,493,90,431,97"/>
+<area shape="rect" id="Node000005" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="507,5,708,31"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="373,82,423,61,478,41,515,31,517,36,479,46,425,66,375,87"/>
+<area shape="rect" id="Node000007" href="$classAntKeyMapper.html#a7096412c4b87d2314f90603cf49d6181" title=" " alt="" coords="498,120,717,145"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="431,112,485,118,484,123,431,117"/>
+<area shape="rect" id="Node000008" href="$classWinExtras.html#a0bfa711c1abe72486dfebc8ff6fe7f5a" title="Convert a virtual key into the corresponding keyboard scan code." alt="" coords="479,169,736,195"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="382,122,479,155,515,164,514,169,478,161,380,127"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="784,116,972,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="709,93,800,111,799,116,708,98"/>
+<area shape="rect" id="Node000006" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="789,5,967,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="708,15,775,15,775,21,708,21"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="677,167,735,155,803,142,804,147,737,161,678,172"/>
+</map>

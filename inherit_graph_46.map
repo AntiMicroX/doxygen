@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,260,112,285"/>
+<area shape="rect" id="Node000001" href="$classFlashButtonWidget.html" title=" " alt="" coords="180,161,327,187"/>
+<area shape="poly" id="edge122_Node000000_Node000001" title=" " alt="" coords="82,248,117,221,159,196,189,184,191,189,161,200,120,225,86,253"/>
+<area shape="rect" id="Node000010" href="$classJoyButtonStatusBox.html" title=" " alt="" coords="178,211,329,236"/>
+<area shape="poly" id="edge131_Node000000_Node000010" title=" " alt="" coords="122,254,201,234,203,239,123,259"/>
+<area shape="rect" id="Node000011" href="$classSimpleKeyGrabberButton.html" title="Button widget used for detecting pressed buttons it is used mainly in advanced button mapping window ..." alt="" coords="160,260,347,285"/>
+<area shape="poly" id="edge132_Node000000_Node000011" title=" " alt="" coords="126,270,160,270,160,275,126,275"/>
+<area shape="rect" id="Node000012" href="$classVirtualKeyPushButton.html" title="PushButton representing keyboard button on VirtualKeyboardMouseWidget." alt="" coords="172,309,335,335"/>
+<area shape="poly" id="edge133_Node000000_Node000012" title=" " alt="" coords="123,286,203,307,201,312,122,291"/>
+<area shape="rect" id="Node000013" href="$classVirtualMousePushButton.html" title="PushButton representing mouse action in VirtualKeyboardMouseWidget." alt="" coords="162,359,345,384"/>
+<area shape="poly" id="edge134_Node000000_Node000013" title=" " alt="" coords="86,293,120,320,161,345,191,356,189,361,159,350,117,324,82,297"/>
+<area shape="rect" id="Node000002" href="$classDPadPushButton.html" title=" " alt="" coords="431,5,561,31"/>
+<area shape="poly" id="edge123_Node000001_Node000002" title=" " alt="" coords="271,149,322,94,356,64,393,40,430,26,432,31,396,44,359,69,326,97,275,152"/>
+<area shape="rect" id="Node000003" href="$classJoyAxisWidget.html" title=" " alt="" coords="438,55,554,80"/>
+<area shape="poly" id="edge124_Node000001_Node000003" title=" " alt="" coords="282,151,333,119,394,89,437,75,438,80,396,94,335,124,285,156"/>
+<area shape="rect" id="Node000004" href="$classJoyButtonWidget.html" title=" " alt="" coords="431,104,561,129"/>
+<area shape="poly" id="edge125_Node000001_Node000004" title=" " alt="" coords="320,156,441,127,442,132,322,161"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStickButtonPushButton.html" title=" " alt="" coords="399,154,593,194"/>
+<area shape="poly" id="edge127_Node000001_Node000006" title=" " alt="" coords="340,171,398,171,398,177,340,177"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStickPushButton.html" title=" " alt="" coords="399,219,593,244"/>
+<area shape="poly" id="edge128_Node000001_Node000007" title=" " alt="" coords="322,187,442,216,441,221,320,192"/>
+<area shape="rect" id="Node000008" href="$classJoySensorButtonPushButton.html" title="A direction button in the SensorPushButtonGroup." alt="" coords="395,268,597,293"/>
+<area shape="poly" id="edge129_Node000001_Node000008" title=" " alt="" coords="337,190,348,196,364,210,373,225,381,240,396,253,423,265,420,270,393,258,377,243,368,228,360,214,345,200,334,194"/>
+<area shape="rect" id="Node000009" href="$classJoySensorPushButton.html" title="The central button in a SensorPushButtonGroup." alt="" coords="416,317,576,343"/>
+<area shape="poly" id="edge130_Node000001_Node000009" title=" " alt="" coords="341,190,348,196,361,209,368,223,373,251,378,278,385,290,396,303,417,315,415,320,393,307,381,293,373,279,368,252,363,225,356,212,345,200,338,195"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadButtonWidget.html" title=" " alt="" coords="645,104,809,129"/>
+<area shape="poly" id="edge126_Node000004_Node000005" title=" " alt="" coords="575,114,645,114,645,119,575,119"/>
+</map>

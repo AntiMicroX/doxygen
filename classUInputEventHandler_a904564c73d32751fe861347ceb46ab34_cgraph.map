@@ -1,0 +1,7 @@
+<map id="UInputEventHandler::sendMouseSpringEvent" name="UInputEventHandler::sendMouseSpringEvent">
+<area shape="rect" id="Node000001" title="Do nothing by default. Useful for child classes to define behavior." alt="" coords="5,5,188,45"/>
+<area shape="rect" id="Node000002" href="$classUInputEventHandler.html#a73f8343b9072de4649b7c41316d0641a" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="236,5,401,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,222,23,222,28,188,28"/>
+<area shape="rect" id="Node000003" href="$classUInputEventHandler.html#aa04ce5a2e42124cf21a2872ee4511918" title="Write uinput event to selected file uinput file." alt="" coords="449,5,604,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,23,436,23,436,28,402,28"/>
+</map>

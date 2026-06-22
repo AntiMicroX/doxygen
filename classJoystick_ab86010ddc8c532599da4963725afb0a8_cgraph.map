@@ -1,0 +1,9 @@
+<map id="Joystick::getName" name="Joystick::getName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,147,56"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#af398dd46ce98825fe56b36e41a13db9b" title=" " alt="" coords="195,5,425,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,33,181,29,181,35,147,38"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="216,55,404,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,48,202,54,202,59,146,53"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a197e76d4113e8258e6637981830dd219" title=" " alt="" coords="473,5,675,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,15,459,15,459,21,426,21"/>
+</map>

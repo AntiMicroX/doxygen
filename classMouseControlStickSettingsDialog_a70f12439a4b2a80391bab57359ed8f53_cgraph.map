@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::updateWheelSpeedVerticalSpeed" name="MouseControlStickSettingsDialog::updateWheelSpeedVerticalSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,292,45"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ab23cf48deb604057480aea60e6bd4db6" title=" " alt="" coords="340,5,539,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,23,326,23,326,28,292,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a7f76ad6c68868cd464b66b5963689332" title=" " alt="" coords="587,13,781,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="539,23,573,23,573,28,539,28"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="829,13,1032,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="781,23,816,23,816,28,781,28"/>
+</map>

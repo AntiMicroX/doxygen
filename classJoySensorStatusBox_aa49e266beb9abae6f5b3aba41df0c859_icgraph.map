@@ -1,0 +1,5 @@
+<map id="JoySensorStatusBox::drawArtificialHorizon" name="JoySensorStatusBox::drawArtificialHorizon">
+<area shape="rect" id="Node000001" title="draws the artificial horizon instrument on the screen" alt="" coords="205,5,372,45"/>
+<area shape="rect" id="Node000002" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="5,5,157,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,28,157,28,157,23,192,23"/>
+</map>

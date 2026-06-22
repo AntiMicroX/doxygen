@@ -1,0 +1,9 @@
+<map id="GameControllerTrigger::getHapticTrigger" name="GameControllerTrigger::getHapticTrigger">
+<area shape="rect" id="Node000001" title="Recalculates haptic trigger effect positions, e.g. after dead zone change, and returns the current Ha..." alt="" coords="5,47,175,87"/>
+<area shape="rect" id="Node000002" href="$classHapticTriggerPs5.html#a4301d6c8aa9ce88e4ff212208378fddb" title="Returns the current haptic feedback effect mode." alt="" coords="223,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,47,250,31,251,36,176,52"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="231,55,419,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,65,217,65,217,70,175,70"/>
+<area shape="rect" id="Node000004" href="$classHapticTriggerPs5.html#a738cbecf339d3c69659cb08284073c00" title="Changes the haptic feedback effect." alt="" coords="245,105,404,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,85,232,99,231,105,172,90"/>
+</map>

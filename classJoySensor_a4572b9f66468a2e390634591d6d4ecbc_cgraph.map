@@ -1,0 +1,9 @@
+<map id="JoySensor::setDeadZone" name="JoySensor::setDeadZone">
+<area shape="rect" id="Node000001" title="Sets the dead zone of the sensor to the given value." alt="" coords="5,55,187,80"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab66945d60b4154aa02724d923020286f" title=" " alt="" coords="235,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,52,265,31,266,36,161,57"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="264,55,421,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,65,250,65,250,70,187,70"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#ac4f43a2f0af72eba99aeafb86c67be29" title=" " alt="" coords="241,104,445,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,77,266,99,265,104,160,83"/>
+</map>

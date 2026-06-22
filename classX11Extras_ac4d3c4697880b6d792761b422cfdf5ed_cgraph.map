@@ -1,0 +1,13 @@
+<map id="X11Extras::getWindowTitle" name="X11Extras::getWindowTitle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,204,81"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="527,5,669,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,53,187,32,252,15,320,7,389,4,513,8,512,13,389,9,320,13,252,21,189,37,135,58"/>
+<area shape="rect" id="Node000003" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="548,80,648,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,79,189,99,253,115,315,124,365,125,478,115,535,106,536,111,479,121,365,131,315,129,251,121,187,104,133,84"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="271,80,459,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,75,258,80,257,85,204,80"/>
+<area shape="rect" id="Node000005" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="252,31,479,56"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="204,56,238,53,239,58,205,62"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="479,28,513,25,513,30,479,34"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="427,53,479,65,535,77,534,82,478,70,425,59"/>
+</map>

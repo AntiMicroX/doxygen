@@ -1,0 +1,11 @@
+<map id="MouseControlStickSettingsDialogHelper::updateStartMultiPercentage" name="MouseControlStickSettingsDialogHelper::updateStartMultiPercentage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,229,85"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a237ff228bac1d97a01fdf7351878d4c6" title=" " alt="" coords="277,37,476,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,55,263,55,263,60,229,60"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="524,5,743,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,42,510,38,511,43,477,48"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a2fce9ef1fe8b843d32a01faced10e7e9" title=" " alt="" coords="544,69,723,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="477,67,530,74,530,79,476,72"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="791,77,993,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="723,87,777,87,777,92,723,92"/>
+</map>

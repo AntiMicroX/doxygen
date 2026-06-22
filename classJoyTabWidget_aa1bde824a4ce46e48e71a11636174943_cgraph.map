@@ -1,0 +1,17 @@
+<map id="JoyTabWidget::saveDeviceSettings" name="JoyTabWidget::saveDeviceSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,200,77"/>
+<area shape="rect" id="Node000002" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="543,5,689,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,49,530,28,530,33,200,54"/>
+<area shape="rect" id="Node000003" href="$classJoyTabWidget.html#afdc2166911c519519a473818504da844" title=" " alt="" coords="248,70,451,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,65,235,68,234,74,200,70"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="409,67,529,41,531,46,410,73"/>
+<area shape="rect" id="Node000004" href="$namespacePadderCommon.html#aaa09739d2df84421a5a3467a06ce941c" title="Returns the &quot;human&#45;readable&quot; name of the given profile." alt="" coords="499,70,733,95"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="451,80,485,80,485,85,451,85"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="798,122,991,147"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="421,93,499,104,648,118,785,127,784,132,648,123,498,109,420,98"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a894f087cdfe06136fade922ff053d522" title=" " alt="" coords="503,171,729,197"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="376,93,432,121,500,149,548,165,547,170,498,155,430,126,374,98"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="688,169,808,147,809,152,689,174"/>
+<area shape="rect" id="Node000007" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="781,171,1008,197"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="729,181,768,181,768,187,729,187"/>
+</map>

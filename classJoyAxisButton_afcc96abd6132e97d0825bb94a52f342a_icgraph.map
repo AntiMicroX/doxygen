@@ -1,0 +1,7 @@
+<map id="JoyAxisButton::getXmlName" name="JoyAxisButton::getXmlName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="475,5,681,31"/>
+<area shape="rect" id="Node000002" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="252,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,21,427,21,427,15,461,15"/>
+<area shape="rect" id="Node000003" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,5,204,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,21,204,21,204,15,238,15"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="JoyControlStickButton::getDistanceFromDeadZone" name="JoyControlStickButton::getDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="5,117,213,157"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a5b043c1100b4d83df1858b028820e70c" title="Used to calculate the distance value that should be used for keyboard events and distance slots." alt="" coords="261,117,449,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,135,248,135,248,140,214,140"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="507,29,695,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,115,496,79,519,71,521,76,498,84,405,120"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="507,117,695,157"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="449,135,493,135,493,140,449,140"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#af9c934203a22e91c53d45a2a8f356248" title="Get current radial distance of the stick position past the assigned dead zone." alt="" coords="497,205,704,245"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="413,155,532,198,530,203,411,160"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="555,30,552,20,560,10,576,5,601,3,629,6,645,13,642,18,628,11,601,8,577,10,563,15,557,21,560,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="555,118,552,108,560,98,576,93,601,91,629,94,645,101,642,106,628,99,601,96,577,98,563,103,557,109,560,116"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="555,206,552,196,560,186,576,181,601,179,629,182,645,189,642,194,628,187,601,184,577,186,563,191,557,197,560,204"/>
+</map>

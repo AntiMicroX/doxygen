@@ -1,0 +1,59 @@
+<map id="JoyControlStick::stickNameChanged" name="JoyControlStick::stickNameChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1455,155,1653,195"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a65a723b0018e2f387b44e7a0acfffc5b" title=" " alt="" coords="921,69,1126,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1531,144,1509,114,1480,81,1445,51,1406,28,1357,13,1307,8,1256,11,1206,19,1116,45,1051,71,1049,66,1114,39,1205,14,1255,5,1307,3,1358,8,1408,23,1448,47,1484,78,1513,111,1535,141"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="318,284,514,324"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1441,190,515,296,514,290,1440,185"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStickPushButton.html#a84c9c0ebc8bab68996df6619a4969168" title=" " alt="" coords="1195,125,1398,165"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1441,165,1398,160,1398,154,1441,159"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#a56ee7ab2c8907e4b11c44f0db1986e27" title=" " alt="" coords="1202,61,1391,101"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1495,152,1406,116,1369,104,1371,99,1408,111,1497,147"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#ab3439f1f30e92a8c0431ee824cc58e71" title=" " alt="" coords="925,148,1122,188"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1441,180,1407,180,1297,181,1187,180,1122,177,1122,172,1187,175,1297,176,1407,175,1441,174"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#acaa44dff5cfea5fa898837b603f603c0" title=" " alt="" coords="1187,377,1407,402"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1520,206,1315,379,1312,375,1517,202"/>
+<area shape="rect" id="Node000003" href="$classGameControllerSet.html#afbbd676e52346412a864cdd084b5c9ce" title=" " alt="" coords="648,91,803,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="907,96,803,106,803,101,906,90"/>
+<area shape="rect" id="Node000004" href="$classGameControllerSet.html#a40b9c9ac22d6fe71c15380dcbca7eb80" title=" " alt="" coords="339,91,493,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="634,113,494,113,494,108,634,108"/>
+<area shape="rect" id="Node000005" href="$classGameControllerSet.html#a9d686fa2df459f7d157d60e05707f712" title=" " alt="" coords="46,59,201,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,103,201,90,201,85,325,98"/>
+<area shape="rect" id="Node000006" href="$classGameControllerSet.html#a69d798af242a07017bc0f2e2d0d8a830" title=" " alt="" coords="46,123,201,163"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="325,123,201,137,201,132,324,118"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="1188,84,1126,84,1126,79,1188,79"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="1340,50,1325,43,1297,40,1272,42,1257,47,1251,53,1254,60,1249,62,1246,52,1254,42,1271,37,1297,35,1326,38,1343,45"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="911,149,803,128,804,123,912,144"/>
+<area shape="poly" id="edge23_Node000011_Node000007" title=" " alt="" coords="1203,377,1043,354,860,332,676,318,514,310,514,305,676,313,860,327,1044,349,1204,372"/>
+<area shape="rect" id="Node000012" href="$classJoyControlStick.html#a15845226575e7d1c81bf119653c86a3d" title=" " alt="" coords="908,463,1139,489"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1243,409,1065,466,1064,461,1242,404"/>
+<area shape="rect" id="Node000020" href="$classInputDevice.html#a9864bb0b4f6e9ac1001306d23eec455f" title=" " alt="" coords="924,719,1123,745"/>
+<area shape="poly" id="edge24_Node000011_Node000020" title=" " alt="" coords="1279,415,1037,721,1033,717,1275,411"/>
+<area shape="rect" id="Node000013" href="$classJoyControlStickPushButton.html#a0059ca289c5b44dd334330d2b7db5b79" title="Generate the string that will be displayed on the button." alt="" coords="628,648,823,688"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1007,502,948,570,907,607,861,638,824,654,822,649,859,634,904,603,944,566,1003,498"/>
+<area shape="rect" id="Node000014" href="$classJoyControlStick.html#ab76489911cda31a32731a0efce3b10dd" title=" " alt="" coords="631,342,820,367"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="992,457,933,419,859,383,816,370,818,365,861,378,935,414,995,453"/>
+<area shape="rect" id="Node000015" href="$classJoyControlStickButton.html#a1d8721f560ffcdee6bb8cf331b43ec50" title=" " alt="" coords="643,392,807,432"/>
+<area shape="poly" id="edge17_Node000012_Node000015" title=" " alt="" coords="949,463,807,432,808,427,950,458"/>
+<area shape="rect" id="Node000016" href="$classJoyControlStickModifierButton.html#a2666f594ac56d2c9d06f74b2b07a23e4" title=" " alt="" coords="617,456,834,496"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="894,479,834,479,834,473,894,473"/>
+<area shape="rect" id="Node000017" href="$classJoyControlStickEditDialog.html#af7427cbc037e7ff1361237c910ad708b" title=" " alt="" coords="612,520,839,560"/>
+<area shape="poly" id="edge19_Node000012_Node000017" title=" " alt="" coords="950,494,820,523,818,517,949,489"/>
+<area shape="rect" id="Node000018" href="$classMouseControlStickSettingsDialog.html#a8ff60a784173b38c871484c83b670571" title=" " alt="" coords="591,584,860,624"/>
+<area shape="poly" id="edge21_Node000012_Node000018" title=" " alt="" coords="995,499,935,537,861,575,826,587,824,582,859,570,932,533,992,495"/>
+<area shape="poly" id="edge20_Node000017_Node000007" title=" " alt="" coords="601,517,589,510,534,467,487,416,451,366,426,326,431,323,455,363,492,412,538,463,592,506,604,512"/>
+<area shape="rect" id="Node000019" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="293,577,539,631"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="577,607,539,607,539,601,577,601"/>
+<area shape="rect" id="Node000021" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="623,777,827,802"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="945,750,861,767,795,779,794,774,859,761,944,745"/>
+<area shape="rect" id="Node000023" href="$classInputDevice.html#a839d9cdc5886588a012275b477d860fa" title=" " alt="" coords="622,712,829,752"/>
+<area shape="poly" id="edge27_Node000020_Node000023" title=" " alt="" coords="910,744,829,743,829,738,910,738"/>
+<area shape="rect" id="Node000022" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="297,777,535,802"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="610,792,536,792,536,787,610,787"/>
+<area shape="poly" id="edge31_Node000023_Node000020" title=" " alt="" coords="843,721,924,721,924,726,843,726"/>
+<area shape="rect" id="Node000024" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,719,543,745"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="608,735,543,735,543,729,608,729"/>
+<area shape="rect" id="Node000025" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,694,241,719"/>
+<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="276,723,241,720,242,714,276,717"/>
+<area shape="rect" id="Node000026" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,743,189,769"/>
+<area shape="poly" id="edge30_Node000024_Node000026" title=" " alt="" coords="276,746,190,753,189,748,276,741"/>
+</map>

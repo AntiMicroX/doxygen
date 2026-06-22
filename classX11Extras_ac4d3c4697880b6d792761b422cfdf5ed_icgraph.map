@@ -1,0 +1,9 @@
+<map id="X11Extras::getWindowTitle" name="X11Extras::getWindowTitle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,45,663,70"/>
+<area shape="rect" id="Node000002" href="$classCapturedWindowInfoDialog.html#afadb9b4bbaec10e076a5ab94495194c6" title=" " alt="" coords="208,5,416,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,46,416,41,417,36,451,40"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileWatcher.html#ae6ec8b944a048017f3e9958525ccfb62" title=" " alt="" coords="239,69,385,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="451,74,386,83,385,77,450,69"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileWatcher.html#a6c9832eb02480c6909f49cbb05d5113c" title=" " alt="" coords="5,69,160,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,92,160,92,160,87,225,87"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="JoyButton::checkForSetChange" name="JoyButton::checkForSetChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,227,56"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#acefe6775a1dc0b34918c38526943ecba" title=" " alt="" coords="275,23,448,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,41,261,41,261,46,227,46"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="533,5,683,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,32,519,24,520,30,448,37"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1cd3128bd84cb7f48bd93eb1cdf08f6f" title=" " alt="" coords="496,55,720,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="448,49,482,52,482,58,448,54"/>
+</map>

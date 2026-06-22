@@ -1,0 +1,31 @@
+<map id="XMLConfigMigration::migrate" name="XMLConfigMigration::migrate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,159,109"/>
+<area shape="rect" id="Node000002" href="$classXMLConfigMigration.html#a4f6957aed78af4d221496b9de500fcc9" title=" " alt="" coords="216,5,369,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,67,213,47,214,52,149,72"/>
+<area shape="rect" id="Node000003" href="$classXMLConfigMigration.html#afd3b0b54eb5bfed80e9b92dfd1ace18c" title=" " alt="" coords="216,69,369,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,87,202,87,202,92,159,92"/>
+<area shape="rect" id="Node000004" href="$classXMLConfigMigration.html#a422d184461a5aeddae8214bbd9ac99f9" title=" " alt="" coords="207,133,379,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,107,214,127,213,132,148,112"/>
+<area shape="rect" id="Node000005" href="$classBaseEventHandler.html#a9a014e472ec57408d16b8b5eed964e90" title=" " alt="" coords="427,34,656,59"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="356,131,377,119,391,107,400,94,409,81,425,68,439,62,441,67,428,73,413,84,404,97,395,110,380,124,358,136"/>
+<area shape="rect" id="Node000006" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="441,83,642,109"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="375,131,426,119,468,109,470,114,427,124,377,136"/>
+<area shape="rect" id="Node000008" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="463,133,620,173"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="379,151,448,151,448,156,379,156"/>
+<area shape="rect" id="Node000012" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="447,198,635,223"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="377,171,427,183,470,192,468,198,426,188,375,176"/>
+<area shape="rect" id="Node000013" href="$event_8cpp.html#a720e476fc47628b6581dba3eb6ce9657" title=" " alt="" coords="443,262,639,287"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="323,171,371,202,428,234,483,255,481,260,426,238,368,207,320,176"/>
+<area shape="rect" id="Node000007" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="708,19,887,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="602,81,655,68,703,55,736,46,737,51,705,60,657,73,603,86"/>
+<area shape="rect" id="Node000009" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="704,69,891,109"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="619,131,703,110,704,115,621,136"/>
+<area shape="rect" id="Node000010" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="719,133,876,173"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="620,151,705,151,705,156,620,156"/>
+<area shape="rect" id="Node000011" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="719,197,876,237"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="621,170,706,192,705,197,619,175"/>
+<area shape="rect" id="Node000014" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="726,262,869,287"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="640,272,713,272,713,277,640,277"/>
+<area shape="rect" id="Node000015" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="711,311,883,337"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="608,285,718,306,717,311,607,290"/>
+</map>

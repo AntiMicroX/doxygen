@@ -1,0 +1,20 @@
+<map id="InputDaemon::deviceAdded" name="InputDaemon::deviceAdded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="992,56,1195,81"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#a5dceec80700a55f0e82e35d44d6d171a" title=" " alt="" coords="723,5,943,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1013,56,898,33,899,28,1014,51"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="302,93,357,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="979,74,734,83,447,98,357,106,357,101,446,93,734,78,978,69"/>
+<area shape="rect" id="Node000007" href="$classInputDaemon.html#a7fa47112e0cac297ba679920c594a838" title=" " alt="" coords="721,131,944,156"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1036,88,879,133,877,128,1034,83"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="447,5,673,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="709,21,673,21,673,15,709,15"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,25,399,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,32,399,35,399,29,432,26"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,132,212,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,59,137,134,135,130,288,54"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="754,161,674,171,549,176,425,174,212,159,213,154,425,169,549,171,673,166,753,156"/>
+<area shape="rect" id="Node000008" href="$classInputDaemon.html#a7dbb5a72a490efb5b6f881528f1186ba" title=" " alt="" coords="478,131,642,156"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="707,146,642,146,642,141,707,141"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="467,131,356,113,357,108,468,126"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="601,122,590,113,560,109,535,111,522,116,520,122,527,129,523,132,515,122,519,112,534,106,560,104,592,108,605,117"/>
+</map>

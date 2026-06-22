@@ -1,0 +1,7 @@
+<map id="GameController::getName" name="GameController::getName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,199,31"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#af398dd46ce98825fe56b36e41a13db9b" title=" " alt="" coords="247,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,15,233,15,233,21,199,21"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a197e76d4113e8258e6637981830dd219" title=" " alt="" coords="525,5,727,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,15,511,15,511,21,478,21"/>
+</map>

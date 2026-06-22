@@ -1,0 +1,9 @@
+<map id="MouseAxisSettingsDialog::calculateAccelExtraDuration" name="MouseAxisSettingsDialog::calculateAccelExtraDuration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,220,103"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#adecd613014ea43710adc26c9c32ba2ab" title=" " alt="" coords="268,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,60,259,46,260,51,200,65"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="269,70,449,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,80,256,80,256,85,220,85"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="271,119,448,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,100,283,114,281,119,213,105"/>
+</map>

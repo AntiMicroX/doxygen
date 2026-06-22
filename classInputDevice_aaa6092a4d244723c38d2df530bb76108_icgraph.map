@@ -1,0 +1,17 @@
+<map id="InputDevice::getAxesstatesLocal" name="InputDevice::getAxesstatesLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="788,27,988,67"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#ac34e93b3e44b08cffb86551e15bedfb4" title=" " alt="" coords="546,9,738,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="774,38,738,35,739,29,774,33"/>
+<area shape="rect" id="Node000007" href="$classInputDevice.html#a767b4db5d307c9d851affed3c7e23a30" title="Obtain current joystick element values, create new SetJoystick objects, and then transfer most recent..." alt="" coords="544,59,740,84"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="775,61,741,64,740,59,774,56"/>
+<area shape="rect" id="Node000003" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="292,5,496,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="532,23,496,22,496,17,532,18"/>
+<area shape="rect" id="Node000005" href="$classJoyTabWidgetHelper.html#aef94ae0812f28f43eb891ddc210c341e" title=" " alt="" coords="317,55,471,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="569,40,471,62,470,56,568,35"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="5,5,244,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,21,244,21,244,15,278,15"/>
+<area shape="rect" id="Node000006" href="$classJoyTabWidgetHelper.html#acc5d7d51e925f84f9aa2936ce267f843" title=" " alt="" coords="33,55,216,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,78,216,78,216,73,304,73"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="568,58,453,33,454,28,569,53"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="530,76,471,77,471,71,530,70"/>
+</map>

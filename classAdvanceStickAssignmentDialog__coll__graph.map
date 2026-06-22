@@ -1,0 +1,18 @@
+<map id="AdvanceStickAssignmentDialog" name="AdvanceStickAssignmentDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,344,235,369"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,256,136,281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,294,120,343,114,344,102,295"/>
+<area shape="rect" id="Node000003" href="$classJoystick.html" title="General input device (which is not a typical gamepad like steering wheels, flight sticks etc...." alt="" coords="161,256,234,281"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,294,133,345,129,342,176,290"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="195,168,295,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,206,221,219,204,257,199,255,216,216,225,203"/>
+<area shape="rect" id="Node000006" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="259,256,429,281"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="240,207,239,220,244,231,257,244,275,254,272,258,254,248,239,233,234,220,234,207"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="187,80,261,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,118,245,167,240,168,228,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="331,245,313,219,295,206,275,196,278,191,298,201,317,215,336,242"/>
+<area shape="rect" id="Node000007" href="$classAntiMicroSettings.html" title=" " alt="" coords="286,80,423,105"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="331,116,262,170,259,166,327,112"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="312,5,397,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="357,45,357,80,352,80,352,45"/>
+</map>

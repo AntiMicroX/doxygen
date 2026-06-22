@@ -1,0 +1,15 @@
+<map id="MouseSettingsDialog" name="MouseSettingsDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,112,288,137"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html" title=" " alt="" coords="344,5,532,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,101,280,69,335,40,368,28,370,33,337,44,282,74,237,106"/>
+<area shape="rect" id="Node000004" href="$classMouseButtonSettingsDialog.html" title=" " alt="" coords="337,55,539,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,106,335,90,385,77,387,83,337,95,274,111"/>
+<area shape="rect" id="Node000005" href="$classMouseControlStickSettingsDialog.html" title=" " alt="" coords="339,105,537,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="302,122,339,122,339,127,302,127"/>
+<area shape="rect" id="Node000006" href="$classMouseDPadSettingsDialog.html" title=" " alt="" coords="341,169,535,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="274,138,337,154,387,167,385,172,335,159,273,143"/>
+<area shape="rect" id="Node000007" href="$classMouseSensorSettingsDialog.html" title="Mouse settings dialog specialized for sensors." alt="" coords="336,219,540,244"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="237,144,282,175,337,205,370,216,368,221,335,210,280,180,234,148"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,80,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,122,127,122,127,127,94,127"/>
+</map>

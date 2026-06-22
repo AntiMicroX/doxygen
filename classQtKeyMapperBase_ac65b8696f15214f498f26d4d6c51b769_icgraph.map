@@ -1,0 +1,5 @@
+<map id="QtKeyMapperBase::isModifier" name="QtKeyMapperBase::isModifier">
+<area shape="rect" id="Node000001" title="Check whether the given Qt key is a modifier key." alt="" coords="267,5,481,31"/>
+<area shape="rect" id="Node000002" href="$classAntKeyMapper.html#ad4f7ef0505913c9b78086bb4774f9082" title="Check if a given Qt key is treated as a modifier key." alt="" coords="5,5,219,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,21,219,21,219,15,253,15"/>
+</map>

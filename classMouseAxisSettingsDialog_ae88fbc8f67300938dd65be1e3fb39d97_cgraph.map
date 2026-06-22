@@ -1,0 +1,9 @@
+<map id="MouseAxisSettingsDialog::calculateReleaseSpringRadius" name="MouseAxisSettingsDialog::calculateReleaseSpringRadius">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,232,87"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="285,5,465,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,45,295,31,296,36,224,50"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="286,55,463,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,65,272,65,272,70,232,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a60ecfef194078a1d77b4bf7a5e187cbf" title=" " alt="" coords="280,105,469,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,85,272,99,271,104,208,90"/>
+</map>

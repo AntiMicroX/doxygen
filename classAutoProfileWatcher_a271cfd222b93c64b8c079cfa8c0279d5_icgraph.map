@@ -1,0 +1,11 @@
+<map id="AutoProfileWatcher::clearProfileAssignments" name="AutoProfileWatcher::clearProfileAssignments">
+<area shape="rect" id="Node000001" title=" " alt="" coords="756,37,943,77"/>
+<area shape="rect" id="Node000002" href="$classAutoProfileWatcher.html#a561af8319ef8031986ac0eaee221c6a3" title=" " alt="" coords="529,37,708,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,60,708,60,708,55,743,55"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileWatcher.html#a6c9832eb02480c6909f49cbb05d5113c" title=" " alt="" coords="289,5,443,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,47,443,38,444,32,516,42"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#ae9f72ff45056908317963a1e7fa634a0" title="Build list of current input devices and pass it to settings dialog instance. Open Settings dialog." alt="" coords="251,69,481,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="516,73,482,77,481,72,515,68"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a2f0c03d3d51748ab794e698322110614" title=" " alt="" coords="5,77,203,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,92,203,92,203,87,237,87"/>
+</map>

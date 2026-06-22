@@ -1,0 +1,11 @@
+<map id="InputDeviceBitArrayStatus::getButtonStatusLocal" name="InputDeviceBitArrayStatus::getButtonStatusLocal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,101,451,141"/>
+<area shape="rect" id="Node000002" href="$classInputDeviceBitArrayStatus.html#a4189986671ae07a5ef12f216f57d41b7" title=" " alt="" coords="9,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,98,207,60,174,48,175,43,209,55,299,93"/>
+<area shape="rect" id="Node000003" href="$classInputDeviceBitArrayStatus.html#a0b528ec3afbf714ceb566bb8f463e1ae" title=" " alt="" coords="9,69,204,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,110,204,105,205,99,243,104"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceBitArrayStatus.html#ab6387b47d14d21e3b79d5294f60f8a73" title=" " alt="" coords="9,133,204,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,138,205,143,204,138,242,133"/>
+<area shape="rect" id="Node000005" href="$classInputDeviceBitArrayStatus.html#a4255eb1af0e32f80549c0f662985d395" title=" " alt="" coords="5,197,208,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="299,150,209,188,175,200,174,195,207,183,296,145"/>
+</map>

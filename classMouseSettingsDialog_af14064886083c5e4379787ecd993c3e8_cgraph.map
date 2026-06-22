@@ -1,0 +1,9 @@
+<map id="MouseSettingsDialog::updateHorizontalSpeedConvertLabel" name="MouseSettingsDialog::updateHorizontalSpeedConvertLabel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,62,239,117"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#aaef7a531d7db8ddffcb1cc8f016fc1a2" title="Calculate maximum mouse speed when using a given mouse curve." alt="" coords="289,5,472,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,59,286,46,287,51,234,65"/>
+<area shape="rect" id="Node000003" href="$classMouseSettingsDialog.html#a7adbe7521ee56d97cf8c38efc39f4b6c" title=" " alt="" coords="287,69,475,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,87,273,87,273,92,239,92"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="287,134,475,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,113,310,128,309,134,238,118"/>
+</map>

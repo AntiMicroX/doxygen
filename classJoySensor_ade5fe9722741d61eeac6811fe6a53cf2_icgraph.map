@@ -1,0 +1,28 @@
+<map id="JoySensor::getButtons" name="JoySensor::getButtons">
+<area shape="rect" id="Node000001" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="576,237,741,262"/>
+<area shape="rect" id="Node000002" href="$classMouseSensorSettingsDialog.html#a5c9a8f19997296227928dc8037bd051f" title="Get the maximum mouse speed used by the buttons of the associated sensor and set the UI values to it." alt="" coords="290,5,503,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,225,628,188,602,143,568,98,526,60,503,46,505,42,530,55,572,94,607,140,633,186,650,223"/>
+<area shape="rect" id="Node000004" href="$classMouseSensorSettingsDialog.html#a49f6f634ca8f57c4d9ca27a42be4d57b" title="Get the maximum mouse wheel speed used by the buttons of the associated sensor and set the UI values ..." alt="" coords="291,69,502,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="638,228,592,174,561,147,527,124,501,112,503,107,529,119,564,143,595,171,642,224"/>
+<area shape="rect" id="Node000005" href="$classJoySensorIoThreadHelper.html#ada8d648b6d86485cfc651f2bc47908d8" title="Calls JoyButton::clearSlotEventReset on all JoyButtons of the underlying sensor. Should be called via..." alt="" coords="287,133,506,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="622,232,577,209,527,188,490,176,491,171,529,183,580,205,624,227"/>
+<area shape="rect" id="Node000006" href="$classSensorPushButtonGroup.html#aecd2683ab789e62c418fd9227ae9f9a6" title="Generates a new push button at the given grid coordinates." alt="" coords="307,453,486,493"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="650,275,633,313,607,359,572,405,529,444,487,463,485,459,527,439,568,401,602,356,628,311,645,273"/>
+<area shape="rect" id="Node000008" href="$classMouseSensorSettingsDialog.html#aebea5b3a1dd63190c90ef3fdf3b200b4" title="Horizontal mouse speed change UI event handler Updates horizontal mouse speed on all buttons of the a..." alt="" coords="285,197,508,237"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="562,240,508,234,508,228,563,235"/>
+<area shape="rect" id="Node000009" href="$classMouseSensorSettingsDialog.html#a23334646c992cd27e6a129c6c2501bd2" title="Vertical mouse speed change UI event handler Updates vertical mouse speed on all buttons of the assoc..." alt="" coords="294,261,499,301"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="563,264,500,271,499,266,562,258"/>
+<area shape="rect" id="Node000010" href="$classMouseSensorSettingsDialog.html#a27a9be4f873e6f4c53bcecbb51947cec" title="Horizontal mouse wheel speed change UI event handler Updates horizontal mouse wheel speed on all butt..." alt="" coords="265,325,528,365"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="624,271,580,294,529,316,491,328,490,323,527,311,577,289,622,266"/>
+<area shape="rect" id="Node000011" href="$classMouseSensorSettingsDialog.html#a8a98e3ac22b2c2c44f98c80f0395bb46" title="Vertical mouse wheel speed change UI event handler Updates vertical mouse wheel speed on all buttons ..." alt="" coords="274,389,519,429"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="642,275,595,328,564,356,529,380,503,392,501,387,527,375,561,352,592,324,638,271"/>
+<area shape="rect" id="Node000003" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="5,229,217,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,53,267,60,219,99,178,147,147,193,125,230,121,228,142,190,174,143,215,95,264,55,276,48"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="282,117,267,124,226,148,189,177,133,231,129,227,186,173,223,144,264,119,280,112"/>
+<area shape="rect" id="Node000007" href="$classSensorPushButtonGroup.html#a5d893d1b1d86f6d355ed793c4c52a92c" title=" " alt="" coords="18,453,205,493"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="294,476,205,476,205,471,294,471"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="272,234,218,240,217,235,271,229"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="280,271,217,264,218,259,281,266"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="292,324,264,316,154,272,156,267,266,311,294,319"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="280,387,264,380,223,355,186,326,129,271,133,268,189,322,226,350,267,375,282,382"/>
+</map>

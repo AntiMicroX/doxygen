@@ -1,0 +1,26 @@
+<map id="JoyButtonSlot::getSlotCodeAlias" name="JoyButtonSlot::getSlotCodeAlias">
+<area shape="rect" id="Node000001" title=" " alt="" coords="779,248,976,288"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="540,5,711,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="860,236,839,196,810,148,773,100,729,59,709,48,712,43,732,55,777,97,815,145,844,193,864,234"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html#a437fdaa04ca6082ebb7416cf7ac4e6b5" title=" " alt="" coords="544,69,707,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="849,239,797,184,764,156,729,130,692,112,695,107,732,126,768,151,801,180,853,236"/>
+<area shape="rect" id="Node000006" href="$classWinVMultiEventHandler.html#a0a98b762b1770a4590dac5e2bc24d7a9" title=" " alt="" coords="265,159,443,199"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="843,241,792,204,762,187,730,175,656,159,580,155,507,158,443,165,442,160,507,152,580,150,657,154,731,169,764,182,795,199,846,237"/>
+<area shape="rect" id="Node000007" href="$classWinSendInputEventHandler.html#a299112bc5d77f35105007de683821c1e" title=" " alt="" coords="525,184,725,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="784,247,704,227,705,221,785,242"/>
+<area shape="rect" id="Node000008" href="$classDPadContextMenuHelper.html#a4a8d1d9c4ec96d3de8ff69c9afdd560b" title=" " alt="" coords="533,248,718,288"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="765,271,718,271,718,265,765,265"/>
+<area shape="rect" id="Node000009" href="$classDPadEditDialogHelper.html#a15e31302f41da2df05eec55810fc9b1e" title=" " alt="" coords="542,312,709,352"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="785,294,705,315,704,309,784,289"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStickContextMenuHelper.html#ac0fbd4e209aedcd20d547081e80291d1" title=" " alt="" coords="520,376,731,416"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="841,299,791,333,732,366,703,378,701,373,730,362,788,329,838,294"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStickEditDialogHelper.html#afe11e24f991d5d825a6ed3b7a7f0a5a6" title=" " alt="" coords="520,440,731,480"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="857,301,805,367,771,401,732,430,709,442,706,438,729,426,767,397,801,363,853,298"/>
+<area shape="rect" id="Node000012" href="$classJoySensorIoThreadHelper.html#a639d3efe0906bf8416b4fc6e610fbe5b" title="Applies pending slot values to the buttons Should be called via QMetaObject::invokeMethod." alt="" coords="532,504,719,544"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="866,302,846,345,817,397,779,449,732,494,712,506,710,502,729,490,775,446,812,394,841,343,861,300"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="236,69,472,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="530,92,472,92,472,87,530,87"/>
+<area shape="rect" id="Node000005" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,69,188,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,92,188,92,188,87,222,87"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="511,196,443,190,443,184,512,191"/>
+</map>

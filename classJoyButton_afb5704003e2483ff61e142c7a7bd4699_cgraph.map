@@ -1,0 +1,23 @@
+<map id="JoyButton::startSequenceOfPressActive" name="JoyButton::startSequenceOfPressActive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,192,145"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a48369975ea4bc0d16e284b02bf4b1246" title=" " alt="" coords="518,105,713,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,122,504,122,504,127,192,127"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#acf2e65dcec7b0d2a8a2c21c36c489ad6" title=" " alt="" coords="246,55,441,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,102,274,81,276,86,185,107"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#aa4a7f763f73f9f63b446e0125a713709" title=" " alt="" coords="240,169,447,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="177,142,254,163,253,168,175,147"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a447ec98d3ffd8b2a8668c14d2646851c" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="784,201,988,241"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="699,142,737,154,831,192,829,197,735,159,697,147"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a39c9ccaf641bb8bf50b29d4c4e04c165" title="Get a 1 indexed number of button." alt="" coords="508,5,723,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="414,52,530,31,531,36,415,57"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="521,55,709,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="441,65,508,65,508,70,441,70"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="429,166,516,145,517,150,430,171"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#a384912c63bcea6a25ab2957c7c8c23c6" title=" " alt="" coords="504,169,727,209"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="447,186,490,186,490,191,447,191"/>
+<area shape="rect" id="Node000009" href="$classJoyButton.html#a17e7d44ff2d956493113d7312ab406dc" title=" " alt="" coords="495,233,736,273"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="430,206,517,227,516,232,429,211"/>
+<area shape="rect" id="Node000010" href="$classJoyButton.html#a352acb56d462240c593e7b70bca74f55" title="Get the distance factor that should be used for mouse movement." alt="" coords="508,297,723,337"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="372,207,428,245,496,282,514,290,512,294,494,287,425,250,369,211"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="697,294,735,282,829,244,831,249,737,287,699,299"/>
+</map>

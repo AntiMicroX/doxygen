@@ -1,0 +1,21 @@
+<map id="JoyTabWidget::mappingUpdated" name="JoyTabWidget::mappingUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,80,1111,105"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a9738583d1ab872fb2784c0faee89cb46" title=" " alt="" coords="607,5,786,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="944,78,831,45,778,33,779,28,833,39,945,73"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#aef8941c9dc542d8ff8416fff1caf8ad7" title=" " alt="" coords="593,104,800,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="867,106,801,111,800,106,866,100"/>
+<area shape="rect" id="Node000006" href="$classJoyTabWidget.html#a9111109cde328310dcd39fa068a06f86" title=" " alt="" coords="577,154,817,194"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="942,112,833,145,786,157,785,151,831,139,941,107"/>
+<area shape="rect" id="Node000009" href="$classMainWindow.html#a2a0aba59f5d3bf3c6fb97f0de103b36f" title=" " alt="" coords="561,55,832,80"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="866,84,832,81,832,76,867,79"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="359,55,414,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="603,36,415,66,414,60,602,30"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="602,104,414,74,415,69,603,99"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a5d25ebfdfec433fc449d7e35803a9c7c" title=" " alt="" coords="297,104,476,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="579,119,476,119,476,114,579,114"/>
+<area shape="rect" id="Node000007" href="$classJoyTabWidget.html#ae0349855eaa009acd56f6858d0b9cb9f" title=" " alt="" coords="260,154,513,194"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="563,177,514,177,514,171,563,171"/>
+<area shape="rect" id="Node000008" href="$classJoyTabWidget.html#a6a6bd9ccd83557de08b6e698598f2123" title=" " alt="" coords="5,161,212,187"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="246,177,212,177,212,171,246,171"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="547,70,414,70,414,65,547,65"/>
+</map>

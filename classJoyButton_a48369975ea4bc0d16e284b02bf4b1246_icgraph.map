@@ -1,0 +1,12 @@
+<map id="JoyButton::getAccelerationDistance" name="JoyButton::getAccelerationDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="495,88,689,128"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#aa4a7f763f73f9f63b446e0125a713709" title=" " alt="" coords="240,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="517,86,404,48,405,43,519,81"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#afb5704003e2483ff61e142c7a7bd4699" title=" " alt="" coords="5,35,192,75"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="480,99,192,67,193,62,481,93"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#ac51fbb4f1b1367d701500921378fddaa" title="Calculate mouse movement coordinates for mouse movement slots currently active." alt="" coords="256,121,431,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="481,122,431,127,430,122,481,117"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a50c06702f8781ee7fc49b4a842bd6bc4" title=" " alt="" coords="240,171,447,211"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="521,135,448,160,408,173,406,168,446,155,519,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,42,193,46,192,41,226,37"/>
+</map>

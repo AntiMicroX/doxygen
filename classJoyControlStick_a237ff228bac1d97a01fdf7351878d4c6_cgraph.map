@@ -1,0 +1,9 @@
+<map id="JoyControlStick::setButtonsStartAccelerationMultiplier" name="JoyControlStick::setButtonsStartAccelerationMultiplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,204,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="252,5,471,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,42,238,38,239,43,205,48"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a2fce9ef1fe8b843d32a01faced10e7e9" title=" " alt="" coords="272,69,451,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,67,258,74,258,79,204,72"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="519,77,721,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="451,87,505,87,505,92,451,92"/>
+</map>

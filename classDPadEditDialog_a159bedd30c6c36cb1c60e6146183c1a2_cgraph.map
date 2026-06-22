@@ -1,0 +1,19 @@
+<map id="DPadEditDialog::updateWindowTitleDPadName" name="DPadEditDialog::updateWindowTitleDPadName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,122,232,162"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a45b740263205203bd20f34e375f40ac2" title=" " alt="" coords="285,5,463,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,120,204,79,279,40,299,32,300,37,281,44,207,84,148,124"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="295,55,453,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,119,279,89,308,81,309,86,281,94,181,125"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#a102a4bbc464b9dfc5a8227c0fb4611c8" title=" " alt="" coords="293,104,455,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,128,279,123,279,129,233,133"/>
+<area shape="rect" id="Node000005" href="$classJoyDPad.html#a8c00a13f8997177eb6c1261901081169" title=" " alt="" coords="303,153,445,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,150,289,155,289,161,232,155"/>
+<area shape="rect" id="Node000008" href="$classJoyDPad.html#a0101f057cf5bfc971812c6497439ab79" title=" " alt="" coords="291,203,457,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="186,160,281,187,313,196,311,201,279,193,185,165"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#a00ecd09902d11bbfe7e6e82ad25ae456" title=" " alt="" coords="280,252,468,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="149,160,208,199,281,237,304,245,302,250,279,242,206,203,146,164"/>
+<area shape="rect" id="Node000006" href="$classJoyDPad.html#a71703ba2086819e224bd3bb053e66315" title=" " alt="" coords="516,129,721,155"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="446,156,502,151,502,156,446,162"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="525,179,713,204"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="446,171,511,178,511,183,446,176"/>
+</map>

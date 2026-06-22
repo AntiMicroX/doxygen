@@ -1,0 +1,7 @@
+<map id="InputDevice::InputDevice" name="InputDevice::InputDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,192,38"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#ae31a7e05a2b7b0afc624729db5c98f45" title=" " alt="" coords="240,5,432,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,23,226,23,226,28,192,28"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="480,13,668,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,23,466,23,466,28,432,28"/>
+</map>

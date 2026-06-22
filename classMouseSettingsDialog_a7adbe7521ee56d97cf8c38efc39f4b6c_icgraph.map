@@ -1,0 +1,42 @@
+<map id="MouseSettingsDialog::getMouseCurveForIndex" name="MouseSettingsDialog::getMouseCurveForIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="797,291,985,331"/>
+<area shape="rect" id="Node000002" href="$classMouseAxisSettingsDialog.html#a31cff033e6268e4252f7cd226ce6450c" title=" " alt="" coords="539,19,727,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,279,856,236,828,184,792,131,748,85,707,61,709,56,751,81,796,127,833,181,861,233,880,277"/>
+<area shape="rect" id="Node000004" href="$classMouseButtonSettingsDialog.html#a63822a92010aa61f62d22413b6b16e1b" title=" " alt="" coords="531,95,734,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="862,282,812,228,748,174,715,154,682,137,684,132,718,149,751,170,815,225,866,278"/>
+<area shape="rect" id="Node000006" href="$classMouseControlStickSettingsDialog.html#aea29494759b67c6364dccff5732bcc82" title=" " alt="" coords="533,260,733,300"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="784,301,733,295,733,289,784,295"/>
+<area shape="rect" id="Node000008" href="$classMouseDPadSettingsDialog.html#a20f683afc286154389cb65dba0f263f5" title=" " alt="" coords="536,327,729,367"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="784,328,730,336,729,331,783,323"/>
+<area shape="rect" id="Node000010" href="$classMouseSettingsDialog.html#adfc7da33bed8e4cc8bb6af6bf5de8901" title=" " alt="" coords="241,393,448,447"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="846,340,801,362,750,381,672,399,593,411,448,422,448,417,592,406,671,394,749,376,799,358,844,335"/>
+<area shape="rect" id="Node000012" href="$classMouseSettingsDialog.html#aa4950d5644d83623e3c3e0f8d6974636" title=" " alt="" coords="524,184,741,224"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="833,287,748,250,688,227,690,222,750,246,835,283"/>
+<area shape="rect" id="Node000014" href="$classMouseSettingsDialog.html#af14064886083c5e4379787ecd993c3e8" title=" " alt="" coords="516,454,749,509"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="862,342,812,387,751,432,705,456,702,451,748,427,808,382,859,338"/>
+<area shape="rect" id="Node000016" href="$classMouseSettingsDialog.html#a0c696d56f5ccd41c0e548147e211bdd3" title=" " alt="" coords="525,533,740,587"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="879,345,859,385,830,433,794,481,751,522,731,535,728,530,748,518,790,477,826,430,854,383,874,342"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="247,5,443,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,36,443,33,443,27,525,31"/>
+<area shape="rect" id="Node000005" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="239,69,450,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="517,107,450,101,451,96,518,102"/>
+<area shape="rect" id="Node000007" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="221,249,468,303"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="519,281,468,280,468,275,519,276"/>
+<area shape="rect" id="Node000009" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="244,328,445,368"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="522,350,446,350,446,345,522,345"/>
+<area shape="rect" id="Node000011" href="$classMouseSettingsDialog.html#a4a3da2adef113d4d6580b36fe62067ed" title=" " alt="" coords="5,465,173,505"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="229,452,169,468,168,463,227,447"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="560,180,536,166,514,148,497,125,491,101,484,80,466,59,442,45,444,40,470,55,488,77,496,100,502,122,518,145,539,162,563,176"/>
+<area shape="poly" id="edge13_Node000012_Node000005" title=" " alt="" coords="579,180,467,130,414,112,416,107,469,126,581,175"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="540,230,455,251,454,246,538,225"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="548,232,518,250,503,266,495,283,486,300,470,317,445,330,443,325,466,313,482,297,490,281,498,263,514,246,545,227"/>
+<area shape="poly" id="edge17_Node000012_Node000011" title=" " alt="" coords="574,182,498,157,453,146,406,139,358,137,310,141,265,153,223,174,188,204,161,240,139,281,122,324,102,405,94,466,89,465,97,404,117,322,134,279,156,237,184,200,220,170,263,148,310,136,358,131,407,134,454,141,499,151,575,176"/>
+<area shape="rect" id="Node000013" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="239,184,451,224"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="510,207,451,207,451,201,510,201"/>
+<area shape="poly" id="edge19_Node000014_Node000011" title=" " alt="" coords="502,485,173,487,173,482,502,480"/>
+<area shape="rect" id="Node000015" href="$classMouseSettingsDialog.html#abec3bd3d5cc2908867575d79be6a756a" title=" " alt="" coords="223,523,467,563"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="503,512,440,525,438,520,502,506"/>
+<area shape="poly" id="edge21_Node000015_Node000011" title=" " alt="" coords="241,522,173,507,174,502,242,517"/>
+<area shape="poly" id="edge23_Node000016_Node000011" title=" " alt="" coords="512,587,445,595,371,598,294,593,221,577,188,564,158,546,110,508,113,504,161,541,190,559,222,572,295,588,371,593,444,590,511,582"/>
+<area shape="poly" id="edge24_Node000016_Node000015" title=" " alt="" coords="511,555,467,553,467,547,512,550"/>
+</map>

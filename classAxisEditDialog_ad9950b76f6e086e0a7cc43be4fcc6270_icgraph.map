@@ -1,0 +1,8 @@
+<map id="AxisEditDialog::buildTriggerPresetsMenu" name="AxisEditDialog::buildTriggerPresetsMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,5,668,45"/>
+<area shape="rect" id="Node000002" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="5,5,184,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,25,419,24,232,24,184,25,184,20,232,19,419,19,453,19"/>
+<area shape="rect" id="Node000003" href="$classAxisEditDialog.html#adb32fd63b62082e1c02f1209203ed849" title=" " alt="" coords="232,33,419,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,41,419,45,419,40,453,36"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="218,43,184,39,185,34,219,38"/>
+</map>

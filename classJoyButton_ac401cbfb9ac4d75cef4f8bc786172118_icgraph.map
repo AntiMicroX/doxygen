@@ -1,0 +1,25 @@
+<map id="JoyButton::getSensitivity" name="JoyButton::getSensitivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="559,149,741,174"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a188bb4d46a6421333076be71efbcc3aa" title=" " alt="" coords="310,9,501,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="621,142,571,105,509,68,473,52,475,47,512,63,574,100,624,138"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ada2e41eeb4ec2cf68f510343c44f98cc" title=" " alt="" coords="305,77,505,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="586,148,482,120,483,115,588,142"/>
+<area shape="rect" id="Node000006" href="$classJoyDPad.html#ab9aff31791b13e46b86c3d48fc6d6120" title=" " alt="" coords="308,141,503,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="545,164,503,164,503,159,545,159"/>
+<area shape="rect" id="Node000008" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="300,205,511,245"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="588,180,483,208,482,203,586,175"/>
+<area shape="rect" id="Node000009" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="309,270,502,295"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="625,185,575,223,512,260,475,273,474,267,510,255,572,219,622,181"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="31,5,227,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,30,227,29,227,24,296,25"/>
+<area shape="rect" id="Node000005" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,70,252,125"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="292,100,252,100,252,95,292,95"/>
+<area shape="rect" id="Node000007" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="28,149,229,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="294,167,230,169,230,164,294,162"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="27,221,230,246"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="320,270,200,249,201,243,321,265"/>
+<area shape="rect" id="Node000011" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="27,270,230,295"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="295,285,230,285,230,280,295,280"/>
+<area shape="rect" id="Node000012" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="45,319,213,345"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="321,300,201,322,200,317,320,295"/>
+</map>

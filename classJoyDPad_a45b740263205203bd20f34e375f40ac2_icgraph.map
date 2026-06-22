@@ -1,0 +1,38 @@
+<map id="JoyDPad::getDpadName" name="JoyDPad::getDpadName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1153,242,1331,267"/>
+<area shape="rect" id="Node000002" href="$classDPadEditDialog.html#a87782609227b6c56ef82e3844a117dc1" title=" " alt="" coords="609,204,797,244"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1217,234,1168,194,1137,175,1104,161,1043,146,993,143,942,149,878,161,807,181,745,206,743,201,805,176,877,156,941,144,992,138,1043,140,1106,156,1140,171,1171,190,1220,230"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a77b9dee81f942169520b06b7cf9b297c" title=" " alt="" coords="890,5,1093,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1227,231,1208,195,1181,150,1146,105,1104,66,1071,48,1073,43,1107,62,1149,101,1185,147,1213,192,1232,229"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="599,42,807,67"/>
+<area shape="poly" id="edge19_Node000001_Node000004" title=" " alt="" coords="1220,233,1171,182,1139,156,1104,134,1030,104,952,83,875,70,807,62,807,57,876,64,953,78,1032,99,1107,130,1142,152,1175,178,1224,229"/>
+<area shape="rect" id="Node000005" href="$classDPadPushButton.html#ad6bc6aa6744a480371f447261bfe3464" title=" " alt="" coords="894,171,1089,211"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1177,241,1070,213,1071,208,1179,236"/>
+<area shape="rect" id="Node000006" href="$classGameControllerDPad.html#a415e52bdfdd12bd742a86b2237f6e11a" title=" " alt="" coords="912,235,1071,275"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1140,257,1071,257,1071,252,1140,252"/>
+<area shape="rect" id="Node000007" href="$classVDPad.html#a42e3e226c3080939428095a12856b9a9" title=" " alt="" coords="925,299,1057,325"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1175,273,1106,289,1051,302,1049,297,1105,284,1173,268"/>
+<area shape="rect" id="Node000008" href="$classInputDevice.html#af9e497903c0a4c29a3015b9771111678" title=" " alt="" coords="888,413,1095,453"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1227,280,1178,342,1145,375,1107,404,1083,416,1080,411,1104,399,1141,371,1174,338,1223,277"/>
+<area shape="rect" id="Node000015" href="$classDPadEditDialog.html#a159bedd30c6c36cb1c60e6146183c1a2" title=" " alt="" coords="878,349,1105,389"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1213,277,1164,308,1106,338,1071,352,1069,347,1104,334,1162,304,1210,273"/>
+<area shape="rect" id="Node000016" href="$classMouseDPadSettingsDialog.html#a68706a0ac77693478c027a0d76cb0fcc" title=" " alt="" coords="877,488,1105,528"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="1233,281,1215,321,1187,371,1151,422,1107,467,1068,490,1065,485,1104,463,1147,419,1183,368,1210,319,1228,279"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="877,40,807,47,807,41,876,34"/>
+<area shape="rect" id="Node000009" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="576,459,829,485"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="875,452,798,462,798,457,874,446"/>
+<area shape="rect" id="Node000012" href="$classInputDevice.html#a10249ceee0fa8439d3e25c5fd64502cd" title=" " alt="" coords="603,410,803,435"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="874,441,803,438,803,432,874,435"/>
+<area shape="rect" id="Node000010" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="292,459,528,485"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="562,475,528,475,528,469,562,469"/>
+<area shape="rect" id="Node000011" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="344,509,476,534"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="614,490,477,513,476,508,613,484"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="817,415,888,418,888,424,817,421"/>
+<area shape="rect" id="Node000013" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="308,410,512,435"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="589,425,512,425,512,420,589,420"/>
+<area shape="rect" id="Node000014" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="5,410,244,435"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="294,425,244,425,244,420,294,420"/>
+<area shape="poly" id="edge16_Node000015_Node000002" title=" " alt="" coords="897,347,876,338,794,292,729,247,732,242,797,288,878,334,899,342"/>
+<area shape="rect" id="Node000017" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="602,509,803,549"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="863,520,804,525,804,519,863,515"/>
+</map>

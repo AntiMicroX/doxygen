@@ -1,0 +1,27 @@
+<map id="JoyControlStickStatusBox::drawFourWayDiagonalBox" name="JoyControlStickStatusBox::drawFourWayDiagonalBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,267,207,307"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a0e3fe034c525e212163dd8d59cef8428" title=" " alt="" coords="279,5,466,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,266,130,222,160,165,201,106,226,79,253,55,265,47,268,52,256,59,229,82,205,109,165,168,135,224,117,268"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ae042621e02d88cf4f4574b7c45029e1f" title=" " alt="" coords="279,69,466,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="118,265,171,194,209,154,253,120,268,113,270,117,256,125,213,158,175,197,122,268"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a2798057ca20a52307ced3f75eb5d9aaa" title="Get the assigned dead zone value." alt="" coords="264,134,481,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="126,264,180,216,216,191,254,170,276,161,278,166,256,174,218,195,183,220,129,268"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#aacda79c376be57752cd841855ea40e45" title=" " alt="" coords="280,184,465,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="164,264,254,235,285,225,287,230,255,240,166,269"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStick.html#a037c44802b5f528144bf592ace15dc08" title=" " alt="" coords="267,249,478,274"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="207,274,253,270,254,275,207,280"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStick.html#a8fbe401b1bd1dc6870669a6499432c39" title="Returns the modifier zone of the stick." alt="" coords="255,298,491,323"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="207,293,241,296,241,301,207,298"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#a40a2e76ceebd81b150d52930fe84a6af" title="Checks if the modifier zone of this stick is inverted." alt="" coords="271,348,474,388"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="166,304,255,333,284,342,282,347,254,339,164,309"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#ac12ecf9bf840ecee8fa8b2873304fc66" title="Get the value for the corresponding X axis." alt="" coords="258,413,487,438"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="129,305,184,352,218,377,256,398,278,406,276,411,254,402,216,381,180,356,126,309"/>
+<area shape="rect" id="Node000012" href="$classJoyControlStick.html#ad68f8a723bdefd42af7b4317ab40371a" title="Get the value for the corresponding Y axis." alt="" coords="259,462,487,487"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="122,306,143,338,174,377,212,416,256,448,269,455,266,459,253,453,208,420,170,380,139,341,117,309"/>
+<area shape="rect" id="Node000013" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="279,511,467,537"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="118,306,136,347,166,400,206,453,230,477,256,498,267,504,264,509,253,502,226,481,202,457,161,403,132,350,113,308"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a153940c564b3853d142059e9104f7c71" title=" " alt="" coords="539,5,727,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,23,525,23,525,28,466,28"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a474ce78a526ae11be203450f605ef5ad" title=" " alt="" coords="539,69,727,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="466,87,525,87,525,92,466,92"/>
+</map>

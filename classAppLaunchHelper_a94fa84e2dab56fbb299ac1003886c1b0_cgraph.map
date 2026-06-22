@@ -1,0 +1,13 @@
+<map id="AppLaunchHelper::changeMouseRefreshRate" name="AppLaunchHelper::changeMouseRefreshRate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,240,125"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a65766cc767496485cc211a6e1511137a" title=" " alt="" coords="307,5,507,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,82,287,41,324,31,326,36,289,46,173,87"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#adcbf2eb84178a075252fd096c5aee4e9" title=" " alt="" coords="310,55,505,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,90,296,84,296,89,241,95"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a3be083ee56eea1d917bdaf0a3e86a1a4" title=" " alt="" coords="288,120,527,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,114,275,117,274,122,240,119"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#ac9b860bfe4e92a847452099c7b9fda67" title="Set the mouse refresh rate when a mouse slot is active." alt="" coords="289,169,525,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,122,289,154,329,164,328,169,287,159,182,127"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="575,169,763,195"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="526,179,561,179,561,185,526,185"/>
+</map>

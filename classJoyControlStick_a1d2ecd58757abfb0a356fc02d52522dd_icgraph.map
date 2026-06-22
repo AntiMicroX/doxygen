@@ -1,0 +1,7 @@
+<map id="JoyControlStick::getButtonsSpringDeadCircleMultiplier" name="JoyControlStick::getButtonsSpringDeadCircleMultiplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="572,13,772,53"/>
+<area shape="rect" id="Node000002" href="$classMouseControlStickSettingsDialog.html#afa3348cdc0c0903e27f404d582f667a6" title=" " alt="" coords="300,5,524,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="558,35,524,35,524,30,558,30"/>
+<area shape="rect" id="Node000003" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,5,252,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,35,252,35,252,30,286,30"/>
+</map>

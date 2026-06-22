@@ -1,0 +1,11 @@
+<map id="JoyButton::setGamepadRefreshRate" name="JoyButton::setGamepadRefreshRate">
+<area shape="rect" id="Node000001" title="Set the gamepad poll rate to be used in the application." alt="" coords="547,45,803,70"/>
+<area shape="rect" id="Node000002" href="$classAppLaunchHelper.html#a3e71e64a159717dac8d285b28b45b9d2" title=" " alt="" coords="244,5,499,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="540,46,498,41,499,36,541,41"/>
+<area shape="rect" id="Node000004" href="$classMainSettingsDialog.html#a07b54c6c80f72c4c5b28b32a58cbcca6" title=" " alt="" coords="297,69,446,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="541,74,447,84,446,79,540,69"/>
+<area shape="rect" id="Node000003" href="$classAppLaunchHelper.html#ab38c79745e55b3c4665c5b29a5d57a0f" title=" " alt="" coords="5,5,196,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,28,196,28,196,23,230,23"/>
+<area shape="rect" id="Node000005" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="22,69,179,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,92,180,92,180,87,283,87"/>
+</map>

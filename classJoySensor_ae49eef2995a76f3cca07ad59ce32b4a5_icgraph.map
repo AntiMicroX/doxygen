@@ -1,0 +1,17 @@
+<map id="JoySensor::getDiagonalRange" name="JoySensor::getDiagonalRange">
+<area shape="rect" id="Node000001" title="Get the assigned diagonal range value." alt="" coords="436,134,651,159"/>
+<area shape="rect" id="Node000002" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="221,5,388,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,129,453,95,387,60,360,48,362,43,389,55,456,90,512,124"/>
+<area shape="rect" id="Node000004" href="$classJoySensorEditDialog.html#ac54b2583e87546880baf282a0f16f57a" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="228,69,381,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="476,133,381,110,382,105,477,128"/>
+<area shape="rect" id="Node000005" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="9,113,170,153"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="422,146,170,138,170,133,422,140"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#a4c1dd1342e7f76c46ed02eea0dbbf22f" title="Checks if all sensor settings and button mappings are the their default values. This is used during X..." alt="" coords="228,185,381,210"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,165,366,187,365,182,468,160"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="5,199,173,225"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="513,169,457,200,423,215,389,225,329,234,268,236,160,227,160,222,268,231,328,229,387,220,422,210,455,195,511,164"/>
+<area shape="rect" id="Node000003" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="13,5,165,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,28,165,28,165,23,208,23"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,110,171,119,170,114,214,105"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="215,206,174,209,173,204,214,201"/>
+</map>

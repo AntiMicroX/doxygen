@@ -1,0 +1,9 @@
+<map id="JoyControlStick::getDiagonalRange" name="JoyControlStick::getDiagonalRange">
+<area shape="rect" id="Node000001" title="Get the assigned diagonal range value." alt="" coords="484,37,692,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStickStatusBox.html#a450e6a133de4e4d7894b967b051f9e31" title=" " alt="" coords="245,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,45,431,40,432,35,471,40"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="240,69,436,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,75,437,79,436,74,470,70"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickStatusBox.html#ae321df188d9d51864893166076cf8582" title=" " alt="" coords="5,5,192,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,28,192,28,192,23,231,23"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="JoyGyroscopeSensor::JoyGyroscopeSensor" name="JoyGyroscopeSensor::JoyGyroscopeSensor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,168,77"/>
+<area shape="rect" id="Node000002" href="$classJoyGyroscopeSensor.html#a69b51a1f91da4be61e2762cc34206df0" title="Initializes the JoySensorButton objects for this sensor." alt="" coords="216,5,371,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,42,202,37,203,42,168,47"/>
+<area shape="rect" id="Node000004" href="$classJoyGyroscopeSensor.html#a4d27003200f8185d5e3edb082fa33de2" title="Resets internal variables back to default." alt="" coords="216,69,371,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,67,203,73,202,78,168,73"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="419,13,596,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,23,405,23,405,28,371,28"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="654,71,811,97"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="371,86,640,82,640,88,371,91"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#aaad088863aaa04d9529cb1abcd466c6b" title="Resets internal variables back to default." alt="" coords="444,121,571,146"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="372,103,432,115,431,120,370,108"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="565,118,660,97,661,102,567,123"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a6a551421242cfdec065b80b7270f26ab" title="Reset all the properties of the sensor direction buttons." alt="" coords="644,121,821,146"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="571,131,630,131,630,136,571,136"/>
+</map>

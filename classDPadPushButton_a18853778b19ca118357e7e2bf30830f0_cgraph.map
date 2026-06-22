@@ -1,0 +1,7 @@
+<map id="DPadPushButton::tryFlash" name="DPadPushButton::tryFlash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,196,67"/>
+<area shape="rect" id="Node000002" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="272,5,427,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,41,258,33,258,39,196,46"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#aacfc91b263be22419a610c023b407c28" title=" " alt="" coords="244,70,455,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,63,231,67,230,72,196,68"/>
+</map>

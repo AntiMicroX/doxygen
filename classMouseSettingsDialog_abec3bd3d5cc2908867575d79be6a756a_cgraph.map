@@ -1,0 +1,16 @@
+<map id="MouseSettingsDialog::refreshMouseCursorSpeedValues" name="MouseSettingsDialog::refreshMouseCursorSpeedValues">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,249,107"/>
+<area shape="rect" id="Node000002" href="$classMouseSettingsDialog.html#af14064886083c5e4379787ecd993c3e8" title=" " alt="" coords="297,19,531,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,67,283,62,284,67,250,72"/>
+<area shape="rect" id="Node000006" href="$classMouseSettingsDialog.html#a0c696d56f5ccd41c0e548147e211bdd3" title=" " alt="" coords="307,98,521,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="250,100,293,106,292,112,249,106"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#aaef7a531d7db8ddffcb1cc8f016fc1a2" title="Calculate maximum mouse speed when using a given mouse curve." alt="" coords="581,5,764,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="531,34,567,31,568,37,531,40"/>
+<area shape="rect" id="Node000004" href="$classMouseSettingsDialog.html#a7adbe7521ee56d97cf8c38efc39f4b6c" title=" " alt="" coords="579,69,767,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="531,63,566,69,565,74,531,69"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="579,134,767,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="508,72,532,83,556,101,580,119,600,127,598,132,577,124,553,106,529,88,505,77"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="499,95,529,83,577,55,594,48,596,53,580,60,532,88,502,100"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="521,108,564,102,565,107,522,113"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="522,132,565,135,565,140,521,137"/>
+</map>

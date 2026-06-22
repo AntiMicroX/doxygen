@@ -1,0 +1,13 @@
+<map id="InputDaemon::firstInputPass" name="InputDaemon::firstInputPass">
+<area shape="rect" id="Node000001" title="Fetches events from SDL event queue, filters them and updates InputDeviceBitArrayStatus." alt="" coords="5,106,211,131"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#a8c3efac16d428f4db0b6d8c1577cab86" title=" " alt="" coords="271,5,477,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,103,258,55,282,47,284,52,260,60,139,108"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="259,69,489,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,105,245,101,245,106,211,110"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#aec8483db205a707cece118ea48cd7072" title=" " alt="" coords="295,134,453,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,127,281,134,281,140,210,132"/>
+<area shape="rect" id="Node000006" href="$classLogger.html#a182b6e000ffbce476d6a28b885a00d32" title=" " alt="" coords="285,183,463,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,129,259,168,296,178,295,183,258,173,141,134"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="537,127,733,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="453,144,523,144,523,149,453,149"/>
+</map>

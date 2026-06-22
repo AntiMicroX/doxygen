@@ -1,0 +1,9 @@
+<map id="JoySensor::maxZoneChanged" name="JoySensor::maxZoneChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="440,42,653,67"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a029cd202c660d928574726bb0e83a68b" title="Sets the maximum zone of the sensor to the given value." alt="" coords="217,42,392,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,57,392,57,392,52,426,52"/>
+<area shape="rect" id="Node000003" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="7,5,168,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,44,168,39,169,34,204,38"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a2c42a88f7b51fe7bc04ad13266756ed9" title="Take a XML stream and set the sensor and direction button properties according to the values containe..." alt="" coords="5,70,169,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,70,170,75,169,69,204,65"/>
+</map>

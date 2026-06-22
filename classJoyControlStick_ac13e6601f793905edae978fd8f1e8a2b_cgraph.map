@@ -1,0 +1,7 @@
+<map id="JoyControlStick::setStickDelay" name="JoyControlStick::setStickDelay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,187,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ae0680b1adfe088c2178be2aa38e2050e" title=" " alt="" coords="242,5,426,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,43,228,37,228,42,187,48"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a10ecd3db516d007c037c9d19b36e827c" title=" " alt="" coords="235,69,433,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,67,222,72,221,77,187,72"/>
+</map>

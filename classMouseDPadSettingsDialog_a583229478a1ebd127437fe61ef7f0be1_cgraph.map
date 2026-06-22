@@ -1,0 +1,11 @@
+<map id="MouseDPadSettingsDialog::updateAccelerationCurvePresetComboBox" name="MouseDPadSettingsDialog::updateAccelerationCurvePresetComboBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,51,240,105"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a722fc66bb8d37b33bbd7428097ca5e87" title=" " alt="" coords="308,22,503,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,60,294,53,295,59,241,66"/>
+<area shape="rect" id="Node000005" href="$classMouseSettingsDialog.html#a7fb4cca0b5f8d3d9280adb6f511d7454" title=" " alt="" coords="288,87,523,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,90,275,95,274,100,240,96"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a5f5921607d183f4f221f3a4f97249d8e" title=" " alt="" coords="571,5,793,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,31,557,26,557,32,503,36"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#ad107fc4d6e2725fd5b09a2412c18b1e3" title=" " alt="" coords="585,55,779,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="503,48,571,54,570,60,503,54"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="InputDaemon::removeDevice" name="InputDaemon::removeDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,219,109"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#aeb762f6a32bccc84c734ae9b28bc6895" title=" " alt="" coords="271,5,493,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,81,266,39,299,31,300,36,267,45,146,86"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a10a2388bfb4b6d6183752f837dfe4638" title=" " alt="" coords="273,55,491,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,82,259,78,259,83,219,88"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="267,105,497,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,105,253,109,253,114,219,110"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#abb138e5469d5ebfd9a08cf958b7f8d86" title=" " alt="" coords="275,169,489,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,107,200,130,267,154,303,164,301,169,266,159,198,135,141,112"/>
+</map>

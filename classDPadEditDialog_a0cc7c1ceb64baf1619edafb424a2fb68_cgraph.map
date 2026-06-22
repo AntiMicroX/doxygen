@@ -1,0 +1,91 @@
+<map id="DPadEditDialog::implementPresets" name="DPadEditDialog::implementPresets">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,880,207,920"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#ad2df77b5daa94a848b015265ec1869d6" title="Generate active zone string and notify other objects." alt="" coords="256,605,455,645"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,878,325,654,329,657,127,882"/>
+<area shape="rect" id="Node000012" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="2379,647,2567,673"/>
+<area shape="poly" id="edge49_Node000001_Node000012" title=" " alt="" coords="145,877,196,855,254,836,354,817,433,810,614,811,1914,811,1990,807,2067,795,2142,779,2215,759,2341,714,2432,676,2434,681,2343,719,2216,764,2144,784,2068,801,1991,812,1914,816,614,816,433,815,354,822,255,841,198,860,147,882"/>
+<area shape="rect" id="Node000035" href="$classDPadEditDialog.html#af621110d21a7e965ba1e90e22671fd7f" title=" " alt="" coords="258,851,453,891"/>
+<area shape="poly" id="edge45_Node000001_Node000035" title=" " alt="" coords="207,886,244,881,245,886,207,891"/>
+<area shape="rect" id="Node000036" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="255,915,456,941"/>
+<area shape="poly" id="edge46_Node000001_Node000036" title=" " alt="" coords="207,909,241,913,241,918,207,914"/>
+<area shape="rect" id="Node000038" href="$classJoyDPad.html#a5e31e9bf9edfcc87b69d389dbe9d2ea9" title=" " alt="" coords="272,965,439,990"/>
+<area shape="poly" id="edge48_Node000001_Node000038" title=" " alt="" coords="159,918,255,951,284,959,283,964,254,956,157,923"/>
+<area shape="rect" id="Node000039" href="$classDPadEditDialogHelper.html#aae1190365377795cfb83ebe07d04e523" title=" " alt="" coords="273,1015,438,1055"/>
+<area shape="poly" id="edge50_Node000001_Node000039" title=" " alt="" coords="133,918,188,959,256,1000,271,1007,269,1012,253,1005,185,963,130,922"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a5746df6ea4d7fe87c3641243ef934738" title=" " alt="" coords="504,585,727,610"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,612,490,608,491,613,455,617"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#ae76ccd3147106953d53a565730c1d8ee" title="Generate a string that represents slots that will be activated or slots that are currently active if ..." alt="" coords="521,635,709,675"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,634,508,640,507,645,454,639"/>
+<area shape="rect" id="Node000034" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="524,520,707,560"/>
+<area shape="poly" id="edge44_Node000002_Node000034" title=" " alt="" coords="409,603,503,569,528,562,530,567,505,575,410,608"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a9404c4ca344265ce68c0eb9b6b95048b" title=" " alt="" coords="781,635,979,675"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,652,767,652,767,657,709,657"/>
+<area shape="rect" id="Node000032" href="$classJoyButton.html#a7494c1753b3f16ba988076e9eb34ff47" title=" " alt="" coords="775,535,985,561"/>
+<area shape="poly" id="edge39_Node000004_Node000032" title=" " alt="" coords="688,632,726,619,788,592,842,565,844,570,790,597,728,624,690,637"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a773bbe39b094a62cd17776acc06efac6" title=" " alt="" coords="1037,635,1235,675"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="980,652,1023,652,1023,657,980,657"/>
+<area shape="rect" id="Node000009" href="$classJoyButtonSlot.html#a4fb0606a34134786bc642627bc25aedd" title=" " alt="" coords="1557,747,1752,773"/>
+<area shape="poly" id="edge36_Node000005_Node000009" title=" " alt="" coords="911,672,966,706,999,721,1034,733,1101,749,1169,760,1307,771,1436,773,1544,768,1544,773,1436,778,1307,777,1168,765,1100,754,1033,739,997,726,964,710,908,677"/>
+<area shape="rect" id="Node000029" href="$classJoyButton.html#a7941c3822ad8ba39f9c25e4e40fe55ea" title=" " alt="" coords="1043,585,1229,610"/>
+<area shape="poly" id="edge35_Node000005_Node000029" title=" " alt="" coords="969,632,1065,610,1066,616,971,637"/>
+<area shape="rect" id="Node000030" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="1036,535,1236,561"/>
+<area shape="poly" id="edge37_Node000005_Node000030" title=" " alt="" coords="911,632,967,600,1032,570,1055,562,1057,567,1034,574,969,605,914,637"/>
+<area shape="rect" id="Node000031" href="$classJoyButtonSlot.html#aa08ff979d05b38df8f584b77bb750abb" title=" " alt="" coords="1037,699,1235,725"/>
+<area shape="poly" id="edge38_Node000005_Node000031" title=" " alt="" coords="971,672,1066,694,1065,699,969,677"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#acb0ee9af0f5a44bd07ca5cfbfd026cf6" title=" " alt="" coords="1291,538,1485,563"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1202,632,1238,619,1349,567,1351,572,1240,624,1204,637"/>
+<area shape="rect" id="Node000008" href="$classJoyButtonSlot.html#a6e10409ded595380cbdcfd5c827ab32a" title=" " alt="" coords="1287,645,1489,670"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1236,653,1273,653,1273,659,1235,658"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1411,668,1467,700,1538,732,1568,741,1567,747,1536,737,1465,705,1408,672"/>
+<area shape="rect" id="Node000011" href="$namespacePadderCommon.html#aaa09739d2df84421a5a3467a06ce941c" title="Returns the &quot;human&#45;readable&quot; name of the given profile." alt="" coords="1537,261,1772,286"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1411,642,1451,614,1471,595,1487,573,1503,535,1508,498,1507,463,1502,429,1498,396,1499,363,1510,329,1535,296,1539,292,1543,296,1539,299,1515,332,1505,364,1503,396,1507,429,1512,463,1514,498,1508,536,1492,576,1475,599,1455,618,1414,647"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="1490,655,2365,657,2365,662,1490,660"/>
+<area shape="rect" id="Node000013" href="$event_8cpp.html#a76ce89b71143c1c09343f45f038b4a67" title=" " alt="" coords="1580,310,1729,335"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="1406,642,1446,612,1487,573,1535,513,1578,450,1638,347,1643,349,1583,453,1540,516,1491,576,1449,616,1410,647"/>
+<area shape="rect" id="Node000028" href="$classJoyButtonSlot.html#a37ff2b523177bae4ea6a44b82f2973eb" title=" " alt="" coords="1541,698,1768,723"/>
+<area shape="poly" id="edge34_Node000008_Node000028" title=" " alt="" coords="1453,667,1578,693,1577,698,1452,673"/>
+<area shape="rect" id="Node000010" href="$classJoyButtonSlot.html#a9ba9cb0dda063a7df5575072c0aabe01" title=" " alt="" coords="1820,736,2005,776"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1752,756,1806,755,1806,760,1752,761"/>
+<area shape="rect" id="Node000014" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="2111,597,2253,622"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1672,333,1730,381,1821,448,1933,520,1993,553,2054,582,2098,595,2097,600,2052,586,1991,558,1930,525,1818,453,1727,385,1669,338"/>
+<area shape="rect" id="Node000015" href="$classBaseEventHandler.html#a9a014e472ec57408d16b8b5eed964e90" title=" " alt="" coords="2067,185,2297,210"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="1729,308,1771,295,1795,280,1819,266,1883,245,1934,235,1987,229,2053,219,2099,210,2100,215,2054,224,1987,234,1935,240,1884,250,1821,270,1797,285,1773,300,1730,313"/>
+<area shape="rect" id="Node000016" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="2096,234,2268,259"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="1729,309,2082,258,2083,264,1730,315"/>
+<area shape="rect" id="Node000017" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="2103,69,2261,109"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="1729,316,1751,308,1770,295,1786,275,1792,255,1792,212,1791,190,1793,168,1801,146,1818,126,1848,105,1881,89,1916,78,1952,71,2024,66,2090,70,2089,76,2024,72,1953,76,1917,83,1883,94,1851,110,1822,130,1805,149,1798,169,1796,190,1798,211,1798,256,1790,278,1774,299,1754,313,1731,321"/>
+<area shape="rect" id="Node000020" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="2394,133,2551,173"/>
+<area shape="poly" id="edge20_Node000013_Node000020" title=" " alt="" coords="1729,312,1751,305,1770,295,1786,280,1794,263,1802,245,1818,229,1886,190,1960,163,2036,144,2113,133,2189,128,2260,128,2381,137,2380,142,2260,134,2189,134,2114,139,2037,150,1961,168,1889,195,1822,233,1806,248,1799,265,1790,283,1774,299,1753,310,1731,318"/>
+<area shape="rect" id="Node000021" href="$event_8cpp.html#ad239a34cab482dc3cad5a23a9ac1ad78" title=" " alt="" coords="1837,342,1989,367"/>
+<area shape="poly" id="edge21_Node000013_Node000021" title=" " alt="" coords="1730,329,1824,341,1823,346,1729,335"/>
+<area shape="rect" id="Node000018" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="2379,5,2566,45"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="2260,69,2367,46,2368,51,2261,75"/>
+<area shape="rect" id="Node000019" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="2394,69,2551,109"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="2261,87,2380,87,2380,92,2261,92"/>
+<area shape="poly" id="edge19_Node000017_Node000020" title=" " alt="" coords="2261,104,2381,131,2380,136,2260,109"/>
+<area shape="poly" id="edge22_Node000021_Node000014" title=" " alt="" coords="1926,366,1963,418,2008,487,2020,515,2027,540,2035,561,2055,582,2075,594,2098,601,2096,607,2073,599,2052,586,2031,564,2022,541,2015,517,2003,489,1959,421,1922,369"/>
+<area shape="poly" id="edge27_Node000021_Node000015" title=" " alt="" coords="1921,340,1972,281,2009,247,2052,219,2068,212,2070,217,2055,224,2013,251,1976,285,1925,344"/>
+<area shape="poly" id="edge29_Node000021_Node000016" title=" " alt="" coords="1939,340,2004,306,2027,290,2052,276,2100,260,2102,265,2054,281,2030,295,2007,310,1941,344"/>
+<area shape="poly" id="edge30_Node000021_Node000017" title=" " alt="" coords="1919,340,1970,264,2008,216,2052,170,2090,139,2129,114,2132,118,2093,144,2055,174,2012,219,1974,267,1924,343"/>
+<area shape="poly" id="edge31_Node000021_Node000020" title=" " alt="" coords="1968,339,2053,320,2126,308,2184,302,2241,293,2310,268,2346,249,2381,226,2439,180,2442,184,2384,231,2349,254,2312,273,2242,298,2185,308,2127,313,2054,325,1969,344"/>
+<area shape="rect" id="Node000022" href="$classUInputHelper.html#ac4c70c9479c1cc0eb515ab1bdf2426f5" title=" " alt="" coords="2089,335,2275,375"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="1989,352,2075,352,2075,357,1989,357"/>
+<area shape="rect" id="Node000024" href="$classX11Extras.html#abe710bac948c9802105a2d9d06815cac" title="Get appropriate alias for a known KeySym string that might be blank or contain invalid characters whe..." alt="" coords="2080,399,2284,425"/>
+<area shape="poly" id="edge25_Node000021_Node000024" title=" " alt="" coords="1968,365,2054,384,2102,394,2101,399,2053,389,1967,370"/>
+<area shape="rect" id="Node000025" href="$classWinExtras.html#a3487e64cfb407033d7e28a761d1e76dc" title=" " alt="" coords="2080,449,2284,474"/>
+<area shape="poly" id="edge26_Node000021_Node000025" title=" " alt="" coords="1933,365,1986,400,2054,434,2084,443,2083,448,2052,438,1983,404,1930,370"/>
+<area shape="rect" id="Node000026" href="$classUInputHelper.html#a61509601d3dbd8933aaa26c1e2db02f6" title=" " alt="" coords="2086,498,2278,523"/>
+<area shape="poly" id="edge28_Node000021_Node000026" title=" " alt="" coords="1926,366,1976,423,2013,456,2055,483,2074,491,2072,496,2052,488,2010,460,1972,427,1922,369"/>
+<area shape="rect" id="Node000027" href="$classWinExtras.html#a0bfa711c1abe72486dfebc8ff6fe7f5a" title="Convert a virtual key into the corresponding keyboard scan code." alt="" coords="2053,547,2311,573"/>
+<area shape="poly" id="edge32_Node000021_Node000027" title=" " alt="" coords="1924,366,1986,455,2023,503,2055,532,2069,540,2066,545,2052,537,2019,506,1981,458,1920,369"/>
+<area shape="rect" id="Node000023" href="$classUInputHelper.html#a9593958d5b802acdbb78ef7fe060b2d8" title=" " alt="" coords="2359,335,2587,375"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="2276,352,2345,352,2345,357,2276,357"/>
+<area shape="poly" id="edge33_Node000027_Node000012" title=" " alt="" coords="2268,570,2312,581,2380,609,2439,638,2436,643,2378,614,2310,587,2267,575"/>
+<area shape="poly" id="edge40_Node000032_Node000007" title=" " alt="" coords="943,533,1033,520,1136,514,1239,520,1320,533,1319,538,1238,525,1136,519,1034,525,944,538"/>
+<area shape="poly" id="edge41_Node000032_Node000029" title=" " alt="" coords="947,558,1057,579,1056,585,946,563"/>
+<area shape="poly" id="edge43_Node000032_Node000030" title=" " alt="" coords="985,545,1022,545,1022,551,985,551"/>
+<area shape="rect" id="Node000033" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="1033,434,1239,459"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="906,533,1032,476,1077,461,1078,466,1034,481,908,538"/>
+<area shape="rect" id="Node000037" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="526,915,705,941"/>
+<area shape="poly" id="edge47_Node000036_Node000037" title=" " alt="" coords="456,925,512,925,512,931,456,931"/>
+</map>

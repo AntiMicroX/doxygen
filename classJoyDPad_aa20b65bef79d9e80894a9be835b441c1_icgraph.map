@@ -1,0 +1,7 @@
+<map id="JoyDPad::releaseButtonEvents" name="JoyDPad::releaseButtonEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="491,13,709,38"/>
+<area shape="rect" id="Node000002" href="$classDPadEditDialog.html#adfad573034ea62490614303638c16040" title=" " alt="" coords="241,5,443,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,28,443,28,443,23,477,23"/>
+<area shape="rect" id="Node000003" href="$classDPadEditDialog.html#a87782609227b6c56ef82e3844a117dc1" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,28,193,28,193,23,228,23"/>
+</map>

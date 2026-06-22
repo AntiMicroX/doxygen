@@ -1,0 +1,9 @@
+<map id="JoyDPad::setButtonsExtraAccelerationCurve" name="JoyDPad::setButtonsExtraAccelerationCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,192,67"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a5f5921607d183f4f221f3a4f97249d8e" title=" " alt="" coords="243,5,465,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,34,230,30,231,35,193,39"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a9c9b250fd48631ca1632a9ad8562c040" title=" " alt="" coords="240,55,468,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,55,227,59,226,64,192,60"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="516,63,719,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="468,73,502,73,502,78,468,78"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="JoyControlStick::calculateLastDirectionalDistance" name="JoyControlStick::calculateLastDirectionalDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,193,201"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a1110ba6e8d87b226653e7d4c38602c92" title=" " alt="" coords="241,29,540,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,159,173,118,206,97,240,79,260,71,262,76,242,84,208,101,176,122,124,163"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a9a9a23ba2fd1d4304e759a2de2985a69" title="Calculate the current direction of the stick based on the values of the X and Y axes and the current ..." alt="" coords="297,117,485,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="193,165,283,151,284,156,194,170"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="297,205,485,245"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="194,193,284,207,283,212,193,198"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="297,293,485,333"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="136,199,242,255,319,286,317,291,240,260,133,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="337,30,334,20,342,10,361,5,391,3,424,5,443,13,441,18,423,11,391,8,362,10,345,15,339,21,342,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="337,118,334,108,342,98,361,93,391,91,424,93,443,101,441,106,423,99,391,96,362,98,345,103,339,109,342,116"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="337,206,334,196,342,186,361,181,391,179,424,181,443,189,441,194,423,187,391,184,362,186,345,191,339,197,342,204"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="337,294,334,284,342,274,361,269,391,267,424,269,443,277,441,282,423,275,391,272,362,274,345,279,339,285,342,292"/>
+</map>

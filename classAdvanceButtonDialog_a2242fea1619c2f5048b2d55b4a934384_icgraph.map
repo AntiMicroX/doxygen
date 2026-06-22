@@ -1,0 +1,8 @@
+<map id="AdvanceButtonDialog::setButtonCycleResetInterval" name="AdvanceButtonDialog::setButtonCycleResetInterval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="439,5,655,45"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="5,5,176,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,25,391,24,224,24,176,25,176,20,224,19,391,19,425,19"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html#a21b3b496b19dffe081924d94565f7235" title=" " alt="" coords="224,33,391,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="425,42,391,46,391,41,425,37"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="210,43,176,39,176,34,211,38"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UInputEventHandler::sendMouseAbsEvent" name="UInputEventHandler::sendMouseAbsEvent">
+<area shape="rect" id="Node000001" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="236,5,401,45"/>
+<area shape="rect" id="Node000002" href="$classUInputEventHandler.html#a904564c73d32751fe861347ceb46ab34" title="Do nothing by default. Useful for child classes to define behavior." alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,28,188,28,188,23,222,23"/>
+</map>

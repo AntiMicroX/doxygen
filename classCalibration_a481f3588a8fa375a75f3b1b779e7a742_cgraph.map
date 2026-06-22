@@ -1,0 +1,45 @@
+<map id="Calibration::startGyroscopeCalibration" name="Calibration::startGyroscopeCalibration">
+<area shape="rect" id="Node000001" title="Shows user instructions for gyroscope calibration and initializes estimators." alt="" coords="5,511,205,551"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#abec21f8927d3e2d63b81b20044d99bdc" title="Asks the user for confirmation with a given message if the given condition is false." alt="" coords="1088,518,1296,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,543,254,547,472,559,642,563,812,558,1030,547,1084,542,1084,548,1031,552,812,564,642,568,472,564,253,552,205,548"/>
+<area shape="rect" id="Node000004" href="$classStatisticsEstimator.html#aaab49a2dc276528c02522b5a59d6c9ff" title="Resets the StatisticsEstimator so that it is ready to process a new data stream." alt="" coords="1119,454,1265,494"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,531,364,533,569,531,799,522,1030,503,1105,491,1106,496,1031,508,800,527,570,536,364,538,205,536"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a044d2b812c7ecff3c9ed9d101af5d4a8" title="Resets the calibration of the sensor back to uncalibrated state." alt="" coords="1093,568,1291,593"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="178,548,254,563,367,575,483,583,711,590,917,589,1079,584,1079,589,917,594,711,595,482,588,366,580,253,568,177,554"/>
+<area shape="rect" id="Node000006" href="$classCalibration.html#aa04b4940601835dfbe0f227b10c50bee" title="Show calibration message to the user and enable gyroscope data event handler." alt="" coords="253,250,453,290"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,509,173,434,211,389,251,345,310,296,314,300,255,349,215,392,178,438,122,512"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="1353,325,1541,350"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1277,516,1304,503,1345,471,1381,433,1410,394,1430,361,1435,364,1414,397,1385,436,1349,475,1307,508,1279,521"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="391,247,456,216,545,177,655,137,778,102,911,78,979,73,1047,72,1114,77,1180,89,1245,108,1307,135,1332,152,1355,172,1393,220,1421,270,1439,311,1434,313,1417,272,1389,223,1352,176,1329,156,1304,140,1243,113,1179,94,1113,82,1046,77,979,78,911,84,780,107,656,142,547,182,458,220,393,252"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a05409e770daa81f5b9c38a9ba9b7e528" title=" " alt="" coords="1378,49,1517,74"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="369,248,424,192,460,162,500,137,612,82,710,44,801,19,888,6,978,3,1074,7,1306,30,1385,43,1384,49,1305,35,1073,12,978,8,889,12,802,24,712,49,614,87,503,141,463,166,427,196,373,251"/>
+<area shape="rect" id="Node000008" href="$classCalibration.html#a9cf0035951f569e3f36c69f0143415af" title="Sensor data event handler. Performs gyroscope offset and accelerometer neutral orientation estimation..." alt="" coords="501,305,732,330"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="454,285,534,300,533,305,453,290"/>
+<area shape="poly" id="edge27_Node000008_Node000001" title=" " alt="" coords="586,333,168,508,166,503,584,328"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="628,329,650,364,685,411,730,460,782,503,857,549,922,574,991,589,1079,603,1144,617,1197,629,1222,630,1247,627,1274,619,1304,603,1335,580,1360,551,1382,519,1400,485,1425,417,1439,363,1444,365,1430,419,1405,487,1387,522,1365,555,1338,584,1307,608,1276,624,1248,632,1222,635,1197,634,1143,622,1078,608,990,594,920,579,855,553,778,508,726,464,681,414,646,367,623,332"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="623,303,644,268,678,220,724,172,750,150,779,133,854,100,933,76,1014,60,1094,50,1172,45,1244,44,1364,50,1364,55,1244,50,1172,51,1095,55,1015,65,934,81,855,105,781,137,753,155,727,176,683,224,649,271,627,306"/>
+<area shape="poly" id="edge14_Node000008_Node000008" title=" " alt="" coords="574,307,565,297,570,287,587,280,617,278,654,282,664,287,668,293,663,296,661,291,653,288,617,284,589,286,574,291,571,296,578,303"/>
+<area shape="rect" id="Node000009" href="$classStatisticsEstimator.html#a4bb6b7ae19cdbc218a2ce1f352d054e4" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="810,147,1001,187"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="630,303,691,251,733,222,779,197,796,189,798,194,781,201,736,226,695,256,633,307"/>
+<area shape="rect" id="Node000011" href="$classStatisticsEstimator.html#a9f08ed1df807774ff9ecb23cfc0a9b82" title="Gets the amount of processed samples." alt="" coords="833,326,978,366"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="733,326,819,335,819,340,732,331"/>
+<area shape="rect" id="Node000012" href="$classStatisticsEstimator.html#a63a3c46de3af4b5bb1be407bcfe44ad8" title="Processes a new sample of the current data stream and updates internal intermediate values." alt="" coords="833,390,978,430"/>
+<area shape="poly" id="edge15_Node000008_Node000012" title=" " alt="" coords="650,328,781,375,820,386,818,392,779,380,648,333"/>
+<area shape="rect" id="Node000013" href="$classCalibration.html#ac9f926307bf97c12bd0595ea5599c81e" title="Shows the sensor offset calibration values to the user." alt="" coords="780,211,1031,251"/>
+<area shape="poly" id="edge16_Node000008_Node000013" title=" " alt="" coords="659,302,824,252,826,257,661,307"/>
+<area shape="rect" id="Node000015" href="$classCalibration.html#a946179d261fbbb93f2419697acac86d4" title="Shows user instructions for accelerometer calibration and initializes estimators." alt="" coords="792,454,1019,494"/>
+<area shape="poly" id="edge19_Node000008_Node000015" title=" " alt="" coords="633,329,694,382,736,413,781,439,798,447,796,451,779,444,733,417,690,386,629,333"/>
+<area shape="rect" id="Node000010" href="$classStatisticsEstimator.html#a8895a3729d2ed7bca9ce078fb17bb05a" title="Calculates the sample variance of the processed data stream from internal intermediate values." alt="" coords="1119,150,1265,190"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1001,165,1106,166,1106,171,1001,171"/>
+<area shape="poly" id="edge17_Node000013_Node000003" title=" " alt="" coords="1020,248,1306,303,1380,319,1378,324,1305,308,1019,254"/>
+<area shape="rect" id="Node000014" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="1115,217,1269,242"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="1031,228,1101,227,1101,233,1031,233"/>
+<area shape="poly" id="edge20_Node000015_Node000002" title=" " alt="" coords="1007,491,1115,513,1114,518,1005,496"/>
+<area shape="poly" id="edge21_Node000015_Node000004" title=" " alt="" coords="1019,471,1106,471,1106,476,1019,476"/>
+<area shape="poly" id="edge22_Node000015_Node000005" title=" " alt="" coords="944,492,1006,523,1080,554,1106,562,1105,567,1078,559,1004,528,941,496"/>
+<area shape="rect" id="Node000016" href="$classCalibration.html#a4d6005148d0108fc471b1bf688f3a171" title="Show calibration message to the user and enable accelerometer data event handler." alt="" coords="1079,318,1305,358"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="998,451,1030,439,1097,403,1153,364,1156,368,1100,407,1032,444,999,456"/>
+<area shape="poly" id="edge24_Node000016_Node000003" title=" " alt="" coords="1306,335,1339,335,1339,340,1306,340"/>
+<area shape="poly" id="edge25_Node000016_Node000007" title=" " alt="" coords="1224,315,1263,287,1303,252,1342,208,1377,163,1429,85,1434,88,1382,166,1346,212,1307,256,1267,291,1227,320"/>
+<area shape="poly" id="edge26_Node000016_Node000008" title=" " alt="" coords="1078,321,1030,316,883,311,745,314,745,308,883,306,1031,311,1079,316"/>
+</map>

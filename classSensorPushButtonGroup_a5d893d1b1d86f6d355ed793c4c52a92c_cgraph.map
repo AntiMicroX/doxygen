@@ -1,0 +1,34 @@
+<map id="SensorPushButtonGroup::SensorPushButtonGroup" name="SensorPushButtonGroup::SensorPushButtonGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,235,192,275"/>
+<area shape="rect" id="Node000002" href="$classSensorPushButtonGroup.html#aecd2683ab789e62c418fd9227ae9f9a6" title="Generates a new push button at the given grid coordinates." alt="" coords="245,153,423,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,233,239,202,260,195,262,200,241,207,156,238"/>
+<area shape="rect" id="Node000014" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="261,217,407,243"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="192,243,247,237,248,242,193,248"/>
+<area shape="rect" id="Node000015" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="240,267,428,292"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="193,262,227,266,226,271,192,268"/>
+<area shape="rect" id="Node000016" href="$classSensorPushButtonGroup.html#a934256a10c59f8fd8a4d4e2e2c947af7" title="Shows the sensor settings dialog." alt="" coords="245,317,423,357"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="157,273,241,302,262,310,261,315,239,307,156,278"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a08206c3d636852749ad6e1bb731de4fa" title=" " alt="" coords="476,45,683,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,150,475,101,508,87,510,92,477,106,375,155"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#af66a7a56bb4ea2b5e2c6938862268e57" title=" " alt="" coords="741,108,923,133"/>
+<area shape="poly" id="edge13_Node000002_Node000007" title=" " alt="" coords="423,153,476,145,607,131,728,123,728,128,607,137,476,150,424,158"/>
+<area shape="rect" id="Node000008" href="$classJoySensor.html#ade5fe9722741d61eeac6811fe6a53cf2" title="Returns a QHash which maps the SensorDirection to the corresponding JoySensorButton." alt="" coords="497,160,662,185"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="424,170,483,170,483,175,424,175"/>
+<area shape="rect" id="Node000009" href="$classSensorPushButtonGroup.html#a2332cbbc2b2bab1f23b924e91df1219a" title="Shows the button mapping dialog for the given direction button." alt="" coords="484,210,675,250"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="421,190,480,204,479,209,420,195"/>
+<area shape="rect" id="Node000012" href="$classSensorPushButtonGroup.html#a6334cbb94dc40f2d90ca820feba84737" title=" " alt="" coords="487,274,672,314"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="408,190,430,203,445,217,454,232,463,246,478,260,487,266,485,270,474,264,459,250,450,235,441,221,426,207,405,195"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="737,5,927,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="682,43,748,31,749,36,683,48"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="731,55,933,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="683,63,717,63,717,69,683,68"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="671,82,761,102,760,108,670,87"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a84b5b6dfcb11bd5b8416569d2ce9e40a" title=" " alt="" coords="981,5,1185,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="927,15,968,15,968,21,927,21"/>
+<area shape="rect" id="Node000010" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="731,171,933,196"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="674,210,749,196,750,201,675,215"/>
+<area shape="rect" id="Node000011" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="743,220,921,245"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="675,228,730,229,730,234,675,234"/>
+<area shape="rect" id="Node000013" href="$classSensorPushButtonGroup.html#a4507ecca52877ed538af57b6881c73df" title=" " alt="" coords="743,274,921,314"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="672,291,729,291,729,297,672,297"/>
+</map>

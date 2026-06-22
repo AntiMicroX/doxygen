@@ -1,0 +1,9 @@
+<map id="AdvanceButtonDialog::connectButtonEvents" name="AdvanceButtonDialog::connectButtonEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,173,109"/>
+<area shape="rect" id="Node000002" href="$classSimpleKeyGrabberButton.html#a365ee8b3c43a1499e0fd5cda58d855c1" title=" " alt="" coords="222,5,409,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,67,230,47,232,52,161,72"/>
+<area shape="rect" id="Node000003" href="$classSimpleKeyGrabberButton.html#a25cefc81223387f0bfd2183627109ff8" title=" " alt="" coords="222,69,409,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,87,208,87,208,92,174,92"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="221,134,409,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,107,252,128,251,133,168,112"/>
+</map>

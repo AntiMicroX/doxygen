@@ -1,0 +1,11 @@
+<map id="WinSendInputEventHandler::sendKeyboardEvent" name="WinSendInputEventHandler::sendKeyboardEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,205,95"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="283,5,481,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,53,253,41,301,31,302,36,254,46,198,58"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonSlot.html#a509e28e2c92e8aea3433a19f2d0311b2" title=" " alt="" coords="283,55,481,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,73,270,73,270,78,206,78"/>
+<area shape="rect" id="Node000004" href="$classWinExtras.html#a0bfa711c1abe72486dfebc8ff6fe7f5a" title="Convert a virtual key into the corresponding keyboard scan code." alt="" coords="253,120,511,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,93,254,105,302,115,301,120,253,110,197,98"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="559,120,747,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="511,130,545,130,545,135,511,135"/>
+</map>

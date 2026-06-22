@@ -1,0 +1,10 @@
+<map id="JoyAxis::isDefault" name="JoyAxis::isDefault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,31,620,56"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a5de4017d04f877e12df92334f41d08f3" title="Check if this set has any mapped event." alt="" coords="257,5,433,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,36,433,31,434,26,469,31"/>
+<area shape="rect" id="Node000004" href="$classJoyAxisXml.html#a044a6be446ab6cc4b6fcb359e0cef898" title=" " alt="" coords="256,55,435,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,56,435,60,434,54,469,50"/>
+<area shape="rect" id="Node000003" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,31,208,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,31,209,35,208,30,243,26"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="242,60,208,56,208,51,243,54"/>
+</map>

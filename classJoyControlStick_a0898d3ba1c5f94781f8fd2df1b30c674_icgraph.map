@@ -1,0 +1,24 @@
+<map id="JoyControlStick::calculateXDistanceFromDeadZone" name="JoyControlStick::calculateXDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title="Get distance of the X axis past the assigned dead zone." alt="" coords="899,165,1087,205"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="1035,154,1020,147,993,144,968,146,954,151,948,157,951,164,946,166,943,156,951,146,967,141,993,139,1022,142,1038,149"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a5b043c1100b4d83df1858b028820e70c" title="Used to calculate the distance value that should be used for keyboard events and distance slots." alt="" coords="647,69,835,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="938,162,850,124,815,112,816,107,852,119,940,157"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#afb2b5e5e03f384d3d0533518baedf7ab" title=" " alt="" coords="647,133,835,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="885,174,835,168,835,163,886,169"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStick.html#acbf146b02dd22b8970e90580dbac5a61" title=" " alt="" coords="631,197,851,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="886,202,851,206,851,201,885,196"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#a8d8449aae58887816a8662e79a233ad1" title="Used to calculate the distance value that should be used for mouse movement." alt="" coords="644,261,837,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="940,214,852,252,816,264,815,259,850,247,938,209"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickButton.html#a22064a3a113464fb9969ebb30e011d22" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="339,5,547,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="633,69,536,48,537,43,634,64"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickModifierButton.html#a65412dae4962e20798e45533f0b98948" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="335,69,552,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="633,92,552,92,552,87,633,87"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStickModifierButton.html#ac2f9e7924a72d288733c987fc3498a91" title="Get the distance factor that should be used for mouse movement." alt="" coords="5,69,256,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,92,256,92,256,87,321,87"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStickModifierButton.html#adaf7679f50f4cd6b8d0b217351c7032c" title=" " alt="" coords="304,133,583,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="633,156,583,156,583,151,633,151"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStickButton.html#a3fde8ac631cd01ff73e1e13b4317330c" title=" " alt="" coords="304,197,583,237"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="617,220,583,220,583,215,617,215"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStickButton.html#ab1f0e0a9f9d2ba01768619401f666fff" title="Get the distance factor that should be used for mouse movement." alt="" coords="318,261,569,301"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="630,284,569,284,569,279,630,279"/>
+</map>

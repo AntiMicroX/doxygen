@@ -1,0 +1,10 @@
+<map id="AdvanceButtonDialog::insertCycleSlot" name="AdvanceButtonDialog::insertCycleSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="680,5,843,45"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a973a9cf7b58950cda18e39fdffb87e09" title=" " alt="" coords="469,5,632,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,28,632,28,632,23,666,23"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="5,5,176,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,25,421,24,224,24,176,25,176,20,224,19,421,19,456,19"/>
+<area shape="rect" id="Node000004" href="$classAdvanceButtonDialog.html#af8430c4a355c90c657d69a44a85e6b84" title=" " alt="" coords="224,33,421,73"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,40,422,44,421,39,455,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="210,42,176,38,177,33,210,37"/>
+</map>

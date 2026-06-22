@@ -1,0 +1,18 @@
+<map id="UInputEventHandler::write_uinput_event" name="UInputEventHandler::write_uinput_event">
+<area shape="rect" id="Node000001" title="Write uinput event to selected file uinput file." alt="" coords="468,165,623,205"/>
+<area shape="rect" id="Node000002" href="$classUInputEventHandler.html#a86d9fad5709b20721c166693925144ba" title=" " alt="" coords="249,5,407,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,156,475,107,448,82,419,60,396,48,399,43,421,55,452,78,479,103,523,153"/>
+<area shape="rect" id="Node000003" href="$classUInputEventHandler.html#a73f8343b9072de4649b7c41316d0641a" title="Move cursor to selected absolute location (x, y) on selected display." alt="" coords="245,69,411,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="495,161,419,124,389,112,391,107,421,119,497,156"/>
+<area shape="rect" id="Node000005" href="$classUInputEventHandler.html#a1f3bdecee2237c6fd6d93ba00058fa7d" title=" " alt="" coords="236,133,420,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="454,175,420,169,420,164,455,169"/>
+<area shape="rect" id="Node000006" href="$classUInputEventHandler.html#a5e8f8a059421c94e8879fb078a2b3016" title="Move cursor to selected relative location (deltax delaty)" alt="" coords="251,197,405,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="455,201,405,209,405,203,454,196"/>
+<area shape="rect" id="Node000007" href="$classUInputEventHandler.html#ae7f56462de69c74e7f2add96434a5313" title=" " alt="" coords="17,283,176,323"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="501,215,463,235,421,252,358,270,293,283,177,299,176,294,292,278,357,264,419,247,461,230,499,210"/>
+<area shape="rect" id="Node000008" href="$classUInputEventHandler.html#abd71760acc51be1442f4f8e2edc9a79d" title=" " alt="" coords="251,312,405,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="517,217,474,257,421,296,385,314,383,310,419,291,470,252,514,213"/>
+<area shape="rect" id="Node000004" href="$classUInputEventHandler.html#a904564c73d32751fe861347ceb46ab34" title="Do nothing by default. Useful for child classes to define behavior." alt="" coords="5,69,188,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,92,188,92,188,87,231,87"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="237,323,176,315,177,310,238,318"/>
+</map>

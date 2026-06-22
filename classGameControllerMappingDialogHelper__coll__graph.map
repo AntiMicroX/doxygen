@@ -1,0 +1,15 @@
+<map id="GameControllerMappingDialogHelper" name="GameControllerMappingDialogHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,228,296"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,80,154,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,120,119,256,114,256,114,120"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="189,168,289,193"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="146,111,224,166,221,170,143,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,202,178,219,136,258,132,254,175,215,202,198"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="253,263,423,289"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="234,207,234,219,238,231,256,249,280,261,278,266,253,253,233,233,228,220,229,207"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="327,252,319,235,307,219,290,206,270,196,273,191,293,201,311,215,323,232,332,250"/>
+<area shape="rect" id="Node000005" href="$classAntiMicroSettings.html" title=" " alt="" coords="179,80,316,105"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="248,119,243,168,238,167,242,119"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="205,5,290,31"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="250,45,250,80,245,80,245,45"/>
+</map>

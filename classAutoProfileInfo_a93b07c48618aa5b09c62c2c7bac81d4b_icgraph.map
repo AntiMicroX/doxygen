@@ -1,0 +1,28 @@
+<map id="AutoProfileInfo::setDefaultState" name="AutoProfileInfo::setDefaultState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="800,154,995,194"/>
+<area shape="rect" id="Node000002" href="$classAutoProfileInfo.html#a0c2aedb78f82ab3ecf50a52c7cca50ac" title=" " alt="" coords="529,5,752,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="869,145,818,93,786,66,751,44,723,33,725,28,753,40,789,62,822,89,873,142"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileInfo.html#a5040ae1fad36bbc5f53d6843c8ef20b5" title=" " alt="" coords="529,55,752,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="854,149,806,120,751,94,715,83,716,78,753,89,808,115,857,144"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileInfo.html#a106af1726822576971ff86c3d7c0aa8f" title=" " alt="" coords="529,104,752,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="793,154,698,132,699,127,794,148"/>
+<area shape="rect" id="Node000005" href="$classMainSettingsDialog.html#ad5b67a6742eafcd666fc73752f94a638" title=" " alt="" coords="541,154,741,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="786,177,741,177,741,171,786,171"/>
+<area shape="rect" id="Node000007" href="$classMainSettingsDialog.html#ae075b085dd2e591e721a3c45e41754b1" title=" " alt="" coords="558,218,723,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="804,200,722,221,721,215,803,195"/>
+<area shape="rect" id="Node000008" href="$classAddEditAutoProfileDialog.html#a6c236891f9ad9def8e162a795c6cc73b" title=" " alt="" coords="537,282,745,322"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="862,205,812,240,753,272,723,284,721,279,751,268,809,235,859,200"/>
+<area shape="rect" id="Node000010" href="$classAutoProfileWatcher.html#a561af8319ef8031986ac0eaee221c6a3" title=" " alt="" coords="551,346,730,386"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="878,208,826,273,792,307,753,336,730,348,727,343,751,332,788,303,822,269,873,204"/>
+<area shape="rect" id="Node000006" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="287,186,445,226"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="527,190,445,200,445,194,527,185"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="544,229,444,218,445,212,545,224"/>
+<area shape="rect" id="Node000009" href="$classAddEditAutoProfileDialog.html#a518993ac329de2e2bee5eeb392d124ec" title=" " alt="" coords="269,282,463,322"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="523,305,463,305,463,299,523,299"/>
+<area shape="rect" id="Node000011" href="$classAutoProfileWatcher.html#a6c9832eb02480c6909f49cbb05d5113c" title=" " alt="" coords="289,346,443,386"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="537,369,444,369,444,363,537,363"/>
+<area shape="rect" id="Node000012" href="$classMainWindow.html#ae9f72ff45056908317963a1e7fa634a0" title="Build list of current input devices and pass it to settings dialog instance. Open Settings dialog." alt="" coords="251,410,481,450"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="542,392,453,413,452,407,540,387"/>
+<area shape="rect" id="Node000013" href="$classMainWindow.html#a2f0c03d3d51748ab794e698322110614" title=" " alt="" coords="5,417,203,443"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="237,433,203,433,203,427,237,427"/>
+</map>

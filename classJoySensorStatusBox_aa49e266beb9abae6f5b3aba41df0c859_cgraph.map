@@ -1,0 +1,30 @@
+<map id="JoySensorStatusBox::drawArtificialHorizon" name="JoySensorStatusBox::drawArtificialHorizon">
+<area shape="rect" id="Node000001" title="draws the artificial horizon instrument on the screen" alt="" coords="5,295,172,335"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="235,29,420,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,294,105,247,130,184,167,119,191,89,218,64,225,59,228,63,222,68,195,93,171,122,135,186,110,248,97,296"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="238,103,417,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="96,294,114,260,141,217,176,173,218,137,229,131,232,136,222,142,180,177,145,220,119,262,101,297"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="236,152,419,177"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="105,293,153,244,184,217,219,194,253,179,255,184,221,199,188,222,156,248,109,297"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="483,228,637,253"/>
+<area shape="poly" id="edge16_Node000001_Node000005" title=" " alt="" coords="114,293,161,263,190,249,219,238,284,226,349,221,413,222,469,226,469,231,412,227,350,226,284,231,221,243,192,254,164,267,117,297"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="220,253,435,279"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="172,295,251,279,252,284,173,301"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="239,303,415,328"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="173,313,226,313,226,318,173,318"/>
+<area shape="rect" id="Node000008" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="255,352,400,377"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="173,330,252,347,251,352,172,335"/>
+<area shape="rect" id="Node000009" href="$classJoySensor.html#a5f5569cbac7611959c23a68866310094" title=" " alt="" coords="230,401,425,427"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="121,333,167,360,221,386,248,395,246,400,219,391,165,365,118,338"/>
+<area shape="rect" id="Node000010" href="$classJoySensor.html#a8ede92b92d962399b706bcfe80ac7458" title=" " alt="" coords="231,451,424,476"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="108,334,155,385,187,413,221,436,239,444,237,449,219,440,183,417,151,389,104,338"/>
+<area shape="rect" id="Node000011" href="$classJoySensor.html#a80ca5058beac30c05ac2b0b688ee3f52" title=" " alt="" coords="230,500,425,525"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="102,334,120,368,146,409,180,450,222,485,235,492,232,497,218,490,177,454,142,412,115,370,97,337"/>
+<area shape="rect" id="Node000012" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="233,549,421,575"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="98,335,114,377,139,431,175,488,197,513,222,535,232,541,229,546,218,539,193,517,170,491,134,434,109,379,93,336"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="290,31,281,21,286,11,301,5,327,3,360,7,372,16,369,20,358,11,327,8,302,10,289,15,287,20,294,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="290,104,281,94,286,84,301,78,327,76,360,80,372,89,369,94,358,85,327,81,302,83,289,88,287,94,294,101"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="373,175,435,194,512,221,510,226,434,199,372,180"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="435,252,469,248,469,253,435,257"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="388,300,434,287,517,256,518,261,435,293,389,305"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="InputDaemon::refreshJoysticks" name="InputDaemon::refreshJoysticks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="363,43,585,68"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="108,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,43,301,33,302,28,371,38"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#a7dbb5a72a490efb5b6f881528f1186ba" title=" " alt="" coords="129,79,293,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,73,294,83,293,77,367,67"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="243,68,234,60,211,57,192,59,183,64,181,70,186,77,182,80,175,70,179,61,191,54,211,52,236,56,246,64"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,79,60,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,94,60,94,60,89,116,89"/>
+</map>

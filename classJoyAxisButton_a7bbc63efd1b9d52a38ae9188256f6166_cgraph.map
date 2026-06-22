@@ -1,0 +1,12 @@
+<map id="JoyAxisButton::getLastMouseDistanceFromDeadZone" name="JoyAxisButton::getLastMouseDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,217,133"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a9a4983bcdfce9620851a33d9a69343fa" title=" " alt="" coords="283,5,469,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,91,264,55,289,47,291,52,266,60,166,96"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#ae168fbb214a184fcb41a6ab6b27e8f4e" title=" " alt="" coords="281,93,471,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,111,267,111,267,116,217,116"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#a6ed704ce0c9da777cbb5c694a9ed2238" title=" " alt="" coords="265,157,487,197"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="195,131,280,152,279,157,194,136"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="535,5,731,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,23,521,23,521,28,469,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="328,94,326,84,333,74,350,69,376,67,406,70,422,77,420,82,404,75,376,72,351,74,336,79,331,85,334,92"/>
+</map>

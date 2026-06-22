@@ -1,0 +1,7 @@
+<map id="JoyButton::copyAssignments" name="JoyButton::copyAssignments">
+<area shape="rect" id="Node000001" title="Copy assignments and properties from one button to another. Used for set copying." alt="" coords="297,31,505,56"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a854637def50e6ef091c87ee78e7dbb58" title=" " alt="" coords="31,5,224,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,35,224,30,225,24,284,30"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a57b418a495a22ea5182e89ef4a6cf233" title="Copy slots from all stick buttons and properties from a stick onto another." alt="" coords="5,55,249,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,56,250,59,250,54,283,51"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ButtonEditDialog::selectionCleared" name="ButtonEditDialog::selectionCleared">
+<area shape="rect" id="Node000001" title=" " alt="" coords="783,71,981,111"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,14,188,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="831,67,785,47,734,32,661,20,586,13,436,9,299,14,188,24,188,19,299,9,436,3,586,7,662,15,735,27,787,42,833,62"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#a7b7f4ddddf1b67c7883cc03d7469987f" title=" " alt="" coords="536,42,719,82"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="769,81,718,75,719,69,769,75"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="236,42,472,82"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="769,96,735,96,627,100,580,100,520,96,442,84,442,79,520,91,580,95,627,95,735,91,769,91"/>
+<area shape="rect" id="Node000005" href="$classButtonEditDialog.html#aa9469772bd8abc88407492e2c9385687" title=" " alt="" coords="520,156,735,196"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="810,118,689,159,687,154,808,113"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="522,64,472,64,472,59,522,59"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="222,50,188,46,189,41,223,45"/>
+</map>

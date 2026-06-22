@@ -1,0 +1,32 @@
+<map id="StickPushButtonGroup::generateButtons" name="StickPushButtonGroup::generateButtons">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,210,172,250"/>
+<area shape="rect" id="Node000002" href="$classStickPushButtonGroup.html#a056e9f27f67795a752ce67be2f3ebf56" title=" " alt="" coords="231,153,397,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,207,221,194,222,199,169,213"/>
+<area shape="rect" id="Node000014" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="220,217,408,243"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="172,227,206,227,206,233,172,233"/>
+<area shape="rect" id="Node000015" href="$classStickPushButtonGroup.html#a2db63a3856a8a931cd7a4459b33017f0" title=" " alt="" coords="231,267,397,307"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="169,247,222,261,221,266,167,253"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a08206c3d636852749ad6e1bb731de4fa" title=" " alt="" coords="456,45,663,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,150,455,101,488,87,490,92,457,106,355,155"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#af66a7a56bb4ea2b5e2c6938862268e57" title=" " alt="" coords="726,108,907,133"/>
+<area shape="poly" id="edge13_Node000002_Node000007" title=" " alt="" coords="397,154,456,145,589,131,712,123,712,128,590,136,456,150,398,159"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="459,160,659,185"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="397,170,446,170,446,175,397,175"/>
+<area shape="rect" id="Node000009" href="$classStickPushButtonGroup.html#a05d2d83f1582bb66befae5b7186601fd" title=" " alt="" coords="470,210,649,250"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="398,189,460,204,459,209,397,195"/>
+<area shape="rect" id="Node000012" href="$classStickPushButtonGroup.html#a2f16803c8ccf0ab8e0f9747a29919f40" title=" " alt="" coords="467,274,652,314"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="388,190,410,203,425,217,434,232,443,246,458,260,467,266,465,270,454,264,439,250,430,235,421,221,406,207,385,195"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="721,5,912,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="662,43,732,31,733,36,663,49"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="715,55,918,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="663,63,702,63,702,69,663,68"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="652,82,745,102,744,108,651,87"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a84b5b6dfcb11bd5b8416569d2ce9e40a" title=" " alt="" coords="971,5,1175,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="912,15,957,15,957,21,912,21"/>
+<area shape="rect" id="Node000010" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="716,171,917,196"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="649,211,732,196,733,201,650,216"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#a368fdbc00c4a4a9cf3f3e49d6736da65" title="Get pointer to the set that a stick belongs to." alt="" coords="711,220,923,245"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="649,228,697,229,697,234,649,234"/>
+<area shape="rect" id="Node000013" href="$classStickPushButtonGroup.html#aa69d1cbdb87e3d495d58d236911fc43e" title=" " alt="" coords="733,274,900,314"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="652,291,720,291,720,297,652,297"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="LogHelper::LogHelper" name="LogHelper::LogHelper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,168,80"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#ada09e06da95e8b6c2cd0beac8d7ed32b" title="Get the Instance of logger." alt="" coords="228,5,379,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,52,233,31,234,36,144,57"/>
+<area shape="rect" id="Node000004" href="$classLogger.html#a1e1e7a16e8d11d51a677e0dc5fa23869" title="Write an individual message to the text stream." alt="" coords="227,55,379,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,65,214,65,214,70,168,70"/>
+<area shape="rect" id="Node000005" href="$classLogHelper.html#a06cb51ddb275ab13a787bcdbd2d1edde" title=" " alt="" coords="216,104,391,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="144,77,234,98,233,104,143,83"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="439,31,627,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,24,425,29,424,34,379,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="379,57,425,52,425,57,380,62"/>
+</map>

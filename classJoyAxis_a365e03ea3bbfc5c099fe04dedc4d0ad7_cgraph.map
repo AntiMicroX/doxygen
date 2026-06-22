@@ -1,0 +1,11 @@
+<map id="JoyAxis::performCalibration" name="JoyAxis::performCalibration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,207,60"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="255,5,456,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,33,241,29,241,34,207,38"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a083e99543c0d57d517a828f416c927ef" title=" " alt="" coords="256,55,455,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,56,242,60,242,65,207,61"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a7a7e979f61e7ad7ab12d32913004a81b" title=" " alt="" coords="534,37,689,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,63,520,56,520,62,455,68"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="504,87,719,112"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="455,82,491,85,490,91,455,87"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="JoyButton::setMouseSpeedX" name="JoyButton::setMouseSpeedX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1107,160,1312,185"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonXml.html#a9d7b2a6324a2f8fe4f424f78aa43d261" title=" " alt="" coords="831,25,1021,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1180,154,1125,116,1058,79,1021,66,1022,61,1060,74,1128,111,1183,149"/>
+<area shape="rect" id="Node000006" href="$classMouseAxisSettingsDialog.html#aefacd25243ccdcca32e68f4092c4d5ee" title=" " alt="" coords="815,89,1037,129"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1138,160,1014,131,1016,126,1139,154"/>
+<area shape="rect" id="Node000008" href="$classMouseControlStickSettingsDialog.html#a80751b8142579087fe2d6f9b681b77b7" title=" " alt="" coords="793,153,1059,193"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1093,175,1059,175,1059,170,1093,170"/>
+<area shape="rect" id="Node000010" href="$classMouseDPadSettingsDialog.html#a57f06fc4497c755603c44709c4411e1f" title=" " alt="" coords="815,221,1037,261"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1142,191,1011,223,1010,218,1141,186"/>
+<area shape="rect" id="Node000012" href="$classMouseSensorSettingsDialog.html#aebea5b3a1dd63190c90ef3fdf3b200b4" title="Horizontal mouse speed change UI event handler Updates horizontal mouse speed on all buttons of the a..." alt="" coords="815,285,1037,325"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1184,196,1129,236,1060,275,1027,287,1025,282,1058,270,1126,232,1181,192"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonXml.html#a9d79d75b14b57419ed1fc5639dde8515" title=" " alt="" coords="527,31,717,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,47,717,46,717,41,817,42"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="252,5,451,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="514,36,450,30,451,25,514,31"/>
+<area shape="rect" id="Node000005" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,31,204,56"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="513,46,204,46,204,41,513,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,32,205,36,204,30,238,27"/>
+<area shape="rect" id="Node000007" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="524,81,720,121"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="801,108,720,106,720,101,801,103"/>
+<area shape="rect" id="Node000009" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="499,145,745,200"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="779,175,746,175,746,170,779,170"/>
+<area shape="rect" id="Node000011" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="521,225,723,265"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="801,245,723,246,723,241,801,240"/>
+<area shape="rect" id="Node000013" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="516,289,728,329"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="801,309,728,310,728,305,801,304"/>
+</map>

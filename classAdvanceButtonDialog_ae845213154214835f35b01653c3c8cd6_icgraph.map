@@ -1,0 +1,27 @@
+<map id="AdvanceButtonDialog::connectTimeBoxesEvents" name="AdvanceButtonDialog::connectTimeBoxesEvents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1232,145,1429,185"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a31876eda1370e7e4190f02c8c5863755" title=" " alt="" coords="989,113,1184,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1218,153,1184,149,1185,143,1219,148"/>
+<area shape="rect" id="Node000011" href="$classAdvanceButtonDialog.html#a634243c95c88918cdb195f5417a585fa" title=" " alt="" coords="1005,177,1168,217"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="1219,183,1168,189,1168,184,1218,177"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html#a31e78ce60334e0bcef5dad4cd43ee1e9" title=" " alt="" coords="731,113,941,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="976,136,942,136,942,131,976,131"/>
+<area shape="rect" id="Node000004" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="11,171,182,211"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="717,135,493,140,364,148,236,161,174,173,173,168,236,156,364,142,493,134,717,129"/>
+<area shape="rect" id="Node000005" href="$classAdvanceButtonDialog.html#aa97a397aca5e36a6b580309e04ac3a9d" title=" " alt="" coords="520,56,683,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="740,113,682,98,684,93,741,107"/>
+<area shape="rect" id="Node000008" href="$classAdvanceButtonDialog.html#a5e7b569639f67d97fdcf89f6733f4421" title=" " alt="" coords="520,199,683,239"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="769,160,658,201,656,196,767,155"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="506,78,377,88,306,100,237,117,177,143,128,173,125,168,175,138,235,112,305,95,376,83,506,73"/>
+<area shape="rect" id="Node000006" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="236,5,472,45"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="506,59,452,48,453,43,507,54"/>
+<area shape="rect" id="Node000007" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="222,28,188,28,188,23,222,23"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="507,229,378,233,306,231,236,225,170,213,171,208,236,220,307,226,378,227,506,223"/>
+<area shape="rect" id="Node000009" href="$classAdvanceButtonDialog.html#ad40bcfad2f4380b746002defc689a2b6" title=" " alt="" coords="273,285,435,325"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="536,246,473,269,418,288,416,283,471,264,534,241"/>
+<area shape="rect" id="Node000010" href="$classAdvanceButtonDialog.html#adde227692a4a5abc4f4e9cc027ba5866" title=" " alt="" coords="273,171,435,211"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="506,211,435,203,436,197,507,205"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="271,283,235,269,178,241,129,213,132,209,181,236,237,264,273,278"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="259,193,182,193,182,188,259,188"/>
+</map>

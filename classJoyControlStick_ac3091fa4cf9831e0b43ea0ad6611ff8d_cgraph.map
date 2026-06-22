@@ -1,0 +1,16 @@
+<map id="JoyControlStick::calculateAccelerationDistance" name="JoyControlStick::calculateAccelerationDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,157,193,197"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ae90f62171258764a4d5840fa7af02c57" title=" " alt="" coords="241,61,440,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,155,240,111,260,103,262,108,242,116,143,159"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a382e793296ce44f3382df46cc571b88a" title=" " alt="" coords="247,125,435,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="193,162,233,157,233,162,194,168"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a1938cd9ca4c5da529ab5fb7edd9674df" title=" " alt="" coords="247,189,435,229"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="194,187,233,192,233,198,193,192"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="247,254,434,279"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="141,195,242,239,271,248,269,253,240,244,139,200"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a033cec8c362b923e61ec638645e7a80c" title="Calculate the bearing (in degrees) corresponding to the current position of the X and Y axes of a sti..." alt="" coords="489,29,677,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,66,476,61,476,66,441,71"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#af4ceb950523eedb36857e695d259d383" title=" " alt="" coords="488,93,679,133"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="441,92,475,96,474,102,440,97"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="538,30,535,20,543,10,559,5,583,3,612,6,627,13,625,18,610,11,583,8,560,10,546,15,541,21,543,28"/>
+</map>

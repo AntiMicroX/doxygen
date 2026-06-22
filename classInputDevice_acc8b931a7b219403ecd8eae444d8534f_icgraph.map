@@ -1,0 +1,23 @@
+<map id="InputDevice::updateSetStickButtonNames" name="InputDevice::updateSetStickButtonNames">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1160,77,1367,117"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,31,543,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1201,74,1157,60,1111,49,1037,38,960,30,806,24,663,27,543,34,543,28,663,21,806,19,960,25,1037,32,1113,43,1159,55,1203,69"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a85f69eb270f134d0d6970ac68ec9cbed" title="Sets the name of a mapped sensor button in all sets Used during XML loading." alt="" coords="857,59,1112,84"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1146,89,1112,86,1112,80,1146,83"/>
+<area shape="rect" id="Node000009" href="$classInputDevice.html#afb3c54a95a3f41f4a6f322d244e29673" title=" " alt="" coords="863,108,1106,133"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1146,118,1107,122,1106,116,1146,113"/>
+<area shape="rect" id="Node000003" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,5,241,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,34,241,31,242,26,276,29"/>
+<area shape="rect" id="Node000004" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,55,189,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="276,57,190,65,189,59,276,52"/>
+<area shape="rect" id="Node000006" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="598,116,802,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="907,89,858,99,763,119,762,113,857,94,906,84"/>
+<area shape="rect" id="Node000008" href="$classInputDevice.html#a02bdfd2dbbaa852aa608dc27f85563c6" title="Rename mapped sensor button in all sets to the name in the active set." alt="" coords="591,51,809,91"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="844,83,810,83,810,77,844,78"/>
+<area shape="rect" id="Node000007" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="297,116,535,141"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="584,131,536,131,536,126,584,126"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="576,62,543,58,543,53,577,57"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="823,60,857,60,857,65,823,65"/>
+<area shape="poly" id="edge12_Node000009_Node000001" title=" " alt="" coords="1058,104,1159,94,1160,99,1059,109"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="850,127,802,128,802,123,850,122"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="JoyDPad::getName" name="JoyDPad::getName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="531,99,673,125"/>
+<area shape="rect" id="Node000002" href="$classDPadPushButton.html#ad6bc6aa6744a480371f447261bfe3464" title=" " alt="" coords="271,5,466,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,96,482,60,446,48,448,43,484,55,565,91"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadButton.html#a74e36e481a0463fa410a687805084010" title=" " alt="" coords="255,70,482,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="517,104,469,98,470,93,517,99"/>
+<area shape="rect" id="Node000004" href="$classDPadEditDialog.html#a159bedd30c6c36cb1c60e6146183c1a2" title=" " alt="" coords="255,120,482,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="517,125,482,129,482,124,516,120"/>
+<area shape="rect" id="Node000006" href="$classMouseDPadSettingsDialog.html#a68706a0ac77693478c027a0d76cb0fcc" title=" " alt="" coords="255,184,483,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="568,134,484,174,449,186,447,181,482,170,566,129"/>
+<area shape="rect" id="Node000005" href="$classDPadEditDialog.html#a87782609227b6c56ef82e3844a117dc1" title=" " alt="" coords="12,120,200,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,143,200,143,200,137,242,137"/>
+<area shape="rect" id="Node000007" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="5,184,207,224"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="241,207,207,207,207,201,241,201"/>
+</map>

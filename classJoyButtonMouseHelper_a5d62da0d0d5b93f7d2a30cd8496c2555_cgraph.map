@@ -1,0 +1,5 @@
+<map id="JoyButtonMouseHelper::resetButtonMouseDistances" name="JoyButtonMouseHelper::resetButtonMouseDistances">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,219,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a6f1b62fe61277f5f341dd5156f701946" title="Get the list of buttons that have a pending mouse movement event." alt="" coords="267,5,476,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,23,253,23,253,28,219,28"/>
+</map>

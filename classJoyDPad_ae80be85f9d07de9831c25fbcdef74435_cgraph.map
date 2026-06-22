@@ -1,0 +1,7 @@
+<map id="JoyDPad::hasSameButtonsMouseCurve" name="JoyDPad::hasSameButtonsMouseCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,241,63"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#a5f5921607d183f4f221f3a4f97249d8e" title=" " alt="" coords="289,5,512,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,30,276,27,276,32,242,35"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ad107fc4d6e2725fd5b09a2412c18b1e3" title=" " alt="" coords="303,55,498,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,51,290,55,289,60,241,56"/>
+</map>

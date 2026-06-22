@@ -1,0 +1,29 @@
+<map id="JoyControlStickStatusBox::drawEightWayBox" name="JoyControlStickStatusBox::drawEightWayBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,305,192,345"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a0e3fe034c525e212163dd8d59cef8428" title=" " alt="" coords="265,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,304,117,254,143,186,183,116,209,83,238,55,251,47,254,51,242,59,213,87,188,119,148,189,122,255,107,306"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ae042621e02d88cf4f4574b7c45029e1f" title=" " alt="" coords="265,69,451,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,304,124,265,153,215,191,164,238,121,251,113,254,117,242,125,195,168,157,218,129,268,111,306"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a2798057ca20a52307ced3f75eb5d9aaa" title="Get the assigned dead zone value." alt="" coords="249,134,467,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="110,304,160,237,197,200,239,170,255,162,258,166,241,174,200,204,164,240,114,307"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#a19d2cb8e0f5888c4610dbfb29ffc5340" title="Get the assigned diagonal range value." alt="" coords="254,184,462,224"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="125,303,176,268,239,234,257,226,259,231,241,238,179,272,128,307"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStick.html#af1d63f69041b08e3e1e086768a4c22cf" title=" " alt="" coords="254,248,462,288"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="189,303,253,288,254,294,190,308"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStick.html#a037c44802b5f528144bf592ace15dc08" title=" " alt="" coords="253,313,463,338"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="192,323,239,323,239,328,192,328"/>
+<area shape="rect" id="Node000010" href="$classJoyControlStick.html#a8fbe401b1bd1dc6870669a6499432c39" title="Returns the modifier zone of the stick." alt="" coords="240,362,476,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="193,340,278,357,277,362,192,346"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#a40a2e76ceebd81b150d52930fe84a6af" title="Checks if the modifier zone of this stick is inverted." alt="" coords="257,412,459,452"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="134,343,184,371,241,398,262,405,260,410,239,402,181,376,132,348"/>
+<area shape="rect" id="Node000012" href="$classJoyControlStick.html#ac12ecf9bf840ecee8fa8b2873304fc66" title="Get the value for the corresponding X axis." alt="" coords="243,477,473,502"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="116,344,167,403,202,435,241,462,259,470,257,475,239,466,199,439,163,407,112,347"/>
+<area shape="rect" id="Node000013" href="$classJoyControlStick.html#ad68f8a723bdefd42af7b4317ab40371a" title="Get the value for the corresponding Y axis." alt="" coords="244,526,472,551"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="111,345,130,382,158,427,196,474,242,512,252,518,250,523,238,517,192,478,154,431,125,384,107,347"/>
+<area shape="rect" id="Node000014" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="264,575,452,601"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="108,345,124,390,151,450,190,511,214,538,242,562,253,569,250,573,238,566,210,542,186,514,146,452,119,392,103,346"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a153940c564b3853d142059e9104f7c71" title=" " alt="" coords="524,5,712,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,23,510,23,510,28,452,28"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a474ce78a526ae11be203450f605ef5ad" title=" " alt="" coords="524,69,712,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,87,510,87,510,92,452,92"/>
+</map>

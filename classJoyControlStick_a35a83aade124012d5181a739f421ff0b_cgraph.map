@@ -1,0 +1,10 @@
+<map id="JoyControlStick::getSpringDeadCircleY" name="JoyControlStick::getSpringDeadCircleY">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,61,196,101"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a43fbe48eb9346deff4cf7264d36912c9" title=" " alt="" coords="244,61,432,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,79,230,79,230,84,196,84"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a9a9a23ba2fd1d4304e759a2de2985a69" title="Calculate the current direction of the stick based on the values of the X and Y axes and the current ..." alt="" coords="490,29,678,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,67,476,61,477,66,432,72"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#af1d63f69041b08e3e1e086768a4c22cf" title=" " alt="" coords="480,93,688,133"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="432,91,467,95,466,101,432,96"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="538,30,536,20,543,10,559,5,584,3,613,6,628,13,626,18,611,11,584,8,560,10,546,15,541,21,543,28"/>
+</map>

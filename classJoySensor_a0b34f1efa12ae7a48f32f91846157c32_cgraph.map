@@ -1,0 +1,5 @@
+<map id="JoySensor::getDeadZone" name="JoySensor::getDeadZone">
+<area shape="rect" id="Node000001" title="Get the assigned dead zone value." alt="" coords="5,5,188,31"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="236,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,15,222,15,222,21,188,21"/>
+</map>

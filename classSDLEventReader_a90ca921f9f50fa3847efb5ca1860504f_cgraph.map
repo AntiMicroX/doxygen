@@ -1,0 +1,24 @@
+<map id="SDLEventReader::refresh" name="SDLEventReader::refresh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,83,189,108"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="1033,115,1221,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,80,286,47,385,29,496,14,616,5,740,4,865,15,926,25,986,40,1019,52,1051,69,1102,104,1099,109,1048,73,1017,57,985,45,925,31,864,20,740,10,616,10,497,19,385,34,287,52,144,86"/>
+<area shape="rect" id="Node000003" href="$classSDLEventReader.html#a8dc8ff624f25ddf0595a055db7c91742" title=" " alt="" coords="237,76,443,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,93,224,93,224,98,189,98"/>
+<area shape="rect" id="Node000011" href="$classSDLEventReader.html#a9aea4a49e5b72851a6676609b18dac6f" title=" " alt="" coords="257,140,423,166"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="153,106,273,135,272,140,151,111"/>
+<area shape="rect" id="Node000004" href="$classSDLEventReader.html#aaadf77acabf14b73b512d0ae73c9e078" title=" " alt="" coords="491,83,688,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,93,477,93,477,98,443,98"/>
+<area shape="rect" id="Node000007" href="$classSDLEventReader.html#af9ed7e67978569528ffc7de13cee30f4" title=" " alt="" coords="497,194,681,219"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="409,113,444,127,504,156,556,184,554,189,502,160,442,132,407,118"/>
+<area shape="rect" id="Node000005" href="$classSDLEventReader.html#ab23b916f4086fe58ecc8335378b70c0b" title=" " alt="" coords="749,55,973,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="688,83,735,78,736,83,688,88"/>
+<area shape="rect" id="Node000006" href="$classSDLEventReader.html#ac0c19d95dc1e7323a368bb628ff29bac" title=" " alt="" coords="760,104,961,130"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="688,101,746,105,746,111,688,106"/>
+<area shape="rect" id="Node000008" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="788,154,933,194"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="681,193,774,182,775,187,682,198"/>
+<area shape="rect" id="Node000009" href="$classSDLEventReader.html#a0f0dedb1629788cfaaa36ad498242e6a" title="Loading additional gamepad mappings from database." alt="" coords="736,218,985,258"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="682,215,722,219,722,225,681,220"/>
+<area shape="rect" id="Node000010" href="$classSDLEventReader.html#acb94ca78a77cfc30bca708afbb6a5728" title=" " alt="" coords="759,283,963,308"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="616,217,671,242,737,268,772,277,770,283,735,273,669,247,614,222"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="950,216,984,204,1044,175,1094,146,1097,150,1046,180,986,209,951,221"/>
+</map>

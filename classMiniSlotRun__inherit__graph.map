@@ -1,0 +1,7 @@
+<map id="MiniSlotRun" name="MiniSlotRun">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,79,155,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,99,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,40,99,77,95,80,67,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,5,197,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,43,116,80,112,77,141,40"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XMLConfigWriter::write" name="XMLConfigWriter::write">
+<area shape="rect" id="Node000001" title="Write input device config from the current object into XML file." alt="" coords="5,7,177,33"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="456,7,644,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,9,225,5,317,3,408,5,442,7,442,13,408,11,317,8,225,11,178,14"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#ac78c8fd1ad107f6a3baed4910863cb0c" title=" " alt="" coords="225,45,408,70"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,30,226,40,226,45,168,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="396,42,456,32,457,38,397,47"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="280,46,272,36,276,26,292,20,317,18,348,22,360,31,357,36,346,27,317,23,293,25,280,30,277,36,284,43"/>
+</map>

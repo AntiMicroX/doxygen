@@ -1,0 +1,9 @@
+<map id="JoyButton::slotSetChange" name="JoyButton::slotSetChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,192,80"/>
+<area shape="rect" id="Node000002" href="$classJoyButtonSlot.html#a1e91202fd2eac80332ed3e3ff1593769" title=" " alt="" coords="253,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,52,272,31,273,36,165,57"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="277,55,427,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,65,264,65,264,70,192,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1cd3128bd84cb7f48bd93eb1cdf08f6f" title=" " alt="" coords="240,104,464,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,77,273,99,272,104,164,83"/>
+</map>

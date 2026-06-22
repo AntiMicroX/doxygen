@@ -1,0 +1,11 @@
+<map id="JoyControlStick::setButtonsExtraAccelerationStatus" name="JoyControlStick::setButtonsExtraAccelerationStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,204,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="257,5,475,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,43,243,38,243,43,204,48"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#aca69f26410f28982be9a6e952ec3c494" title=" " alt="" coords="252,69,480,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,67,239,71,238,76,204,72"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a77afa6c5934d2665bad6d494b812f372" title="Check if button should be considered a part of a real controller axis. Needed for some dialogs so the..." alt="" coords="536,51,723,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,76,522,72,522,77,480,81"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="528,101,731,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="480,97,514,100,514,106,480,102"/>
+</map>

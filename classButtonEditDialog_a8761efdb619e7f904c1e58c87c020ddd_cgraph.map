@@ -1,0 +1,11 @@
+<map id="ButtonEditDialog::changeToggleSetting" name="ButtonEditDialog::changeToggleSetting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,192,63"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="240,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,31,226,27,227,32,193,36"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a3850d1fdd6cac80b3ca0c0b3d2bfe6a6" title=" " alt="" coords="257,55,411,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,50,243,55,243,61,192,56"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="476,29,679,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,57,462,51,462,57,412,62"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#aa4ecc1c547c8789db4473db1353fadb0" title=" " alt="" coords="482,79,673,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="412,72,468,78,468,83,411,78"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MouseSettingsDialog::updateMouseSpringStatusLabels" name="MouseSettingsDialog::updateMouseSpringStatusLabels">
+<area shape="rect" id="Node000001" title="Update mouse status labels with spring mouse information provided by an InputDevice." alt="" coords="255,37,497,77"/>
+<area shape="rect" id="Node000002" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="5,5,207,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,44,207,40,207,35,241,39"/>
+<area shape="rect" id="Node000003" href="$classMouseSettingsDialog.html#a4a3da2adef113d4d6580b36fe62067ed" title=" " alt="" coords="22,69,190,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,76,191,82,190,77,240,71"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="InputDaemon::refresh" name="InputDaemon::refresh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,234,169,259"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="48,236,40,226,44,216,60,210,87,207,121,211,134,221,131,225,119,216,87,213,62,215,48,220,45,225,52,232"/>
+<area shape="rect" id="Node000002" href="$classSDLEventReader.html#adc557d906bc839e5009ce6f2efa93ce3" title=" " alt="" coords="225,135,433,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,232,154,201,216,170,239,162,241,167,218,174,156,205,108,236"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="235,185,423,210"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,231,252,210,253,215,151,237"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#a7fa47112e0cac297ba679920c594a838" title=" " alt="" coords="217,234,440,259"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="169,244,203,244,203,249,169,249"/>
+<area shape="rect" id="Node000016" href="$classSDLEventReader.html#acb94ca78a77cfc30bca708afbb6a5728" title=" " alt="" coords="227,283,431,309"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="151,257,253,278,252,283,150,262"/>
+<area shape="rect" id="Node000017" href="$classInputDaemon.html#a4de3e48510631f0cbdd9ee936b39f787" title=" " alt="" coords="255,333,402,358"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="108,257,156,288,218,319,243,327,241,332,216,324,154,293,105,262"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#a1518b0defd68ae40f18735f22cbe717e" title=" " alt="" coords="494,5,725,45"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="420,232,438,219,453,200,461,181,462,140,463,98,470,76,486,56,491,51,494,55,490,59,475,79,468,98,467,140,466,182,458,203,442,223,423,236"/>
+<area shape="rect" id="Node000006" href="$classInputDaemon.html#a19ed81783f8a8bdbe451108a50a87a0f" title=" " alt="" coords="508,70,711,95"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="419,232,438,219,450,206,457,193,461,163,466,134,473,119,486,105,494,99,497,103,490,109,478,122,471,135,466,164,462,194,455,209,442,223,421,236"/>
+<area shape="rect" id="Node000007" href="$classInputDaemon.html#a3ef328c9a60fe354fda90eb396c8f31b" title=" " alt="" coords="517,119,701,145"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="413,231,438,219,454,204,462,188,470,171,486,155,503,146,505,151,490,159,474,174,466,190,458,207,442,224,415,236"/>
+<area shape="rect" id="Node000008" href="$classAntiMicroSettings.html#a4f172ffefe55eeba5afff3d54182f881" title=" " alt="" coords="537,169,682,209"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="391,231,523,204,524,209,392,237"/>
+<area shape="rect" id="Node000009" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="786,335,1017,375"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="398,257,781,329,780,335,397,262"/>
+<area shape="rect" id="Node000010" href="$classSDLEventReader.html#a1c33e74e1c8363dc7e839c7f3a98a25a" title="Method to block activity on the SDLEventReader object and its thread event loop." alt="" coords="500,234,719,259"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="440,244,486,244,486,249,440,249"/>
+<area shape="rect" id="Node000013" href="$classInputDaemon.html#acc78a11fc35174266abd460304e31c8b" title=" " alt="" coords="488,335,731,361"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="413,257,441,268,457,280,466,291,475,303,489,314,525,329,523,334,487,318,471,307,462,295,453,283,439,273,411,262"/>
+<area shape="rect" id="Node000014" href="$classInputDaemon.html#a2479784aa7e332c900a20b3e661260eb" title=" " alt="" coords="509,385,710,425"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="423,257,442,269,454,281,461,294,467,321,472,347,479,359,490,371,498,377,495,382,486,375,474,362,467,349,462,322,456,296,450,284,438,273,420,262"/>
+<area shape="rect" id="Node000015" href="$classInputDevice.html#aeaefc811b7fa4cd1f353bb558404ae8d" title=" " alt="" coords="516,450,703,475"/>
+<area shape="poly" id="edge16_Node000004_Node000015" title=" " alt="" coords="426,257,442,269,458,290,466,311,467,354,467,396,474,416,490,435,505,446,502,450,486,439,470,419,462,397,461,354,461,312,454,292,438,273,423,262"/>
+<area shape="rect" id="Node000011" href="$namespacePadderCommon.html#a354573bde6a47232b838ceccca533b02" title=" " alt="" coords="779,263,1024,289"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="719,255,765,260,765,265,719,260"/>
+<area shape="rect" id="Node000012" href="$namespacePadderCommon.html#a5de97eeb52ef44a36a1caba613b7a343" title=" " alt="" coords="797,199,1006,239"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="719,234,782,227,783,233,719,239"/>
+<area shape="poly" id="edge15_Node000014_Node000009" title=" " alt="" coords="710,385,772,374,773,380,711,391"/>
+</map>

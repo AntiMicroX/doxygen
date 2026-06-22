@@ -1,0 +1,5 @@
+<map id="JoySensor::queuePendingEvent" name="JoySensor::queuePendingEvent">
+<area shape="rect" id="Node000001" title="Queues next movement event from InputDaemon." alt="" coords="5,5,228,31"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a64d28ac9ed7e282faa020be3e2c1494d" title=" " alt="" coords="276,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,15,262,15,262,21,228,21"/>
+</map>

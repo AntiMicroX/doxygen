@@ -1,0 +1,22 @@
+<map id="JoyControlStick::joyModeChanged" name="JoyControlStick::joyModeChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="771,121,956,161"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a7979a689bc339467288892614fffed13" title=" " alt="" coords="517,99,723,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,131,722,127,723,122,757,126"/>
+<area shape="rect" id="Node000010" href="$classStickPushButtonGroup.html#acc0df345bbf6ad862553ba67a5c5e957" title=" " alt="" coords="533,149,707,189"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="757,156,708,162,707,157,756,151"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickEditDialog.html#aec8873b859f10e904c9ddde9b22c3413" title=" " alt="" coords="271,5,459,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="571,97,468,60,432,48,433,43,470,55,573,92"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="266,70,465,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="504,101,465,97,465,91,504,96"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStickContextMenu.html#ac5445252e43228e7a6a3f5ae0c994b43" title=" " alt="" coords="261,120,469,160"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="504,127,470,131,469,126,504,122"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStickContextMenu.html#a00fe5d89b13fa5116b5cadd7480e8d93" title=" " alt="" coords="261,184,469,224"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="540,131,519,140,495,157,471,174,442,186,440,181,468,170,492,152,516,135,538,126"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="11,5,207,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,28,207,28,207,23,257,23"/>
+<area shape="rect" id="Node000006" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="10,70,209,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="252,85,209,85,209,80,252,80"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStickContextMenu.html#a0290b608bf0fd639af32767a20a4b7a8" title=" " alt="" coords="5,152,213,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="248,157,214,162,213,156,248,152"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="248,192,213,188,214,182,248,187"/>
+</map>

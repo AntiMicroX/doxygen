@@ -1,0 +1,9 @@
+<map id="QtKeyMapperBase::returnQtKey" name="QtKeyMapperBase::returnQtKey">
+<area shape="rect" id="Node000001" title="Get Qt key for a given platform virtual key." alt="" coords="256,70,484,95"/>
+<area shape="rect" id="Node000002" href="$classQKeyDisplayDialog.html#ab4ce996adf426435f5075ca246d75c32" title=" " alt="" coords="29,5,184,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,70,183,45,185,39,298,64"/>
+<area shape="rect" id="Node000003" href="$classAntKeyMapper.html#afc93b666a3e8691ae48184e8093797fb" title="Translate a platform virtual key to a Qt key." alt="" coords="5,70,208,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,85,208,85,208,80,242,80"/>
+<area shape="rect" id="Node000004" href="$classUInputEventHandler.html#ae7f56462de69c74e7f2add96434a5313" title=" " alt="" coords="27,120,186,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="298,101,187,125,186,120,297,96"/>
+</map>

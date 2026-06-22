@@ -1,0 +1,14 @@
+<map id="Joystick" name="Joystick">
+<area shape="rect" id="Node000001" title="General input device (which is not a typical gamepad like steering wheels, flight sticks etc...." alt="" coords="5,256,79,281"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="40,168,140,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,206,63,219,48,257,43,255,58,216,68,202"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="103,256,274,281"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="84,207,84,220,88,231,102,244,119,254,117,258,99,248,84,233,79,220,79,207"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="31,80,106,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,118,90,167,84,168,72,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="176,245,157,219,140,206,120,196,123,191,143,201,161,215,180,242"/>
+<area shape="rect" id="Node000005" href="$classAntiMicroSettings.html" title=" " alt="" coords="131,80,268,105"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="175,116,107,170,103,166,172,112"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="157,5,242,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="202,45,202,80,197,80,197,45"/>
+</map>

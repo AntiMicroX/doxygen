@@ -1,0 +1,11 @@
+<map id="StreamPrinter::~StreamPrinter" name="StreamPrinter::~StreamPrinter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,227,56"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#ada09e06da95e8b6c2cd0beac8d7ed32b" title="Get the Instance of logger." alt="" coords="292,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,30,278,24,278,30,227,35"/>
+<area shape="rect" id="Node000004" href="$classLogHelper.html#a983a9de6f9a429d1cd94aef960be9e9d" title=" " alt="" coords="275,55,460,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,51,261,55,261,60,227,57"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="508,5,696,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,15,494,15,494,21,443,21"/>
+<area shape="rect" id="Node000005" href="$classLogHelper.html#a06cb51ddb275ab13a787bcdbd2d1edde" title=" " alt="" coords="515,55,689,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,65,501,65,501,70,460,70"/>
+</map>

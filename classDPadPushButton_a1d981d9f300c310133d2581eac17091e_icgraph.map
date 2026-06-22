@@ -1,0 +1,38 @@
+<map id="DPadPushButton::disableFlashes" name="DPadPushButton::disableFlashes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1325,67,1560,92"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a5b10214725195446d31959dbde52df71" title=" " alt="" coords="1083,59,1277,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1312,82,1278,82,1278,77,1312,77"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#ac7c881667b4ba4986b5a0030452ee3f0" title=" " alt="" coords="583,5,780,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1069,68,780,33,781,27,1069,63"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#a732dcadb7bd3365f28d2b38b6d22b5a7" title=" " alt="" coords="841,92,1035,117"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1069,94,1035,97,1034,92,1069,88"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="898,89,848,67,793,46,746,33,748,28,794,41,850,62,900,84"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#affe344f13315c09bd280d0bc200e94ca" title=" " alt="" coords="575,55,787,95"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="827,95,787,90,788,85,828,89"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#a4e20a4a065fbb0e4d3532a45a0a91425" title="Check if the program should really quit or if it should be minimized." alt="" coords="589,120,773,145"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="828,119,774,125,773,120,827,114"/>
+<area shape="rect" id="Node000007" href="$classMainWindow.html#a4b00208df3ff47236e6b46f308647a97" title=" " alt="" coords="569,169,793,195"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="893,125,794,159,745,172,744,167,793,154,892,120"/>
+<area shape="rect" id="Node000016" href="$classMainWindow.html#ad775fad5ae09302677ec1a2a27f5ef9b" title=" " alt="" coords="582,247,781,287"/>
+<area shape="poly" id="edge19_Node000004_Node000016" title=" " alt="" coords="911,128,795,208,723,249,720,245,792,204,908,123"/>
+<area shape="rect" id="Node000008" href="$classMainWindow.html#a9738583d1ab872fb2784c0faee89cb46" title=" " alt="" coords="297,45,475,71"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="579,166,568,159,551,140,543,120,536,101,520,84,498,73,475,66,476,61,500,68,523,80,540,98,548,118,555,137,571,155,582,161"/>
+<area shape="rect" id="Node000010" href="$classMainWindow.html#aef8941c9dc542d8ff8416fff1caf8ad7" title=" " alt="" coords="283,193,489,219"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="556,195,490,200,489,195,555,190"/>
+<area shape="rect" id="Node000012" href="$classMainWindow.html#ae9f72ff45056908317963a1e7fa634a0" title="Build list of current input devices and pass it to settings dialog instance. Open Settings dialog." alt="" coords="271,243,501,283"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="629,201,522,234,476,246,474,241,521,229,628,196"/>
+<area shape="rect" id="Node000014" href="$classMainWindow.html#ac398cc635954d370088390a0a5bee878" title=" " alt="" coords="283,95,489,120"/>
+<area shape="poly" id="edge15_Node000007_Node000014" title=" " alt="" coords="597,168,568,159,544,146,520,134,479,123,481,117,522,129,547,141,570,154,599,163"/>
+<area shape="rect" id="Node000015" href="$classMainWindow.html#a2a0aba59f5d3bf3c6fb97f0de103b36f" title=" " alt="" coords="251,144,521,169"/>
+<area shape="poly" id="edge17_Node000007_Node000015" title=" " alt="" coords="555,174,521,171,522,166,556,169"/>
+<area shape="rect" id="Node000009" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="77,120,131,145"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="289,76,251,85,187,104,133,125,131,120,185,99,250,79,288,71"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="294,193,250,183,131,145,133,140,251,178,295,188"/>
+<area shape="rect" id="Node000011" href="$classMainWindow.html#a5d25ebfdfec433fc449d7e35803a9c7c" title=" " alt="" coords="15,193,193,219"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="269,209,194,209,194,203,269,203"/>
+<area shape="rect" id="Node000013" href="$classMainWindow.html#a2f0c03d3d51748ab794e698322110614" title=" " alt="" coords="5,279,203,304"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="257,279,203,284,203,279,257,273"/>
+<area shape="poly" id="edge16_Node000014_Node000009" title=" " alt="" coords="270,120,132,133,131,128,269,115"/>
+<area shape="poly" id="edge18_Node000015_Node000009" title=" " alt="" coords="236,147,132,138,132,132,237,141"/>
+<area shape="poly" id="edge20_Node000016_Node000013" title=" " alt="" coords="569,292,522,298,445,303,386,303,251,298,203,297,203,292,251,293,386,297,445,297,521,293,569,287"/>
+</map>

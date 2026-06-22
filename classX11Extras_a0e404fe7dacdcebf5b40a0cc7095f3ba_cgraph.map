@@ -1,0 +1,16 @@
+<map id="X11Extras::findParentClient" name="X11Extras::findParentClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,204,81"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="792,81,935,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,68,744,85,778,86,778,92,744,90,204,73"/>
+<area shape="rect" id="Node000003" href="$classX11Extras.html#addc3448425326be8bcd2b0138abe643a" title="Go through a window&#39;s properties and search for an Atom from a defined list. If an Atom is found in a..." alt="" coords="252,107,469,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,79,283,101,282,107,169,84"/>
+<area shape="rect" id="Node000006" href="$classX11Extras.html#abebf4a3a16685c4b274980f040671ae9" title=" " alt="" coords="522,5,739,31"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="200,53,252,47,508,24,509,30,252,53,201,59"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="470,111,778,96,778,101,470,117"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="517,157,744,183"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="430,129,549,152,548,157,429,135"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="679,155,743,135,816,109,818,114,745,141,680,160"/>
+<area shape="rect" id="Node000005" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="813,157,913,183"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="744,167,799,167,799,173,744,173"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="680,28,745,47,818,74,816,79,743,53,679,33"/>
+</map>

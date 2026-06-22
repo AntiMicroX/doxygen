@@ -1,0 +1,7 @@
+<map id="SensorPushButtonGroup::openSensorButtonDialog" name="SensorPushButtonGroup::openSensorButtonDialog">
+<area shape="rect" id="Node000001" title="Shows the button mapping dialog for the given direction button." alt="" coords="5,23,196,63"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="244,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,31,230,27,231,32,197,36"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="256,55,433,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,50,243,55,242,60,196,55"/>
+</map>

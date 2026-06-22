@@ -1,0 +1,11 @@
+<map id="JoySensorButtonPushButton::generateLabel" name="JoySensorButtonPushButton::generateLabel">
+<area shape="rect" id="Node000001" title="Generate the string that will be displayed on the button." alt="" coords="5,55,208,95"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2dc48e4d0de59b87938f5c0489d6e198" title=" " alt="" coords="256,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,53,284,31,286,36,194,58"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="262,55,445,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,73,248,73,248,78,208,78"/>
+<area shape="rect" id="Node000005" href="$classFlashButtonWidget.html#aff41eff76f8396ff1b9e2539d680c4cf" title=" " alt="" coords="276,119,431,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,93,263,113,262,118,184,98"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="499,55,681,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,73,485,73,485,78,445,78"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SDLEventReader::loadSdlMappingsFromDatabase" name="SDLEventReader::loadSdlMappingsFromDatabase">
+<area shape="rect" id="Node000001" title="Loading additional gamepad mappings from database." alt="" coords="5,5,255,45"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="303,13,491,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,23,289,23,289,28,255,28"/>
+</map>

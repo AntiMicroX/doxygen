@@ -1,0 +1,9 @@
+<map id="InputDevice::axisButtonDownEvent" name="InputDevice::axisButtonDownEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,220,63"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a19593f04a7f6996d9d7d6e82baf7853b" title=" " alt="" coords="268,31,492,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,41,254,41,254,46,220,46"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a4b46385874694fb65374d837d9847284" title=" " alt="" coords="543,5,697,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,29,529,25,530,30,492,34"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a7084000be8699a34315d91da8466ce71" title=" " alt="" coords="540,55,700,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="492,52,527,55,526,61,492,57"/>
+</map>

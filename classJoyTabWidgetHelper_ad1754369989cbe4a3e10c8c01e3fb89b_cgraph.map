@@ -1,0 +1,15 @@
+<map id="JoyTabWidgetHelper::writeConfigFile" name="JoyTabWidgetHelper::writeConfigFile">
+<area shape="rect" id="Node000001" title="XML write entry point for the GUI." alt="" coords="5,47,159,87"/>
+<area shape="rect" id="Node000002" href="$classXMLConfigWriter.html#a844560cce8f8481db23360534b6b31bb" title=" " alt="" coords="221,5,414,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,49,242,31,243,36,159,54"/>
+<area shape="rect" id="Node000003" href="$classXMLConfigWriter.html#a52b1d631f675a567cbf1ba5cc2b00c68" title="Sets the filename of the to be written XML file." alt="" coords="207,55,428,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,65,193,65,193,70,159,70"/>
+<area shape="rect" id="Node000004" href="$classXMLConfigWriter.html#aacd0a3991eedf223f3586d33559903d4" title="Write input device config from the current object into XML file." alt="" coords="231,104,403,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,81,243,99,242,104,158,86"/>
+<area shape="rect" id="Node000005" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="707,104,895,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="403,106,476,102,567,100,659,102,693,104,693,109,659,107,567,105,476,107,404,112"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#ac78c8fd1ad107f6a3baed4910863cb0c" title=" " alt="" coords="476,141,659,167"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="403,127,469,137,468,142,402,132"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="647,139,707,129,708,134,648,144"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="530,143,521,133,526,123,541,117,567,115,600,119,612,128,609,132,598,123,567,120,542,122,529,127,527,132,534,139"/>
+</map>

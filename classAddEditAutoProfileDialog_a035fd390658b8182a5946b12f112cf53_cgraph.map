@@ -1,0 +1,11 @@
+<map id="AddEditAutoProfileDialog::accept" name="AddEditAutoProfileDialog::accept">
+<area shape="rect" id="Node000001" title="Validate the form that is contained in this window." alt="" coords="5,63,191,103"/>
+<area shape="rect" id="Node000002" href="$classAddEditAutoProfileDialog.html#a9cf436f977f9249ea5b3b755d31cfb6f" title=" " alt="" coords="239,5,424,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,60,235,46,237,51,181,65"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="472,70,660,95"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="191,80,458,80,458,85,191,85"/>
+<area shape="rect" id="Node000004" href="$classAddEditAutoProfileDialog.html#af4ea2957bfba90eddec4ec3db0756a61" title=" " alt="" coords="239,120,424,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,100,237,114,235,119,179,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,43,501,64,500,69,413,48"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="413,117,500,96,501,101,414,123"/>
+</map>

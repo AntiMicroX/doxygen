@@ -1,0 +1,5 @@
+<map id="AdvanceButtonDialog::setButtonTurboMode" name="AdvanceButtonDialog::setButtonTurboMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,169,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a248ef9e36346c126bc331edcd1f50a97" title="Set the turbo mode that the button should use." alt="" coords="217,13,401,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,23,204,23,204,28,170,28"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SetJoystick::raiseAxesDeadZones" name="SetJoystick::raiseAxesDeadZones">
+<area shape="rect" id="Node000001" title="Raise the dead zones for axes. Used when launching the controller mapping window." alt="" coords="276,69,475,109"/>
+<area shape="rect" id="Node000002" href="$classGameControllerMappingDialogHelper.html#a2302e55d686dfedb8b6e0dfa880bb199" title=" " alt="" coords="5,5,228,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,69,197,48,199,43,281,63"/>
+<area shape="rect" id="Node000003" href="$classGameControllerMappingDialogHelper.html#a1642e763367455214fd7a1b4026673cc" title=" " alt="" coords="5,69,228,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,92,228,92,228,87,262,87"/>
+<area shape="rect" id="Node000004" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="5,133,228,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,115,199,136,197,131,280,110"/>
+</map>

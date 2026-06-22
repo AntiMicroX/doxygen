@@ -1,0 +1,11 @@
+<map id="InputDevice::setDeviceKeyPressTime" name="InputDevice::setDeviceKeyPressTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="544,35,741,75"/>
+<area shape="rect" id="Node000002" href="$classExtraProfileSettingsDialog.html#a584bc443f3f3e839776b9f62fbd72f85" title=" " alt="" coords="298,5,490,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,44,490,39,491,34,531,39"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="292,70,496,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="531,70,496,74,496,69,530,65"/>
+<area shape="rect" id="Node000003" href="$classExtraProfileSettingsDialog.html#ad5751d1a02ef93bdff60ef334839d12f" title=" " alt="" coords="25,5,225,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,28,225,28,225,23,284,23"/>
+<area shape="rect" id="Node000005" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="5,70,244,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,85,244,85,244,80,278,80"/>
+</map>

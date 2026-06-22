@@ -1,0 +1,7 @@
+<map id="SetJoystick::propogateSetStickButtonClick" name="SetJoystick::propogateSetStickButtonClick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,195,67"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a2bf34c9768e9975e311a1ea8918468b1" title=" " alt="" coords="248,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,33,234,28,235,34,195,38"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a5987998b54f578bc75171d4d10d0ec5e" title=" " alt="" coords="243,55,440,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,56,229,60,229,65,195,61"/>
+</map>

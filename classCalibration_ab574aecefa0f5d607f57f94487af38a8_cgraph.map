@@ -1,0 +1,58 @@
+<map id="Calibration::startStickOffsetCalibration" name="Calibration::startStickOffsetCalibration">
+<area shape="rect" id="Node000001" title="Shows user instructions for stick offset calibration, initializes estimators and connects stick data ..." alt="" coords="5,538,208,578"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#abec21f8927d3e2d63b81b20044d99bdc" title="Asks the user for confirmation with a given message if the given condition is false." alt="" coords="269,654,477,679"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,576,196,604,257,632,304,647,303,652,255,637,194,609,141,581"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a9ac3c0e7ded87d3b2e9f5320c6f57c88" title=" " alt="" coords="836,567,1011,592"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,536,256,524,396,510,506,506,616,513,757,532,865,561,864,566,755,537,616,519,506,512,397,516,256,529,186,541"/>
+<area shape="rect" id="Node000005" href="$classCalibration.html#a810f48e8f8960b9fe9218f52b05be2bd" title="Stick data event handler. Performs stick offset estimation and stops itself if the value was found or..." alt="" coords="537,290,756,315"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,536,175,474,213,440,255,411,325,376,400,349,474,329,540,315,541,320,475,334,402,354,327,381,257,415,216,444,179,478,125,540"/>
+<area shape="rect" id="Node000014" href="$classStatisticsEstimator.html#aaab49a2dc276528c02522b5a59d6c9ff" title="Resets the StatisticsEstimator so that it is ready to process a new data stream." alt="" coords="574,668,719,708"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="201,576,490,640,568,661,566,666,489,645,200,581"/>
+<area shape="rect" id="Node000015" href="$classJoyControlStick.html#a7f99f881b46a50a7a12192d5d9d4314a" title="Resets the calibration of both stick axes back to uncalibrated state." alt="" coords="256,703,489,728"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="126,577,180,634,217,664,257,689,273,696,271,701,255,694,214,668,177,638,122,580"/>
+<area shape="rect" id="Node000016" href="$classCalibration.html#adbb2662b3b1e21cb667df5325abc68cc" title="Shows user instructions for stick gain calibration, initializes estimators and connects stick data ev..." alt="" coords="276,538,469,578"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="208,564,262,564,262,570,208,570"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="1091,516,1279,542"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,676,490,689,515,704,524,711,538,717,598,729,646,731,756,717,839,706,904,694,966,675,1041,640,1076,619,1108,595,1160,550,1163,553,1112,600,1079,624,1044,645,968,680,905,699,840,711,756,722,646,737,597,735,537,722,522,716,512,709,488,694,447,682"/>
+<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="649,288,664,240,693,172,714,136,739,101,768,71,803,47,867,16,897,7,926,3,955,5,983,12,1013,26,1044,47,1072,79,1097,130,1118,192,1137,262,1166,401,1182,502,1177,503,1161,401,1132,263,1113,194,1092,132,1067,82,1041,51,1011,31,982,17,954,10,926,8,898,12,869,21,805,51,772,75,743,105,718,139,698,174,669,241,654,290"/>
+<area shape="poly" id="edge11_Node000005_Node000004" title=" " alt="" coords="713,313,737,324,758,340,773,361,781,381,785,421,787,460,794,481,806,502,840,535,880,559,877,563,837,539,802,505,789,483,782,461,780,421,776,383,769,364,754,344,734,328,710,317"/>
+<area shape="poly" id="edge12_Node000005_Node000005" title=" " alt="" coords="603,291,593,281,598,271,616,265,647,263,686,267,696,272,700,278,695,281,693,276,684,272,647,268,617,270,602,275,599,280,607,288"/>
+<area shape="rect" id="Node000006" href="$classStatisticsEstimator.html#a4bb6b7ae19cdbc218a2ce1f352d054e4" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="828,61,1019,101"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="653,288,673,253,707,205,750,154,802,111,814,104,817,109,806,115,754,158,711,208,678,255,657,291"/>
+<area shape="rect" id="Node000008" href="$classStatisticsEstimator.html#a9f08ed1df807774ff9ecb23cfc0a9b82" title="Gets the amount of processed samples." alt="" coords="851,189,996,229"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="677,287,803,238,837,228,838,233,805,243,679,292"/>
+<area shape="rect" id="Node000009" href="$classJoyControlStick.html#a2798057ca20a52307ced3f75eb5d9aaa" title="Get the assigned dead zone value." alt="" coords="815,318,1032,343"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="757,311,801,315,801,321,756,316"/>
+<area shape="rect" id="Node000010" href="$classPT1Filter.html#a4119f510213a816516ed16fb41a53ef8" title="Get the current filter output value." alt="" coords="851,367,995,392"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="683,312,805,352,843,361,842,366,803,357,682,317"/>
+<area shape="rect" id="Node000011" href="$classPT1Filter.html#a30421d33f61b781f9422577b6db07e1b" title="Processes a new sample." alt="" coords="855,416,992,442"/>
+<area shape="poly" id="edge13_Node000005_Node000011" title=" " alt="" coords="701,312,730,324,758,340,773,357,782,373,790,389,805,403,842,418,840,423,803,407,786,392,777,376,769,360,754,344,728,329,699,317"/>
+<area shape="rect" id="Node000012" href="$classStatisticsEstimator.html#a63a3c46de3af4b5bb1be407bcfe44ad8" title="Processes a new sample of the current data stream and updates internal intermediate values." alt="" coords="851,125,996,165"/>
+<area shape="poly" id="edge14_Node000005_Node000012" title=" " alt="" coords="658,288,717,233,758,202,803,175,836,161,838,166,805,179,761,206,720,237,662,292"/>
+<area shape="rect" id="Node000013" href="$classCalibration.html#ada69dfce5bbe35ea761528dedf593ef3" title="Shows the stick offset and gain calibration values to the user." alt="" coords="804,253,1043,293"/>
+<area shape="poly" id="edge15_Node000005_Node000013" title=" " alt="" coords="756,288,790,284,791,290,757,293"/>
+<area shape="rect" id="Node000007" href="$classStatisticsEstimator.html#a8895a3729d2ed7bca9ce078fb17bb05a" title="Calculates the sample variance of the processed data stream from internal intermediate values." alt="" coords="1112,61,1257,101"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1019,78,1098,78,1098,84,1019,84"/>
+<area shape="poly" id="edge16_Node000013_Node000003" title=" " alt="" coords="1024,291,1044,303,1070,325,1093,350,1131,405,1159,459,1177,502,1172,504,1154,461,1126,407,1088,353,1066,328,1041,307,1021,295"/>
+<area shape="poly" id="edge37_Node000016_Node000001" title=" " alt="" coords="276,552,222,552,222,547,276,547"/>
+<area shape="poly" id="edge20_Node000016_Node000003" title=" " alt="" coords="430,576,482,591,538,602,680,623,792,635,846,635,903,630,967,619,1042,602,1073,592,1103,578,1154,547,1157,552,1106,583,1075,597,1043,608,968,625,903,635,846,640,792,640,679,628,537,608,481,596,429,581"/>
+<area shape="poly" id="edge21_Node000016_Node000004" title=" " alt="" coords="469,551,605,548,756,553,837,562,836,568,756,558,605,553,470,556"/>
+<area shape="poly" id="edge36_Node000016_Node000014" title=" " alt="" coords="453,576,491,595,506,608,516,621,524,634,539,647,563,660,560,665,536,651,520,638,511,624,502,612,488,599,451,581"/>
+<area shape="rect" id="Node000017" href="$classCalibration.html#a1e79902d8c7fa6e66eb578c7252e7ef7" title="Stick data event handler. Performs stick gain estimation and stops itself if the value was found or t..." alt="" coords="541,379,752,404"/>
+<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="405,536,612,409,614,414,408,540"/>
+<area shape="rect" id="Node000019" href="$classPT1Filter.html#a674d30fb88a821087c6e056313177432" title="Resets the filter state to default." alt="" coords="587,567,707,592"/>
+<area shape="poly" id="edge35_Node000016_Node000019" title=" " alt="" coords="470,563,573,571,573,577,469,568"/>
+<area shape="poly" id="edge33_Node000017_Node000001" title=" " alt="" coords="542,401,404,420,329,438,257,462,195,495,144,532,140,527,192,490,255,457,328,433,403,415,541,395"/>
+<area shape="poly" id="edge27_Node000017_Node000003" title=" " alt="" coords="672,402,713,427,758,458,781,482,790,492,805,501,873,523,944,535,1014,539,1077,538,1077,543,1013,544,943,540,872,528,803,506,787,496,777,486,754,462,710,431,669,407"/>
+<area shape="poly" id="edge28_Node000017_Node000004" title=" " alt="" coords="678,402,718,425,758,458,774,482,781,505,788,525,806,546,829,559,826,564,802,550,784,528,776,506,769,484,754,461,715,430,675,407"/>
+<area shape="poly" id="edge23_Node000017_Node000006" title=" " alt="" coords="682,377,721,356,739,342,754,325,769,296,775,269,773,217,772,190,774,164,783,138,802,111,814,101,818,105,806,115,787,140,779,165,777,191,779,216,781,270,774,298,758,328,742,345,723,360,685,381"/>
+<area shape="poly" id="edge24_Node000017_Node000008" title=" " alt="" coords="677,376,716,355,754,324,769,302,776,281,784,260,802,239,836,221,839,225,806,243,789,263,781,283,774,305,758,328,719,359,679,381"/>
+<area shape="poly" id="edge25_Node000017_Node000009" title=" " alt="" coords="699,376,803,352,844,343,845,348,805,357,700,381"/>
+<area shape="poly" id="edge26_Node000017_Node000010" title=" " alt="" coords="752,384,838,381,838,386,752,390"/>
+<area shape="poly" id="edge30_Node000017_Node000011" title=" " alt="" coords="742,402,841,415,841,421,741,407"/>
+<area shape="poly" id="edge31_Node000017_Node000012" title=" " alt="" coords="680,376,719,355,738,341,754,325,766,305,772,286,775,249,779,212,787,194,802,175,818,163,836,154,839,159,821,167,806,179,792,196,784,214,780,249,777,287,771,307,758,328,741,345,722,360,683,381"/>
+<area shape="poly" id="edge32_Node000017_Node000013" title=" " alt="" coords="666,377,726,340,803,302,824,295,826,300,805,307,728,345,669,381"/>
+<area shape="poly" id="edge29_Node000017_Node000017" title=" " alt="" coords="603,381,593,371,598,361,616,354,647,352,686,356,696,361,700,367,695,370,693,365,684,362,647,358,617,360,602,365,599,370,607,377"/>
+<area shape="rect" id="Node000018" href="$classCalibration.html#a2c31bf6d13664e99f18699d6959cc4dc" title="Performs linear regression on the measurement values of one axis to determine offset and gain." alt="" coords="821,466,1025,491"/>
+<area shape="poly" id="edge34_Node000017_Node000018" title=" " alt="" coords="677,402,735,427,805,452,837,460,835,465,803,457,733,432,675,407"/>
+</map>

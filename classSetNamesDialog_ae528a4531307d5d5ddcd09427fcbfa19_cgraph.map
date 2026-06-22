@@ -1,0 +1,13 @@
+<map id="SetNamesDialog::saveSetNameChanges" name="SetNamesDialog::saveSetNameChanges">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,236,87"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#a102a4bbc464b9dfc5a8227c0fb4611c8" title=" " alt="" coords="303,5,466,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,45,302,31,303,36,229,50"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#aee4515edc1daad9be16eb4e25862ae25" title=" " alt="" coords="284,55,485,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,65,270,65,270,70,236,70"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#ab34fbf5679a1d7e50368a40c0dd8d6e1" title=" " alt="" coords="304,104,465,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="229,85,303,99,302,104,228,90"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="533,55,748,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,65,520,65,520,70,485,70"/>
+<area shape="rect" id="Node000006" href="$classSetJoystick.html#a646aaeee42d597bb4928283d416d2fb8" title=" " alt="" coords="535,104,747,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="465,114,521,114,521,119,465,119"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="JoySensor::calculateDistance" name="JoySensor::calculateDistance">
+<area shape="rect" id="Node000001" title="Get the vector length of the sensor." alt="" coords="468,176,679,201"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="619,167,616,162,608,158,573,155,546,157,531,162,528,167,536,174,532,178,523,168,528,158,545,151,573,149,609,153,620,158,624,164"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ad62b0880e8317fce3e92e9084fbefcfa" title="Calculate the pitch angle (in degrees) corresponding to the current passed X, Y and Z axes values ass..." alt="" coords="225,5,410,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="552,167,497,105,460,72,419,44,392,33,394,28,421,40,463,68,501,101,556,163"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#aaf5dddff7a802bc14110d8fabd5dc2ed" title="Calculate the roll angle (in degrees) corresponding to the current passed X, Y and Z axes values asso..." alt="" coords="228,55,407,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="543,170,487,132,419,95,382,83,384,78,421,90,490,127,546,165"/>
+<area shape="rect" id="Node000004" href="$classJoyGyroscopeSensor.html#acc78af8ccbf8e7889e29c39174a4468c" title="Find the direction zone of the current sensor position." alt="" coords="221,105,413,145"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="507,175,398,147,399,142,509,170"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a0f379a920d319eba33df77ed64d32433" title="Get radial distance of the sensor past the assigned dead zone based on the passed X,..." alt="" coords="215,169,420,209"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="454,191,420,191,420,186,454,186"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#a1f3b74ad80e18698eeb6438c51b964f6" title="Checks if the sensor vector is currently in the dead zone." alt="" coords="231,233,404,259"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="503,207,375,236,374,231,502,202"/>
+<area shape="rect" id="Node000007" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,306,167,346"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="543,211,488,243,421,273,355,291,288,306,167,323,166,317,287,300,354,286,419,267,485,238,540,207"/>
+<area shape="rect" id="Node000008" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="241,334,394,374"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="552,213,495,264,459,292,421,318,382,336,380,331,419,313,456,288,492,260,548,209"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="227,346,166,338,167,333,227,340"/>
+</map>

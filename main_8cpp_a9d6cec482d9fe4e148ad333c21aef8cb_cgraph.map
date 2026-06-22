@@ -1,0 +1,17 @@
+<map id="importLegacySettingsIfExist" name="importLegacySettingsIfExist">
+<area shape="rect" id="Node000001" title="Function used for copying settings used by antimicro and previous revisions of antimicrox to provide ..." alt="" coords="5,107,211,133"/>
+<area shape="rect" id="Node000002" href="$namespacePadderCommon.html#a2f19456ecfd227442aa2594150200d61" title=" " alt="" coords="259,43,493,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,105,268,83,269,88,169,110"/>
+<area shape="rect" id="Node000003" href="$namespacePadderCommon.html#ab7f599c8a1dc9f54a4513dbbcafbd76a" title=" " alt="" coords="541,6,764,31"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="123,105,180,65,217,44,258,28,326,13,396,5,465,3,528,4,528,10,465,8,397,10,327,18,259,33,220,49,182,69,126,109"/>
+<area shape="rect" id="Node000004" href="$namespacePadderCommon.html#a3118b584e59ff64cae16ca7332f3e8c8" title=" " alt="" coords="812,82,1012,107"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="211,114,798,96,799,101,211,120"/>
+<area shape="rect" id="Node000005" href="$namespacePadderCommon.html#ab63b634df6e475e9241d30d41603eb92" title=" " alt="" coords="543,157,762,197"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="208,130,259,136,529,164,529,169,258,141,208,136"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="282,209,470,234"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="135,131,191,158,260,187,309,203,308,208,258,192,189,163,132,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,42,558,31,559,36,494,47"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="494,67,799,85,798,91,494,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="699,29,765,48,856,76,855,81,763,53,697,34"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="715,155,857,109,859,114,717,160"/>
+</map>

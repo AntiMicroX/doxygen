@@ -1,0 +1,17 @@
+<map id="JoySensor::sensorTypeName" name="JoySensor::sensorTypeName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="795,99,1001,125"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ad06f47ea3f0d796b838ae74d4f913b25" title="Get the name of this sensor." alt="" coords="552,99,747,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,115,747,115,747,109,781,109"/>
+<area shape="rect" id="Node000003" href="$classJoySensorPushButton.html#a277c09d90b4b42fbaf06ac5014c15aa6" title="Generate the string that will be displayed on the button." alt="" coords="305,5,465,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="603,97,503,60,464,48,465,43,505,55,605,92"/>
+<area shape="rect" id="Node000004" href="$classJoySensorButton.html#a3dd024a2a6c3dc0a5feaf06b3deae455" title="Get the name of the button. Shows the sensor direction name instead of a button number." alt="" coords="265,70,504,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="538,102,499,98,500,93,539,97"/>
+<area shape="rect" id="Node000005" href="$classJoySensorEditDialog.html#ab1a039fc35cd4c52e2553d7a6d01bc34" title="Shows the sensor name in dialog title." alt="" coords="265,120,504,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="539,126,505,130,504,125,538,121"/>
+<area shape="rect" id="Node000007" href="$classMouseSensorSettingsDialog.html#a3a49370a1061187645fcd8eda0ebc4ca" title="Shows the sensor name in dialog title." alt="" coords="265,184,504,224"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="609,133,505,175,467,186,465,181,503,169,607,128"/>
+<area shape="rect" id="Node000006" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="31,120,192,160"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="251,143,192,143,192,137,251,137"/>
+<area shape="rect" id="Node000008" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="5,184,217,224"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="252,207,218,207,218,201,252,201"/>
+</map>

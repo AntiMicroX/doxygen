@@ -1,0 +1,28 @@
+<map id="sendevent" name="sendevent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,96,271"/>
+<area shape="rect" id="Node000002" href="$event_8cpp.html#a5d4afd531123bc0d5093ae323f20519f" title="detects executor for selected file (for .py files python, for .exe &quot;&quot; etc)" alt="" coords="197,5,334,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,244,58,204,73,148,100,90,119,63,142,40,161,28,182,21,184,26,164,33,146,44,123,66,105,92,78,150,63,205,56,245"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonSlot.html#afdcd95c7e86430f19bee3decaf7b61f2" title=" " alt="" coords="163,55,367,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="53,244,63,213,80,171,106,127,123,107,142,91,153,84,156,88,146,95,127,111,111,130,85,173,68,215,58,246"/>
+<area shape="rect" id="Node000004" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="187,105,344,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="59,243,93,203,116,181,143,161,173,146,175,151,145,166,120,185,97,207,63,247"/>
+<area shape="rect" id="Node000007" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="449,166,607,206"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="69,243,102,223,143,206,219,190,296,181,370,177,435,178,435,183,370,183,297,186,220,195,145,211,105,228,71,248"/>
+<area shape="rect" id="Node000008" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="165,220,365,245"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="96,250,151,243,152,249,97,255"/>
+<area shape="rect" id="Node000009" href="$classJoyButtonSlot.html#aa08ff979d05b38df8f584b77bb750abb" title=" " alt="" coords="167,269,364,295"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="97,260,153,267,152,272,96,266"/>
+<area shape="rect" id="Node000010" href="$namespacePadderCommon.html#a1bf383168922bc793ea7d5d99a975d38" title=" " alt="" coords="145,319,385,359"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="74,268,145,305,166,313,165,318,143,310,71,273"/>
+<area shape="rect" id="Node000011" href="$classBaseEventHandler.html#afd723bd1451d78a34976642783026c40" title=" " alt="" coords="144,383,387,423"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="61,269,93,318,117,346,146,369,156,375,153,380,142,374,113,350,89,322,56,272"/>
+<area shape="rect" id="Node000012" href="$classBaseEventHandler.html#a068ae99c4210979beb9e397960f33641" title=" " alt="" coords="153,447,377,487"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="57,270,67,303,84,348,110,394,127,415,146,433,152,438,149,442,142,437,123,419,106,397,79,350,62,305,52,272"/>
+<area shape="rect" id="Node000013" href="$classBaseEventHandler.html#a9474d07cb2e38dca07ffac6f08a161ed" title=" " alt="" coords="161,511,369,551"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="56,270,61,314,76,375,103,441,122,471,146,497,151,502,148,506,142,501,118,474,98,443,71,377,56,315,50,271"/>
+<area shape="rect" id="Node000005" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="435,38,621,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="344,102,435,79,436,84,345,107"/>
+<area shape="rect" id="Node000006" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="449,102,607,142"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="344,121,435,120,436,126,344,127"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="345,140,437,162,435,167,344,146"/>
+</map>

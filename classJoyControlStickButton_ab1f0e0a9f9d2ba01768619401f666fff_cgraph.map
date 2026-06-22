@@ -1,0 +1,14 @@
+<map id="JoyControlStickButton::getMouseDistanceFromDeadZone" name="JoyControlStickButton::getMouseDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title="Get the distance factor that should be used for mouse movement." alt="" coords="5,117,256,157"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a8d8449aae58887816a8662e79a233ad1" title="Used to calculate the distance value that should be used for mouse movement." alt="" coords="304,117,497,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,135,290,135,290,140,256,140"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a1110ba6e8d87b226653e7d4c38602c92" title=" " alt="" coords="545,29,844,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,115,545,79,577,70,578,75,546,84,449,120"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="601,117,789,157"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="497,135,587,135,587,140,497,140"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="601,205,789,245"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="469,155,614,199,613,204,468,160"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="641,30,637,20,646,10,665,5,695,3,729,5,747,13,745,18,727,11,695,8,666,10,649,15,642,21,646,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="641,118,637,108,646,98,665,93,695,91,729,93,747,101,745,106,727,99,695,96,666,98,649,103,642,109,646,116"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="641,206,637,196,646,186,665,181,695,179,729,181,747,189,745,194,727,187,695,184,666,186,649,191,642,197,646,204"/>
+</map>

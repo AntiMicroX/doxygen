@@ -1,0 +1,11 @@
+<map id="JoySensor::getDirectionButton" name="JoySensor::getDirectionButton">
+<area shape="rect" id="Node000001" title="Get a pointer to the sensor direction button for the desired direction." alt="" coords="461,77,679,102"/>
+<area shape="rect" id="Node000002" href="$classJoySensorPreset.html#a7fcfbacaca8a54d07acab351dee7883c" title="Determines the preset used by the underlying sensor." alt="" coords="229,37,411,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,78,411,72,411,66,457,72"/>
+<area shape="rect" id="Node000005" href="$classJoySensorIoThreadHelper.html#a639d3efe0906bf8416b4fc6e610fbe5b" title="Applies pending slot values to the buttons Should be called via QMetaObject::invokeMethod." alt="" coords="227,101,413,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="458,106,414,112,413,107,457,101"/>
+<area shape="rect" id="Node000003" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,45,178,40,179,35,216,40"/>
+<area shape="rect" id="Node000004" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="11,69,173,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,75,173,81,173,75,215,69"/>
+</map>

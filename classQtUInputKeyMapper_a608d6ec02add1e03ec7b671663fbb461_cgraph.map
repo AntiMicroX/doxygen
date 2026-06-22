@@ -1,0 +1,36 @@
+<map id="QtUInputKeyMapper::populateMappingHashes" name="QtUInputKeyMapper::populateMappingHashes">
+<area shape="rect" id="Node000001" title="Populate the Qt &lt;&#45;&gt; platform virtual key mappings. Implementations must fill qtKeyToVirtKeyHash (Qt &#45;..." alt="" coords="5,347,188,387"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="509,354,697,379"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,346,105,284,127,200,145,156,168,113,198,75,235,44,294,13,321,5,349,3,376,5,403,13,463,44,499,74,528,110,551,151,569,194,592,277,602,340,597,341,587,278,564,196,546,154,523,113,495,78,460,49,402,18,375,11,349,8,322,11,296,18,237,49,202,79,173,116,150,158,132,202,111,285,102,347"/>
+<area shape="rect" id="Node000003" href="$classQtUInputKeyMapper.html#ac05e9836dc0d996d04fb936989f8bbf6" title=" " alt="" coords="236,59,461,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,346,116,297,142,233,181,166,206,135,234,108,241,104,244,108,238,113,210,139,186,169,147,236,121,299,106,347"/>
+<area shape="rect" id="Node000004" href="$classQtUInputKeyMapper.html#ad864d0e7b5f1b25eb534f46c8c4bf341" title=" " alt="" coords="261,123,437,163"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="105,345,123,308,152,261,189,213,234,172,247,165,249,169,238,177,193,217,156,264,128,311,109,347"/>
+<area shape="rect" id="Node000005" href="$classQtUInputKeyMapper.html#aa33f9f274158ff1afc1f2ddcd89e4242" title=" " alt="" coords="255,187,443,227"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="113,344,163,290,197,261,235,236,248,229,251,234,237,241,201,266,167,294,116,348"/>
+<area shape="rect" id="Node000006" href="$classQtUInputKeyMapper.html#a0428b8fd4ed7122985c71b7dd08bca5f" title=" " alt="" coords="256,251,441,291"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="136,344,235,300,258,292,259,297,237,305,138,349"/>
+<area shape="rect" id="Node000007" href="$classQtUInputKeyMapper.html#ad87461bdeeeea3cbc3131e8d64168cb4" title=" " alt="" coords="259,315,439,355"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="188,352,244,345,245,350,188,358"/>
+<area shape="rect" id="Node000008" href="$classQtUInputKeyMapper.html#a08d912a0c16077e9565c2362a8521bca" title=" " alt="" coords="263,379,434,419"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="188,375,250,383,250,389,188,381"/>
+<area shape="rect" id="Node000009" href="$classQtUInputKeyMapper.html#ab50c777dee3577173ac20858105f3e5f" title=" " alt="" coords="249,443,449,483"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="138,384,237,428,259,436,258,441,235,433,136,389"/>
+<area shape="rect" id="Node000010" href="$classQtUInputKeyMapper.html#a3c11651d709d9dc84557bcd8a2101fc0" title=" " alt="" coords="267,507,431,547"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="116,385,167,439,201,467,237,492,255,501,253,506,235,497,197,472,163,443,113,389"/>
+<area shape="rect" id="Node000011" href="$classQtUInputKeyMapper.html#ab0b50eb0c52699b2e83965739c7e1d6c" title=" " alt="" coords="268,571,429,611"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="109,386,128,422,156,469,193,516,238,556,257,567,254,572,234,561,189,520,152,472,123,425,105,388"/>
+<area shape="rect" id="Node000012" href="$classQtUInputKeyMapper.html#ab660b92bb568c382995f2ff93d915996" title=" " alt="" coords="258,635,439,675"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="106,386,121,434,147,497,186,564,210,594,238,620,247,627,244,632,234,625,206,598,181,567,142,500,116,436,100,387"/>
+<area shape="rect" id="Node000013" href="$classQtUInputKeyMapper.html#ae348ad61414378a2b265e8a6b3907d95" title=" " alt="" coords="247,699,451,739"/>
+<area shape="poly" id="edge20_Node000001_Node000013" title=" " alt="" coords="103,386,115,445,139,526,156,569,178,611,205,650,238,685,243,689,240,693,234,688,201,654,174,614,151,571,134,527,110,446,98,387"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="444,97,463,108,491,134,515,164,554,228,581,290,597,339,592,341,576,292,549,230,510,167,487,138,460,113,441,101"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="438,159,463,172,507,211,544,257,573,303,593,340,588,342,568,305,540,260,503,215,460,177,436,164"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="426,288,462,300,566,345,564,350,460,305,425,293"/>
+<area shape="poly" id="edge10_Node000007_Node000002" title=" " alt="" coords="439,343,496,350,495,356,439,348"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="434,385,495,377,496,383,435,390"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="425,440,460,428,564,383,566,388,462,433,426,445"/>
+<area shape="poly" id="edge16_Node000010_Node000002" title=" " alt="" coords="430,506,460,492,496,468,529,441,581,388,584,392,533,444,499,473,463,497,432,511"/>
+<area shape="poly" id="edge18_Node000011_Node000002" title=" " alt="" coords="428,572,460,556,503,518,540,473,568,428,588,391,593,393,573,430,544,476,507,522,463,561,431,577"/>
+<area shape="poly" id="edge21_Node000013_Node000002" title=" " alt="" coords="442,696,460,684,491,652,518,614,540,573,558,532,583,453,595,392,601,394,588,454,563,533,545,576,522,617,495,655,463,689,445,701"/>
+</map>

@@ -1,0 +1,74 @@
+<map id="JoyButton::setButtonName" name="JoyButton::setButtonName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1705,494,1900,519"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#a82f6d5a24f90b015034e1a3985c410b8" title=" " alt="" coords="1443,145,1629,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1783,484,1727,405,1655,308,1553,187,1557,184,1659,305,1732,402,1787,481"/>
+<area shape="rect" id="Node000010" href="$classInputDevice.html#a38ee53ddc49dccd9d7b5b91a22fb1610" title=" " alt="" coords="865,525,1104,550"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="1702,524,1658,528,1508,536,1359,541,1104,542,1104,537,1359,535,1508,531,1657,523,1702,518"/>
+<area shape="rect" id="Node000017" href="$classInputDevice.html#a5a47b5126be20615a458dc864153c79c" title=" " alt="" coords="879,298,1090,323"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="1776,487,1724,444,1691,423,1656,406,1583,381,1507,360,1430,344,1353,332,1209,318,1090,313,1091,307,1210,312,1354,327,1431,339,1508,355,1585,376,1658,402,1694,419,1727,440,1780,482"/>
+<area shape="rect" id="Node000019" href="$classInputDevice.html#a1058ad2d1f91bf4e7e8505e0baec286c" title=" " alt="" coords="863,589,1106,614"/>
+<area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="1743,525,1658,544,1510,565,1361,580,1106,599,1106,593,1360,575,1509,559,1657,539,1742,520"/>
+<area shape="rect" id="Node000021" href="$classInputDevice.html#a85f69eb270f134d0d6970ac68ec9cbed" title="Sets the name of a mapped sensor button in all sets Used during XML loading." alt="" coords="857,407,1112,433"/>
+<area shape="poly" id="edge31_Node000001_Node000021" title=" " alt="" coords="1691,498,1105,435,1106,430,1692,492"/>
+<area shape="rect" id="Node000023" href="$classInputDevice.html#afb3c54a95a3f41f4a6f322d244e29673" title=" " alt="" coords="1415,415,1657,441"/>
+<area shape="poly" id="edge36_Node000001_Node000023" title=" " alt="" coords="1744,492,1579,443,1581,438,1746,487"/>
+<area shape="rect" id="Node000025" href="$classInputDevice.html#afd9e415c909a9215390476e04cb79e51" title=" " alt="" coords="859,650,1111,675"/>
+<area shape="poly" id="edge42_Node000001_Node000025" title=" " alt="" coords="1770,529,1718,555,1658,579,1514,614,1366,638,1228,653,1111,661,1111,656,1228,648,1366,632,1512,608,1657,573,1716,550,1767,524"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="32,149,215,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1439,145,1345,125,1232,106,1109,91,986,85,699,85,493,84,403,91,290,111,226,129,169,152,167,147,224,124,289,105,403,85,492,78,699,80,986,80,1110,86,1233,101,1346,120,1440,140"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#a0016da2aa8e376b6df5f7eb7051ef1c3" title=" " alt="" coords="1172,5,1355,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1492,140,1433,103,1366,66,1322,48,1324,43,1368,62,1436,98,1494,135"/>
+<area shape="rect" id="Node000005" href="$classButtonEditDialog.html#a8a246d58fb4be6f912506d46b7cb187c" title=" " alt="" coords="323,235,509,275"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1479,193,1425,213,1367,228,1248,247,1126,260,1004,268,886,272,672,271,509,264,509,259,672,265,886,266,1004,262,1126,254,1248,241,1366,223,1424,208,1477,188"/>
+<area shape="rect" id="Node000006" href="$classButtonEditDialog.html#a7b7f4ddddf1b67c7883cc03d7469987f" title=" " alt="" coords="609,120,791,160"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="1429,165,791,145,792,140,1429,159"/>
+<area shape="rect" id="Node000008" href="$classButtonEditDialog.html#a70b199304a9e842bff9cc50ca6c48abb" title=" " alt="" coords="1173,173,1353,213"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="1429,179,1354,187,1353,181,1429,174"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="333,233,192,192,193,187,335,228"/>
+<area shape="rect" id="Node000007" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="298,120,534,160"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="595,143,534,143,534,137,595,137"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="285,156,215,163,215,158,284,151"/>
+<area shape="rect" id="Node000009" href="$classButtonEditDialog.html#a3f4f84fb02db14ed369dfa2cbe3eb9de" title=" " alt="" coords="889,173,1080,213"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1160,196,1080,196,1080,191,1160,191"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="875,193,215,175,215,169,876,188"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="875,176,791,160,792,154,876,170"/>
+<area shape="rect" id="Node000011" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="598,467,802,493"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="907,524,763,495,764,490,908,519"/>
+<area shape="rect" id="Node000013" href="$classInputDevice.html#adaf073e157dca5d1e3325d916d6c4823" title=" " alt="" coords="599,517,801,557"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="852,549,802,549,802,543,852,544"/>
+<area shape="rect" id="Node000012" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="297,467,535,493"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="584,483,536,483,536,477,584,477"/>
+<area shape="poly" id="edge20_Node000013_Node000010" title=" " alt="" coords="815,526,865,526,865,531,815,531"/>
+<area shape="rect" id="Node000014" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,414,543,439"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="601,514,589,508,574,495,565,482,556,470,541,458,500,442,502,437,544,454,560,466,569,479,578,491,592,503,604,509"/>
+<area shape="rect" id="Node000015" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,438,241,463"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="276,441,242,444,241,438,276,436"/>
+<area shape="rect" id="Node000016" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,389,189,414"/>
+<area shape="poly" id="edge19_Node000014_Node000016" title=" " alt="" coords="276,417,189,410,190,404,276,412"/>
+<area shape="poly" id="edge22_Node000017_Node000011" title=" " alt="" coords="950,333,905,362,859,398,846,414,837,429,827,443,811,457,783,470,781,465,808,452,823,439,832,426,841,411,855,394,902,357,947,328"/>
+<area shape="rect" id="Node000018" href="$classInputDevice.html#ac755b9a6c5992b14f07fbb5118ba2da9" title=" " alt="" coords="591,288,809,328"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="866,321,809,320,809,315,866,316"/>
+<area shape="poly" id="edge24_Node000018_Node000014" title=" " alt="" coords="627,335,592,349,445,416,442,411,590,344,626,330"/>
+<area shape="poly" id="edge25_Node000018_Node000017" title=" " alt="" coords="823,298,879,298,879,304,822,303"/>
+<area shape="poly" id="edge27_Node000019_Node000011" title=" " alt="" coords="903,587,856,565,840,550,831,535,823,521,808,508,781,495,783,490,811,503,827,517,836,532,844,547,859,560,905,582"/>
+<area shape="rect" id="Node000020" href="$classInputDevice.html#a1aed75415ee98b95e4c89647a9432afa" title=" " alt="" coords="597,581,803,621"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="850,613,803,613,803,607,850,608"/>
+<area shape="poly" id="edge29_Node000020_Node000014" title=" " alt="" coords="594,576,589,571,576,557,569,542,564,513,560,484,553,471,541,458,513,442,516,437,544,454,557,468,565,483,570,512,574,540,581,554,593,567,598,572"/>
+<area shape="poly" id="edge30_Node000020_Node000019" title=" " alt="" coords="817,590,863,590,863,595,817,595"/>
+<area shape="poly" id="edge32_Node000021_Node000011" title=" " alt="" coords="911,438,762,470,760,465,910,433"/>
+<area shape="rect" id="Node000022" href="$classInputDevice.html#a02bdfd2dbbaa852aa608dc27f85563c6" title="Rename mapped sensor button in all sets to the name in the active set." alt="" coords="591,403,809,443"/>
+<area shape="poly" id="edge33_Node000021_Node000022" title=" " alt="" coords="844,433,810,433,810,428,844,428"/>
+<area shape="poly" id="edge34_Node000022_Node000014" title=" " alt="" coords="577,427,543,428,543,422,577,422"/>
+<area shape="poly" id="edge35_Node000022_Node000021" title=" " alt="" coords="823,410,857,410,857,415,823,415"/>
+<area shape="poly" id="edge37_Node000023_Node000011" title=" " alt="" coords="1401,439,803,476,802,471,1400,434"/>
+<area shape="rect" id="Node000024" href="$classInputDevice.html#acc8b931a7b219403ecd8eae444d8534f" title=" " alt="" coords="1160,379,1367,419"/>
+<area shape="poly" id="edge38_Node000023_Node000024" title=" " alt="" coords="1401,425,1366,421,1367,416,1401,420"/>
+<area shape="poly" id="edge39_Node000024_Node000014" title=" " alt="" coords="1146,392,1030,386,891,382,741,383,591,393,525,403,466,417,465,411,524,398,590,388,740,378,891,376,1030,380,1147,387"/>
+<area shape="poly" id="edge40_Node000024_Node000021" title=" " alt="" coords="1146,410,1112,413,1112,408,1146,405"/>
+<area shape="poly" id="edge41_Node000024_Node000023" title=" " alt="" coords="1381,400,1484,413,1484,418,1380,405"/>
+<area shape="poly" id="edge43_Node000025_Node000011" title=" " alt="" coords="885,647,856,629,842,613,835,597,831,566,827,536,820,521,808,507,788,495,791,490,811,503,824,518,832,534,836,565,840,596,847,610,859,625,887,643"/>
+<area shape="rect" id="Node000026" href="$classInputDevice.html#ac45d96f574a4b1c64b93932e49711377" title=" " alt="" coords="592,645,808,685"/>
+<area shape="poly" id="edge44_Node000025_Node000026" title=" " alt="" coords="845,676,808,676,808,670,845,670"/>
+<area shape="poly" id="edge45_Node000026_Node000014" title=" " alt="" coords="593,639,589,635,572,612,565,589,565,544,566,522,564,500,557,479,541,458,516,442,519,437,544,454,562,476,570,499,571,522,570,544,570,589,577,610,593,632,596,635"/>
+<area shape="poly" id="edge46_Node000026_Node000025" title=" " alt="" coords="822,653,858,652,858,658,822,658"/>
+</map>

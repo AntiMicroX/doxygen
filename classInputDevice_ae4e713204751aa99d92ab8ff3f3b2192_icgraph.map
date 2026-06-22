@@ -1,0 +1,9 @@
+<map id="InputDevice::convertToUniqueMappSett" name="InputDevice::convertToUniqueMappSett">
+<area shape="rect" id="Node000001" title=" " alt="" coords="559,27,776,67"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a6a50aff41b62b36387bf342fdbfec47f" title=" " alt="" coords="284,5,511,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,37,511,33,511,28,545,31"/>
+<area shape="rect" id="Node000003" href="$classGameControllerMappingDialog.html#a12fb7328d4a9e9579ff6eb37c76813ab" title=" " alt="" coords="286,55,509,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="545,63,509,66,509,61,545,57"/>
+<area shape="rect" id="Node000004" href="$classGameControllerMappingDialog.html#a3b5f7c179120ccffa5c7eca5de1edafe" title=" " alt="" coords="5,55,236,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="272,78,236,78,236,73,272,73"/>
+</map>

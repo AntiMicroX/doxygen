@@ -1,0 +1,21 @@
+<map id="ExtraProfileSettingsDialog::ExtraProfileSettingsDialog" name="ExtraProfileSettingsDialog::ExtraProfileSettingsDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,111,205,151"/>
+<area shape="rect" id="Node000002" href="$classExtraProfileSettingsDialog.html#a584bc443f3f3e839776b9f62fbd72f85" title=" " alt="" coords="262,47,454,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,109,265,88,266,93,186,114"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="515,5,703,31"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="127,109,182,68,216,48,252,33,315,17,380,9,444,5,502,6,502,12,444,11,381,14,316,22,254,38,218,53,184,73,131,113"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a15ce72c69139dfded93523e17d48c7ab" title=" " alt="" coords="259,111,457,151"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,129,245,129,245,134,205,134"/>
+<area shape="rect" id="Node000007" href="$classInputDevice.html#a0e5ec1f9ff969ada1f54b4a71020f54c" title=" " alt="" coords="253,176,463,201"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="195,149,289,170,287,176,194,154"/>
+<area shape="rect" id="Node000008" href="$classInputDevice.html#ad27a114484ca7b3cd7d9e60055351799" title=" " alt="" coords="254,225,462,251"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="138,149,191,181,254,212,277,219,275,224,252,216,188,186,135,154"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,46,530,31,531,36,455,51"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a4c29ccb8fbb979b7cfffeba529868bb1" title=" " alt="" coords="511,62,708,102"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="454,70,497,73,497,78,454,76"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#ac58f8bcb235ffc831d26dfe408664ecb" title=" " alt="" coords="756,105,975,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="709,93,762,101,761,106,708,99"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="414,223,462,211,798,131,799,136,463,217,415,228"/>
+<area shape="rect" id="Node000009" href="$classInputDevice.html#ab75bd2ab57cc303f47ff0270891fbabb" title=" " alt="" coords="515,218,703,258"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="462,235,502,235,502,241,462,241"/>
+</map>

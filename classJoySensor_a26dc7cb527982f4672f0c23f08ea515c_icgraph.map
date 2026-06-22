@@ -1,0 +1,15 @@
+<map id="JoySensor::calculatePitch" name="JoySensor::calculatePitch">
+<area shape="rect" id="Node000001" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="455,106,640,131"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="590,97,578,88,547,85,522,87,509,92,506,97,513,104,509,108,501,98,505,88,521,82,547,79,580,83,593,93"/>
+<area shape="rect" id="Node000002" href="$classJoyAccelerometerSensor.html#a2eea63a1a3b99965a9268d9014243768" title="Find the direction zone of the current sensor position." alt="" coords="215,5,407,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="506,103,406,60,373,48,375,43,408,55,508,98"/>
+<area shape="rect" id="Node000003" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="227,69,394,109"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="441,108,394,102,395,97,441,103"/>
+<area shape="rect" id="Node000005" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,159,167,199"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="441,135,167,171,167,166,440,130"/>
+<area shape="rect" id="Node000006" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="234,184,387,224"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="499,139,368,186,366,181,497,134"/>
+<area shape="rect" id="Node000004" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="10,69,162,109"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="214,92,162,92,162,87,214,87"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="220,196,167,190,167,185,221,191"/>
+</map>

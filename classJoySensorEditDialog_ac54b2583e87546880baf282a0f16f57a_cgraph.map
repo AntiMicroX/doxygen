@@ -1,0 +1,23 @@
+<map id="JoySensorEditDialog::implementPresets" name="JoySensorEditDialog::implementPresets">
+<area shape="rect" id="Node000001" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="5,73,159,113"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="223,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,70,206,39,234,31,236,37,208,45,128,75"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="207,55,421,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,82,193,78,193,83,159,87"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="226,104,402,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="159,98,213,104,212,109,159,103"/>
+<area shape="rect" id="Node000006" href="$classJoySensorPreset.html#a21eb1e1e612e4f70e0ade394e9878425" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="215,154,413,194"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="134,110,208,138,234,147,232,152,206,143,132,115"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="493,55,647,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,28,491,49,490,55,380,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="422,65,479,65,479,70,422,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="380,101,490,80,491,85,381,107"/>
+<area shape="rect" id="Node000007" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="469,112,671,137"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="413,152,490,137,491,143,414,157"/>
+<area shape="rect" id="Node000009" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="476,161,664,187"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="414,171,462,171,462,177,414,177"/>
+<area shape="rect" id="Node000010" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="477,211,663,251"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="405,191,467,206,466,211,403,197"/>
+<area shape="rect" id="Node000008" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="719,112,897,137"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="671,122,705,122,705,127,671,127"/>
+</map>

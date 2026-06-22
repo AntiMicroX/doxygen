@@ -1,0 +1,15 @@
+<map id="MouseSettingsDialog::changeSettingsWidgetStatus" name="MouseSettingsDialog::changeSettingsWidgetStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="300,177,517,217"/>
+<area shape="rect" id="Node000002" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="31,5,227,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="380,169,324,113,289,84,251,60,224,48,226,43,253,55,292,80,327,109,384,165"/>
+<area shape="rect" id="Node000003" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="23,69,234,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,173,307,148,251,124,215,112,216,107,253,119,309,143,361,168"/>
+<area shape="rect" id="Node000004" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,134,252,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,184,252,180,253,175,286,179"/>
+<area shape="rect" id="Node000005" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="28,213,229,253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="286,216,230,223,229,218,286,210"/>
+<area shape="rect" id="Node000006" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="23,277,235,317"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="355,226,253,268,215,280,213,275,251,263,353,221"/>
+<area shape="rect" id="Node000007" href="$classMouseSettingsDialog.html#a4a3da2adef113d4d6580b36fe62067ed" title=" " alt="" coords="45,341,213,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="382,229,326,282,291,309,253,332,214,347,212,342,251,327,288,304,322,278,378,226"/>
+</map>

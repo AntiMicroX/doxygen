@@ -1,0 +1,9 @@
+<map id="JoyDPad::isDefault" name="JoyDPad::isDefault">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,148,60"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#aaae603630f3485683593320bd446927d" title="Check if button properties are at their default values." alt="" coords="196,35,348,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,45,182,45,182,50,148,50"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="396,5,601,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,35,387,30,387,35,349,40"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a6cbb7efc0329d7f86455f62b1957a644" title="Returns the default mouse curve for this JoyButton type. Can be overwritten by subclasses." alt="" coords="396,55,601,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="349,54,383,58,382,64,348,59"/>
+</map>

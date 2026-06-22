@@ -1,0 +1,7 @@
+<map id="JoyDPad::getButtonsSpringDeadCircleMultiplier" name="JoyDPad::getButtonsSpringDeadCircleMultiplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="529,5,724,45"/>
+<area shape="rect" id="Node000002" href="$classMouseDPadSettingsDialog.html#ab552498fd76a3307ec75c565e15de2b4" title=" " alt="" coords="255,5,481,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,28,481,28,481,23,516,23"/>
+<area shape="rect" id="Node000003" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="5,5,207,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,28,207,28,207,23,241,23"/>
+</map>

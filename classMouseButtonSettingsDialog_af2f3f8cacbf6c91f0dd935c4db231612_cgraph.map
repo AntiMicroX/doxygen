@@ -1,0 +1,24 @@
+<map id="MouseButtonSettingsDialog::changeMouseMode" name="MouseButtonSettingsDialog::changeMouseMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,208,141"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a77afa6c5934d2665bad6d494b812f372" title="Check if button should be considered a part of a real controller axis. Needed for some dialogs so the..." alt="" coords="540,5,727,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,98,185,61,219,43,255,29,324,13,395,5,464,3,526,5,526,10,464,9,396,11,325,19,257,34,222,48,188,65,134,103"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#aca69f26410f28982be9a6e952ec3c494" title=" " alt="" coords="256,43,484,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,98,264,84,265,89,200,103"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a28224ca61d50adb1338643ae63bab3a3" title=" " alt="" coords="274,108,466,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="208,118,260,118,260,123,208,123"/>
+<area shape="rect" id="Node000006" href="$classSpringModeRegionPreview.html#a8d2b08d077d77697a327e2d062130cbd" title=" " alt="" coords="272,158,468,198"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="200,138,265,152,264,158,199,143"/>
+<area shape="rect" id="Node000009" href="$classSpringModeRegionPreview.html#a769d674b3f0697dee55b0a7fbfe4a48f" title=" " alt="" coords="272,222,468,262"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="138,139,192,173,257,208,276,215,274,220,255,212,189,178,135,143"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="484,41,545,30,546,36,485,46"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="532,65,735,91"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="484,67,518,69,518,74,484,72"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="448,105,540,90,541,96,449,111"/>
+<area shape="rect" id="Node000007" href="$classSpringModeRegionPreview.html#ac11ce802ca9098d5d61a1c7550e3a4f2" title=" " alt="" coords="535,129,731,169"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="468,164,521,158,522,164,468,170"/>
+<area shape="rect" id="Node000008" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="539,193,727,219"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="468,186,526,192,525,197,468,191"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="468,226,527,218,527,223,468,231"/>
+<area shape="rect" id="Node000010" href="$classSpringModeRegionPreview.html#a78b54db3c38d88222b2491d21bb7daac" title=" " alt="" coords="535,243,731,283"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="468,247,522,252,521,257,468,253"/>
+</map>

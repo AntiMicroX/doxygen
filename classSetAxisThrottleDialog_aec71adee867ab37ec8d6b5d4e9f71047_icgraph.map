@@ -1,0 +1,8 @@
+<map id="SetAxisThrottleDialog::initiateSetAxisThrottleChange" name="SetAxisThrottleDialog::initiateSetAxisThrottleChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,35,695,75"/>
+<area shape="rect" id="Node000002" href="$classSetAxisThrottleDialog.html#a6819a2d8c1dc50aa85944a3671e4728f" title=" " alt="" coords="225,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,43,421,39,422,34,456,38"/>
+<area shape="rect" id="Node000003" href="$classSetAxisThrottleDialog.html#adbaa858d71f742898812490fbe065770" title=" " alt="" coords="5,35,177,75"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="456,60,421,60,225,60,178,59,178,54,225,55,421,55,456,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,42,178,46,177,41,211,37"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="MainSettingsDialog::changeAutoProfileButtonsState" name="MainSettingsDialog::changeAutoProfileButtonsState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="449,39,648,93"/>
+<area shape="rect" id="Node000002" href="$classMainSettingsDialog.html#a602a8edb97cf5af3ac6d5696f7cb756a" title=" " alt="" coords="211,5,401,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,53,401,48,402,43,436,48"/>
+<area shape="rect" id="Node000003" href="$classMainSettingsDialog.html#aeee272ff5482aca59310558ffdb9ebbe" title=" " alt="" coords="5,46,163,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="436,73,401,74,211,74,163,72,163,67,211,69,401,69,436,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,52,163,57,162,52,196,46"/>
+</map>

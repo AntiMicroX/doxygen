@@ -1,0 +1,5 @@
+<map id="JoyGyroscopeSensor::populateButtons" name="JoyGyroscopeSensor::populateButtons">
+<area shape="rect" id="Node000001" title="Initializes the JoySensorButton objects for this sensor." alt="" coords="5,5,160,45"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="208,13,385,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,23,194,23,194,28,160,28"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="SDLEventReader::sdlStarted" name="SDLEventReader::sdlStarted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="723,106,927,131"/>
+<area shape="rect" id="Node000002" href="$classSDLEventReader.html#af9ed7e67978569528ffc7de13cee30f4" title=" " alt="" coords="491,69,675,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="728,107,665,97,666,91,729,101"/>
+<area shape="rect" id="Node000006" href="$classInputDaemon.html#a7dbb5a72a490efb5b6f881528f1186ba" title=" " alt="" coords="501,142,665,167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="726,136,665,145,664,140,725,131"/>
+<area shape="rect" id="Node000003" href="$classSDLEventReader.html#a6a04914bb03b550adda5e191abd2ae49" title=" " alt="" coords="240,5,440,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,68,427,48,428,43,514,63"/>
+<area shape="rect" id="Node000004" href="$classSDLEventReader.html#a8dc8ff624f25ddf0595a055db7c91742" title=" " alt="" coords="237,69,443,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="477,87,443,89,443,83,477,82"/>
+<area shape="rect" id="Node000005" href="$classSDLEventReader.html#a90ca921f9f50fa3847efb5ca1860504f" title=" " alt="" coords="5,77,189,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,92,189,92,189,87,224,87"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="626,133,614,124,583,121,557,123,543,128,541,133,548,140,544,144,535,134,540,124,556,118,583,115,616,119,629,129"/>
+<area shape="rect" id="Node000007" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="313,142,367,167"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="487,157,367,157,367,152,487,152"/>
+</map>

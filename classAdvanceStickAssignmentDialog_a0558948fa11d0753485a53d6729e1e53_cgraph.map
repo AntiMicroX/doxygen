@@ -1,0 +1,20 @@
+<map id="AdvanceStickAssignmentDialog::checkForAxisAssignmentStickOne" name="AdvanceStickAssignmentDialog::checkForAxisAssignmentStickOne">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,256,153"/>
+<area shape="rect" id="Node000002" href="$classAdvanceStickAssignmentDialog.html#a3d447d0544efde715f4774ff0789b9b1" title=" " alt="" coords="304,113,536,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,131,291,131,291,136,256,136"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="603,5,794,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,111,583,62,622,47,624,52,585,66,467,116"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="869,42,1083,67"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="536,113,584,105,864,66,865,72,584,111,537,118"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#a7b74d7b4a0adfc9c25cdbe4433d9b275" title=" " alt="" coords="611,121,786,146"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="536,131,598,131,598,136,536,136"/>
+<area shape="rect" id="Node000007" href="$classAdvanceStickAssignmentDialog.html#a413695eacc51854fa9e524ca92b9bddb" title=" " alt="" coords="584,171,813,211"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="518,151,588,165,587,170,517,156"/>
+<area shape="rect" id="Node000009" href="$classAdvanceStickAssignmentDialog.html#a28a9ba0713d92d0f1feefb38f764adde" title=" " alt="" coords="584,235,813,275"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="454,151,514,186,585,220,606,228,604,233,583,225,511,190,451,156"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="794,33,855,39,855,45,794,38"/>
+<area shape="rect" id="Node000006" href="$classSetJoystick.html#a0638da28097143bef416a93647f7b570" title=" " alt="" coords="895,121,1057,146"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="786,131,881,131,881,136,786,136"/>
+<area shape="rect" id="Node000008" href="$classAdvanceStickAssignmentDialog.html#ae8d5280ce8512b5fcd821eea30b57f73" title=" " alt="" coords="861,171,1091,211"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="814,188,847,188,847,193,814,193"/>
+</map>

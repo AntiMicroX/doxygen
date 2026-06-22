@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::calculateStartAccelerationMultiplier" name="MouseControlStickSettingsDialog::calculateStartAccelerationMultiplier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,248,85"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ae57529b9cc67e7aab331b06a3eec223a" title=" " alt="" coords="296,37,496,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,55,282,55,282,60,248,60"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="544,5,763,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,42,530,38,531,43,496,48"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#ac9b85925d5c58f33b715a6db361012e2" title=" " alt="" coords="563,69,743,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="496,67,550,74,549,79,496,72"/>
+</map>

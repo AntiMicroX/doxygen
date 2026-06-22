@@ -1,0 +1,11 @@
+<map id="Calibration::hideCalibrationData" name="Calibration::hideCalibrationData">
+<area shape="rect" id="Node000001" title="hides all calibration values and their labels." alt="" coords="732,5,963,31"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#afc519f1523975fba078f7bbb53e12ea2" title=" " alt="" coords="5,31,177,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="718,17,489,16,357,19,226,27,172,33,172,28,225,22,356,14,489,10,719,11"/>
+<area shape="rect" id="Node000003" href="$classCalibration.html#acdfae27f432841500559e7d864d6422b" title="Prepares calibration for the selected device type. Show all used values and labels and connect button..." alt="" coords="477,31,684,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="719,33,685,36,684,31,718,28"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="463,46,178,46,178,41,463,41"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#ae04e7156bcec45c28e59864a4a650d37" title="Device change event handler. Asks for confirmation if there are unsaved changes." alt="" coords="225,81,429,121"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="511,62,417,83,416,78,510,56"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="231,80,144,59,145,53,232,75"/>
+</map>

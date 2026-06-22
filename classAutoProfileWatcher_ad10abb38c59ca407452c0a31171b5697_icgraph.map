@@ -1,0 +1,21 @@
+<map id="AutoProfileWatcher::getDefaultProfileAssignments" name="AutoProfileWatcher::getDefaultProfileAssignments">
+<area shape="rect" id="Node000001" title=" " alt="" coords="991,69,1215,109"/>
+<area shape="rect" id="Node000002" href="$classAutoProfileWatcher.html#a271cfd222b93c64b8c079cfa8c0279d5" title=" " alt="" coords="756,69,943,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,92,943,92,943,87,977,87"/>
+<area shape="rect" id="Node000007" href="$classAutoProfileWatcher.html#a5dda8ebb8a813ad72ad353e95c42c6f4" title=" " alt="" coords="771,5,927,45"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1009,69,927,48,928,42,1010,63"/>
+<area shape="rect" id="Node000009" href="$classAutoProfileWatcher.html#ae6ec8b944a048017f3e9958525ccfb62" title=" " alt="" coords="545,127,692,167"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="999,115,943,124,810,138,692,146,692,141,810,133,942,119,998,109"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileWatcher.html#a561af8319ef8031986ac0eaee221c6a3" title=" " alt="" coords="529,63,708,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="742,89,708,88,708,83,743,84"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileWatcher.html#a6c9832eb02480c6909f49cbb05d5113c" title=" " alt="" coords="289,127,443,167"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="527,109,444,130,443,125,525,103"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#ae9f72ff45056908317963a1e7fa634a0" title="Build list of current input devices and pass it to settings dialog instance. Open Settings dialog." alt="" coords="251,63,481,103"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="516,85,481,85,481,80,516,80"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#a2f0c03d3d51748ab794e698322110614" title=" " alt="" coords="5,42,203,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="237,72,203,68,203,63,237,66"/>
+<area shape="rect" id="Node000008" href="$classMainWindow.html#a0a756973a707af418c4ce416c9c8312c" title=" " alt="" coords="259,13,473,38"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="758,28,474,28,474,23,758,23"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="245,42,203,46,203,41,245,36"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="532,149,443,149,443,144,532,144"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="JoyControlStick::setModifierZone" name="JoyControlStick::setModifierZone">
+<area shape="rect" id="Node000001" title="Sets the modifier zone of the stick to the given value." alt="" coords="5,63,240,88"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="288,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,60,310,31,311,36,182,65"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a563e731f3dc5ce85dee168f44e1be9cd" title=" " alt="" coords="291,55,473,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,73,277,73,277,78,240,78"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ae0680b1adfe088c2178be2aa38e2050e" title=" " alt="" coords="290,119,474,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,86,288,113,286,119,175,91"/>
+</map>

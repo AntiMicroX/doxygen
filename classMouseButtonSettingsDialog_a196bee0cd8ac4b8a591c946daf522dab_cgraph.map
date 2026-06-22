@@ -1,0 +1,7 @@
+<map id="MouseButtonSettingsDialog::updateSensitivity" name="MouseButtonSettingsDialog::updateSensitivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,208,45"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a79db0e0cc11d3a55497a51701f9abcd0" title=" " alt="" coords="256,13,439,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,23,242,23,242,28,208,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="487,13,689,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,23,473,23,473,28,439,28"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="JoyControlStickEditDialog::selectCurrentPreset" name="JoyControlStickEditDialog::selectCurrentPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,193,125"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="243,5,449,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,82,240,41,271,32,273,37,242,46,143,87"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#ae57242ae6e71190d82ef4dbf31f11dd0" title="Get a pointer to the stick direction button for the desired direction." alt="" coords="241,55,451,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,91,227,87,228,92,194,96"/>
+<area shape="rect" id="Node000004" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="245,120,447,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,113,232,117,232,122,193,118"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="252,169,440,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="152,122,242,154,275,163,274,169,241,159,150,127"/>
+<area shape="rect" id="Node000005" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="499,120,677,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="447,130,485,130,485,135,447,135"/>
+</map>

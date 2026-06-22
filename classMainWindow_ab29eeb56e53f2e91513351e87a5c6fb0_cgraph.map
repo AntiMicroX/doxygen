@@ -1,0 +1,11 @@
+<map id="MainWindow::makeJoystickTabs" name="MainWindow::makeJoystickTabs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,235,105"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a197e76d4113e8258e6637981830dd219" title=" " alt="" coords="288,5,489,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,77,282,39,314,31,316,36,283,45,160,82"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a21f76b23650db2edd90f8f4b6951845a" title=" " alt="" coords="305,55,473,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,79,290,74,291,79,235,85"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a3184377c2e251949cae1a0937aaef78c" title=" " alt="" coords="292,104,485,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,100,278,104,278,109,235,106"/>
+<area shape="rect" id="Node000005" href="$classMainWindow.html#a5f2ca2a86e915e6bc3d85880b2dca600" title=" " alt="" coords="283,153,495,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="163,103,283,138,320,147,319,153,282,143,162,108"/>
+</map>

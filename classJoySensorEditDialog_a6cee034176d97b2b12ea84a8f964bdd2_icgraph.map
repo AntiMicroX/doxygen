@@ -1,0 +1,7 @@
+<map id="JoySensorEditDialog::enableMouseSettingButton" name="JoySensorEditDialog::enableMouseSettingButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="463,5,669,45"/>
+<area shape="rect" id="Node000002" href="$classJoySensorEditDialog.html#a66007a446928b150fc878170660f6e5e" title="Opens sensor mouse settings dialog." alt="" coords="215,5,415,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,28,415,28,415,23,449,23"/>
+<area shape="rect" id="Node000003" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,5,167,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,28,167,28,167,23,201,23"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="JoyButtonWidget::generateLabel" name="JoyButtonWidget::generateLabel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,203,103"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#ab227ec29550f974ac09dd1f891c93440" title=" " alt="" coords="251,41,405,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,67,237,62,238,68,203,72"/>
+<area shape="rect" id="Node000008" href="$classFlashButtonWidget.html#aff41eff76f8396ff1b9e2539d680c4cf" title=" " alt="" coords="251,91,405,131"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="203,92,237,97,237,102,203,98"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="459,5,642,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,41,445,36,446,41,405,46"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#acf2e65dcec7b0d2a8a2c21c36c489ad6" title=" " alt="" coords="453,70,648,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="405,61,441,66,440,71,405,66"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="712,5,895,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="642,23,698,23,698,28,642,28"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a39c9ccaf641bb8bf50b29d4c4e04c165" title="Get a 1 indexed number of button." alt="" coords="696,70,911,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="648,80,682,80,682,85,648,85"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="709,119,897,145"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="617,93,724,114,723,119,616,98"/>
+</map>

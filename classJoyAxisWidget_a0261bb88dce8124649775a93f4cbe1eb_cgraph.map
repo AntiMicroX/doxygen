@@ -1,0 +1,13 @@
+<map id="JoyAxisWidget::enableFlashes" name="JoyAxisWidget::enableFlashes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,224,145"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#abc686c5ea33ed35e474c75348fda188f" title=" " alt="" coords="307,5,425,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,117,193,80,271,41,295,32,297,37,273,46,196,85,136,122"/>
+<area shape="rect" id="Node000003" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="289,55,443,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,117,275,93,276,99,172,123"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="272,120,460,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,130,258,130,258,135,224,135"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#a04fec447c55c30473f7206458e04dca6" title=" " alt="" coords="299,169,433,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,143,288,164,287,169,180,148"/>
+<area shape="rect" id="Node000006" href="$classFlashButtonWidget.html#a84af4cf2103d6f054e117915850199ec" title=" " alt="" coords="289,219,443,259"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="142,143,273,204,294,212,292,217,271,208,140,148"/>
+</map>

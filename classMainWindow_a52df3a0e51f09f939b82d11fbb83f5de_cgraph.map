@@ -1,0 +1,7 @@
+<map id="MainWindow::singleTrayProfileMenuShow" name="MainWindow::singleTrayProfileMenuShow">
+<area shape="rect" id="Node000001" title="Display a version of the tray menu that shows all recent profiles for all controllers in one list." alt="" coords="5,23,225,63"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a00f1e14fe1ce16846246d8eb8a5ff4c2" title=" " alt="" coords="273,5,496,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,30,259,27,260,32,226,36"/>
+<area shape="rect" id="Node000003" href="$namespacePadderCommon.html#a9aa5baddf6f78b3e008bc29d04721f0d" title="Universal method for loading icons." alt="" coords="291,55,479,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,50,277,55,277,60,225,56"/>
+</map>

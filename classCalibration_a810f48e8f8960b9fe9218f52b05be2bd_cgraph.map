@@ -1,0 +1,25 @@
+<map id="Calibration::onStickOffsetData" name="Calibration::onStickOffsetData">
+<area shape="rect" id="Node000001" title="Stick data event handler. Performs stick offset estimation and stops itself if the value was found or..." alt="" coords="5,234,224,259"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="70,236,61,226,66,216,84,209,115,207,154,211,165,216,168,222,164,225,161,220,153,217,115,213,85,215,69,220,66,225,74,232"/>
+<area shape="rect" id="Node000002" href="$classStatisticsEstimator.html#a4bb6b7ae19cdbc218a2ce1f352d054e4" title="Calculates the squared relative three sigma error range, i.e. the squared estimation accuracy in perc..." alt="" coords="296,5,487,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,232,141,197,175,149,218,98,270,55,282,48,285,53,274,60,222,102,179,152,146,200,125,235"/>
+<area shape="rect" id="Node000004" href="$classStatisticsEstimator.html#a9f08ed1df807774ff9ecb23cfc0a9b82" title="Gets the amount of processed samples." alt="" coords="319,69,464,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,232,185,178,226,146,271,119,304,105,306,110,273,124,229,151,188,182,130,236"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a2798057ca20a52307ced3f75eb5d9aaa" title="Get the assigned dead zone value." alt="" coords="283,134,500,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,231,196,200,271,168,299,160,301,165,273,173,198,205,139,236"/>
+<area shape="rect" id="Node000006" href="$classPT1Filter.html#a4119f510213a816516ed16fb41a53ef8" title="Get the current filter output value." alt="" coords="319,183,463,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="184,231,307,209,308,214,185,237"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="559,345,747,370"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="224,237,290,237,363,242,438,252,511,269,544,283,576,299,627,334,624,338,573,304,542,287,510,275,437,257,362,247,290,243,224,243"/>
+<area shape="rect" id="Node000008" href="$classJoyControlStick.html#a9ac3c0e7ded87d3b2e9f5320c6f57c88" title=" " alt="" coords="304,285,479,310"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="185,257,308,279,307,285,184,262"/>
+<area shape="rect" id="Node000009" href="$classPT1Filter.html#a30421d33f61b781f9422577b6db07e1b" title="Processes a new sample." alt="" coords="323,334,460,359"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="140,257,199,288,273,319,310,329,309,335,271,324,197,293,137,262"/>
+<area shape="rect" id="Node000010" href="$classStatisticsEstimator.html#a63a3c46de3af4b5bb1be407bcfe44ad8" title="Processes a new sample of the current data stream and updates internal intermediate values." alt="" coords="319,384,464,424"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="130,258,189,311,229,342,273,368,306,382,304,387,271,373,226,346,186,315,127,262"/>
+<area shape="rect" id="Node000011" href="$classCalibration.html#ada69dfce5bbe35ea761528dedf593ef3" title="Shows the stick offset and gain calibration values to the user." alt="" coords="272,448,511,488"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="125,258,146,293,179,341,222,391,274,434,284,440,281,445,270,438,218,395,175,344,141,296,121,261"/>
+<area shape="rect" id="Node000003" href="$classStatisticsEstimator.html#a8895a3729d2ed7bca9ce078fb17bb05a" title="Calculates the sample variance of the processed data stream from internal intermediate values." alt="" coords="580,5,725,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,23,566,23,566,28,487,28"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="476,445,510,434,569,405,619,375,622,380,571,409,512,438,478,450"/>
+</map>

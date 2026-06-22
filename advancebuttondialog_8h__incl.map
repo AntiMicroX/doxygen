@@ -1,0 +1,23 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/gui/advancebuttondialog.h" name="/home/runner/work/doxygen/antimicrox/src/gui/advancebuttondialog.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="389,5,685,45"/>
+<area shape="rect" id="Node000002" href="$advancebuttondialoghelper_8h.html" title=" " alt="" coords="201,93,475,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,48,381,91,379,86,488,43"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="499,93,574,119"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="539,46,539,79,534,79,534,46"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="598,93,729,119"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="569,43,635,84,632,88,566,48"/>
+<area shape="rect" id="Node000003" href="$joybuttonslot_8h.html" title=" " alt="" coords="278,167,398,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,119,341,153,335,153,335,119"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,240,127,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,195,124,239,122,234,294,189"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="151,240,226,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="315,194,227,236,224,232,313,190"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="251,240,329,265"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="332,194,308,230,303,227,328,191"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="353,240,419,265"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="348,191,373,227,368,230,344,194"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="443,240,521,265"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="362,190,447,231,445,236,360,194"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="545,240,723,265"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="386,189,573,234,572,239,385,195"/>
+</map>

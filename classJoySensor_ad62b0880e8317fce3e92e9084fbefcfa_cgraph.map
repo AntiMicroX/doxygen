@@ -1,0 +1,6 @@
+<map id="JoySensor::calculatePitch" name="JoySensor::calculatePitch">
+<area shape="rect" id="Node000001" title="Calculate the pitch angle (in degrees) corresponding to the current passed X, Y and Z axes values ass..." alt="" coords="5,29,191,55"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="239,29,449,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,39,225,39,225,45,191,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="304,31,296,21,300,11,317,5,344,3,379,7,389,11,392,17,388,20,385,15,377,12,344,8,318,10,304,15,301,20,308,27"/>
+</map>

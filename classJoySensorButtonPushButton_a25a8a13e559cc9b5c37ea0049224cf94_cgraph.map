@@ -1,0 +1,31 @@
+<map id="JoySensorButtonPushButton::JoySensorButtonPushButton" name="JoySensorButtonPushButton::JoySensorButtonPushButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,216,259"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a5746df6ea4d7fe87c3641243ef934738" title=" " alt="" coords="264,27,487,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,217,144,183,175,141,216,98,263,62,278,55,280,59,265,67,219,102,180,144,148,186,126,220"/>
+<area shape="rect" id="Node000003" href="$classJoySensorButtonPushButton.html#a8d92d4c50e73c7ba64d38a2d0239d230" title="Enables highlight when the sensor axis is moved." alt="" coords="274,162,477,202"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,217,269,202,270,208,204,222"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="536,284,724,309"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="216,239,346,247,487,262,568,278,567,283,486,267,345,252,216,245"/>
+<area shape="rect" id="Node000009" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="274,277,477,303"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="216,257,296,272,295,277,215,262"/>
+<area shape="rect" id="Node000010" href="$classFlashButtonWidget.html#a14c9ecbbd3dfaef78b78371e17aac539" title=" " alt="" coords="298,327,453,367"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="149,257,203,285,265,313,286,321,284,326,263,318,201,290,147,262"/>
+<area shape="rect" id="Node000012" href="$classJoySensorButtonPushButton.html#a5d9bfef1442a8e19c22b0761bdf75d8f" title="Shows sensor context menu." alt="" coords="274,391,477,431"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="130,258,186,317,224,349,265,377,278,383,276,388,263,382,221,353,183,321,127,261"/>
+<area shape="rect" id="Node000013" href="$classJoySensorButtonPushButton.html#a22b3a5ef943f7f5b90ccb2258a9dd000" title="Highlights the button when mapped button is active." alt="" coords="274,77,477,117"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="143,217,263,148,317,120,319,125,265,152,146,221"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="561,120,699,145"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,160,550,145,551,151,478,165"/>
+<area shape="rect" id="Node000005" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="553,55,707,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="417,159,534,105,553,97,555,102,536,110,419,164"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="451,200,488,218,503,232,513,245,522,257,536,269,551,277,549,282,533,274,518,261,508,248,499,235,485,223,448,204"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="555,169,705,195"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="477,179,542,179,542,185,477,185"/>
+<area shape="rect" id="Node000008" href="$classFlashButtonWidget.html#a84af4cf2103d6f054e117915850199ec" title=" " alt="" coords="553,219,707,259"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="465,199,540,216,539,222,464,205"/>
+<area shape="rect" id="Node000011" href="$classFlashButtonWidget.html#a15b2a9c645747d9f1f8368389da5830a" title=" " alt="" coords="553,334,707,374"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="453,347,539,349,539,354,453,352"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="477,86,539,80,539,86,477,91"/>
+<area shape="rect" id="Node000014" href="$classJoyButton.html#aa1eb52e9cce61ac403f9b451c512f197" title="Checks if this button is currently active." alt="" coords="535,5,725,31"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="446,74,486,61,534,41,563,32,564,37,536,46,488,66,448,79"/>
+</map>

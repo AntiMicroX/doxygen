@@ -1,0 +1,40 @@
+<map id="StickPushButtonGroup::StickPushButtonGroup" name="StickPushButtonGroup::StickPushButtonGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,198,180,238"/>
+<area shape="rect" id="Node000002" href="$classStickPushButtonGroup.html#a4c487343c1c81a3a50a2d153981998af" title=" " alt="" coords="237,109,404,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,195,255,151,257,156,146,200"/>
+<area shape="rect" id="Node000004" href="$classStickPushButtonGroup.html#aee73b407cb87495e444f1b877895de03" title=" " alt="" coords="237,198,404,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,215,224,215,224,221,180,221"/>
+<area shape="rect" id="Node000019" href="$classJoyControlStick.html#a4b31b4033b2871814cc4a77d43393665" title=" " alt="" coords="228,262,413,302"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="165,236,236,256,235,261,164,241"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#af2228e6ed7156093dd5140e53000a918" title=" " alt="" coords="461,103,668,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,121,447,119,448,124,404,127"/>
+<area shape="rect" id="Node000005" href="$classStickPushButtonGroup.html#a056e9f27f67795a752ce67be2f3ebf56" title=" " alt="" coords="481,153,648,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="404,200,467,188,468,193,405,205"/>
+<area shape="rect" id="Node000017" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="471,217,659,243"/>
+<area shape="poly" id="edge17_Node000004_Node000017" title=" " alt="" coords="404,219,457,222,457,227,404,225"/>
+<area shape="rect" id="Node000018" href="$classStickPushButtonGroup.html#a2db63a3856a8a931cd7a4459b33017f0" title=" " alt="" coords="481,267,648,307"/>
+<area shape="poly" id="edge18_Node000004_Node000018" title=" " alt="" coords="393,235,481,261,480,266,391,241"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a08206c3d636852749ad6e1bb731de4fa" title=" " alt="" coords="716,45,923,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="636,150,667,137,691,119,715,101,742,88,745,92,717,106,694,124,669,142,639,155"/>
+<area shape="rect" id="Node000010" href="$classJoyButton.html#af66a7a56bb4ea2b5e2c6938862268e57" title=" " alt="" coords="986,108,1167,133"/>
+<area shape="poly" id="edge16_Node000005_Node000010" title=" " alt="" coords="648,155,716,145,849,132,972,123,972,128,850,137,716,150,649,160"/>
+<area shape="rect" id="Node000011" href="$classJoyControlStick.html#a2b073090095e78d41f83f68835412550" title=" " alt="" coords="719,160,919,185"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="648,170,706,170,706,175,648,175"/>
+<area shape="rect" id="Node000012" href="$classStickPushButtonGroup.html#a05d2d83f1582bb66befae5b7186601fd" title=" " alt="" coords="730,210,909,250"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="649,189,717,204,716,210,648,194"/>
+<area shape="rect" id="Node000015" href="$classStickPushButtonGroup.html#a2f16803c8ccf0ab8e0f9747a29919f40" title=" " alt="" coords="727,274,912,314"/>
+<area shape="poly" id="edge14_Node000005_Node000015" title=" " alt="" coords="647,190,670,202,685,217,694,232,703,246,718,260,727,266,725,270,714,264,699,250,690,235,681,220,666,207,645,195"/>
+<area shape="rect" id="Node000007" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="981,5,1172,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="922,43,992,31,993,36,923,49"/>
+<area shape="rect" id="Node000009" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="975,55,1178,80"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="923,63,962,63,962,69,923,68"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="912,82,1005,102,1004,108,911,87"/>
+<area shape="rect" id="Node000008" href="$classInputDevice.html#a84b5b6dfcb11bd5b8416569d2ce9e40a" title=" " alt="" coords="1231,5,1435,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1172,15,1217,15,1217,21,1172,21"/>
+<area shape="rect" id="Node000013" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="976,171,1177,196"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="909,211,992,196,993,201,910,216"/>
+<area shape="rect" id="Node000014" href="$classJoyControlStick.html#a368fdbc00c4a4a9cf3f3e49d6736da65" title="Get pointer to the set that a stick belongs to." alt="" coords="971,220,1183,245"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="909,228,957,229,957,234,909,234"/>
+<area shape="rect" id="Node000016" href="$classStickPushButtonGroup.html#aa69d1cbdb87e3d495d58d236911fc43e" title=" " alt="" coords="993,274,1160,314"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="912,291,980,291,980,297,912,297"/>
+</map>

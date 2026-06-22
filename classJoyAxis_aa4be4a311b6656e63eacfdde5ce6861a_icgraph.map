@@ -1,0 +1,15 @@
+<map id="JoyAxis::setThrottle" name="JoyAxis::setThrottle">
+<area shape="rect" id="Node000001" title="Set throttle value for axis." alt="" coords="761,70,911,95"/>
+<area shape="rect" id="Node000002" href="$classGameControllerTrigger.html#abfde3c0a5d3bacf59188fd8c81968642" title=" " alt="" coords="507,5,685,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="768,69,680,48,681,43,770,64"/>
+<area shape="rect" id="Node000003" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="493,70,699,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="747,85,699,85,699,80,747,80"/>
+<area shape="rect" id="Node000006" href="$classAxisEditDialog.html#a37e715b68fb2ba3f3ab6046d178aa065" title=" " alt="" coords="479,121,713,146"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="762,101,657,123,656,118,761,96"/>
+<area shape="rect" id="Node000004" href="$classJoyAxisXml.html#abfcf483748d22f52a9f76d2bf23e9a3d" title=" " alt="" coords="254,67,429,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="479,84,429,84,429,78,479,79"/>
+<area shape="rect" id="Node000005" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,67,204,93"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,83,204,83,204,77,240,77"/>
+<area shape="rect" id="Node000007" href="$classAxisEditDialog.html#a702a1718f3a1dd6b64b4474ea19b71cd" title=" " alt="" coords="252,117,431,157"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="465,138,431,139,431,133,465,133"/>
+</map>

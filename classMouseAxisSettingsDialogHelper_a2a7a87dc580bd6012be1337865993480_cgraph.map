@@ -1,0 +1,11 @@
+<map id="MouseAxisSettingsDialogHelper::updateReleaseSpringRadius" name="MouseAxisSettingsDialogHelper::updateReleaseSpringRadius">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,236,87"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="288,5,468,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,45,297,31,299,36,226,50"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="289,55,467,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,65,276,65,276,70,236,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a835d1f839a755c87758d7cc67b933d9f" title=" " alt="" coords="284,105,472,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,85,275,99,274,104,210,90"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="520,112,723,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,122,506,122,506,127,472,127"/>
+</map>

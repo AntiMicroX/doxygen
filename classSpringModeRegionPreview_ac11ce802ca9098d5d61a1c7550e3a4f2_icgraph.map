@@ -1,0 +1,29 @@
+<map id="SpringModeRegionPreview::adjustSpringSizeHeight" name="SpringModeRegionPreview::adjustSpringSizeHeight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="803,271,999,311"/>
+<area shape="rect" id="Node000002" href="$classSpringModeRegionPreview.html#a8d2b08d077d77697a327e2d062130cbd" title=" " alt="" coords="555,207,751,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="809,270,730,249,731,244,810,265"/>
+<area shape="rect" id="Node000011" href="$classSpringModeRegionPreview.html#a100a0ed08a8a8356c2a0036ef1db075f" title=" " alt="" coords="555,271,751,311"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="789,293,751,293,751,288,789,288"/>
+<area shape="rect" id="Node000012" href="$classSpringModeRegionPreview.html#a9ec1744902e4a704055d72216bf74bc6" title=" " alt="" coords="551,335,755,375"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="810,317,731,337,730,332,809,312"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html#a71cbcc0f06e217b497f865fc520b3da7" title=" " alt="" coords="307,5,495,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="627,197,574,131,539,97,501,66,467,48,469,43,504,62,543,93,578,128,632,193"/>
+<area shape="rect" id="Node000004" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="31,35,227,75"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="622,199,569,152,536,129,502,110,432,87,360,71,290,62,227,57,227,52,290,56,361,66,434,81,504,106,539,124,572,148,625,195"/>
+<area shape="rect" id="Node000005" href="$classMouseButtonSettingsDialog.html#af2f3f8cacbf6c91f0dd935c4db231612" title=" " alt="" coords="300,120,503,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="580,205,460,163,461,158,581,199"/>
+<area shape="rect" id="Node000006" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="23,149,234,189"/>
+<area shape="poly" id="edge11_Node000002_Node000006" title=" " alt="" coords="541,217,234,183,235,178,541,212"/>
+<area shape="rect" id="Node000007" href="$classMouseControlStickSettingsDialog.html#a476f86c223a02146ad662276ed96a6aa" title=" " alt="" coords="302,235,501,275"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="541,242,501,246,501,241,541,236"/>
+<area shape="rect" id="Node000008" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,267,252,322"/>
+<area shape="poly" id="edge12_Node000002_Node000008" title=" " alt="" coords="570,254,552,261,528,276,504,289,440,303,375,310,311,312,252,310,252,305,311,306,375,304,439,297,502,284,526,272,549,256,568,249"/>
+<area shape="rect" id="Node000009" href="$classMouseDPadSettingsDialog.html#a4667725b1ead2b872e17507f81b5760e" title=" " alt="" coords="305,349,498,389"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="560,256,552,261,537,278,529,295,521,314,504,333,473,352,470,347,501,329,516,311,524,293,532,275,549,257,557,251"/>
+<area shape="rect" id="Node000010" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="28,368,229,408"/>
+<area shape="poly" id="edge13_Node000002_Node000010" title=" " alt="" coords="557,257,553,260,539,278,533,296,532,333,529,370,521,387,504,403,466,425,424,438,380,443,336,443,251,430,181,411,183,406,252,425,336,438,380,438,423,432,464,420,501,399,516,384,524,368,526,333,528,295,535,275,549,257,553,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,40,227,47,226,42,293,34"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="286,155,234,161,234,155,286,150"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="289,274,252,279,252,274,288,269"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="291,380,230,384,229,378,290,374"/>
+</map>

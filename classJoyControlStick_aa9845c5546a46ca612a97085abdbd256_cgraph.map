@@ -1,0 +1,7 @@
+<map id="JoyControlStick::getButtonsAccelerationEasingDuration" name="JoyControlStick::getButtonsAccelerationEasingDuration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,208,77"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#adecd613014ea43710adc26c9c32ba2ab" title=" " alt="" coords="274,5,457,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,42,260,36,261,41,208,47"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="256,69,475,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,67,243,71,242,77,208,72"/>
+</map>

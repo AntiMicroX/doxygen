@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::updateSpringHeight" name="MouseControlStickSettingsDialog::updateSpringHeight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,207,45"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ad026b977d24fb22e9fe5681dc4b80c3c" title=" " alt="" coords="255,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,241,23,241,28,207,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a9def8a4e4664baa01f38f6c25bee5c59" title=" " alt="" coords="501,13,699,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,23,488,23,488,28,454,28"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="747,13,949,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="699,23,733,23,733,28,699,28"/>
+</map>

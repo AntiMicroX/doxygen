@@ -1,0 +1,15 @@
+<map id="XMLConfigReader" name="XMLConfigReader">
+<area shape="rect" id="Node000001" title="Main XML config reader class." alt="" coords="5,256,143,281"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,80,99,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,119,76,256,71,256,61,119"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="148,168,248,193"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,110,181,165,178,170,90,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,201,114,219,96,238,83,257,78,254,92,235,111,215,145,196"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="191,256,362,281"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="196,206,197,219,202,231,215,244,231,254,229,258,211,248,197,233,192,220,191,207"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="277,243,275,230,270,219,257,205,240,196,242,191,260,201,275,216,280,229,282,242"/>
+<area shape="rect" id="Node000005" href="$classAntiMicroSettings.html" title=" " alt="" coords="129,80,267,105"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="201,119,201,167,195,167,195,119"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="155,5,241,31"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="201,45,201,80,195,80,195,45"/>
+</map>

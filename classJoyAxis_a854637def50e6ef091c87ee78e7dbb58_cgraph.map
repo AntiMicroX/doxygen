@@ -1,0 +1,11 @@
+<map id="JoyAxis::copyAssignments" name="JoyAxis::copyAssignments">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,199,80"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a5f380246b40f29a3349500b8efc2f997" title="Copy assignments and properties from one button to another. Used for set copying." alt="" coords="247,29,455,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,55,233,51,233,57,199,60"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#a6ef384b558f88cd5a2b478ffdad409bf" title=" " alt="" coords="257,79,445,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,74,243,78,243,84,199,79"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="503,5,708,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,30,489,26,489,32,455,35"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="504,55,707,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,50,491,53,490,59,455,55"/>
+</map>

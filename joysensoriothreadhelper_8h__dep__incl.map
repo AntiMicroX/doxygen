@@ -1,0 +1,21 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/uihelpers/joysensoriothreadhelper.h" name="/home/runner/work/doxygen/antimicrox/src/uihelpers/joysensoriothreadhelper.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="799,5,1005,60"/>
+<area shape="rect" id="Node000002" href="$joysensorpreset_8h.html" title=" " alt="" coords="683,108,889,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="863,71,818,110,815,106,859,67"/>
+<area shape="rect" id="Node000010" href="$joysensoriothreadhelper_8cpp.html" title=" " alt="" coords="913,108,1123,163"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="945,67,989,106,986,110,941,71"/>
+<area shape="rect" id="Node000003" href="$joysensoreditdialog_8h.html" title=" " alt="" coords="352,218,639,258"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="699,170,551,220,549,215,697,165"/>
+<area shape="rect" id="Node000006" href="$joysensorcontextmenu_8h.html" title=" " alt="" coords="683,211,889,265"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="789,176,789,211,783,211,783,176"/>
+<area shape="rect" id="Node000009" href="$joysensorpreset_8cpp.html" title=" " alt="" coords="913,211,1118,265"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="859,166,957,208,955,213,857,171"/>
+<area shape="rect" id="Node000004" href="$joysensoreditdialog_8cpp.html" title=" " alt="" coords="5,321,308,361"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,264,221,323,219,318,418,259"/>
+<area shape="rect" id="Node000005" href="$sensorpushbuttongroup_8cpp.html" title=" " alt="" coords="332,321,659,361"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="498,272,498,321,493,321,493,272"/>
+<area shape="rect" id="Node000007" href="$joysensorcontextmenu_8cpp.html" title=" " alt="" coords="683,313,889,368"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="789,279,789,313,783,313,783,279"/>
+<area shape="rect" id="Node000008" href="$joysensorpushbutton_8cpp.html" title=" " alt="" coords="913,313,1118,368"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="859,268,957,311,955,316,857,273"/>
+</map>

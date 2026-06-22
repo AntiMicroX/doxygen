@@ -1,0 +1,30 @@
+<map id="VirtualKeyboardMouseWidget::selectionMade" name="VirtualKeyboardMouseWidget::selectionMade">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1640,92,1855,132"/>
+<area shape="rect" id="Node000002" href="$classButtonEditDialog.html#a7b7f4ddddf1b67c7883cc03d7469987f" title=" " alt="" coords="1368,5,1551,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1669,90,1591,67,1529,48,1530,43,1593,61,1670,85"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#ade8d1ee4ae03d1080932a70c8170d488" title=" " alt="" coords="1043,8,1279,48"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="1626,101,1326,60,1270,51,1271,45,1327,55,1626,95"/>
+<area shape="rect" id="Node000005" href="$classVirtualKeyboardMouseWidget.html#a61b7bbca8f5cf43e26bb2fd06365dacc" title=" " alt="" coords="1327,120,1592,160"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1626,126,1592,130,1592,124,1626,121"/>
+<area shape="rect" id="Node000011" href="$classVirtualKeyboardMouseWidget.html#a34f7db07fdc0021751c57667866de8f9" title=" " alt="" coords="1336,184,1583,224"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="1688,140,1593,175,1550,187,1549,181,1591,169,1686,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1355,29,1279,30,1279,24,1355,24"/>
+<area shape="rect" id="Node000004" href="$classButtonEditDialog.html#a3e9feede100cbb6a11c9d87659c196ea" title=" " alt="" coords="5,59,188,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1029,37,188,77,188,72,1029,32"/>
+<area shape="rect" id="Node000006" href="$classVirtualKeyboardMouseWidget.html#aec7fadb5f607a6410093d9fe296c3f9f" title=" " alt="" coords="737,98,995,153"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1334,121,1278,115,1132,111,995,117,995,111,1132,106,1279,109,1334,115"/>
+<area shape="rect" id="Node000010" href="$classVirtualKeyboardMouseWidget.html#a887b15115b62f1f9eca3508704c7daa2" title=" " alt="" coords="1053,124,1268,164"/>
+<area shape="poly" id="edge12_Node000005_Node000010" title=" " alt="" coords="1313,145,1268,145,1268,140,1313,139"/>
+<area shape="rect" id="Node000007" href="$classButtonEditDialog.html#a436de498c81513c9be2a28aadb607915" title=" " alt="" coords="471,116,689,156"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="724,133,690,135,689,129,724,128"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="477,116,422,107,300,93,188,85,188,80,301,88,423,101,478,111"/>
+<area shape="rect" id="Node000008" href="$classButtonEditDialog.html#a0016da2aa8e376b6df5f7eb7051ef1c3" title=" " alt="" coords="238,116,421,156"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="457,139,421,139,421,133,457,133"/>
+<area shape="rect" id="Node000009" href="$classButtonEditDialog.html#a8a246d58fb4be6f912506d46b7cb187c" title=" " alt="" coords="236,180,423,220"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="489,162,409,183,408,177,487,157"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="250,177,235,170,174,136,123,101,126,97,177,131,237,166,253,173"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="1039,139,995,136,995,131,1040,134"/>
+<area shape="rect" id="Node000012" href="$classVirtualKeyboardMouseWidget.html#ad9f14320ae528672d40f2c6ae0cb603b" title=" " alt="" coords="747,177,985,231"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="1323,207,986,207,986,201,1323,201"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="737,176,664,159,666,154,738,171"/>
+</map>

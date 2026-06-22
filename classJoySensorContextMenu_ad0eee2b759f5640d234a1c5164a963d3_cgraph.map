@@ -1,0 +1,32 @@
+<map id="JoySensorContextMenu::buildMenu" name="JoySensorContextMenu::buildMenu">
+<area shape="rect" id="Node000001" title="Populates the context menu." alt="" coords="5,184,179,224"/>
+<area shape="rect" id="Node000002" href="$classJoySensorPreset.html#a7fcfbacaca8a54d07acab351dee7883c" title="Determines the preset used by the underlying sensor." alt="" coords="254,120,435,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,181,251,161,253,166,172,187"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="547,29,692,54"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="113,182,162,142,193,122,226,106,283,89,363,73,533,49,533,54,364,78,284,94,228,110,195,127,165,147,116,186"/>
+<area shape="rect" id="Node000008" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="525,291,713,317"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="106,223,125,253,152,288,187,322,228,348,273,363,322,370,370,370,419,365,507,344,576,320,578,325,509,349,419,370,371,375,321,375,272,368,226,353,184,327,148,292,121,256,102,225"/>
+<area shape="rect" id="Node000009" href="$classJoySensorPreset.html#a70879dec2d063663d4cbf5cf27aea452" title="Get available presets for the underlying sensor type." alt="" coords="237,5,453,45"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="105,182,154,123,188,90,225,62,251,48,254,53,228,66,191,94,158,127,109,186"/>
+<area shape="rect" id="Node000010" href="$classJoySensorPreset.html#aa72030acd12a5563c62f2aeb6d49a773" title="Get the translated name of a given preset." alt="" coords="227,249,463,274"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="176,221,227,233,271,243,270,248,226,239,175,227"/>
+<area shape="rect" id="Node000011" href="$classJoySensorContextMenu.html#a077ec1e060b0c5515e4f2aab9f269d1d" title="Opens MouseSensorSettingsDialog from context menu." alt="" coords="245,299,445,339"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="122,222,170,254,228,284,247,292,245,297,226,289,167,258,119,226"/>
+<area shape="rect" id="Node000012" href="$classJoySensorPreset.html#a21eb1e1e612e4f70e0ade394e9878425" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="245,184,444,224"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="179,201,232,201,232,207,179,207"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="517,78,722,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,121,534,103,535,108,436,126"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a09be56d2b545bb2838899a7c1b96c1ce" title="Get a pointer to the sensor direction button for the desired direction." alt="" coords="511,127,728,153"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,137,497,137,497,143,435,143"/>
+<area shape="rect" id="Node000005" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="519,177,720,202"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="436,154,535,172,534,177,435,159"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="417,117,461,99,485,81,509,64,532,56,534,61,512,69,488,86,464,104,419,122"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="437,153,464,170,477,183,484,197,489,225,494,252,501,264,512,277,521,283,518,287,509,281,497,268,489,254,484,226,479,199,472,186,461,174,434,158"/>
+<area shape="rect" id="Node000006" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="776,177,955,202"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="720,187,762,187,762,192,720,192"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="453,29,533,34,533,39,453,34"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="444,196,505,193,505,198,444,201"/>
+<area shape="poly" id="edge16_Node000012_Node000008" title=" " alt="" coords="434,222,464,235,479,246,489,256,498,267,512,276,531,285,529,289,509,281,494,271,485,260,475,250,461,240,431,227"/>
+<area shape="rect" id="Node000013" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="526,227,713,267"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="445,217,513,227,512,233,444,222"/>
+</map>

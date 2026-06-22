@@ -1,0 +1,7 @@
+<map id="JoyAxis::setButtonsSensitivity" name="JoyAxis::setButtonsSensitivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="485,13,703,38"/>
+<area shape="rect" id="Node000002" href="$classMouseAxisSettingsDialog.html#a6c61e2efe568aec0f01460a1b0113787" title=" " alt="" coords="249,5,437,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,28,437,28,437,23,472,23"/>
+<area shape="rect" id="Node000003" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="5,5,201,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,28,202,28,202,23,236,23"/>
+</map>

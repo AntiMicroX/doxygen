@@ -1,0 +1,11 @@
+<map id="AdvanceButtonDialog::populateSlotSetSelectionComboBox" name="AdvanceButtonDialog::populateSlotSetSelectionComboBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,65,199,120"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="253,5,455,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,63,246,39,277,31,278,36,247,45,177,68"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="247,55,461,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,80,233,77,233,82,199,86"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a9d89af7a0cfef2aa8b743fabca29dd42" title=" " alt="" coords="267,104,441,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,99,253,104,253,110,199,105"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a28e4e0906126f95384245e73988bdb19" title=" " alt="" coords="266,153,442,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,118,247,138,283,147,281,153,246,143,180,123"/>
+</map>

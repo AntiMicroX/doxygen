@@ -1,0 +1,9 @@
+<map id="WinExtras::correctVirtualKey" name="WinExtras::correctVirtualKey">
+<area shape="rect" id="Node000001" title="Obtain a more specific virtual key (unsigned int) for a key grab event." alt="" coords="268,77,476,102"/>
+<area shape="rect" id="Node000002" href="$classSimpleKeyGrabberButton.html#ab6a33975387e7840e45cf0a6e5a701df" title=" " alt="" coords="19,5,206,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,76,194,48,195,43,307,71"/>
+<area shape="rect" id="Node000003" href="$classButtonEditDialog.html#aa9469772bd8abc88407492e2c9385687" title=" " alt="" coords="5,69,220,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,92,220,92,220,87,254,87"/>
+<area shape="rect" id="Node000004" href="$classQKeyDisplayDialog.html#ab4ce996adf426435f5075ca246d75c32" title=" " alt="" coords="35,133,190,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,108,191,137,189,132,306,103"/>
+</map>

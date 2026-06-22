@@ -1,0 +1,8 @@
+<map id="_SDL_Joystick" name="_SDL_Joystick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,93,241,119"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="256,97,268,106,260,114,242,117,241,111,257,109,263,106,254,102"/>
+<area shape="rect" id="Node000002" href="$struct__SDL__JoystickAxisInfo.html" title=" " alt="" coords="5,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,38,174,91,170,95,110,42"/>
+<area shape="rect" id="Node000003" href="$struct__SDL__Joystick_1_1balldelta.html" title=" " alt="" coords="195,5,373,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,42,201,95,197,91,259,38"/>
+</map>

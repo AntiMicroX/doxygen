@@ -1,0 +1,5 @@
+<map id="JoySensor::joyEvent" name="JoySensor::joyEvent">
+<area shape="rect" id="Node000001" title="Main sensor mapping function. When activated, it generates a &quot;moved&quot; QT event which updates various p..." alt="" coords="252,13,403,38"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#acbaa34beb6de8290766eb925876be45f" title="Activates previously queued movement event This is called by InputDevice." alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,28,204,28,204,23,238,23"/>
+</map>

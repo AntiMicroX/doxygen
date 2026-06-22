@@ -1,0 +1,6 @@
+<map id="Logger" name="Logger">
+<area shape="rect" id="Node000001" title="Custom singleton class used for logging across application." alt="" coords="9,80,76,105"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="91,84,103,93,94,101,76,102,76,97,92,96,97,93,89,89"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,45,45,80,40,80,40,45"/>
+</map>

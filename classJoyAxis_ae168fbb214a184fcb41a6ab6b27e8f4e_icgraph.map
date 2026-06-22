@@ -1,0 +1,10 @@
+<map id="JoyAxis::getDistanceFromDeadZone" name="JoyAxis::getDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="556,37,745,77"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="693,26,678,19,651,16,627,18,612,23,607,29,610,36,605,38,602,28,609,18,626,13,651,11,679,14,695,21"/>
+<area shape="rect" id="Node000002" href="$classJoyAxisButton.html#a1f5d5038f18c38e3cd7b53d618831f56" title="Get the distance that an element is away from its assigned dead zone." alt="" coords="303,5,501,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="542,46,501,41,502,35,543,41"/>
+<area shape="rect" id="Node000004" href="$classJoyAxisButton.html#a7bbc63efd1b9d52a38ae9188256f6166" title=" " alt="" coords="296,69,508,109"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="543,74,508,78,508,73,542,69"/>
+<area shape="rect" id="Node000003" href="$classJoyAxisButton.html#ae2f8659056c3f7c769a0b65efadc7351" title="Get the distance factor that should be used for mouse movement." alt="" coords="5,5,248,45"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="289,28,248,28,248,23,289,23"/>
+</map>

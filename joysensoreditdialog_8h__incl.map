@@ -1,0 +1,17 @@
+<map id="/home/runner/work/doxygen/antimicrox/src/gui/joysensoreditdialog.h" name="/home/runner/work/doxygen/antimicrox/src/gui/joysensoreditdialog.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,5,426,45"/>
+<area shape="rect" id="Node000002" href="$joysensorpreset_8h.html" title=" " alt="" coords="148,93,287,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,47,238,84,234,81,265,44"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="311,93,385,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="301,44,332,81,328,84,296,47"/>
+<area shape="rect" id="Node000003" href="$joysensoriothreadhelper_8h.html" title=" " alt="" coords="90,167,345,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,119,220,153,215,153,215,119"/>
+<area shape="rect" id="Node000004" href="$joysensordirection_8h.html" title=" " alt="" coords="5,240,160,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,194,118,236,116,231,194,190"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="185,240,250,265"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="220,192,220,226,215,226,215,192"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="275,240,349,265"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="234,190,287,229,284,234,231,194"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="35,313,130,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="85,266,85,300,80,300,80,266"/>
+</map>

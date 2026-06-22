@@ -1,0 +1,25 @@
+<map id="JoyDPad::getRealJoyNumber" name="JoyDPad::getRealJoyNumber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="787,119,992,145"/>
+<area shape="rect" id="Node000002" href="$classGameControllerDPad.html#a415e52bdfdd12bd742a86b2237f6e11a" title=" " alt="" coords="555,5,714,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="852,115,799,87,738,60,705,48,706,43,740,55,801,83,855,110"/>
+<area shape="rect" id="Node000003" href="$classVDPad.html#a42e3e226c3080939428095a12856b9a9" title=" " alt="" coords="569,70,701,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="809,119,700,98,701,93,810,114"/>
+<area shape="rect" id="Node000004" href="$classJoyDPad.html#a8c00a13f8997177eb6c1261901081169" title=" " alt="" coords="563,119,706,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="773,135,706,135,706,129,773,129"/>
+<area shape="rect" id="Node000011" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="547,169,722,209"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="819,150,723,172,722,167,818,145"/>
+<area shape="rect" id="Node000012" href="$classInputDeviceXml.html#a12bf094c5ab0ab10dae089e41fbc778c" title="Serializes an InputDevice object into the the given XML stream." alt="" coords="531,234,739,259"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="861,155,806,190,740,224,701,236,700,231,738,219,804,185,858,150"/>
+<area shape="rect" id="Node000005" href="$classDPadPushButton.html#ad6bc6aa6744a480371f447261bfe3464" title=" " alt="" coords="271,25,466,65"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="555,118,530,109,505,94,481,80,450,68,452,63,484,75,508,90,532,104,556,113"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadButton.html#a74e36e481a0463fa410a687805084010" title=" " alt="" coords="255,90,482,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="549,125,482,118,483,113,550,120"/>
+<area shape="rect" id="Node000007" href="$classDPadEditDialog.html#a159bedd30c6c36cb1c60e6146183c1a2" title=" " alt="" coords="255,140,482,180"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="550,144,483,151,482,145,549,138"/>
+<area shape="rect" id="Node000009" href="$classMouseDPadSettingsDialog.html#a68706a0ac77693478c027a0d76cb0fcc" title=" " alt="" coords="255,204,483,244"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="554,151,532,160,508,177,484,194,455,206,453,201,481,190,505,172,529,155,552,146"/>
+<area shape="rect" id="Node000008" href="$classDPadEditDialog.html#a87782609227b6c56ef82e3844a117dc1" title=" " alt="" coords="12,140,200,180"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="242,163,200,163,200,157,242,157"/>
+<area shape="rect" id="Node000010" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="5,204,207,244"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="241,227,207,227,207,221,241,221"/>
+</map>

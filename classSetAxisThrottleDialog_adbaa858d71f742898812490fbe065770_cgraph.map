@@ -1,0 +1,16 @@
+<map id="SetAxisThrottleDialog::SetAxisThrottleDialog" name="SetAxisThrottleDialog::SetAxisThrottleDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,177,139"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a9ceda991c13da3a99868acc436ed20f3" title=" " alt="" coords="231,5,415,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,97,224,48,265,32,267,37,226,52,129,102"/>
+<area shape="rect" id="Node000003" href="$classSetAxisThrottleDialog.html#aec71adee867ab37ec8d6b5d4e9f71047" title=" " alt="" coords="481,103,707,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,98,225,91,323,85,422,91,480,99,479,104,421,97,323,91,226,97,178,103"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="229,107,417,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,117,215,117,215,122,177,122"/>
+<area shape="rect" id="Node000005" href="$classSetAxisThrottleDialog.html#a6819a2d8c1dc50aa85944a3671e4728f" title=" " alt="" coords="225,157,421,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,137,229,151,228,156,172,142"/>
+<area shape="rect" id="Node000006" href="$classJoyAxis.html#aedaf52e633241269baa64317398bd897" title=" " alt="" coords="226,221,421,261"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="119,137,168,172,227,206,242,213,240,218,224,211,165,176,116,142"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="421,155,478,143,479,149,422,160"/>
+<area shape="rect" id="Node000007" href="$classJoyAxis.html#a7f45ebe537eb06602a10616bbede5734" title=" " alt="" coords="469,228,719,253"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="421,238,455,238,455,243,421,243"/>
+</map>

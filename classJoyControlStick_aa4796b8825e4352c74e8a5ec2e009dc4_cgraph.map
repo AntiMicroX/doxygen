@@ -1,0 +1,15 @@
+<map id="JoyControlStick::calculateStickDirection" name="JoyControlStick::calculateStickDirection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,193,144"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a3511f471a2d83fa4f8d7cc21ada7e99b" title="Find the current stick direction based on a Eight Way mode stick." alt="" coords="241,5,437,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,101,240,62,274,48,276,53,242,66,148,106"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a94fca961bc3b7ffe9e843bd199119667" title="Find the current stick direction based on a Standard mode stick." alt="" coords="485,35,681,75"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="193,108,471,68,472,73,194,113"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a2550adeadfd1cbacbf8936f1e8051f87" title="Find the current stick direction based on a Four Way Cardinal mode stick." alt="" coords="241,144,437,184"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="194,137,228,143,227,148,193,142"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a889676b80468138d79f6c51e4704d001" title="Find the current stick direction based on a Four Way Diagonal mode stick." alt="" coords="241,232,437,272"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="139,142,290,223,287,228,136,146"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,34,472,39,472,44,437,40"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="538,35,535,25,543,16,559,10,583,8,612,11,627,18,625,23,610,16,583,13,560,15,546,20,541,26,543,34"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="295,144,292,134,299,125,315,119,339,117,367,120,382,127,380,132,366,125,339,123,316,125,302,129,297,135,300,143"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="295,232,292,222,299,213,315,207,339,205,367,208,382,215,380,220,366,213,339,211,316,213,302,217,297,223,300,231"/>
+</map>

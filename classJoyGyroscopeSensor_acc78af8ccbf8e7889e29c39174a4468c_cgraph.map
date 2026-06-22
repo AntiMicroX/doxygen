@@ -1,0 +1,6 @@
+<map id="JoyGyroscopeSensor::calculateSensorDirection" name="JoyGyroscopeSensor::calculateSensorDirection">
+<area shape="rect" id="Node000001" title="Find the direction zone of the current sensor position." alt="" coords="5,22,197,62"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="245,29,456,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,39,231,39,231,45,198,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="310,31,302,21,306,11,323,5,351,3,386,7,396,11,399,17,395,20,392,15,384,12,351,8,324,10,310,15,307,20,314,27"/>
+</map>

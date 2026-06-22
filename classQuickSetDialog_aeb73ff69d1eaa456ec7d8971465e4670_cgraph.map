@@ -1,0 +1,18 @@
+<map id="QuickSetDialog::connectVDpadForDialog" name="QuickSetDialog::connectVDpadForDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,229,113"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="307,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,70,277,39,307,31,308,37,278,45,179,75"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a2f5d634341589f42960a9ecc41454112" title=" " alt="" coords="299,55,453,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,79,285,74,285,79,230,84"/>
+<area shape="rect" id="Node000004" href="$classJoyDPad.html#a49c84e10ea78221ef1d42a2f986f05e8" title=" " alt="" coords="296,104,456,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,100,282,105,282,111,229,106"/>
+<area shape="rect" id="Node000005" href="$classQuickSetDialog.html#ac798af7932e1bd769e7f678698163380" title=" " alt="" coords="277,154,475,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,110,300,147,298,152,181,115"/>
+<area shape="rect" id="Node000006" href="$classQuickSetDialog.html#af61daea37a622937669c8043f42e70b8" title=" " alt="" coords="523,182,745,222"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="475,182,509,186,509,191,475,187"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="793,132,981,157"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="475,166,779,148,780,153,475,171"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="722,179,817,158,818,163,724,185"/>
+<area shape="rect" id="Node000008" href="$classButtonEditDialogHelper.html#a2160209c705906abf0510c903f432f42" title=" " alt="" coords="800,182,975,222"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="746,199,786,199,786,205,746,205"/>
+</map>

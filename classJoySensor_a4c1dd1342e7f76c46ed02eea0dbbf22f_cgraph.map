@@ -1,0 +1,13 @@
+<map id="JoySensor::isDefault" name="JoySensor::isDefault">
+<area shape="rect" id="Node000001" title="Checks if all sensor settings and button mappings are the their default values. This is used during X..." alt="" coords="5,55,159,80"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="223,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,52,240,31,241,36,143,57"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="207,55,421,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,65,193,65,193,70,159,70"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="226,104,402,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="143,77,241,98,240,104,142,83"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="469,55,624,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,28,473,49,472,54,374,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="422,65,456,65,456,70,422,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="374,101,472,80,473,86,375,107"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="JoyButton::checkSpringDeadCircle" name="JoyButton::checkSpringDeadCircle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,212,77"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a60ecfef194078a1d77b4bf7a5e187cbf" title=" " alt="" coords="260,5,449,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,41,246,37,247,42,212,47"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a3aade33277da726eb99567f30efa0f00" title=" " alt="" coords="261,69,449,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,68,247,73,247,78,212,73"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a38f4e806f3c8320d744dd45c329ec0b4" title=" " alt="" coords="517,37,719,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,75,503,69,503,74,449,81"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a17e7d44ff2d956493113d7312ab406dc" title=" " alt="" coords="497,101,739,141"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="449,98,484,102,484,108,449,103"/>
+</map>

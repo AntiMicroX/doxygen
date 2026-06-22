@@ -1,0 +1,7 @@
+<map id="InputDaemon::joystickRefreshed" name="InputDaemon::joystickRefreshed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,31,503,56"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="85,5,140,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,34,140,23,140,18,255,29"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#a70fa1dbeac61db6cc29a96cdc57a4518" title=" " alt="" coords="5,55,220,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,58,220,61,220,55,254,52"/>
+</map>

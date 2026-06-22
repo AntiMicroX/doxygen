@@ -1,0 +1,23 @@
+<map id="MainWindow::alterConfigFromSettings" name="MainWindow::alterConfigFromSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,293,223,333"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#af308553aa8376a9432b47a14c486a771" title=" " alt="" coords="271,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,292,138,244,169,180,212,113,239,82,269,55,277,50,280,54,272,59,243,86,217,116,174,183,143,246,124,294"/>
+<area shape="rect" id="Node000003" href="$classCommandLineUtility.html#a96db1e38b25c4f371e7d634011ea2312" title=" " alt="" coords="293,69,460,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,292,146,255,179,208,220,160,269,119,279,113,282,117,272,123,224,164,183,212,151,258,128,295"/>
+<area shape="rect" id="Node000004" href="$classCommandLineUtility.html#a51f1374d86f7cdc3819b777896a36e69" title=" " alt="" coords="283,133,471,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,291,191,238,229,208,269,183,284,176,286,181,272,188,232,213,194,242,136,295"/>
+<area shape="rect" id="Node000005" href="$classCommandLineUtility.html#a17bf5e28dbbd4c740570fcddbcb752e1" title=" " alt="" coords="299,197,455,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,291,270,247,293,239,294,244,272,252,162,296"/>
+<area shape="rect" id="Node000006" href="$classCommandLineUtility.html#a2633b7d657485c065fd7b929e5738004" title=" " alt="" coords="299,261,455,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,297,284,290,285,295,223,303"/>
+<area shape="rect" id="Node000007" href="$classCommandLineUtility.html#a2af1152438d91815aa5e648ba9541920" title=" " alt="" coords="292,325,461,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="223,324,279,331,278,336,223,329"/>
+<area shape="rect" id="Node000008" href="$classCommandLineUtility.html#a8ec0f2589261d3e7c6c320ba49582a32" title=" " alt="" coords="299,389,455,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="162,331,272,375,294,383,293,388,270,380,160,336"/>
+<area shape="rect" id="Node000009" href="$classMainWindow.html#a781de6ce6a0b73b8caadfad15e7c7147" title=" " alt="" coords="274,454,479,479"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="136,332,193,386,231,414,272,439,292,447,290,452,269,444,228,419,190,390,132,335"/>
+<area shape="rect" id="Node000010" href="$classCommandLineUtility.html#a13d83801f0a5326b7d44966e4c3943ff" title=" " alt="" coords="293,504,460,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="130,332,185,408,226,451,272,488,285,496,282,501,269,493,222,455,181,411,125,335"/>
+<area shape="rect" id="Node000011" href="$classMainWindow.html#aca875a998a297e06039bfd0980372caf" title=" " alt="" coords="274,568,479,608"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="125,332,144,378,175,438,218,500,244,529,272,554,280,559,277,563,269,558,240,533,214,504,171,441,139,380,120,334"/>
+</map>

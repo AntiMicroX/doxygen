@@ -1,0 +1,5 @@
+<map id="Logger::~Logger" name="Logger::~Logger">
+<area shape="rect" id="Node000001" title="Close output stream and set instance to 0." alt="" coords="5,5,135,31"/>
+<area shape="rect" id="Node000002" href="$classLogger.html#ac0b2a3d6502a6235b19103a81cdfc39a" title="Flushes output stream and closes stream if requested." alt="" coords="183,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,15,169,15,169,21,135,21"/>
+</map>

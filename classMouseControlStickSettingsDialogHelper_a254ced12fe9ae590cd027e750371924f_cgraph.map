@@ -1,0 +1,11 @@
+<map id="MouseControlStickSettingsDialogHelper::updateReleaseSpringRadius" name="MouseControlStickSettingsDialogHelper::updateReleaseSpringRadius">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,259,85"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a302b4fb6e33c2df7cb5aa121c9d22ed1" title=" " alt="" coords="307,37,505,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,55,293,55,293,60,259,60"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="553,5,772,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,42,539,38,540,43,506,48"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a835d1f839a755c87758d7cc67b933d9f" title=" " alt="" coords="569,69,757,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="506,67,555,73,554,79,505,72"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="820,77,1023,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="757,87,806,87,806,92,757,92"/>
+</map>

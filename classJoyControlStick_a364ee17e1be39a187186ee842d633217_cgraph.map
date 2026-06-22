@@ -1,0 +1,7 @@
+<map id="JoyControlStick::setCircleAdjust" name="JoyControlStick::setCircleAdjust">
+<area shape="rect" id="Node000001" title="Set the percentage of the outer square that should be ignored when performing the final axis calculat..." alt="" coords="5,37,192,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#aeb66b52a4ca925440fc5d5e328ce1c08" title=" " alt="" coords="240,5,445,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,42,226,38,227,43,193,48"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#ae0680b1adfe088c2178be2aa38e2050e" title=" " alt="" coords="251,69,435,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,67,237,73,236,78,192,72"/>
+</map>

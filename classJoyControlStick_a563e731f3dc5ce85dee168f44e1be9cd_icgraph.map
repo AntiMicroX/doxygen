@@ -1,0 +1,15 @@
+<map id="JoyControlStick::modifierZoneChanged" name="JoyControlStick::modifierZoneChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="781,35,964,75"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a2e7b910e52b6fa841b9d5d412e5234a1" title="Sets the modifier zone of the stick to the given value." alt="" coords="499,13,733,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="767,45,727,41,728,35,768,40"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a30cc5f002b01681490ce3acdefcce67c" title="Inverts the direction of the modifier zone of the stick." alt="" coords="515,63,717,103"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="768,69,718,74,717,69,767,63"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStickEditDialog.html#a2baa35c50ff7528a03ec6f2ba1ed657d" title=" " alt="" coords="253,5,449,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,28,449,28,449,23,485,23"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#ab6ce741115ee3d436c1a7e866abd21e6" title="Take a XML stream and set the stick and direction button properties according to the values contained..." alt="" coords="252,70,451,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="544,44,499,53,411,73,410,67,498,48,542,38"/>
+<area shape="rect" id="Node000005" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,70,204,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,85,204,85,204,80,238,80"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="509,62,444,48,445,43,510,57"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="501,85,451,85,451,80,501,80"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="JoyControlStick::calculateDirectionalDistance" name="JoyControlStick::calculateDirectionalDistance">
+<area shape="rect" id="Node000001" title="Used to calculate the distance value that should be used for keyboard events and distance slots." alt="" coords="5,117,193,157"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="251,29,439,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,115,240,79,263,71,265,76,242,84,149,120"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="251,117,439,157"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="193,135,237,135,237,140,193,140"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#af9c934203a22e91c53d45a2a8f356248" title="Get current radial distance of the stick position past the assigned dead zone." alt="" coords="241,205,448,245"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="157,155,276,198,274,203,155,160"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="299,30,296,20,304,10,320,5,345,3,373,6,389,13,386,18,372,11,345,8,321,10,307,15,301,21,304,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="299,118,296,108,304,98,320,93,345,91,373,94,389,101,386,106,372,99,345,96,321,98,307,103,301,109,304,116"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="299,206,296,196,304,186,320,181,345,179,373,182,389,189,386,194,372,187,345,184,321,186,307,191,301,197,304,204"/>
+</map>

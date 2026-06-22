@@ -1,0 +1,10 @@
+<map id="JoyAxisContextMenu::openMouseSettingsDialog" name="JoyAxisContextMenu::openMouseSettingsDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="416,37,616,77"/>
+<area shape="rect" id="Node000002" href="$classJoyAxisContextMenu.html#aab4c898a84b58ede5c3a2740287cc898" title=" " alt="" coords="211,5,368,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,44,368,39,369,34,403,39"/>
+<area shape="rect" id="Node000004" href="$classJoyAxisContextMenu.html#adf4373314a4567689fb16a2e4cf484e1" title=" " alt="" coords="211,69,368,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,76,369,81,368,76,402,71"/>
+<area shape="rect" id="Node000003" href="$classJoyAxisContextMenu.html#a0bf2f720c91a60d7085d8fd322593f1b" title=" " alt="" coords="5,37,163,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,42,163,48,162,42,197,37"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="197,78,162,72,163,67,197,72"/>
+</map>

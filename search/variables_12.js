@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['raiseddeadzone_0',['raiseddeadzone',['../classGlobalVariables_1_1SetJoystick.html#a0f496c28d0bc11a1a1023e0b62e665bc',1,'GlobalVariables::SetJoystick::RAISEDDEADZONE'],['../classGlobalVariables_1_1InputDevice.html#a89093ead93ef094e867651e8ef52b662',1,'GlobalVariables::InputDevice::RAISEDDEADZONE']]],
+  ['range_1',['RANGE',['../classGlobalVariables_1_1HapticTriggerPs5.html#ae209e9e34c8a486e6d3ada7c93c5bbb3',1,'GlobalVariables::HapticTriggerPs5']]],
+  ['rawaxisdeadzone_2',['rawAxisDeadZone',['../classInputDevice.html#ab0b12a6e3501331b164bb38fe0c5dac4',1,'InputDevice']]],
+  ['rawbuttons_3',['rawbuttons',['../classGameController.html#a0251d4ec8abd0378a0612e8811211a96',1,'GameController']]],
+  ['rboxend_4',['rboxend',['../classAxisValueBox.html#a7b29708f55f1a0cae01b0d205448d38e',1,'AxisValueBox']]],
+  ['rboxstart_5',['rboxstart',['../classAxisValueBox.html#ad23902eadb41254242173ddb32a7a3df',1,'AxisValueBox']]],
+  ['reader_6',['reader',['../classJoyTabWidgetHelper.html#aa9c6d1abbc4cf8ded816f96fadd83f27',1,'JoyTabWidgetHelper::reader'],['../classXMLConfigMigration.html#ab8796454c3dc9609c68f5ba5e9816c1b',1,'XMLConfigMigration::reader']]],
+  ['ref_5fcount_7',['ref_count',['../struct__SDL__Joystick.html#a02a180fa3e36526ada368ebebb10ef30',1,'_SDL_Joystick']]],
+  ['relative_8',['relative',['../structPadderCommon_1_1__springModeInfo.html#a32433ccef8f8365013f297a19e3a56b5',1,'PadderCommon::_springModeInfo']]],
+  ['relativespring_9',['relativeSpring',['../classJoyButton.html#ae68a07c2ccee9c14a6c43ce4a3d1fb6a',1,'JoyButton']]],
+  ['releasedesktimer_10',['releaseDeskTimer',['../classJoyButton.html#a8c605213ecd35240e5d8ee6da82ae3bd',1,'JoyButton']]],
+  ['releaseeventsgenerated_11',['releaseEventsGenerated',['../classInputDaemon.html#aa74b86f9b6dcecca205d6bd57b52c90f',1,'InputDaemon']]],
+  ['removebutton_12',['removeButton',['../classJoyTabWidget.html#a4c41aadfc7e8aab1adca4c2ccde601a2',1,'JoyTabWidget']]],
+  ['reserveduniques_13',['reservedUniques',['../classAddEditAutoProfileDialog.html#ab421616c4b6eeb565c6e3bca814b4537',1,'AddEditAutoProfileDialog']]],
+  ['resetbutton_14',['resetButton',['../classJoyTabWidget.html#a65594443ee4de31ddf865ad53ce1e2fb',1,'JoyTabWidget']]],
+  ['restoreaction_15',['restoreAction',['../classMainWindow.html#afdb43fce9b4e402971930c98a9d00b88',1,'MainWindow']]],
+  ['result_16',['result',['../classXbox360Wireless.html#a6a9d5e674a1eed1241eaea7334a53062',1,'Xbox360Wireless']]],
+  ['right_5ftrigger_5feffect_17',['right_trigger_effect',['../structEffectMessagePs5.html#a08044c64d7880779922a11e632756147',1,'EffectMessagePs5']]],
+  ['rightbutton_18',['rightbutton',['../classDPadPushButtonGroup.html#a9fa2434723f7f775d24ca0ce7f580b00',1,'DPadPushButtonGroup::rightButton'],['../classStickPushButtonGroup.html#aef34e00ffb8f1b04a4d459a05773d90e',1,'StickPushButtonGroup::rightButton'],['../classVDPad.html#aaf9fe56004edf45060f92bae6da68dda',1,'VDPad::rightButton']]],
+  ['rigid_19',['rigid',['../structTriggerEffectMsgPs5.html#a40e5f9c53d06acdc2b380d12af491e9a',1,'TriggerEffectMsgPs5']]],
+  ['rigidgradientstrength_20',['RIGIDGRADIENTSTRENGTH',['../classGlobalVariables_1_1HapticTriggerPs5.html#a0cd139e0f888bacdd878693ca049f3b4',1,'GlobalVariables::HapticTriggerPs5']]],
+  ['rigidstrength_21',['RIGIDSTRENGTH',['../classGlobalVariables_1_1HapticTriggerPs5.html#a49c78db35f3e3928ca4328579b508bcf',1,'GlobalVariables::HapticTriggerPs5']]],
+  ['rotatedaxisimage_22',['rotatedaxisimage',['../classGameControllerExample.html#a04752c51e6e541f12af9fa3a267a4880',1,'GameControllerExample']]],
+  ['rumble_5fleft_23',['rumble_left',['../structEffectMessagePs5.html#ac819976cfab7be2501a0491ead3ea4cc',1,'EffectMessagePs5']]],
+  ['rumble_5fright_24',['rumble_right',['../structEffectMessagePs5.html#adeae75096f26928728301a4b82594a9c',1,'EffectMessagePs5']]]
+];

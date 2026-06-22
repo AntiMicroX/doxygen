@@ -1,0 +1,9 @@
+<map id="AntKeyMapper" name="AntKeyMapper">
+<area shape="rect" id="Node000001" title="Singleton facade for platform key mapping selection." alt="" coords="5,183,123,208"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="137,185,146,189,149,196,141,204,123,207,122,202,139,199,144,195,142,193,135,190"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,44,66,182,61,182,57,45"/>
+<area shape="rect" id="Node000003" href="$classQtKeyMapperBase.html" title="Base class for platform&#45;specific Qt key mappers." alt="" coords="81,80,223,105"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="86,37,138,77,135,82,83,41"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="135,118,76,184,72,181,131,114"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::calculateExtraAccelrationStatus" name="MouseControlStickSettingsDialog::calculateExtraAccelrationStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,244,85"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#aadaa12b1de0bac517af457008fde3675" title=" " alt="" coords="292,37,492,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,55,278,55,278,60,244,60"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="540,5,759,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,42,526,38,527,43,492,48"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a13a762188a2239af9e5ed25c532b98f6" title=" " alt="" coords="540,69,759,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="492,67,527,71,526,77,492,72"/>
+</map>

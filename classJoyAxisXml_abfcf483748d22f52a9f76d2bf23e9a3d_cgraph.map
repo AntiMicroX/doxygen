@@ -1,0 +1,64 @@
+<map id="JoyAxisXml::readConfig" name="JoyAxisXml::readConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,145,180,171"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="247,47,427,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,143,162,112,227,81,250,73,252,78,229,86,165,117,114,148"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#a04c3b7b172ad46013382e36ad7b65691" title=" " alt="" coords="255,96,419,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,143,259,122,260,127,157,148"/>
+<area shape="rect" id="Node000004" href="$classJoyAxisButton.html#afcc96abd6132e97d0825bb94a52f342a" title=" " alt="" coords="233,145,440,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,155,219,155,219,161,180,161"/>
+<area shape="rect" id="Node000005" href="$classJoyAxisXml.html#a100bfdebc33c9c7f3957a59febf3a1bd" title=" " alt="" coords="228,195,445,220"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="157,168,260,189,259,194,156,173"/>
+<area shape="rect" id="Node000008" href="$classJoyAxisXml.html#a722916013ad49036b2ad38ab8ec30484" title=" " alt="" coords="233,433,440,459"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="107,169,318,421,313,424,103,172"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadXml.html#a446e72a0f575c2d827d6c52afc39fab9" title=" " alt="" coords="519,5,698,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="425,192,444,180,457,165,463,149,467,116,471,82,478,65,492,48,511,34,514,39,495,52,482,68,476,83,472,117,469,151,461,168,447,184,428,197"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#ae9a3556242b984c81fc6945acafc5586" title=" " alt="" coords="776,5,987,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="698,24,762,24,762,30,698,29"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="776,12,712,12,712,7,776,7"/>
+<area shape="rect" id="Node000009" href="$classJoyAxis.html#a06d99d722b314998440165a01b0f87b3" title=" " alt="" coords="1039,413,1235,453"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="343,432,387,348,443,230,453,190,456,154,465,122,475,106,492,92,535,68,580,54,626,51,673,57,719,70,766,90,811,115,855,145,939,212,1012,283,1071,349,1114,400,1110,403,1067,352,1008,287,935,216,852,149,808,120,763,95,718,75,672,62,626,57,581,60,537,73,495,96,479,110,470,124,462,155,459,190,448,232,392,351,347,434"/>
+<area shape="rect" id="Node000010" href="$classHapticTriggerPs5.html#ab870e3eaddce540cb46f3bbb1c2e69b6" title="Converts a HapticTriggerModePs5 from string representation." alt="" coords="523,106,694,146"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="342,432,417,282,461,200,491,156,509,144,512,149,495,160,466,203,422,284,347,434"/>
+<area shape="rect" id="Node000011" href="$classJoyAxis.html#a0580ab0df546a1c03b4e8f755ad00272" title=" " alt="" coords="503,171,714,196"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="340,432,357,388,389,327,433,262,461,232,492,206,504,199,507,204,495,211,464,236,437,265,393,330,362,391,345,434"/>
+<area shape="rect" id="Node000012" href="$classJoyAxis.html#a04bb9e15b6c99f5e5559b1804eac74c8" title=" " alt="" coords="505,221,712,261"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="343,432,365,399,399,356,442,310,492,270,503,264,506,269,495,275,445,314,403,359,369,402,348,435"/>
+<area shape="rect" id="Node000013" href="$classJoyAxis.html#afddf7399e2086fda738fe588f5e7d7cd" title=" " alt="" coords="541,285,676,311"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="348,431,406,377,447,346,492,320,527,307,529,312,494,324,450,350,410,381,352,435"/>
+<area shape="rect" id="Node000014" href="$classSetJoystick.html#af641cbddd22e358218ba68497e40e4e3" title=" " alt="" coords="508,335,709,360"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="359,431,418,400,492,369,519,361,521,366,494,374,421,405,362,435"/>
+<area shape="rect" id="Node000015" href="$classJoyAxis.html#a12c4147c5f4a320aee710f8753263aa6" title=" " alt="" coords="528,384,689,409"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="407,431,524,409,525,415,408,436"/>
+<area shape="rect" id="Node000016" href="$classJoyAxis.html#a01dfb4ec2c2e85304a479f21b9cffe49" title=" " alt="" coords="533,433,684,459"/>
+<area shape="poly" id="edge16_Node000008_Node000016" title=" " alt="" coords="440,443,520,443,520,449,440,449"/>
+<area shape="rect" id="Node000017" href="$classInputDevice.html#a2dca8e1dc3480828fde3b0fe2871fbc9" title=" " alt="" coords="507,483,710,523"/>
+<area shape="poly" id="edge17_Node000008_Node000017" title=" " alt="" coords="398,456,501,478,500,483,397,461"/>
+<area shape="rect" id="Node000019" href="$classInputDevice.html#adc85b0c774b371178623c1c84349ce24" title=" " alt="" coords="509,547,708,587"/>
+<area shape="poly" id="edge19_Node000008_Node000019" title=" " alt="" coords="358,457,418,494,494,533,514,540,512,545,492,538,415,498,355,461"/>
+<area shape="rect" id="Node000020" href="$classJoyAxis.html#acb36ca26562c203a587fbb937f168200" title=" " alt="" coords="503,612,714,637"/>
+<area shape="poly" id="edge21_Node000008_Node000020" title=" " alt="" coords="349,457,405,525,447,564,495,597,512,605,510,610,492,602,443,568,401,528,345,460"/>
+<area shape="rect" id="Node000021" href="$classJoyAxis.html#a368b17910df9a49089bd6f46cab2ff1c" title=" " alt="" coords="526,661,691,687"/>
+<area shape="poly" id="edge22_Node000008_Node000021" title=" " alt="" coords="346,458,366,496,398,548,441,603,467,627,495,648,514,657,511,662,492,652,463,631,437,606,393,551,361,499,341,460"/>
+<area shape="rect" id="Node000024" href="$classJoyAxis.html#acc8703fa51f25216175c957121310245" title="Changes the haptic trigger effect mode." alt="" coords="499,711,719,736"/>
+<area shape="poly" id="edge25_Node000008_Node000024" title=" " alt="" coords="344,458,361,505,391,570,436,639,463,671,495,697,504,703,501,707,492,701,460,674,431,643,386,573,356,507,339,460"/>
+<area shape="rect" id="Node000025" href="$classJoyAxis.html#ad57d8fa2942d408ed534a348962ae72c" title=" " alt="" coords="511,760,706,785"/>
+<area shape="poly" id="edge26_Node000008_Node000025" title=" " alt="" coords="343,458,357,512,385,591,405,634,430,676,460,714,495,747,502,752,499,756,492,751,456,718,425,679,400,636,380,593,352,514,338,460"/>
+<area shape="rect" id="Node000026" href="$classJoyAxis.html#aa4be4a311b6656e63eacfdde5ce6861a" title="Set throttle value for axis." alt="" coords="534,809,683,835"/>
+<area shape="poly" id="edge28_Node000008_Node000026" title=" " alt="" coords="342,458,353,520,378,612,398,662,424,712,456,757,495,796,521,810,519,815,492,800,452,761,420,714,394,664,373,614,348,521,337,459"/>
+<area shape="rect" id="Node000029" href="$classJoyAxis.html#a91976d2688346e4270237afb57462dcf" title=" " alt="" coords="493,859,724,899"/>
+<area shape="poly" id="edge33_Node000008_Node000029" title=" " alt="" coords="342,458,350,526,374,631,394,689,420,746,454,799,495,845,500,850,497,854,491,849,449,802,416,748,389,691,369,632,345,527,336,459"/>
+<area shape="rect" id="Node000018" href="$classInputDevice.html#a7a7e979f61e7ad7ab12d32913004a81b" title=" " alt="" coords="804,523,959,548"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="710,513,790,522,790,527,710,518"/>
+<area shape="poly" id="edge20_Node000019_Node000018" title=" " alt="" coords="708,553,790,543,791,549,709,558"/>
+<area shape="rect" id="Node000022" href="$classJoyAxis.html#ad685008b271e45115538ab8cc3146b60" title=" " alt="" coords="772,661,991,687"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="691,671,758,671,758,677,691,677"/>
+<area shape="rect" id="Node000023" href="$classJoyAxis.html#a6ef384b558f88cd5a2b478ffdad409bf" title=" " alt="" coords="787,735,975,760"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="672,684,725,697,830,728,828,733,723,702,671,689"/>
+<area shape="poly" id="edge27_Node000025_Node000023" title=" " alt="" coords="706,761,773,755,774,760,707,766"/>
+<area shape="poly" id="edge31_Node000026_Node000023" title=" " alt="" coords="683,807,723,796,747,783,771,770,800,761,801,766,773,775,749,788,725,800,685,812"/>
+<area shape="rect" id="Node000027" href="$classJoyAxis.html#a211c80f9aa20fa22c8f91a5cdcb0831a" title=" " alt="" coords="802,784,961,809"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="683,812,788,803,789,808,684,818"/>
+<area shape="rect" id="Node000028" href="$classJoyAxis.html#aa4a59be160684251db79afe32d9aa3f0" title=" " alt="" coords="790,833,973,859"/>
+<area shape="poly" id="edge32_Node000026_Node000028" title=" " alt="" coords="684,826,776,834,776,839,683,831"/>
+<area shape="poly" id="edge30_Node000027_Node000009" title=" " alt="" coords="960,786,989,771,1022,737,1050,699,1073,657,1091,614,1116,531,1129,466,1134,467,1121,532,1096,616,1077,660,1054,702,1026,741,992,775,962,791"/>
+</map>

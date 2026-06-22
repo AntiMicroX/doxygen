@@ -1,0 +1,10 @@
+<map id="JoyDPad::dpadDelayChanged" name="JoyDPad::dpadDelayChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="679,11,889,37"/>
+<area shape="rect" id="Node000002" href="$classDPadEditDialog.html#a87782609227b6c56ef82e3844a117dc1" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,25,241,24,193,25,193,20,241,19,665,19"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#af6ce40c6bed6e6ceb12b2060014d818c" title=" " alt="" coords="456,37,631,62"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="665,39,631,43,630,38,665,34"/>
+<area shape="rect" id="Node000004" href="$classDPadEditDialogHelper.html#af839176999246b6d73ee93ab5164e70b" title=" " alt="" coords="241,33,408,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,54,408,54,408,49,442,49"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="227,44,193,40,194,34,228,39"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MouseSettingsDialog::changeSpringSectionStatus" name="MouseSettingsDialog::changeSpringSectionStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="300,141,507,181"/>
+<area shape="rect" id="Node000002" href="$classMouseAxisSettingsDialog.html#a33546e4b608264ce6d2758678eb6d2e7" title=" " alt="" coords="31,5,227,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,135,314,96,251,60,220,48,222,43,253,55,317,92,370,131"/>
+<area shape="rect" id="Node000003" href="$classMouseButtonSettingsDialog.html#a181bfdf388907056ec492d58d85f5d34" title=" " alt="" coords="23,69,234,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,140,251,124,206,112,207,107,253,119,314,135"/>
+<area shape="rect" id="Node000004" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,134,252,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,164,252,164,252,159,286,159"/>
+<area shape="rect" id="Node000005" href="$classMouseDPadSettingsDialog.html#a51ae7b4e5b371e35d4f470787f5fc846" title=" " alt="" coords="28,213,229,253"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="314,187,207,216,205,211,313,182"/>
+<area shape="rect" id="Node000006" href="$classMouseSettingsDialog.html#a4a3da2adef113d4d6580b36fe62067ed" title=" " alt="" coords="45,277,213,317"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="370,192,317,231,253,268,214,282,212,277,251,263,314,227,367,188"/>
+</map>

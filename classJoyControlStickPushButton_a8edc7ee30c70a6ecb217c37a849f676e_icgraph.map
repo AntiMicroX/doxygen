@@ -1,0 +1,9 @@
+<map id="JoyControlStickPushButton::tryFlash" name="JoyControlStickPushButton::tryFlash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="525,27,720,67"/>
+<area shape="rect" id="Node000002" href="$classMainWindow.html#a435b6567cdb461077fee16ac1d23523c" title=" " alt="" coords="237,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,38,472,33,473,28,512,32"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStickPushButton.html#a84c9c0ebc8bab68996df6619a4969168" title=" " alt="" coords="256,55,459,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,62,459,67,459,62,511,56"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a3dfe834b2836b316908ace3f38c06db2" title=" " alt="" coords="5,5,189,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,21,190,21,190,15,224,15"/>
+</map>

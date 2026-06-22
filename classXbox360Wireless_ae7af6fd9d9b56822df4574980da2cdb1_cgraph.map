@@ -1,0 +1,9 @@
+<map id="Xbox360Wireless::Xbox360Wireless" name="Xbox360Wireless::Xbox360Wireless">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,205,63"/>
+<area shape="rect" id="Node000002" href="$classXbox360Wireless.html#a85eb9c6a36f469ad6259c3e20745bcc1" title=" " alt="" coords="253,5,451,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,30,240,27,240,32,206,36"/>
+<area shape="rect" id="Node000004" href="$classXbox360Wireless.html#a509d402b3e65f71df0bc379af316f638" title=" " alt="" coords="262,55,442,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,50,249,55,248,60,205,56"/>
+<area shape="rect" id="Node000003" href="$classXbox360Wireless.html#a98f0d177a95a478bb79640058439c88d" title=" " alt="" coords="499,5,676,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,15,485,15,485,21,451,21"/>
+</map>

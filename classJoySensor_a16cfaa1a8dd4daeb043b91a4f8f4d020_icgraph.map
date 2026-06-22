@@ -1,0 +1,27 @@
+<map id="JoySensor::getParentSet" name="JoySensor::getParentSet">
+<area shape="rect" id="Node000001" title="Get pointer to the set that a sensor belongs to." alt="" coords="787,173,964,198"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#aeb9b9c1096c032dff35178953e9a841d" title=" " alt="" coords="515,5,723,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="854,164,805,111,772,83,737,60,712,48,714,43,740,55,776,79,808,107,858,160"/>
+<area shape="rect" id="Node000003" href="$classSensorPushButtonGroup.html#a2332cbbc2b2bab1f23b924e91df1219a" title="Shows the button mapping dialog for the given direction button." alt="" coords="524,69,715,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="837,169,738,124,702,112,703,107,740,119,839,164"/>
+<area shape="rect" id="Node000006" href="$classJoyGyroscopeSensor.html#a69b51a1f91da4be61e2762cc34206df0" title="Initializes the JoySensorButton objects for this sensor." alt="" coords="542,133,697,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="773,175,696,166,697,160,773,170"/>
+<area shape="rect" id="Node000008" href="$classJoyAccelerometerSensor.html#aa709af900417eee48ea78f7bd24ed62a" title="Initializes the JoySensorButton objects for this sensor." alt="" coords="529,197,710,237"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="773,201,711,209,710,203,773,195"/>
+<area shape="rect" id="Node000010" href="$classJoySensorEditDialog.html#ab1a039fc35cd4c52e2553d7a6d01bc34" title="Shows the sensor name in dialog title." alt="" coords="500,261,739,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="839,207,740,252,703,264,702,259,738,247,837,202"/>
+<area shape="rect" id="Node000012" href="$classMouseSensorSettingsDialog.html#a3a49370a1061187645fcd8eda0ebc4ca" title="Shows the sensor name in dialog title." alt="" coords="500,325,739,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="858,211,808,264,776,292,740,316,714,328,712,323,737,311,772,287,805,260,854,207"/>
+<area shape="rect" id="Node000004" href="$classSensorPushButtonGroup.html#aecd2683ab789e62c418fd9227ae9f9a6" title="Generates a new push button at the given grid coordinates." alt="" coords="257,69,435,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,92,435,92,435,87,510,87"/>
+<area shape="rect" id="Node000005" href="$classSensorPushButtonGroup.html#a5d893d1b1d86f6d355ed793c4c52a92c" title=" " alt="" coords="5,69,192,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="243,92,192,92,192,87,243,87"/>
+<area shape="rect" id="Node000007" href="$classJoyGyroscopeSensor.html#a3ab0a046fc8f7fd7ab11f443d3025e3e" title=" " alt="" coords="265,133,427,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="528,156,428,156,428,151,528,151"/>
+<area shape="rect" id="Node000009" href="$classJoyAccelerometerSensor.html#a3273f70da9e0795d25f420f6a12d60b9" title=" " alt="" coords="251,197,441,237"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="515,220,441,220,441,215,515,215"/>
+<area shape="rect" id="Node000011" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="265,261,427,301"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="486,284,427,284,427,279,486,279"/>
+<area shape="rect" id="Node000013" href="$classMouseSensorSettingsDialog.html#a8eb12782a315a8b9a1c0433dd3aba29f" title=" " alt="" coords="240,325,452,365"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="486,348,452,348,452,343,486,343"/>
+</map>

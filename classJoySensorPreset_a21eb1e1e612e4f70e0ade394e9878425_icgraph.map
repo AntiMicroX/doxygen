@@ -1,0 +1,9 @@
+<map id="JoySensorPreset::setSensorPreset" name="JoySensorPreset::setSensorPreset">
+<area shape="rect" id="Node000001" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="436,37,635,77"/>
+<area shape="rect" id="Node000002" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="215,5,388,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="422,45,388,40,388,35,423,39"/>
+<area shape="rect" id="Node000003" href="$classJoySensorEditDialog.html#ac54b2583e87546880baf282a0f16f57a" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="225,69,378,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,75,378,82,378,76,422,70"/>
+<area shape="rect" id="Node000004" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="5,69,167,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,92,167,92,167,87,211,87"/>
+</map>

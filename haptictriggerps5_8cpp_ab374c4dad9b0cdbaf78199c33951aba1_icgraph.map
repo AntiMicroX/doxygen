@@ -1,0 +1,9 @@
+<map id="u32tole" name="u32tole">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,70,279,95"/>
+<area shape="rect" id="Node000002" href="$structEffectVibrationPs5.html#ae6a9d4ac9fbdebc25ad25120ca9ee3d5" title="Builds a vibration effect message." alt="" coords="12,5,153,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,68,138,48,140,43,196,63"/>
+<area shape="rect" id="Node000003" href="$structEffectRigidPs5.html#a0b3f26b04eed514a2488066840eeeb5d" title="Builds a rigid effect message." alt="" coords="5,70,160,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,85,160,85,160,80,194,80"/>
+<area shape="rect" id="Node000004" href="$structEffectRigidPs5.html#abbc8ec551b087c1c5656fd59015336df" title="Builds a rigid gradient effect message. This effect starts with a strength of zero and slowly increas..." alt="" coords="5,120,160,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,102,140,122,138,117,194,97"/>
+</map>

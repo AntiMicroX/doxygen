@@ -1,0 +1,27 @@
+<map id="InputDevice::getGUIDString" name="InputDevice::getGUIDString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="871,145,1072,171"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#ae4e713204751aa99d92ab8ff3f3b2192" title=" " alt="" coords="599,55,817,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="916,144,772,98,774,93,918,139"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a6a50aff41b62b36387bf342fdbfec47f" title=" " alt="" coords="301,5,528,31"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="948,137,894,88,859,64,822,46,748,25,671,13,596,9,528,10,528,5,596,4,672,8,749,19,824,41,862,60,897,84,951,133"/>
+<area shape="rect" id="Node000004" href="$classGameControllerMappingDialog.html#a12fb7328d4a9e9579ff6eb37c76813ab" title=" " alt="" coords="303,55,526,95"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="856,147,593,110,522,98,523,93,594,105,857,141"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a10a6d5bfd9b2237a544e2b0c7957b42e" title=" " alt="" coords="607,171,809,196"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="857,172,810,176,809,171,856,166"/>
+<area shape="rect" id="Node000010" href="$classInputDevice.html#a1acb3850aeb7e4d2571fae13994e613e" title=" " alt="" coords="593,220,823,245"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="923,178,823,210,773,222,771,217,822,205,921,173"/>
+<area shape="rect" id="Node000011" href="$classJoyTabWidget.html#af8bff794dd26441ea01dff33ca8ee29c" title=" " alt="" coords="609,272,807,297"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="946,182,892,222,824,260,782,274,781,269,822,256,889,217,943,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="592,55,545,46,481,33,482,28,546,41,593,50"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="586,78,526,78,526,73,586,73"/>
+<area shape="rect" id="Node000005" href="$classGameControllerMappingDialog.html#a3b5f7c179120ccffa5c7eca5de1edafe" title=" " alt="" coords="5,55,236,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="290,78,236,78,236,73,290,73"/>
+<area shape="rect" id="Node000007" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="297,120,533,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="620,171,489,148,489,143,621,166"/>
+<area shape="rect" id="Node000008" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="349,169,481,195"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="593,185,481,185,481,180,593,180"/>
+<area shape="rect" id="Node000009" href="$classAppLaunchHelper.html#a13afb00ecda614a2290209339436d4a7" title=" " alt="" coords="284,219,545,244"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="617,201,494,221,493,216,616,196"/>
+<area shape="rect" id="Node000012" href="$classJoyTabWidget.html#a7fc1e549dce3dd0e945e43b94644fc0a" title=" " alt="" coords="319,269,510,309"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="595,289,510,290,510,285,595,284"/>
+</map>

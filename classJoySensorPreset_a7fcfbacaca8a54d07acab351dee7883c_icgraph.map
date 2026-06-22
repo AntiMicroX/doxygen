@@ -1,0 +1,7 @@
+<map id="JoySensorPreset::currentPreset" name="JoySensorPreset::currentPreset">
+<area shape="rect" id="Node000001" title="Determines the preset used by the underlying sensor." alt="" coords="227,37,408,77"/>
+<area shape="rect" id="Node000002" href="$classJoySensorContextMenu.html#ad0eee2b759f5640d234a1c5164a963d3" title="Populates the context menu." alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,45,179,40,179,35,213,40"/>
+<area shape="rect" id="Node000003" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="11,69,173,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,75,173,81,172,75,212,70"/>
+</map>

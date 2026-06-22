@@ -1,0 +1,23 @@
+<map id="InputDevice::rawAxisActivated" name="InputDevice::rawAxisActivated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="861,124,1084,149"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a8a61663dd6bc8caa3ad142a984eb5f81" title=" " alt="" coords="603,21,801,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="929,121,812,75,776,63,777,58,814,70,931,116"/>
+<area shape="rect" id="Node000006" href="$classGameControllerMappingDialog.html#a60b30c08f5f3aaa622bead8cb8339664" title=" " alt="" coords="591,85,813,125"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="851,125,813,120,814,115,852,120"/>
+<area shape="rect" id="Node000009" href="$classGameControllerMappingDialog.html#ae066f4c1eaab2dcbb49625577a50443b" title=" " alt="" coords="591,149,813,189"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="852,154,814,158,813,153,851,148"/>
+<area shape="rect" id="Node000010" href="$classGameController.html#ae8422462fdb74771fb54279529e5fe7e" title=" " alt="" coords="591,213,813,239"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="933,157,877,181,814,203,767,216,766,211,813,198,875,176,931,152"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,28,543,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="590,43,543,43,543,38,590,38"/>
+<area shape="rect" id="Node000004" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,5,241,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="276,32,241,30,242,24,276,27"/>
+<area shape="rect" id="Node000005" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,55,189,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="276,56,190,64,189,59,276,51"/>
+<area shape="rect" id="Node000007" href="$classGameControllerMappingDialog.html#a3969a243cd5846c91466cd663f840f07" title=" " alt="" coords="305,91,527,131"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="577,110,527,111,527,106,577,105"/>
+<area shape="rect" id="Node000008" href="$classGameControllerMappingDialog.html#a3b5f7c179120ccffa5c7eca5de1edafe" title=" " alt="" coords="8,115,239,155"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="291,124,239,129,239,123,291,119"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="588,149,516,134,517,129,589,143"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="577,164,239,145,239,139,577,159"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="JoyAxis::establishPropertyUpdatedConnection" name="JoyAxis::establishPropertyUpdatedConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,197,87"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a12c4147c5f4a320aee710f8753263aa6" title=" " alt="" coords="260,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,45,264,31,265,36,198,50"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af5b2520af7b76ff18bf3c79c02e73569" title=" " alt="" coords="245,55,436,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,65,232,65,232,70,198,70"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#a6ef384b558f88cd5a2b478ffdad409bf" title=" " alt="" coords="247,104,435,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,85,265,99,264,104,197,90"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a84b5b6dfcb11bd5b8416569d2ce9e40a" title=" " alt="" coords="484,55,688,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="436,65,470,65,470,70,436,70"/>
+</map>

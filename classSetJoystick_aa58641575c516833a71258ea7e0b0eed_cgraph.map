@@ -1,0 +1,8 @@
+<map id="SetJoystick::propagateSetSensorNameChange" name="SetJoystick::propagateSetSensorNameChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,195,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="52,30,49,20,57,10,74,5,100,3,130,6,146,13,144,18,129,11,100,8,75,10,60,15,54,21,57,28"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a241ee8a191d441c20a10b257c03cba65" title=" " alt="" coords="243,7,476,33"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="194,36,233,32,234,37,195,41"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a3f246fcacc2f0a0f01bd1e5a62d1de23" title=" " alt="" coords="257,57,462,97"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="195,57,243,62,243,67,194,62"/>
+</map>

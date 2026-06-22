@@ -1,0 +1,28 @@
+<map id="JoyButton::isDefault" name="JoyButton::isDefault">
+<area shape="rect" id="Node000001" title="Check if button properties are at their default values." alt="" coords="748,132,900,157"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#ad614a1d4afe02119dfbd787ee89be66e" title=" " alt="" coords="535,5,672,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="797,125,753,88,699,52,652,33,654,28,701,48,756,84,801,120"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a5de4017d04f877e12df92334f41d08f3" title="Check if this set has any mapped event." alt="" coords="269,81,445,107"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="786,128,745,110,699,97,634,87,567,84,446,87,445,82,567,78,634,82,701,91,747,105,788,123"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a9a837b172199a2a1a0d9ffd811e1ca35" title=" " alt="" coords="509,156,697,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="734,157,698,161,697,156,734,152"/>
+<area shape="rect" id="Node000007" href="$classJoyControlStick.html#a3ab1764a44e806d2d3896023f82fa3b1" title="Write the status of the properties of a stick and direction buttons to an XML stream." alt="" coords="256,156,459,181"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="787,166,746,183,701,197,623,205,544,203,472,195,413,184,413,179,473,189,545,198,622,200,699,191,745,178,785,161"/>
+<area shape="rect" id="Node000008" href="$classJoyDPad.html#a47fdbc27e27a579c445487871d39d2bc" title=" " alt="" coords="532,107,675,132"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="734,137,674,130,675,125,734,132"/>
+<area shape="rect" id="Node000009" href="$classJoyButtonXml.html#a766e87947104bfd54fc15b96b267ebdd" title=" " alt="" coords="507,257,700,283"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="800,169,756,205,701,240,653,260,651,255,699,236,753,201,797,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="549,37,400,84,399,79,547,32"/>
+<area shape="rect" id="Node000005" href="$classJoyAxisXml.html#a044a6be446ab6cc4b6fcb359e0cef898" title=" " alt="" coords="268,19,447,44"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="521,25,447,29,447,24,520,20"/>
+<area shape="rect" id="Node000004" href="$classSetJoystickXml.html#a11eec051c05deac5ebe47b9582e83b6f" title="Serializes a SetJoystick object into the the given XML stream." alt="" coords="5,81,208,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,97,208,97,208,91,256,91"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="293,50,159,84,158,79,292,45"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="535,155,506,147,392,109,394,104,507,142,536,150"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="496,171,459,171,459,166,496,166"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="518,113,445,106,446,100,518,108"/>
+<area shape="poly" id="edge15_Node000009_Node000004" title=" " alt="" coords="515,257,370,228,303,212,255,196,215,176,177,152,121,109,124,105,181,148,218,171,257,192,304,207,371,223,516,252"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="540,255,505,240,481,221,457,203,409,184,411,179,460,198,484,217,508,236,542,250"/>
+<area shape="rect" id="Node000010" href="$classJoySensor.html#a92d38c3baf6dc85d28d66e7a7df4b4c3" title="Write the status of the properties of a sensor and direction buttons to an XML stream." alt="" coords="273,257,441,283"/>
+<area shape="poly" id="edge16_Node000009_Node000010" title=" " alt="" coords="493,273,442,273,442,267,493,267"/>
+</map>

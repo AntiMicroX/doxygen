@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::calculateReleaseSpringRadius" name="MouseControlStickSettingsDialog::calculateReleaseSpringRadius">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,229,85"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a1d2ecd58757abfb0a356fc02d52522dd" title=" " alt="" coords="277,37,477,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,55,264,55,264,60,230,60"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="525,5,744,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,42,511,38,512,43,478,48"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a60ecfef194078a1d77b4bf7a5e187cbf" title=" " alt="" coords="540,69,729,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="478,67,527,73,526,79,477,72"/>
+</map>

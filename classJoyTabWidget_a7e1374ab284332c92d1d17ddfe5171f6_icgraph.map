@@ -1,0 +1,26 @@
+<map id="JoyTabWidget::openConfigFileDialog" name="JoyTabWidget::openConfigFileDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="841,73,1032,113"/>
+<area shape="rect" id="Node000002" href="$classJoyTabWidget.html#a6a6bd9ccd83557de08b6e698598f2123" title=" " alt="" coords="578,55,785,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="827,85,785,80,785,75,828,79"/>
+<area shape="rect" id="Node000003" href="$classMainWindow.html#a4b00208df3ff47236e6b46f308647a97" title=" " alt="" coords="569,104,793,129"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="828,106,794,109,793,103,828,100"/>
+<area shape="rect" id="Node000004" href="$classMainWindow.html#a9738583d1ab872fb2784c0faee89cb46" title=" " alt="" coords="297,5,475,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="586,102,568,94,552,81,543,68,535,55,520,44,474,28,476,23,523,40,538,52,548,65,556,78,571,89,588,97"/>
+<area shape="rect" id="Node000006" href="$classMainWindow.html#aef8941c9dc542d8ff8416fff1caf8ad7" title=" " alt="" coords="283,153,489,179"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="591,134,463,156,463,151,591,129"/>
+<area shape="rect" id="Node000008" href="$classMainWindow.html#ae9f72ff45056908317963a1e7fa634a0" title="Build list of current input devices and pass it to settings dialog instance. Open Settings dialog." alt="" coords="271,203,501,243"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="646,138,589,166,522,194,483,206,481,201,520,189,587,162,644,133"/>
+<area shape="rect" id="Node000010" href="$classMainWindow.html#ac398cc635954d370088390a0a5bee878" title=" " alt="" coords="283,55,489,80"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="591,104,463,83,463,77,591,99"/>
+<area shape="rect" id="Node000011" href="$classMainWindow.html#a2a0aba59f5d3bf3c6fb97f0de103b36f" title=" " alt="" coords="251,104,521,129"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="555,119,521,119,521,114,555,114"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="77,80,131,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="289,36,251,45,187,64,133,85,131,80,185,59,250,39,288,31"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="288,153,250,145,185,125,131,105,133,100,187,120,251,139,290,148"/>
+<area shape="rect" id="Node000007" href="$classMainWindow.html#a5d25ebfdfec433fc449d7e35803a9c7c" title=" " alt="" coords="15,153,193,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="269,169,194,169,194,163,269,163"/>
+<area shape="rect" id="Node000009" href="$classMainWindow.html#a2f0c03d3d51748ab794e698322110614" title=" " alt="" coords="5,211,203,236"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="257,226,203,226,203,221,257,221"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="270,80,132,93,131,88,269,75"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="236,107,132,98,132,92,237,101"/>
+</map>

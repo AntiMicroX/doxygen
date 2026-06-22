@@ -1,0 +1,7 @@
+<map id="JoySensorButtonPushButton::tryFlash" name="JoySensorButtonPushButton::tryFlash">
+<area shape="rect" id="Node000001" title="Highlights the button when mapped button is active." alt="" coords="5,35,208,75"/>
+<area shape="rect" id="Node000002" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="274,5,429,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,40,260,34,261,39,208,45"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#aa1eb52e9cce61ac403f9b451c512f197" title="Checks if this button is currently active." alt="" coords="256,70,447,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,64,243,68,242,73,208,69"/>
+</map>

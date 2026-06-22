@@ -1,0 +1,19 @@
+<map id="MainSettingsDialog::fillAllAutoProfilesTable" name="MainSettingsDialog::fillAllAutoProfilesTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,180,231"/>
+<area shape="rect" id="Node000002" href="$classAutoProfileInfo.html#a79dc148898bc863eb5ceedc88d8f7638" title=" " alt="" coords="232,5,463,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,189,121,156,148,115,184,74,227,40,238,34,240,38,229,44,188,78,152,118,125,159,106,192"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileInfo.html#a2c94a2f2793b09a153adbabc8c555eda" title=" " alt="" coords="262,55,433,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,189,158,139,191,112,227,90,248,82,250,86,229,95,194,117,162,143,113,193"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileInfo.html#a542720df3f705eb79255b4b85af7b1a5" title=" " alt="" coords="253,105,441,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,189,227,154,253,146,255,151,229,159,140,194"/>
+<area shape="rect" id="Node000005" href="$classAutoProfileInfo.html#aba94c3fdd9e66bf8dc42a74237ff911c" title=" " alt="" coords="244,169,451,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,199,230,193,231,198,180,204"/>
+<area shape="rect" id="Node000006" href="$classAutoProfileInfo.html#a37dfba098d3c8a8e90beca36b2f3561b" title=" " alt="" coords="248,219,447,259"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,218,234,224,234,230,180,224"/>
+<area shape="rect" id="Node000007" href="$classAutoProfileInfo.html#a8136af0d4f8e0fcdc0f6562dd6ec9c48" title=" " alt="" coords="228,284,467,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="134,229,179,250,229,269,262,278,261,283,227,274,177,255,132,234"/>
+<area shape="rect" id="Node000008" href="$classAutoProfileInfo.html#a51f57cf7cda4e66b052d12e5a8879785" title=" " alt="" coords="258,333,437,359"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="115,230,164,275,195,299,229,318,250,327,248,332,227,323,192,303,160,279,111,234"/>
+<area shape="rect" id="Node000009" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="253,383,441,408"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="107,230,127,261,154,299,189,337,229,368,245,375,242,380,227,372,185,340,150,302,122,264,103,233"/>
+</map>

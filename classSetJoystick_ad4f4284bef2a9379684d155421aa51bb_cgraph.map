@@ -1,0 +1,21 @@
+<map id="SetJoystick::propogateSetDPadNameChange" name="SetJoystick::propogateSetDPadNameChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,90,195,130"/>
+<area shape="rect" id="Node000002" href="$classJoyDPad.html#aa77d0bf75d7d1f1d2db5256db2e10f50" title=" " alt="" coords="243,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,87,242,47,288,32,290,37,244,53,146,92"/>
+<area shape="rect" id="Node000003" href="$classJoyDPad.html#a089e9a69356d82336da47361bfc94b63" title=" " alt="" coords="547,47,687,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,96,242,91,533,64,533,69,243,97,195,102"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#aceb96e8f8440c878aafdfa74ed46679d" title=" " alt="" coords="253,130,443,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,123,240,130,239,135,194,128"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#a6483cf07e3108352408a0cfbb962521e" title=" " alt="" coords="251,194,445,234"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="138,128,187,154,244,180,263,187,262,192,242,184,185,159,135,132"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="388,127,441,103,501,81,533,72,534,77,502,86,443,108,390,132"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="302,130,299,120,307,111,323,105,348,103,377,106,393,113,390,118,375,111,348,109,324,111,310,115,304,121,307,129"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#af406a657869b151cd4b9f44b9e027be9" title=" " alt="" coords="501,96,732,121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,133,520,121,521,126,443,138"/>
+<area shape="rect" id="Node000006" href="$classJoyDPadButton.html#a3562e822a51b68df01e9a76267428728" title=" " alt="" coords="527,145,707,171"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="443,150,513,152,513,158,443,155"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#aa659d5a0860f5047862ca0761d8d775a" title="Get 0 indexed number of SDL button index." alt="" coords="523,195,710,220"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="443,167,544,189,542,194,442,173"/>
+<area shape="rect" id="Node000008" href="$classSetJoystick.html#abb0b66fd3ddc1d783a24ae29e540cd45" title=" " alt="" coords="517,245,716,285"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="431,168,455,180,470,193,479,206,488,218,503,230,514,237,512,241,500,235,484,222,475,209,466,196,452,184,428,172"/>
+</map>

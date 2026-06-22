@@ -1,0 +1,19 @@
+<map id="DPadContextMenu::setDPadPreset" name="DPadContextMenu::setDPadPreset">
+<area shape="rect" id="Node000001" title="Assign the appropriate slots to DPad buttons based on the preset item that was chosen." alt="" coords="5,97,208,137"/>
+<area shape="rect" id="Node000002" href="$classDPadContextMenu.html#a60b40fa686979a820b816eae259cf52d" title=" " alt="" coords="256,5,471,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,94,194,66,255,40,280,32,282,37,257,44,196,71,143,99"/>
+<area shape="rect" id="Node000003" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="263,55,464,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,95,282,80,283,85,209,100"/>
+<area shape="rect" id="Node000005" href="$classJoyDPad.html#a49c84e10ea78221ef1d42a2f986f05e8" title=" " alt="" coords="283,104,443,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="208,114,270,114,270,119,208,119"/>
+<area shape="rect" id="Node000006" href="$classJoyDPad.html#ae912673a382e0ffcdd1472373ffe832b" title=" " alt="" coords="284,153,443,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,133,283,148,282,153,208,139"/>
+<area shape="rect" id="Node000009" href="$classDPadContextMenuHelper.html#a454c25195ce9a77495ce74e388929561" title=" " alt="" coords="271,203,456,243"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="145,135,197,162,257,189,278,197,276,202,255,194,195,167,142,139"/>
+<area shape="rect" id="Node000004" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="527,55,706,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,65,513,65,513,70,464,70"/>
+<area shape="rect" id="Node000007" href="$classJoyDPad.html#a1db40c71508768b2ad1472dfd5444c26" title=" " alt="" coords="519,129,715,155"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="443,156,504,150,505,155,443,161"/>
+<area shape="rect" id="Node000008" href="$classJoyDPad.html#a628d1a553aa0acf58bc12b3bb7e9a671" title=" " alt="" coords="520,179,713,204"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="443,171,506,178,506,183,443,177"/>
+</map>

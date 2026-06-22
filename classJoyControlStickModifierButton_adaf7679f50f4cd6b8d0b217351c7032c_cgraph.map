@@ -1,0 +1,17 @@
+<map id="JoyControlStickModifierButton::getLastMouseDistanceFromDeadZone" name="JoyControlStickModifierButton::getLastMouseDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,284,201"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#afb2b5e5e03f384d3d0533518baedf7ab" title=" " alt="" coords="332,161,520,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,179,318,179,318,184,284,184"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a1110ba6e8d87b226653e7d4c38602c92" title=" " alt="" coords="568,29,867,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,159,500,118,532,97,567,79,587,71,589,76,569,84,535,101,503,122,451,163"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#a9a9a23ba2fd1d4304e759a2de2985a69" title="Calculate the current direction of the stick based on the values of the X and Y axes and the current ..." alt="" coords="623,117,811,157"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="520,165,610,151,610,156,521,170"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a0898d3ba1c5f94781f8fd2df1b30c674" title="Get distance of the X axis past the assigned dead zone." alt="" coords="623,205,811,245"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="521,193,610,207,610,212,520,198"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a42462afc22445206967b92b08c30995b" title="Get distance of the Y axis past the assigned dead zone." alt="" coords="623,293,811,333"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="463,199,569,255,646,286,644,291,567,260,460,204"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="664,30,660,20,669,10,688,5,717,3,751,5,769,13,767,18,750,11,717,8,689,10,672,15,666,21,669,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="664,118,660,108,669,98,688,93,717,91,751,93,769,101,767,106,750,99,717,96,689,98,672,103,666,109,669,116"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="664,206,660,196,669,186,688,181,717,179,751,181,769,189,767,194,750,187,717,184,689,186,672,191,666,197,669,204"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="664,294,660,284,669,274,688,269,717,267,751,269,769,277,767,282,750,275,717,272,689,274,672,279,666,285,669,292"/>
+</map>

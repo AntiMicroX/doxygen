@@ -1,0 +1,31 @@
+<map id="InputDaemon::modifyUnplugEvents" name="InputDaemon::modifyUnplugEvents">
+<area shape="rect" id="Node000001" title="Postprocesses fetched raw events." alt="" coords="5,281,215,321"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#afabaea9742cb6db64ca5e5d09d579446" title=" " alt="" coords="277,134,483,174"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,278,190,235,261,190,293,176,296,181,264,195,193,239,137,282"/>
+<area shape="rect" id="Node000007" href="$classJoyAxis.html#a01dfb4ec2c2e85304a479f21b9cffe49" title=" " alt="" coords="590,219,741,244"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="147,278,200,254,262,234,345,222,428,217,507,217,576,220,576,226,507,222,428,222,345,227,263,239,202,259,149,283"/>
+<area shape="rect" id="Node000008" href="$classInputDevice.html#a4c662c7a0415e247266e6b205d064763" title=" " alt="" coords="274,63,486,88"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,279,176,203,216,159,261,120,289,103,319,90,321,95,292,108,264,124,220,163,181,206,126,282"/>
+<area shape="rect" id="Node000010" href="$classInputDaemon.html#afb1735506a7baf7c881ded71d8c56fc7" title=" " alt="" coords="266,249,494,289"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="214,286,252,281,253,286,215,291"/>
+<area shape="rect" id="Node000011" href="$classJoyAxis.html#aa49646bc8774617f05a0b118707b0e38" title="Determine an appropriate release value for an axis depending on the current throttle setting being us..." alt="" coords="283,313,477,353"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="215,310,270,317,269,322,214,316"/>
+<area shape="rect" id="Node000012" href="$classInputDaemon.html#a6880e079dd727489597c5bbd063149c9" title=" " alt="" coords="263,377,497,417"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="155,318,264,362,288,370,286,375,262,367,153,323"/>
+<area shape="rect" id="Node000013" href="$classInputDevice.html#a10a2388bfb4b6d6183752f837dfe4638" title=" " alt="" coords="271,441,489,467"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="131,319,187,373,224,402,264,426,284,435,282,440,261,431,221,407,183,377,127,323"/>
+<area shape="rect" id="Node000014" href="$classInputDaemon.html#a80e732bfe962966009eecb2156575af1" title=" " alt="" coords="265,491,495,531"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="125,319,147,354,178,396,218,440,264,477,275,483,272,488,261,482,214,444,174,400,142,357,120,322"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="570,55,761,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,131,545,105,575,96,576,102,546,110,452,136"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="580,120,751,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="483,144,566,137,567,143,483,149"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#ab370bf7bbf5f75d11f0513360d3a2dd2" title=" " alt="" coords="545,169,785,195"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="483,161,532,166,531,172,483,167"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="443,172,546,205,581,213,580,218,545,210,441,177"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="833,63,1048,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="761,73,819,73,819,78,761,78"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="486,73,556,73,556,78,486,78"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#a7e71493074ed6e796c077aab6e6688b7" title=" " alt="" coords="562,5,769,31"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="444,60,587,31,588,36,445,65"/>
+</map>

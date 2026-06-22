@@ -1,0 +1,38 @@
+<map id="CapturedWindowInfoDialog::CapturedWindowInfoDialog" name="CapturedWindowInfoDialog::CapturedWindowInfoDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,324,213,364"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#a5ca91422edbd69ea7189538dca43f2b1" title="Check window and any parents for the window property &quot;_NET_WM_PID&quot;." alt="" coords="278,101,489,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,322,184,261,260,191,304,158,347,131,350,135,307,163,263,195,188,265,130,326"/>
+<area shape="rect" id="Node000007" href="$classWinExtras.html#aea45e724d345e5df2f0962cf6ddcecc0" title="Get the window text of the window currently in focus." alt="" coords="261,357,505,382"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="214,351,248,354,247,360,213,356"/>
+<area shape="rect" id="Node000008" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="573,357,761,382"/>
+<area shape="poly" id="edge22_Node000001_Node000008" title=" " alt="" coords="213,338,352,337,506,343,583,352,582,357,505,348,352,342,213,343"/>
+<area shape="rect" id="Node000009" href="$classWinExtras.html#a71cc9f5d653d596a27c72847b5e403ce" title="Check foreground window (window in focus) and obtain the corresponding exe file path." alt="" coords="288,407,479,447"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="168,362,262,392,291,400,289,406,261,397,166,367"/>
+<area shape="rect" id="Node000010" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="297,471,469,497"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="133,363,189,410,224,435,262,456,285,465,283,470,260,461,221,440,185,415,129,367"/>
+<area shape="rect" id="Node000011" href="$classX11Extras.html#ae7ce87e08a42d280a4deb8ae9a792f40" title=" " alt="" coords="281,255,485,281"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="177,321,261,298,319,282,320,287,262,303,179,327"/>
+<area shape="rect" id="Node000012" href="$classX11Extras.html#ac4d3c4697880b6d792761b422cfdf5ed" title=" " alt="" coords="284,205,483,230"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="133,322,189,281,224,260,260,242,290,231,292,236,262,247,226,264,192,286,136,326"/>
+<area shape="rect" id="Node000013" href="$classCapturedWindowInfoDialog.html#ad05efeb53b02ab866dc20e6b275c9d3e" title=" " alt="" coords="283,521,483,561"/>
+<area shape="poly" id="edge23_Node000001_Node000013" title=" " alt="" coords="125,363,179,434,218,474,263,507,274,514,272,518,260,512,215,478,175,437,121,366"/>
+<area shape="rect" id="Node000003" href="$classX11Extras.html#a9affa85055348376e96413c5c526947d" title=" " alt="" coords="572,39,761,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,98,558,77,559,82,450,103"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#a643c95dc1de8eb073a0accb41619fe83" title="Get display instance." alt="" coords="828,103,971,129"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="401,98,465,59,508,39,553,24,616,10,668,3,719,7,781,24,810,37,837,55,879,91,875,95,833,59,807,42,779,29,718,13,668,9,617,15,554,29,510,44,468,64,404,103"/>
+<area shape="rect" id="Node000005" href="$classX11Extras.html#a44556cc9630d8685f1978b258c40679d" title=" " alt="" coords="553,154,780,179"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="452,124,586,149,585,154,451,129"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="749,76,835,98,833,103,748,81"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="725,151,827,129,828,134,727,157"/>
+<area shape="rect" id="Node000006" href="$x11extras_8cpp.html#abd96e3a47ad21173e08bc83e90a98fda" title=" " alt="" coords="849,205,949,230"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="727,177,837,201,836,206,725,182"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="506,367,559,367,559,372,506,372"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="478,405,589,382,590,387,479,410"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="485,257,627,234,704,215,779,190,828,164,870,135,873,140,831,168,781,195,706,220,628,239,486,262"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="438,278,507,290,593,299,687,299,734,294,779,284,829,263,870,236,873,241,831,268,781,289,735,299,687,304,593,305,506,296,437,283"/>
+<area shape="poly" id="edge16_Node000011_Node000008" title=" " alt="" coords="453,278,507,298,531,317,555,335,593,350,591,355,552,340,528,321,504,302,451,283"/>
+<area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="405,202,470,169,511,152,553,139,620,125,690,117,814,111,814,117,690,122,621,131,554,144,512,157,472,174,408,207"/>
+<area shape="poly" id="edge21_Node000012_Node000005" title=" " alt="" coords="455,202,581,179,582,185,456,207"/>
+<area shape="poly" id="edge19_Node000012_Node000006" title=" " alt="" coords="483,215,835,215,835,220,483,220"/>
+<area shape="poly" id="edge20_Node000012_Node000008" title=" " alt="" coords="467,228,506,242,548,265,586,293,645,345,642,349,583,297,545,269,504,247,465,233"/>
+</map>

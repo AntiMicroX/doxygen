@@ -1,0 +1,12 @@
+<map id="AdvanceStickAssignmentDialog::changeStateStickTwoWidgets" name="AdvanceStickAssignmentDialog::changeStateStickTwoWidgets">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,235,103"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#abc23a70bef37f2fc70248cd129af170b" title=" " alt="" coords="283,5,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,60,273,46,274,51,211,65"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="521,42,736,67"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="235,74,507,59,508,64,235,79"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#a7b74d7b4a0adfc9c25cdbe4433d9b275" title=" " alt="" coords="291,121,465,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,100,300,115,299,121,222,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,34,508,38,507,43,473,39"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#a0638da28097143bef416a93647f7b570" title=" " alt="" coords="547,121,710,146"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,131,534,131,534,136,465,136"/>
+</map>

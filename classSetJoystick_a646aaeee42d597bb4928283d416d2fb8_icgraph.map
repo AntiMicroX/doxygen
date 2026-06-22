@@ -1,0 +1,17 @@
+<map id="SetJoystick::propertyUpdated" name="SetJoystick::propertyUpdated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="813,77,1025,102"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#aad5d3ad787bafaef0cf8f2962657b373" title=" " alt="" coords="539,5,765,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="851,76,736,48,737,43,853,71"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a55962debb95a365113c82e3e98e6e6f5" title=" " alt="" coords="544,69,760,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="800,92,760,92,760,87,800,87"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#ab34fbf5679a1d7e50368a40c0dd8d6e1" title=" " alt="" coords="571,134,733,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="847,108,712,137,711,131,845,102"/>
+<area shape="rect" id="Node000005" href="$classGameControllerSet.html#ab3cda1f3ec063776efe78d7ab11b53f4" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="298,69,453,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="576,134,452,108,454,103,577,129"/>
+<area shape="rect" id="Node000006" href="$classSetJoystickXml.html#aa95423a01fab878cbc69bffb7f6121f3" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="276,134,475,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="557,149,475,149,475,144,557,144"/>
+<area shape="rect" id="Node000007" href="$classSetNamesDialog.html#ae528a4531307d5d5ddcd09427fcbfa19" title=" " alt="" coords="260,184,491,224"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="577,165,473,187,472,181,576,160"/>
+<area shape="rect" id="Node000008" href="$classSetNamesDialog.html#a13c775506f1e54bc28b579805b979da9" title=" " alt="" coords="5,184,212,224"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="246,207,212,207,212,201,246,201"/>
+</map>

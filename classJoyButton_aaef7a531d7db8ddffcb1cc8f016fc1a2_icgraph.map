@@ -1,0 +1,14 @@
+<map id="JoyButton::calculateFinalMouseSpeed" name="JoyButton::calculateFinalMouseSpeed">
+<area shape="rect" id="Node000001" title="Calculate maximum mouse speed when using a given mouse curve." alt="" coords="795,53,977,93"/>
+<area shape="rect" id="Node000002" href="$classMouseSettingsDialog.html#af14064886083c5e4379787ecd993c3e8" title=" " alt="" coords="513,5,747,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,59,746,54,747,48,782,54"/>
+<area shape="rect" id="Node000005" href="$classMouseSettingsDialog.html#a0c696d56f5ccd41c0e548147e211bdd3" title=" " alt="" coords="523,84,737,139"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="781,91,738,98,737,92,781,86"/>
+<area shape="rect" id="Node000003" href="$classMouseSettingsDialog.html#a4a3da2adef113d4d6580b36fe62067ed" title=" " alt="" coords="5,51,173,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,30,365,31,222,42,160,54,159,49,221,37,365,26,499,25"/>
+<area shape="rect" id="Node000004" href="$classMouseSettingsDialog.html#abec3bd3d5cc2908867575d79be6a756a" title=" " alt="" coords="221,51,465,91"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="500,53,466,58,465,52,499,48"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="208,74,174,74,174,69,208,69"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="508,119,370,118,221,106,160,94,161,89,222,101,370,112,508,113"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="508,97,465,91,466,86,509,92"/>
+</map>

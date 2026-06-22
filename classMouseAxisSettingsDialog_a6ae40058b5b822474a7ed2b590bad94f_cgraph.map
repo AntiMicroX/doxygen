@@ -1,0 +1,9 @@
+<map id="MouseAxisSettingsDialog::calculateExtraAccelrationStatus" name="MouseAxisSettingsDialog::calculateExtraAccelrationStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,243,87"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#aae658e2a7b83ce73ce3d7d1ed13eabc6" title=" " alt="" coords="310,5,490,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,45,314,30,315,36,237,50"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#ad51d55d2a95190468209f7481eae8639" title=" " alt="" coords="311,55,489,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,65,298,65,298,70,243,70"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a13a762188a2239af9e5ed25c532b98f6" title=" " alt="" coords="291,105,509,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,85,290,99,289,104,220,90"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="JoyButtonWidget::getJoyButton" name="JoyButtonWidget::getJoyButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="889,45,1112,70"/>
+<area shape="rect" id="Node000002" href="$classJoyDPadButtonWidget.html#a939570112ea1398fc6f4f13b6a67aa92" title="Generate the string that will be displayed on the button." alt="" coords="669,5,833,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="888,46,833,38,834,33,889,40"/>
+<area shape="rect" id="Node000003" href="$classDPadPushButtonGroup.html#a74fc4e4e542e261b2430124b56d5ac07" title=" " alt="" coords="661,69,841,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="888,74,842,80,841,75,888,69"/>
+<area shape="rect" id="Node000004" href="$classDPadPushButtonGroup.html#ad1df6bca89fd9b715a063a0f3a817792" title=" " alt="" coords="445,69,613,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="647,92,613,92,613,87,647,87"/>
+<area shape="rect" id="Node000005" href="$classDPadPushButtonGroup.html#aee9a764b8e351c4e7cfe4cbc8d9167af" title=" " alt="" coords="229,69,397,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,92,398,92,398,87,431,87"/>
+<area shape="rect" id="Node000006" href="$classDPadPushButtonGroup.html#aa7e7b7b0873d1d2528657e6dc5f6ae2a" title=" " alt="" coords="5,69,181,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="216,92,182,92,182,87,216,87"/>
+</map>

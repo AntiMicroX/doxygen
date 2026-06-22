@@ -1,0 +1,27 @@
+<map id="GameControllerSet::readConfig" name="GameControllerSet::readConfig">
+<area shape="rect" id="Node000001" title="Deserializes the given XML stream into a SetJoystick object." alt="" coords="5,221,160,261"/>
+<area shape="rect" id="Node000002" href="$classGameControllerSet.html#a61ba9987e5c3e43db2713d48daa4984f" title=" " alt="" coords="211,146,366,186"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,218,219,188,221,193,139,223"/>
+<area shape="rect" id="Node000012" href="$classSetJoystick.html#ab34fbf5679a1d7e50368a40c0dd8d6e1" title=" " alt="" coords="208,256,369,281"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="161,249,195,253,194,259,160,254"/>
+<area shape="rect" id="Node000003" href="$classSetJoystick.html#a7c8f524fe045b89901ba945c5e1045cf" title=" " alt="" coords="438,5,609,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,144,349,91,381,63,416,40,430,33,432,38,419,44,384,67,353,95,307,148"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#a652994327142229429b0d6f43a96103a" title=" " alt="" coords="430,55,617,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="317,144,363,115,416,89,439,81,441,86,418,94,365,120,320,148"/>
+<area shape="rect" id="Node000006" href="$classSetJoystick.html#a7b74d7b4a0adfc9c25cdbe4433d9b275" title=" " alt="" coords="436,104,611,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="366,147,448,130,450,135,367,152"/>
+<area shape="rect" id="Node000008" href="$classSetJoystick.html#aacd72eacccfdf6bb2398710af66364e3" title=" " alt="" coords="440,153,607,179"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="367,163,426,163,426,169,367,169"/>
+<area shape="rect" id="Node000009" href="$classSetJoystick.html#abcdc88c96a95fb0f5d8a721582d22851" title=" " alt="" coords="441,203,606,228"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="367,180,450,197,448,202,366,185"/>
+<area shape="rect" id="Node000011" href="$gamecontrollerset_8cpp.html#ab41ef642e9519cc1ff2745fcd23fca2c" title=" " alt="" coords="483,252,564,277"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="320,184,365,212,418,238,470,253,468,258,416,243,363,217,317,188"/>
+<area shape="rect" id="Node000005" href="$classSetJoystick.html#ada129bfead7dadc87e44b847a9d89ab3" title=" " alt="" coords="677,55,851,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="617,65,664,65,664,70,617,70"/>
+<area shape="rect" id="Node000007" href="$classSetJoystick.html#a0638da28097143bef416a93647f7b570" title=" " alt="" coords="683,104,845,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="611,114,669,114,669,119,611,119"/>
+<area shape="rect" id="Node000010" href="$classSetJoystick.html#a30323027d8b249a1a1511862462ce171" title=" " alt="" coords="679,203,849,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="607,213,665,213,665,218,607,218"/>
+<area shape="rect" id="Node000013" href="$classSetJoystick.html#a646aaeee42d597bb4928283d416d2fb8" title=" " alt="" coords="417,301,629,327"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="356,279,444,296,443,301,355,284"/>
+</map>

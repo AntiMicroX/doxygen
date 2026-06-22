@@ -1,0 +1,7 @@
+<map id="JoyButton::getPartialName" name="JoyButton::getPartialName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,200,56"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a39c9ccaf641bb8bf50b29d4c4e04c165" title="Get a 1 indexed number of button." alt="" coords="248,5,463,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,234,27,235,33,201,36"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="261,55,449,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,50,248,54,247,60,200,55"/>
+</map>

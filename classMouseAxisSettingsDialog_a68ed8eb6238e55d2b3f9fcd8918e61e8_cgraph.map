@@ -1,0 +1,9 @@
+<map id="MouseAxisSettingsDialog::updateWheelSpeedVerticalSpeed" name="MouseAxisSettingsDialog::updateWheelSpeedVerticalSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,251,45"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#a429c4d81ef067652a91e1fe1d19b3e89" title=" " alt="" coords="299,5,488,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,23,285,23,285,28,251,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a7f76ad6c68868cd464b66b5963689332" title=" " alt="" coords="536,13,731,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,23,522,23,522,28,488,28"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="779,13,981,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="731,23,765,23,765,28,731,28"/>
+</map>

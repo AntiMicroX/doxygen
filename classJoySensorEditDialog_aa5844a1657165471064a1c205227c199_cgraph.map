@@ -1,0 +1,21 @@
+<map id="JoySensorEditDialog::updateSensorStats" name="JoySensorEditDialog::updateSensorStats">
+<area shape="rect" id="Node000001" title="Updates the numerical sensor values on the screen." alt="" coords="5,250,159,290"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="207,29,417,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,249,102,209,126,159,161,107,181,84,205,64,214,58,217,63,208,68,185,88,165,111,131,161,107,211,92,250"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="219,103,405,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="95,248,139,192,170,162,205,137,218,131,221,135,208,142,173,166,143,196,99,251"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="223,176,401,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="122,247,206,211,236,202,238,207,208,217,124,252"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a0aaecd30cd2e900df8d8d9773a4893f3" title="Get current radial distance of the sensor past the assigned dead zone." alt="" coords="209,250,415,290"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="159,267,196,267,196,273,159,273"/>
+<area shape="rect" id="Node000006" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="239,315,385,340"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="160,287,207,299,245,309,244,314,206,305,158,292"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="218,364,406,389"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="110,288,154,319,208,349,232,358,230,363,206,354,151,324,107,292"/>
+<area shape="rect" id="Node000008" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="235,413,389,439"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="99,289,143,344,174,374,208,398,224,406,221,411,205,403,170,378,139,348,95,292"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="275,31,267,21,271,11,286,5,312,3,344,7,357,16,353,20,342,11,312,8,287,10,274,15,272,20,279,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="275,104,267,94,271,84,286,78,312,76,344,80,357,89,353,94,342,85,312,81,287,83,274,88,272,94,279,101"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="275,178,267,168,271,158,286,152,312,149,344,153,357,163,353,167,342,158,312,155,287,157,274,162,272,167,279,174"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="269,250,267,240,273,231,289,225,312,223,339,226,353,233,351,238,337,231,312,229,290,231,277,235,272,241,274,249"/>
+</map>

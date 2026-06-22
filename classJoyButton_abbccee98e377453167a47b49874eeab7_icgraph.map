@@ -1,0 +1,22 @@
+<map id="JoyButton::getIgnoreEventState" name="JoyButton::getIgnoreEventState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="791,95,983,135"/>
+<area shape="rect" id="Node000002" href="$classQuickSetDialog.html#a07fd82f8f1876081285948af84d3fdfa" title=" " alt="" coords="249,5,461,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="782,94,742,87,460,42,461,37,743,81,783,89"/>
+<area shape="rect" id="Node000005" href="$classQuickSetDialog.html#aecc56c37a7b9b387e3ea4afb8637596a" title=" " alt="" coords="253,69,456,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="776,112,456,97,456,91,777,107"/>
+<area shape="rect" id="Node000006" href="$classQuickSetDialog.html#ab93f6d0b9dce90e205857c4606b9c892" title=" " alt="" coords="526,123,733,163"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="777,129,733,134,733,129,777,124"/>
+<area shape="rect" id="Node000008" href="$classQuickSetDialog.html#ab0004078f6cdb6714ca492de8d820f18" title=" " alt="" coords="516,187,743,227"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="830,143,744,177,707,189,705,184,742,172,828,138"/>
+<area shape="rect" id="Node000003" href="$classQuickSetDialog.html#a524c363dab8fac9758adbbb314d64888" title=" " alt="" coords="5,37,193,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,43,194,48,193,43,235,38"/>
+<area shape="rect" id="Node000004" href="$classQuickSetDialog.html#a57726006cbe2d8534f4be91a05646dd2" title=" " alt="" coords="5,101,193,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="260,53,243,60,219,75,195,92,167,104,165,99,192,87,216,71,240,55,257,48"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="239,78,193,72,194,66,240,72"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="240,106,194,112,193,107,239,101"/>
+<area shape="rect" id="Node000007" href="$classQuickSetDialog.html#afacbf395389ca073edf366a412c1626b" title=" " alt="" coords="241,133,468,173"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="513,150,468,152,468,146,512,145"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="257,131,240,124,216,108,192,92,165,80,167,75,195,87,219,103,243,119,260,126"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="227,140,193,136,194,130,228,135"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="512,187,458,176,459,171,513,181"/>
+</map>

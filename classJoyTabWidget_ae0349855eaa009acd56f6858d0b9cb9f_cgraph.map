@@ -1,0 +1,9 @@
+<map id="JoyTabWidget::openGameControllerMappingWindow" name="JoyTabWidget::openGameControllerMappingWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,259,77"/>
+<area shape="rect" id="Node000002" href="$classGameControllerMappingDialog.html#ab40f59ac53bef7ea895eef57cf6a4d62" title=" " alt="" coords="315,5,538,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,41,301,36,302,42,259,46"/>
+<area shape="rect" id="Node000003" href="$classJoyTabWidget.html#a9111109cde328310dcd39fa068a06f86" title=" " alt="" coords="307,69,547,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,68,293,72,293,77,259,74"/>
+<area shape="rect" id="Node000004" href="$classJoyTabWidget.html#ac387b65b2e10eaec55ae1980a5c9467b" title=" " alt="" coords="595,77,825,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,87,581,87,581,92,547,92"/>
+</map>

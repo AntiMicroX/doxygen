@@ -1,0 +1,9 @@
+<map id="JoySensor::setMaxZone" name="JoySensor::setMaxZone">
+<area shape="rect" id="Node000001" title="Sets the maximum zone of the sensor to the given value." alt="" coords="5,55,180,80"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="256,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,52,258,31,259,36,156,57"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#ab23711541c1aa5c716f64bfa55544281" title=" " alt="" coords="228,55,441,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,65,214,65,214,70,180,70"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#ac4f43a2f0af72eba99aeafb86c67be29" title=" " alt="" coords="233,104,437,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,77,259,99,258,104,155,83"/>
+</map>

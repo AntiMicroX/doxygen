@@ -1,0 +1,9 @@
+<map id="SpringModeRegionPreview::setSpringSize" name="SpringModeRegionPreview::setSpringSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,201,109"/>
+<area shape="rect" id="Node000002" href="$classSpringModeRegionPreview.html#ac11ce802ca9098d5d61a1c7550e3a4f2" title=" " alt="" coords="249,5,445,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,67,257,46,258,51,181,72"/>
+<area shape="rect" id="Node000003" href="$classSpringModeRegionPreview.html#a78b54db3c38d88222b2491d21bb7daac" title=" " alt="" coords="249,69,445,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,87,236,87,236,92,201,92"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="253,134,441,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,107,280,128,279,133,188,112"/>
+</map>

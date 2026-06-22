@@ -1,0 +1,7 @@
+<map id="JoyAxis::setButtonsMouseMode" name="JoyAxis::setButtonsMouseMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,232,31"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a28224ca61d50adb1338643ae63bab3a3" title=" " alt="" coords="280,5,472,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,15,266,15,266,21,232,21"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="520,5,723,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,15,507,15,507,21,472,21"/>
+</map>

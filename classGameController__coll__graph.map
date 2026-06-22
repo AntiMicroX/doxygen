@@ -1,0 +1,14 @@
+<map id="GameController" name="GameController">
+<area shape="rect" id="Node000001" title="Represents a typical gamepad (like PS4 or Xbox gamepad)" alt="" coords="5,256,131,281"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="91,168,191,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,206,80,257,76,254,121,202"/>
+<area shape="rect" id="Node000004" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="155,256,325,281"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="136,207,135,220,140,231,153,244,171,254,168,258,150,248,135,233,130,220,130,207"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="83,80,157,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,118,141,167,136,168,124,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,245,209,219,191,206,171,196,174,191,194,201,213,215,232,242"/>
+<area shape="rect" id="Node000005" href="$classAntiMicroSettings.html" title=" " alt="" coords="182,80,319,105"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="227,116,158,170,155,166,223,112"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="208,5,293,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="253,45,253,80,248,80,248,45"/>
+</map>

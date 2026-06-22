@@ -1,0 +1,9 @@
+<map id="InputDaemon::removeDevice" name="InputDaemon::removeDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="721,5,935,31"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="447,5,673,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="707,21,674,21,674,15,707,15"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,5,399,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,21,399,21,399,15,433,15"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,21,212,21,212,15,246,15"/>
+</map>

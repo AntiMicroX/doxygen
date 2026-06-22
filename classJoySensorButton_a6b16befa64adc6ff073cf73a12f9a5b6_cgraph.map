@@ -1,0 +1,14 @@
+<map id="JoySensorButton::getMouseDistanceFromDeadZone" name="JoySensorButton::getMouseDistanceFromDeadZone">
+<area shape="rect" id="Node000001" title="Get the distance factor that should be used for mouse movement." alt="" coords="5,117,207,157"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab595f8d8998b4a1c59a6902a4e41d0a4" title="Used to calculate the distance value that should be used by the JoyButton in the given direction." alt="" coords="255,117,479,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,135,241,135,241,140,207,140"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a4f728f49046090ce9db1e98bd1b4d128" title="Get current X distance of the sensor past the assigned dead zone." alt="" coords="527,29,745,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,115,526,79,551,71,552,76,528,84,423,120"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a319f336deb6f5979ee5358e1834ed64f" title="Get current Y distance of the sensor past the assigned dead zone." alt="" coords="527,117,745,157"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="479,135,513,135,513,140,479,140"/>
+<area shape="rect" id="Node000005" href="$classJoySensor.html#a44bbf102b5564ea2c52ff25b4f1efe86" title="Get current Z distance of the sensor past the assigned dead zone." alt="" coords="527,205,745,245"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="430,155,561,198,560,203,428,160"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="586,30,583,20,591,10,609,5,636,3,667,5,684,13,682,18,666,11,636,8,610,10,594,15,588,21,591,28"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="586,118,583,108,591,98,609,93,636,91,667,93,684,101,682,106,666,99,636,96,610,98,594,103,588,109,591,116"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="586,206,583,196,591,186,609,181,636,179,667,181,684,189,682,194,666,187,636,184,610,186,594,191,588,197,591,204"/>
+</map>

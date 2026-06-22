@@ -1,0 +1,130 @@
+<map id="JoySensorEditDialog::JoySensorEditDialog" name="JoySensorEditDialog::JoySensorEditDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,991,167,1031"/>
+<area shape="rect" id="Node000002" href="$classJoySensor.html#ab6d8553dcfb2d3ac6c849e2394ab4ed1" title="Get the vector length of the sensor." alt="" coords="513,94,723,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,990,90,835,107,595,123,470,145,354,175,259,192,222,213,194,242,168,275,146,311,130,349,117,426,102,498,97,499,102,426,107,350,122,313,135,278,151,245,172,217,198,197,225,180,261,150,355,128,471,112,596,95,835,90,991"/>
+<area shape="rect" id="Node000003" href="$classJoySensor.html#a26dc7cb527982f4672f0c23f08ea515c" title="Calculate the pitch angle (in degrees) corresponding to the current position of controller." alt="" coords="525,167,711,193"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="85,990,91,845,110,624,126,508,148,402,176,314,194,281,213,255,244,229,279,208,317,192,357,181,437,169,511,167,511,172,437,174,358,186,319,197,282,213,247,233,217,259,198,284,181,316,153,403,131,509,115,624,96,846,90,991"/>
+<area shape="rect" id="Node000004" href="$classJoySensor.html#a94fdaad9a9aad4e79b6f2535083ffcac" title="Calculate the roll angle (in degrees) corresponding to the current position of controller." alt="" coords="529,241,707,266"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="85,990,93,854,112,649,129,543,150,445,178,365,194,334,213,311,246,285,284,265,324,250,366,241,449,234,525,237,524,242,449,239,366,246,325,256,286,270,249,289,217,315,199,337,183,367,155,446,134,543,118,650,98,855,91,991"/>
+<area shape="rect" id="Node000005" href="$classJoySensorPreset.html#a7fcfbacaca8a54d07acab351dee7883c" title="Determines the preset used by the underlying sensor." alt="" coords="243,664,425,704"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="88,990,100,937,123,866,160,790,184,755,213,723,234,708,237,712,216,727,188,758,164,793,128,868,105,939,93,991"/>
+<area shape="rect" id="Node000010" href="$classJoySensor.html#a40f39fed32b3e7e6d1c7128cc3d7a264" title="Returns the sensor type." alt="" coords="545,531,691,557"/>
+<area shape="poly" id="edge27_Node000001_Node000010" title=" " alt="" coords="88,990,103,900,129,774,146,711,166,653,188,606,213,575,252,550,294,532,339,521,385,515,475,516,551,526,550,531,474,521,386,521,340,526,296,537,254,555,216,579,193,609,171,655,152,712,134,776,108,901,93,991"/>
+<area shape="rect" id="Node000011" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="792,481,980,506"/>
+<area shape="poly" id="edge39_Node000001_Node000011" title=" " alt="" coords="87,990,100,891,125,751,142,679,163,614,186,562,199,542,213,527,255,505,314,489,385,479,465,474,631,474,778,482,778,487,631,480,465,480,386,485,315,495,257,510,216,531,203,545,191,564,168,616,147,681,130,752,105,892,92,991"/>
+<area shape="rect" id="Node000012" href="$classJoySensorPreset.html#a70879dec2d063663d4cbf5cf27aea452" title="Get available presets for the underlying sensor type." alt="" coords="226,589,442,629"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="86,990,94,926,114,835,130,786,152,737,179,691,213,650,234,634,237,638,217,654,183,694,157,739,135,788,119,836,99,927,91,991"/>
+<area shape="rect" id="Node000013" href="$classJoySensor.html#a0b34f1efa12ae7a48f32f91846157c32" title="Get the assigned dead zone value." alt="" coords="527,945,709,970"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="113,988,159,961,214,939,302,925,391,923,474,929,544,939,544,945,474,935,391,928,302,930,215,944,161,966,116,993"/>
+<area shape="rect" id="Node000014" href="$classJoySensor.html#a7f5dc7750d227b2a4bc2eb71a6dd3898" title="Utility function which converts a given value from radians to degree." alt="" coords="809,895,963,921"/>
+<area shape="poly" id="edge43_Node000001_Node000014" title=" " alt="" coords="166,990,214,983,475,982,646,982,734,979,767,969,799,955,853,925,856,930,801,960,769,974,735,984,646,987,475,987,215,988,167,995"/>
+<area shape="rect" id="Node000015" href="$classJoySensor.html#ae49eef2995a76f3cca07ad59ce32b4a5" title="Get the assigned diagonal range value." alt="" coords="511,895,725,921"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="104,989,150,947,181,927,214,912,294,893,377,885,456,885,525,891,525,896,455,891,377,890,295,898,216,917,183,932,154,952,107,993"/>
+<area shape="rect" id="Node000016" href="$classJoySensor.html#a0aaecd30cd2e900df8d8d9773a4893f3" title="Get current radial distance of the sensor past the assigned dead zone." alt="" coords="515,416,721,456"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="86,990,98,882,122,725,139,644,160,571,184,512,198,489,213,473,244,450,279,433,316,420,354,413,431,407,503,412,503,417,431,413,355,418,317,426,281,438,247,454,216,477,202,493,189,514,165,573,144,646,127,726,103,882,92,991"/>
+<area shape="rect" id="Node000017" href="$classJoySensor.html#abd75b7dcf094405eeece6878d1dd1ffe" title="Get the assigned max zone value." alt="" coords="530,846,706,871"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="88,990,100,942,123,879,139,847,160,816,184,789,213,767,276,737,305,730,333,728,361,731,390,739,455,767,472,782,480,799,488,816,503,831,518,839,515,844,500,835,483,819,476,801,468,785,452,772,388,744,360,737,332,734,305,735,278,742,216,772,188,793,164,820,144,850,128,882,105,943,93,991"/>
+<area shape="rect" id="Node000018" href="$classJoySensorPreset.html#aa72030acd12a5563c62f2aeb6d49a773" title="Get the translated name of a given preset." alt="" coords="216,998,452,1023"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="167,1008,202,1008,202,1013,167,1013"/>
+<area shape="rect" id="Node000019" href="$classJoySensor.html#aa9e8798dded5e1359ecc73f9d0a74e98" title="Get the assigned input delay." alt="" coords="235,1047,433,1073"/>
+<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="168,1024,257,1042,256,1047,166,1029"/>
+<area shape="rect" id="Node000020" href="$classJoySensor.html#a392b664e69bc7975935d4f4bb8e91ec7" title="Returns the sensor name." alt="" coords="519,1057,717,1082"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="114,1028,160,1058,187,1071,215,1081,258,1091,302,1096,391,1098,474,1092,544,1082,545,1087,475,1097,391,1103,302,1101,257,1096,214,1086,185,1076,157,1063,111,1033"/>
+<area shape="rect" id="Node000021" href="$classJoySensor.html#a5f5569cbac7611959c23a68866310094" title=" " alt="" coords="237,1213,431,1238"/>
+<area shape="poly" id="edge28_Node000001_Node000021" title=" " alt="" coords="97,1030,114,1067,139,1113,173,1159,216,1198,228,1205,226,1209,213,1202,169,1163,135,1115,109,1069,92,1032"/>
+<area shape="rect" id="Node000022" href="$classJoySensor.html#a8ede92b92d962399b706bcfe80ac7458" title=" " alt="" coords="237,1262,431,1287"/>
+<area shape="poly" id="edge29_Node000001_Node000022" title=" " alt="" coords="94,1030,108,1076,132,1135,167,1196,190,1224,216,1247,227,1254,224,1258,213,1251,186,1227,163,1199,127,1137,103,1077,89,1031"/>
+<area shape="rect" id="Node000023" href="$classJoySensor.html#a80ca5058beac30c05ac2b0b688ee3f52" title=" " alt="" coords="237,1311,431,1337"/>
+<area shape="poly" id="edge30_Node000001_Node000023" title=" " alt="" coords="93,1030,103,1084,125,1157,141,1195,162,1233,187,1267,216,1297,226,1303,223,1308,213,1301,182,1271,157,1236,136,1198,120,1159,98,1086,87,1031"/>
+<area shape="rect" id="Node000024" href="$classJoySensorEditDialog.html#ac54b2583e87546880baf282a0f16f57a" title="Preset combo box event handler. Applies selected preset to underlying sensor." alt="" coords="257,781,411,821"/>
+<area shape="poly" id="edge31_Node000001_Node000024" title=" " alt="" coords="95,989,139,916,173,874,213,838,243,821,246,826,216,842,177,878,143,919,99,992"/>
+<area shape="rect" id="Node000027" href="$classJoySensor.html#a05409e770daa81f5b9c38a9ba9b7e528" title=" " alt="" coords="265,1361,403,1386"/>
+<area shape="poly" id="edge40_Node000001_Node000027" title=" " alt="" coords="91,1030,99,1092,118,1178,135,1224,156,1269,183,1310,216,1346,233,1357,252,1364,250,1369,231,1362,213,1350,179,1314,151,1272,130,1226,113,1180,93,1093,86,1031"/>
+<area shape="rect" id="Node000028" href="$classJoySensorEditDialog.html#a66007a446928b150fc878170660f6e5e" title="Opens sensor mouse settings dialog." alt="" coords="234,1411,434,1451"/>
+<area shape="poly" id="edge41_Node000001_Node000028" title=" " alt="" coords="90,1031,96,1100,114,1198,130,1251,152,1304,180,1353,217,1395,224,1402,221,1406,213,1399,176,1356,147,1306,125,1253,109,1200,91,1101,85,1031"/>
+<area shape="rect" id="Node000030" href="$classJoySensor.html#a241ee8a191d441c20a10b257c03cba65" title=" " alt="" coords="501,1475,735,1501"/>
+<area shape="poly" id="edge44_Node000001_Node000030" title=" " alt="" coords="93,1031,107,1124,133,1255,150,1322,170,1382,192,1430,216,1461,235,1471,261,1479,329,1490,408,1494,487,1493,488,1498,408,1499,328,1495,260,1485,233,1476,213,1465,187,1433,165,1384,145,1323,128,1256,102,1125,87,1031"/>
+<area shape="rect" id="Node000031" href="$classJoySensor.html#a4572b9f66468a2e390634591d6d4ecbc" title="Sets the dead zone of the sensor to the given value." alt="" coords="243,1575,425,1601"/>
+<area shape="poly" id="edge45_Node000001_Node000031" title=" " alt="" coords="92,1030,104,1141,128,1301,145,1383,166,1459,189,1520,203,1543,217,1561,232,1572,229,1577,213,1565,198,1546,185,1522,161,1460,140,1385,123,1302,99,1141,86,1031"/>
+<area shape="rect" id="Node000035" href="$classJoySensor.html#a33e05f28756fd796e46189227a107532" title="Set the diagonal range value for a sensor." alt="" coords="227,1674,441,1699"/>
+<area shape="poly" id="edge49_Node000001_Node000035" title=" " alt="" coords="91,1031,100,1158,122,1349,138,1448,159,1538,185,1612,200,1640,217,1661,220,1664,217,1668,213,1664,196,1643,181,1614,154,1540,133,1449,116,1350,95,1159,86,1031"/>
+<area shape="rect" id="Node000037" href="$classJoySensor.html#a029cd202c660d928574726bb0e83a68b" title="Sets the maximum zone of the sensor to the given value." alt="" coords="247,1625,421,1650"/>
+<area shape="poly" id="edge53_Node000001_Node000037" title=" " alt="" coords="91,1031,102,1150,125,1325,142,1415,163,1498,188,1565,202,1591,217,1610,235,1623,232,1628,213,1614,197,1594,183,1568,158,1500,137,1417,120,1326,97,1151,86,1031"/>
+<area shape="rect" id="Node000039" href="$classJoySensorEditDialog.html#af0a800518694d4bc2ca1e2ffb1ac480b" title="Sensor delay change event handler Converts the double value from the SpinBox to int and pass it to Jo..." alt="" coords="257,23,411,63"/>
+<area shape="poly" id="edge57_Node000001_Node000039" title=" " alt="" coords="85,990,91,822,109,557,125,416,147,286,176,177,193,133,213,100,230,81,252,67,255,71,234,85,217,103,198,136,181,178,152,287,130,417,114,557,96,822,90,991"/>
+<area shape="rect" id="Node000040" href="$classJoySensor.html#aab1001497d5eaee07fd62d4349839e66" title="Sets the name of this sensor." alt="" coords="235,1526,433,1551"/>
+<area shape="poly" id="edge59_Node000001_Node000040" title=" " alt="" coords="92,1030,107,1130,133,1273,150,1347,170,1414,192,1468,217,1505,233,1517,230,1522,213,1508,187,1471,165,1415,145,1348,128,1274,101,1131,87,1031"/>
+<area shape="rect" id="Node000041" href="$classJoySensorEditDialog.html#a84dbccd0c66762c1ff51d8537456ca1d" title="Update QSlider value based on value from QDoubleSpinBox." alt="" coords="237,1724,431,1764"/>
+<area shape="poly" id="edge61_Node000001_Node000041" title=" " alt="" coords="91,1031,99,1166,120,1371,137,1478,158,1576,185,1656,200,1687,217,1710,227,1719,223,1723,213,1714,195,1690,180,1658,153,1577,131,1479,115,1372,94,1167,86,1031"/>
+<area shape="rect" id="Node000042" href="$classJoySensorEditDialog.html#a90cdd39655c9907593a99f805a3a9edd" title="Update QDoubleSpinBox value based on updated sensor delay value." alt="" coords="229,1788,439,1828"/>
+<area shape="poly" id="edge62_Node000001_Node000042" title=" " alt="" coords="91,1031,97,1177,116,1401,133,1518,154,1626,182,1715,199,1749,217,1774,220,1777,216,1781,213,1778,194,1751,177,1717,149,1627,127,1519,111,1402,92,1178,85,1031"/>
+<area shape="rect" id="Node000043" href="$classJoySensorEditDialog.html#aa5844a1657165471064a1c205227c199" title="Updates the numerical sensor values on the screen." alt="" coords="257,325,411,365"/>
+<area shape="poly" id="edge63_Node000001_Node000043" title=" " alt="" coords="87,990,101,875,128,706,146,618,166,536,188,467,212,418,239,391,270,370,273,374,242,395,217,421,193,469,171,538,151,619,133,707,107,876,92,991"/>
+<area shape="rect" id="Node000044" href="$classJoySensorEditDialog.html#ab1a039fc35cd4c52e2553d7a6d01bc34" title="Shows the sensor name in dialog title." alt="" coords="215,1148,453,1188"/>
+<area shape="poly" id="edge71_Node000001_Node000044" title=" " alt="" coords="106,1029,152,1078,183,1104,216,1127,243,1140,241,1145,213,1132,180,1108,149,1082,102,1032"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="575,96,566,86,570,76,588,69,618,67,656,71,667,76,670,82,666,85,663,80,655,77,618,73,589,75,574,80,571,85,579,92"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="575,169,566,159,570,149,588,143,618,141,656,145,667,150,670,156,666,158,663,154,655,150,618,146,589,148,574,153,571,158,579,165"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="575,242,566,232,570,222,588,216,618,214,656,218,667,223,670,229,666,232,663,227,655,223,618,219,589,221,574,226,571,231,579,239"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="515,581,721,606"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="394,661,452,639,476,626,500,615,527,607,529,612,502,620,478,631,454,644,396,666"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a09be56d2b545bb2838899a7c1b96c1ce" title="Get a pointer to the sensor direction button for the desired direction." alt="" coords="509,630,727,655"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="424,668,516,655,517,660,425,673"/>
+<area shape="rect" id="Node000008" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="785,731,987,757"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="425,698,502,709,642,724,772,734,771,740,642,729,501,715,424,703"/>
+<area shape="poly" id="edge12_Node000005_Node000010" title=" " alt="" coords="412,661,452,639,467,621,474,603,482,584,500,566,531,551,533,556,503,570,487,587,479,605,471,624,455,643,415,666"/>
+<area shape="poly" id="edge13_Node000005_Node000011" title=" " alt="" coords="425,697,495,703,574,702,656,691,696,679,733,664,779,633,818,593,849,552,870,516,874,519,853,555,822,597,783,637,736,669,698,685,657,696,575,707,495,708,424,702"/>
+<area shape="rect" id="Node000009" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="1037,731,1216,757"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="987,741,1024,741,1024,747,987,747"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="413,587,501,565,539,557,540,562,502,571,414,592"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="687,942,802,921,803,926,688,947"/>
+<area shape="poly" id="edge19_Node000015_Node000014" title=" " alt="" coords="725,905,795,905,795,911,725,911"/>
+<area shape="poly" id="edge21_Node000016_Node000016" title=" " alt="" coords="569,416,566,406,574,397,591,391,618,389,649,392,666,399,664,404,648,397,618,395,592,397,576,401,571,407,574,415"/>
+<area shape="poly" id="edge23_Node000017_Node000014" title=" " alt="" coords="688,869,803,890,802,895,687,874"/>
+<area shape="poly" id="edge32_Node000024_Node000013" title=" " alt="" coords="365,819,455,889,478,911,503,930,523,938,521,943,500,934,474,915,452,893,361,823"/>
+<area shape="poly" id="edge33_Node000024_Node000015" title=" " alt="" coords="412,818,455,838,470,849,479,860,488,870,503,880,523,889,520,894,500,885,485,874,475,863,466,853,452,842,410,823"/>
+<area shape="poly" id="edge34_Node000024_Node000017" title=" " alt="" coords="411,814,542,841,541,846,410,819"/>
+<area shape="rect" id="Node000025" href="$classJoySensorPreset.html#a21eb1e1e612e4f70e0ade394e9878425" title="Assigns given preset to the underlying sensor This function defines the preset mappings and sensor pa..." alt="" coords="519,781,717,821"/>
+<area shape="poly" id="edge35_Node000024_Node000025" title=" " alt="" coords="411,799,505,799,505,804,411,804"/>
+<area shape="poly" id="edge36_Node000025_Node000008" title=" " alt="" coords="712,779,812,757,813,762,713,784"/>
+<area shape="poly" id="edge37_Node000025_Node000011" title=" " alt="" coords="649,779,690,748,733,710,776,660,814,606,869,517,873,520,818,609,780,663,737,714,694,752,652,783"/>
+<area shape="rect" id="Node000026" href="$classJoySensorIoThreadHelper.html#afc1ec6935da85b7647e8ad874ad14115" title="Sets pending slot values The values are applied to the buttons by calling setFromPendingSlots." alt="" coords="793,781,979,821"/>
+<area shape="poly" id="edge38_Node000025_Node000026" title=" " alt="" coords="717,799,778,799,778,804,717,804"/>
+<area shape="rect" id="Node000029" href="$classJoySensorEditDialog.html#a6cee034176d97b2b12ea84a8f964bdd2" title=" " alt="" coords="515,1411,721,1451"/>
+<area shape="poly" id="edge42_Node000028_Node000029" title=" " alt="" coords="434,1428,501,1428,501,1433,434,1433"/>
+<area shape="rect" id="Node000032" href="$classJoySensor.html#ab66945d60b4154aa02724d923020286f" title=" " alt="" coords="510,1526,726,1551"/>
+<area shape="poly" id="edge46_Node000031_Node000032" title=" " alt="" coords="407,1573,530,1551,531,1556,408,1578"/>
+<area shape="rect" id="Node000033" href="$classJoySensor.html#a5be7a7887f4855a1085e42822bfe85f0" title="Utility function which converts a given value from degree to radians." alt="" coords="539,1674,697,1699"/>
+<area shape="poly" id="edge47_Node000031_Node000033" title=" " alt="" coords="426,1598,455,1610,470,1622,480,1636,488,1649,503,1660,527,1671,525,1676,500,1665,484,1652,475,1639,467,1626,452,1614,424,1603"/>
+<area shape="rect" id="Node000034" href="$classJoySensor.html#ac4f43a2f0af72eba99aeafb86c67be29" title=" " alt="" coords="516,1575,720,1601"/>
+<area shape="poly" id="edge48_Node000031_Node000034" title=" " alt="" coords="425,1585,502,1585,502,1591,425,1591"/>
+<area shape="poly" id="edge50_Node000035_Node000033" title=" " alt="" coords="441,1684,526,1684,526,1689,441,1689"/>
+<area shape="poly" id="edge52_Node000035_Node000034" title=" " alt="" coords="426,1671,452,1660,467,1649,475,1636,484,1622,500,1610,514,1603,516,1608,503,1614,488,1626,480,1639,470,1652,455,1665,428,1676"/>
+<area shape="rect" id="Node000036" href="$classJoySensor.html#a425fdf7ab372e9ec059bc35f6c1fc93d" title=" " alt="" coords="523,1724,713,1764"/>
+<area shape="poly" id="edge51_Node000035_Node000036" title=" " alt="" coords="398,1697,510,1719,509,1725,397,1702"/>
+<area shape="poly" id="edge54_Node000037_Node000033" title=" " alt="" coords="408,1647,531,1669,530,1674,407,1653"/>
+<area shape="poly" id="edge56_Node000037_Node000034" title=" " alt="" coords="407,1622,530,1600,531,1606,408,1627"/>
+<area shape="rect" id="Node000038" href="$classJoySensor.html#ab23711541c1aa5c716f64bfa55544281" title=" " alt="" coords="511,1625,725,1650"/>
+<area shape="poly" id="edge55_Node000037_Node000038" title=" " alt="" coords="422,1635,498,1635,498,1640,422,1640"/>
+<area shape="poly" id="edge58_Node000039_Node000011" title=" " alt="" coords="408,20,483,7,569,4,613,8,657,17,698,32,736,55,782,99,818,151,844,209,863,270,875,329,883,384,888,467,882,467,878,384,870,330,858,271,839,211,813,154,778,102,733,59,696,37,655,22,612,13,569,9,483,13,409,25"/>
+<area shape="poly" id="edge60_Node000040_Node000030" title=" " alt="" coords="405,1523,532,1500,533,1506,406,1528"/>
+<area shape="poly" id="edge64_Node000043_Node000002" title=" " alt="" coords="343,324,365,282,399,228,445,174,471,149,500,128,511,122,514,127,503,133,474,153,448,178,404,232,369,284,347,326"/>
+<area shape="poly" id="edge65_Node000043_Node000003" title=" " alt="" coords="351,323,413,262,454,229,500,202,517,194,519,199,503,206,457,233,416,266,355,327"/>
+<area shape="poly" id="edge66_Node000043_Node000004" title=" " alt="" coords="387,323,501,283,554,267,555,272,502,288,389,328"/>
+<area shape="poly" id="edge68_Node000043_Node000010" title=" " alt="" coords="364,364,503,466,587,522,584,526,500,470,360,368"/>
+<area shape="poly" id="edge69_Node000043_Node000011" title=" " alt="" coords="411,323,481,311,564,305,652,310,695,319,736,334,781,361,820,397,850,434,873,467,868,470,846,438,816,400,778,365,734,338,693,324,651,315,565,310,482,316,411,328"/>
+<area shape="poly" id="edge70_Node000043_Node000014" title=" " alt="" coords="411,338,499,336,595,340,680,352,713,363,736,378,749,394,758,415,768,468,771,531,769,600,767,735,772,791,785,832,812,863,845,886,842,891,808,867,780,835,766,792,761,735,764,600,766,531,763,469,753,417,744,397,733,382,711,368,679,357,594,345,499,342,411,344"/>
+<area shape="poly" id="edge67_Node000043_Node000016" title=" " alt="" coords="398,363,542,409,540,414,397,368"/>
+<area shape="poly" id="edge78_Node000044_Node000020" title=" " alt="" coords="408,1145,452,1127,475,1109,500,1091,520,1083,521,1088,503,1096,479,1113,455,1132,410,1150"/>
+<area shape="rect" id="Node000045" href="$classSetJoystick.html#a3a7ae87b62fac9deace237039cb5ea85" title=" " alt="" coords="539,1254,697,1279"/>
+<area shape="poly" id="edge72_Node000044_Node000045" title=" " alt="" coords="427,1186,455,1198,470,1208,479,1219,488,1229,503,1239,526,1249,524,1253,500,1244,485,1233,475,1223,466,1212,452,1202,425,1190"/>
+<area shape="rect" id="Node000046" href="$classSetJoystick.html#a102a4bbc464b9dfc5a8227c0fb4611c8" title=" " alt="" coords="537,1303,699,1329"/>
+<area shape="poly" id="edge73_Node000044_Node000046" title=" " alt="" coords="436,1186,455,1198,473,1221,480,1245,486,1268,503,1289,525,1301,522,1306,500,1293,481,1270,475,1246,468,1223,452,1202,433,1190"/>
+<area shape="rect" id="Node000047" href="$classJoySensor.html#a16cfaa1a8dd4daeb043b91a4f8f4d020" title="Get pointer to the set that a sensor belongs to." alt="" coords="529,1106,707,1131"/>
+<area shape="poly" id="edge74_Node000044_Node000047" title=" " alt="" coords="449,1145,530,1131,531,1136,450,1150"/>
+<area shape="rect" id="Node000048" href="$classJoySensor.html#ad06f47ea3f0d796b838ae74d4f913b25" title="Get the name of this sensor." alt="" coords="521,1155,715,1181"/>
+<area shape="poly" id="edge75_Node000044_Node000048" title=" " alt="" coords="453,1165,507,1165,507,1171,453,1171"/>
+<area shape="rect" id="Node000050" href="$classSetJoystick.html#a00ecd09902d11bbfe7e6e82ad25ae456" title=" " alt="" coords="524,1205,712,1230"/>
+<area shape="poly" id="edge77_Node000044_Node000050" title=" " alt="" coords="450,1185,531,1200,530,1205,449,1191"/>
+<area shape="rect" id="Node000049" href="$classJoySensor.html#ab87d04540552c4a31eebfb656357838e" title=" " alt="" coords="783,1155,989,1181"/>
+<area shape="poly" id="edge76_Node000048_Node000049" title=" " alt="" coords="715,1165,769,1165,769,1171,715,1171"/>
+</map>

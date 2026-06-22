@@ -1,0 +1,17 @@
+<map id="QKeyDisplayDialog::keyReleaseEvent" name="QKeyDisplayDialog::keyReleaseEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,122,160,162"/>
+<area shape="rect" id="Node000002" href="$classWinExtras.html#a0a256f3e0cfa4aae5937dae5b51fb24b" title="Obtain a more specific virtual key (unsigned int) for a key grab event." alt="" coords="219,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,120,147,79,176,57,207,40,225,32,227,37,209,44,179,62,150,83,105,124"/>
+<area shape="rect" id="Node000003" href="$classQtKeyMapperBase.html#aa94648e13f7d981198dd653a807b3a4d" title="Identifier string for this mapper implementation." alt="" coords="208,55,437,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,119,207,89,237,81,239,86,209,94,128,124"/>
+<area shape="rect" id="Node000004" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="237,104,409,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,131,223,125,223,130,161,136"/>
+<area shape="rect" id="Node000005" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="222,153,423,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,147,208,152,208,157,160,152"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="229,203,417,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="132,160,209,187,244,197,243,202,207,193,130,165"/>
+<area shape="rect" id="Node000008" href="$classQtKeyMapperBase.html#a320ec78a9a4a978014992808ca787796" title="Get Qt key for a given platform virtual key." alt="" coords="209,252,437,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="105,160,151,200,179,220,209,237,231,246,229,251,207,242,176,224,147,204,102,164"/>
+<area shape="rect" id="Node000006" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="485,153,664,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="424,163,471,163,471,169,424,169"/>
+</map>

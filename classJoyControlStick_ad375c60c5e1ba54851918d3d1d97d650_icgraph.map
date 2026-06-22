@@ -1,0 +1,7 @@
+<map id="JoyControlStick::setButtonsWheelSpeedX" name="JoyControlStick::setButtonsWheelSpeedX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="653,13,852,53"/>
+<area shape="rect" id="Node000002" href="$classMouseControlStickSettingsDialog.html#ad847605802c88ece2eac7073b6e1084d" title=" " alt="" coords="300,13,605,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="640,35,606,35,606,30,640,30"/>
+<area shape="rect" id="Node000003" href="$classMouseControlStickSettingsDialog.html#aac9d5ef09dced4cee0df95d99ae13369" title=" " alt="" coords="5,5,252,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,35,252,35,252,30,286,30"/>
+</map>

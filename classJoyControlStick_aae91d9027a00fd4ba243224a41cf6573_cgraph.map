@@ -1,0 +1,7 @@
+<map id="JoyControlStick::setDirButtonsUpdateInitAccel" name="JoyControlStick::setDirButtonsUpdateInitAccel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,224,77"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#acd482c339765a3f85816d0a4ac8ce088" title=" " alt="" coords="272,5,472,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,41,258,37,259,42,224,46"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a2c5263620301922a785c5d8664d93aeb" title=" " alt="" coords="281,69,463,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,68,268,74,267,79,224,74"/>
+</map>

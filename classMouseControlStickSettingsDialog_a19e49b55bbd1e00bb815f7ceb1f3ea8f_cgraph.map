@@ -1,0 +1,14 @@
+<map id="MouseControlStickSettingsDialog::calculateSpringPreset" name="MouseControlStickSettingsDialog::calculateSpringPreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,219,95"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#aedd94b70fb4753e91b1ac84f63d25a54" title=" " alt="" coords="267,23,467,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,59,253,55,253,60,219,65"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#aef1d298d603269f337bbe6b1b2d1a0a6" title=" " alt="" coords="267,87,467,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,86,253,90,253,96,218,91"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a79d9ede9279281b0074eca6e2d99e8ec" title=" " alt="" coords="515,55,733,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,53,501,57,501,63,466,58"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#ae52698526b927b1780ccde48e965a1c7" title=" " alt="" coords="525,5,723,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="467,31,511,26,511,32,467,36"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="466,92,501,88,501,93,467,98"/>
+<area shape="rect" id="Node000006" href="$classJoyButton.html#a51beaf1d3e91d0fd501368f52fa602f6" title=" " alt="" coords="527,120,721,145"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="467,115,514,119,513,124,467,120"/>
+</map>

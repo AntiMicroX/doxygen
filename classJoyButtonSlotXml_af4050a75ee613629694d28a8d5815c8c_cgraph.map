@@ -1,0 +1,9 @@
+<map id="JoyButtonSlotXml::writeEachSlot" name="JoyButtonSlotXml::writeEachSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,239,56"/>
+<area shape="rect" id="Node000002" href="$classAntKeyMapper.html#acd08c44a2501edcfdb1ef8a68d534b1b" title="Obtain the singleton instance." alt="" coords="287,5,488,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,30,273,26,273,32,239,35"/>
+<area shape="rect" id="Node000004" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="293,55,481,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,51,280,55,280,60,239,57"/>
+<area shape="rect" id="Node000003" href="$antkeymapper_8cpp.html#a4f87707944cf82e8e59c85d48e24951c" title=" " alt="" coords="536,5,715,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,15,522,15,522,21,488,21"/>
+</map>

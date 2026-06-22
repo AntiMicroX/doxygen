@@ -1,0 +1,7 @@
+<map id="JoyDPad::getDefaultDpadName" name="JoyDPad::getDefaultDpadName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="212,42,437,67"/>
+<area shape="rect" id="Node000002" href="$classGameControllerDPad.html#a415e52bdfdd12bd742a86b2237f6e11a" title=" " alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,43,164,38,165,32,208,38"/>
+<area shape="rect" id="Node000003" href="$classVDPad.html#a42e3e226c3080939428095a12856b9a9" title=" " alt="" coords="19,70,151,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,72,151,78,151,72,202,66"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MouseAxisSettingsDialog::selectCurrentMouseModePreset" name="MouseAxisSettingsDialog::selectCurrentMouseModePreset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,243,75"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#aa5476524f6367d414b5b703962bcb27a" title=" " alt="" coords="329,5,519,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,40,315,33,315,39,243,46"/>
+<area shape="rect" id="Node000004" href="$classJoyAxis.html#a58a670328abc2da48f29b24781f4c6e4" title=" " alt="" coords="291,70,557,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,63,277,66,277,72,243,68"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a581ec2c6d19bb51b2dd5bbe0f4da50fb" title=" " alt="" coords="605,42,799,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,33,592,40,591,46,519,38"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="550,67,591,63,592,68,550,73"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="InputDaemon::deviceRemoved" name="InputDaemon::deviceRemoved">
+<area shape="rect" id="Node000001" title=" " alt="" coords="983,31,1205,56"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="801,5,855,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,34,855,23,856,18,969,29"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#acd2ed735ec3a24f3c0ad5c280f7cc6fa" title=" " alt="" coords="721,55,935,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="969,57,935,60,935,55,969,52"/>
+<area shape="rect" id="Node000004" href="$classInputDaemon.html#a0cf6bcd3287d97d75c32a3921c633a7a" title="Dispatches postprocessed SDL events to the input objects like JoyAxis or JoyButton and activates them..." alt="" coords="447,55,673,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,70,674,70,674,65,707,65"/>
+<area shape="rect" id="Node000005" href="$classInputDaemon.html#ad7f954b25b67cb5a84fdb1a154282bfd" title=" " alt="" coords="260,55,399,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="433,70,399,70,399,65,433,65"/>
+<area shape="rect" id="Node000006" href="$classInputDaemon.html#ab7c3d331123e946ed8da490dfee5c265" title=" " alt="" coords="5,55,212,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="246,70,212,70,212,65,246,65"/>
+</map>

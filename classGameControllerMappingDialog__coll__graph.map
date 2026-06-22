@@ -1,0 +1,21 @@
+<map id="GameControllerMappingDialog" name="GameControllerMappingDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="370,359,593,384"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,263,80,289"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,291,94,293,257,331,401,356,400,361,256,336,93,299,83,296"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html" title="Abstract class representing a hardware input device, e.g a joystick or controller." alt="" coords="365,168,465,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="479,187,506,198,529,215,542,235,546,254,544,274,537,297,518,333,496,360,491,357,514,330,532,295,539,273,541,254,537,237,525,219,503,203,477,192"/>
+<area shape="rect" id="Node000005" href="$classInputDeviceCalibration.html" title="Calibration storage backend which can store multiple calibration items for different controllers." alt="" coords="352,263,523,289"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="444,201,454,216,457,229,456,242,447,264,442,262,451,241,452,229,450,218,440,204"/>
+<area shape="rect" id="Node000008" href="$classGameControllerMappingDialogHelper.html" title=" " alt="" coords="105,256,327,296"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="352,198,294,220,264,238,239,258,235,254,261,234,292,215,350,193"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="220,80,295,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,110,395,165,392,170,289,114"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="254,120,223,256,218,255,249,118"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="378,260,362,249,348,233,345,220,352,208,379,191,382,196,356,212,351,221,353,231,365,245,381,255"/>
+<area shape="rect" id="Node000006" href="$classAntiMicroSettings.html" title=" " alt="" coords="449,80,586,105"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="544,113,557,128,586,172,607,211,612,230,613,251,609,273,598,297,582,319,561,337,517,361,514,356,558,333,578,316,594,295,604,271,608,251,607,231,602,213,581,175,553,131,540,116"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="494,116,431,170,427,165,491,112"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="475,5,560,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="520,45,520,80,515,80,515,45"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="283,298,450,356,448,361,282,303"/>
+</map>

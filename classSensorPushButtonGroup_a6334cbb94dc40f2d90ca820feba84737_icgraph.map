@@ -1,0 +1,7 @@
+<map id="SensorPushButtonGroup::propagateSlotsChanged" name="SensorPushButtonGroup::propagateSlotsChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,5,652,45"/>
+<area shape="rect" id="Node000002" href="$classSensorPushButtonGroup.html#aecd2683ab789e62c418fd9227ae9f9a6" title="Generates a new push button at the given grid coordinates." alt="" coords="240,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,28,419,28,419,23,453,23"/>
+<area shape="rect" id="Node000003" href="$classSensorPushButtonGroup.html#a5d893d1b1d86f6d355ed793c4c52a92c" title=" " alt="" coords="5,5,192,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,28,192,28,192,23,226,23"/>
+</map>

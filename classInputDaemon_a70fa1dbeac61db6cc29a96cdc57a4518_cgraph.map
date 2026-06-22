@@ -1,0 +1,13 @@
+<map id="InputDaemon::refreshJoystick" name="InputDaemon::refreshJoystick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,220,56"/>
+<area shape="rect" id="Node000002" href="$classInputDaemon.html#aaa0d0ea9157adb133c64c28d3aa48ecd" title=" " alt="" coords="268,5,503,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,31,254,27,255,33,221,36"/>
+<area shape="rect" id="Node000003" href="$classInputDevice.html#af7b290c37a1bcae1fbd0f0274d6cf646" title=" " alt="" coords="315,55,456,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,50,301,57,301,63,220,55"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#af6633e823a5d5d441940cf923d9249a6" title=" " alt="" coords="551,25,765,51"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="456,57,537,48,537,54,456,62"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a41afc4fbe8ba90eaa8b6497286e9143d" title=" " alt="" coords="566,75,750,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="456,72,553,82,552,87,456,77"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a852d4353b05688c5b143897ae2f8f1d4" title=" " alt="" coords="813,83,977,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="750,93,800,93,800,98,750,98"/>
+</map>

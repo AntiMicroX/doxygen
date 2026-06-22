@@ -1,0 +1,11 @@
+<map id="AdvanceButtonDialog::deleteSlot" name="AdvanceButtonDialog::deleteSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,24,597,64"/>
+<area shape="rect" id="Node000002" href="$classAdvanceButtonDialog.html#a4f9a1a007f50de1c3cca1403d08a0790" title=" " alt="" coords="5,24,176,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,23,386,15,305,8,224,15,162,26,161,21,224,9,305,3,387,9,435,18"/>
+<area shape="rect" id="Node000003" href="$classAdvanceButtonDialog.html#ad40bcfad2f4380b746002defc689a2b6" title=" " alt="" coords="224,24,387,64"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="421,47,387,47,387,41,421,41"/>
+<area shape="rect" id="Node000004" href="$classAdvanceButtonDialog.html#adde227692a4a5abc4f4e9cc027ba5866" title=" " alt="" coords="224,88,387,128"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="437,71,372,90,371,85,436,65"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="210,47,176,47,176,41,210,41"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="223,86,157,66,159,61,225,81"/>
+</map>

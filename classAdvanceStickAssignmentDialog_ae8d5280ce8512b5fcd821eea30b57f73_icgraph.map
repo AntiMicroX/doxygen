@@ -1,0 +1,13 @@
+<map id="AdvanceStickAssignmentDialog::refreshSticksForAxes" name="AdvanceStickAssignmentDialog::refreshSticksForAxes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="867,37,1096,77"/>
+<area shape="rect" id="Node000002" href="$classAdvanceStickAssignmentDialog.html#a413695eacc51854fa9e524ca92b9bddb" title=" " alt="" coords="589,37,819,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="853,60,819,60,819,55,853,55"/>
+<area shape="rect" id="Node000003" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="304,5,541,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,45,541,42,542,36,576,40"/>
+<area shape="rect" id="Node000004" href="$classAdvanceStickAssignmentDialog.html#a3d447d0544efde715f4774ff0789b9b1" title=" " alt="" coords="307,69,539,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="576,75,539,79,539,73,576,69"/>
+<area shape="rect" id="Node000005" href="$classAdvanceStickAssignmentDialog.html#a0558948fa11d0753485a53d6729e1e53" title=" " alt="" coords="5,37,256,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="293,78,256,74,256,68,294,73"/>
+<area shape="rect" id="Node000006" href="$classAdvanceStickAssignmentDialog.html#a60498e3f0a4ade4f6644478cb78d3cbc" title=" " alt="" coords="5,101,256,141"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="294,106,256,110,256,105,293,101"/>
+</map>

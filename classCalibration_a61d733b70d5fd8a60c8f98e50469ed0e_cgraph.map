@@ -1,0 +1,40 @@
+<map id="Calibration::saveSettings" name="Calibration::saveSettings">
+<area shape="rect" id="Node000001" title="Save calibration values into the device object." alt="" coords="5,173,191,199"/>
+<area shape="rect" id="Node000002" href="$classCalibration.html#ada69dfce5bbe35ea761528dedf593ef3" title="Shows the stick offset and gain calibration values to the user." alt="" coords="243,17,482,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,171,237,101,310,61,313,65,240,106,122,175"/>
+<area shape="rect" id="Node000004" href="$classCalibration.html#a2c31bf6d13664e99f18699d6959cc4dc" title="Performs linear regression on the measurement values of one axis to determine offset and gain." alt="" coords="261,116,465,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,171,238,151,284,142,286,147,239,157,154,176"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a216ea5e55d506dd9ee24d226e365406e" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="239,230,487,270"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,196,266,224,265,229,151,201"/>
+<area shape="rect" id="Node000011" href="$classInputDevice.html#a5afca28cfa26229bfaff2d1efa176c94" title="Updates stored calibration for this controller and applies calibration to the specified gyroscope in ..." alt="" coords="251,166,474,206"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="191,183,238,183,238,189,191,189"/>
+<area shape="rect" id="Node000014" href="$classInputDevice.html#af28d7eb0a83c9ed3bca11e9218c12517" title="Updates stored calibration for this controller and applies calibration to the specified stick in all ..." alt="" coords="270,311,455,351"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="117,197,170,236,240,280,293,304,290,309,237,284,167,240,114,201"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="564,5,752,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,26,550,22,550,27,482,32"/>
+<area shape="rect" id="Node000006" href="$classInputDevice.html#a52f588b41e135631a7e0f5856ae7f5a4" title="Applies calibration to the specified accelerometer in all sets See JoySensor::setCalibration." alt="" coords="539,119,777,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="460,227,485,216,500,205,509,193,518,181,533,169,546,162,549,167,536,174,522,185,513,196,503,208,488,220,462,232"/>
+<area shape="rect" id="Node000008" href="$classInputDeviceCalibration.html#a518884e58baecbba160e6693ea0b0e56" title="Updates the stored calibration for the given accelerometer from the parent controller." alt="" coords="550,247,766,287"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="487,255,536,258,536,263,487,260"/>
+<area shape="rect" id="Node000007" href="$classJoySensor.html#a6793b28ac5f44e8fe3d8c1e333add1a8" title=" " alt="" coords="850,95,1035,120"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="777,123,836,117,836,122,778,129"/>
+<area shape="rect" id="Node000009" href="$classInputDevice.html#a54e08a512ad52a902c81b8b146e2091b" title=" " alt="" coords="829,284,1056,309"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="767,276,816,281,815,286,766,281"/>
+<area shape="rect" id="Node000010" href="$classInputDeviceCalibration.html#a1e50d8e332ea04b947698ca04c9aa989" title="Updated the given CalibrationData structure of the controller with the given ID in the calibration st..." alt="" coords="857,219,1028,259"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="766,254,844,246,844,252,767,259"/>
+<area shape="rect" id="Node000012" href="$classInputDevice.html#ad83a4d69f3e7f6ed62452f502dffcae3" title="Applies calibration to the specified gyroscope in all sets See JoySensor::setCalibration." alt="" coords="551,55,765,95"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="457,163,485,150,499,140,509,128,518,116,533,105,547,98,549,103,536,110,522,120,513,132,503,143,488,155,459,168"/>
+<area shape="rect" id="Node000013" href="$classInputDeviceCalibration.html#a3d04bd49db756048a7a7178f45d2e1fb" title="Updates the stored calibration for the given gyroscope from the parent controller." alt="" coords="563,183,753,223"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="474,190,549,194,549,200,474,195"/>
+<area shape="poly" id="edge12_Node000012_Node000007" title=" " alt="" coords="765,85,837,93,836,98,764,90"/>
+<area shape="poly" id="edge14_Node000013_Node000009" title=" " alt="" coords="753,221,783,233,807,251,817,260,831,269,853,277,851,282,828,274,813,265,804,256,780,238,751,226"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="754,213,844,224,843,229,753,218"/>
+<area shape="rect" id="Node000015" href="$classInputDevice.html#a3cafa58f87991e5ebbb3a24314417adf" title="Applies calibration to the specified stick in all sets See JoyControlStick::setCalibration." alt="" coords="535,376,781,401"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="456,347,579,371,578,376,455,352"/>
+<area shape="rect" id="Node000017" href="$classInputDeviceCalibration.html#a2d055fdeb19863038e21803dadbac47c" title="Updates the stored calibration for the given stick from the parent controller." alt="" coords="573,311,743,351"/>
+<area shape="poly" id="edge19_Node000014_Node000017" title=" " alt="" coords="455,329,559,329,559,334,455,334"/>
+<area shape="rect" id="Node000016" href="$classJoyControlStick.html#af8061d7792e96912abc05a9c863f76fe" title="Sets the axis calibration values and sets the calibration flag. Calibrated value is calculated by the..." alt="" coords="833,376,1053,401"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="781,386,819,386,819,391,781,391"/>
+<area shape="poly" id="edge20_Node000017_Node000009" title=" " alt="" coords="743,318,825,308,825,314,744,324"/>
+<area shape="poly" id="edge21_Node000017_Node000010" title=" " alt="" coords="743,310,780,297,804,283,828,269,848,261,850,266,830,274,807,288,782,302,745,315"/>
+</map>

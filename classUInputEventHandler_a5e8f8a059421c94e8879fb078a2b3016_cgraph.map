@@ -1,0 +1,5 @@
+<map id="UInputEventHandler::sendMouseEvent" name="UInputEventHandler::sendMouseEvent">
+<area shape="rect" id="Node000001" title="Move cursor to selected relative location (deltax delaty)" alt="" coords="5,5,159,45"/>
+<area shape="rect" id="Node000002" href="$classUInputEventHandler.html#aa04ce5a2e42124cf21a2872ee4511918" title="Write uinput event to selected file uinput file." alt="" coords="207,5,361,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,23,193,23,193,28,159,28"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="JoyAxis::getName" name="JoyAxis::getName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,144,88"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2dc48e4d0de59b87938f5c0489d6e198" title=" " alt="" coords="192,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,60,191,41,225,32,227,37,193,46,122,65"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a075d1d6380be607fcf69994f0d941afe" title=" " alt="" coords="198,55,381,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,73,184,73,184,78,144,78"/>
+<area shape="rect" id="Node000005" href="$classJoyAxis.html#a96710fb06ec9e989cd71ffce4ee7ca57" title=" " alt="" coords="200,120,379,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,85,193,105,227,114,225,119,191,110,121,91"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1b49d9ab85f0d5d128e2eca616747018" title=" " alt="" coords="437,55,620,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,73,424,73,424,78,381,78"/>
+<area shape="rect" id="Node000006" href="$classJoyAxis.html#a9ceda991c13da3a99868acc436ed20f3" title=" " alt="" coords="437,120,621,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="379,130,423,130,423,135,379,135"/>
+<area shape="rect" id="Node000007" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="435,169,623,195"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="352,143,454,164,452,169,351,148"/>
+</map>

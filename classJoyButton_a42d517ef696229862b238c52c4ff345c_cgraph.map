@@ -1,0 +1,19 @@
+<map id="JoyButton::setTurboInterval" name="JoyButton::setTurboInterval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,204,81"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="481,5,684,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,53,252,41,468,21,468,27,252,46,172,59"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a0750530dac3901ece7c78c19d15e0d54" title=" " alt="" coords="254,56,427,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,75,240,75,240,80,204,80"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#aa4d4bc010ca70b02fa61994eff7f01fb" title=" " alt="" coords="252,106,429,146"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="158,79,245,100,244,105,157,84"/>
+<area shape="poly" id="edge7_Node000003_Node000001" title=" " alt="" coords="254,63,218,62,218,57,254,57"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="402,53,508,31,509,36,403,58"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a6e3ee0e05fe5d243b142c5f22011c2e9" title=" " alt="" coords="477,55,688,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,66,463,65,463,71,427,71"/>
+<area shape="rect" id="Node000007" href="$classJoyButton.html#a474d940d1a45554bd0c12a866d25f615" title=" " alt="" coords="491,104,675,129"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="406,79,505,99,504,104,405,84"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#ae1d364dfa70f47fae3db99ffbcdea44b" title=" " alt="" coords="736,29,941,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="688,54,722,51,723,56,688,60"/>
+<area shape="rect" id="Node000006" href="$classJoyButtonSlot.html#a86b4a25191351f28942511012a4e4e4a" title=" " alt="" coords="739,79,939,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="688,75,725,78,725,83,688,80"/>
+</map>

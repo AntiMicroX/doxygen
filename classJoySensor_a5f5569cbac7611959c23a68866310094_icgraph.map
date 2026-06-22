@@ -1,0 +1,9 @@
+<map id="JoySensor::getXCoordinate" name="JoySensor::getXCoordinate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="420,45,615,70"/>
+<area shape="rect" id="Node000002" href="$classJoySensorStatusBox.html#aa49e266beb9abae6f5b3aba41df0c859" title="draws the artificial horizon instrument on the screen" alt="" coords="205,5,372,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,45,372,40,373,34,413,40"/>
+<area shape="rect" id="Node000004" href="$classJoySensorEditDialog.html#a1522c8803924c1d7b596bff2b1d64cde" title=" " alt="" coords="208,69,369,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,75,370,81,369,75,412,69"/>
+<area shape="rect" id="Node000003" href="$classJoySensorStatusBox.html#ac4deb35f7bfac5b1f6b04bd0161394a8" title=" " alt="" coords="5,5,157,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,28,157,28,157,23,192,23"/>
+</map>

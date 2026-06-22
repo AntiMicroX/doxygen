@@ -1,0 +1,14 @@
+<map id="JoyControlStick::calculateLastAccelerationDirectionalDistance" name="JoyControlStick::calculateLastAccelerationDirectionalDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,264,165"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#ae90f62171258764a4d5840fa7af02c57" title=" " alt="" coords="312,61,511,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,123,311,102,312,107,223,128"/>
+<area shape="rect" id="Node000005" href="$classJoyControlStick.html#a382e793296ce44f3382df46cc571b88a" title=" " alt="" coords="317,125,505,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="264,143,304,143,304,148,264,148"/>
+<area shape="rect" id="Node000006" href="$classJoyControlStick.html#a1938cd9ca4c5da529ab5fb7edd9674df" title=" " alt="" coords="317,189,505,229"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="223,163,312,184,311,189,221,168"/>
+<area shape="rect" id="Node000003" href="$classJoyControlStick.html#a033cec8c362b923e61ec638645e7a80c" title="Calculate the bearing (in degrees) corresponding to the current position of the X and Y axes of a sti..." alt="" coords="560,29,748,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,66,546,61,547,66,511,71"/>
+<area shape="rect" id="Node000004" href="$classJoyControlStick.html#af4ceb950523eedb36857e695d259d383" title=" " alt="" coords="559,93,749,133"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="511,92,545,96,545,102,511,97"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="609,30,606,20,613,10,629,5,654,3,682,6,698,13,695,18,681,11,654,8,631,10,616,15,611,21,614,28"/>
+</map>

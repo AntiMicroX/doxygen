@@ -1,0 +1,10 @@
+<map id="SetJoystick::propogateSetAxisNameChange" name="SetJoystick::propogateSetAxisNameChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,195,87"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="55,48,52,38,59,28,75,23,100,21,128,24,144,31,141,36,127,29,100,26,77,28,62,33,57,39,60,46"/>
+<area shape="rect" id="Node000002" href="$classJoyAxis.html#ab314eee8cf0f42a5ec4f4114dc5009f0" title=" " alt="" coords="243,5,444,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,46,266,31,267,36,195,51"/>
+<area shape="rect" id="Node000003" href="$classJoyAxis.html#afddf7399e2086fda738fe588f5e7d7cd" title=" " alt="" coords="276,55,411,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,65,262,65,262,70,195,70"/>
+<area shape="rect" id="Node000004" href="$classSetJoystick.html#a5dc936dcfd9d1cde4abd3ea6b5dfce48" title=" " alt="" coords="249,105,438,145"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="186,85,245,99,244,104,185,90"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MainSettingsDialog::resetMouseAcceleration" name="MainSettingsDialog::resetMouseAcceleration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,192,109"/>
+<area shape="rect" id="Node000002" href="$classX11Extras.html#ace76277fced60e6bd6ff880030338182" title=" " alt="" coords="475,19,647,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,67,240,55,354,41,461,33,461,39,355,46,240,60,179,72"/>
+<area shape="rect" id="Node000003" href="$classJoyDPadXml.html#aee163ecdea6d6e34eebc93ff16ce2763" title=" " alt="" coords="467,134,655,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,107,240,119,350,132,453,139,453,145,349,137,240,124,178,112"/>
+<area shape="rect" id="Node000004" href="$classMainSettingsDialog.html#a4e1fe023ac97920e917f4dc78b01915c" title=" " alt="" coords="240,69,419,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,87,226,87,226,92,192,92"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="410,67,495,45,496,51,411,72"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="411,107,496,128,495,133,410,112"/>
+<area shape="rect" id="Node000005" href="$classEventHandlerFactory.html#a90ce153a19fbb91128bd52eb083ce271" title=" " alt="" coords="482,69,639,109"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="419,87,468,87,468,92,419,92"/>
+<area shape="rect" id="Node000006" href="$classEventHandlerFactory.html#ade5162034acc0f8683725fdb124bece0" title=" " alt="" coords="703,5,889,45"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="634,67,708,46,710,51,636,72"/>
+<area shape="rect" id="Node000007" href="$classEventHandlerFactory.html#afa5ca0171c70b1a24f92b5c8dd00dc92" title=" " alt="" coords="717,69,875,109"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="639,87,703,87,703,92,639,92"/>
+<area shape="rect" id="Node000008" href="$classEventHandlerFactory.html#a4c13007f0ece5bf881080c9c04f1f20d" title=" " alt="" coords="717,133,875,173"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="636,107,710,127,708,132,634,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MouseControlStickSettingsDialog::updateSensitivity" name="MouseControlStickSettingsDialog::updateSensitivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,203,45"/>
+<area shape="rect" id="Node000002" href="$classJoyControlStick.html#a617c2111d7af378fa1f179ad205dba55" title=" " alt="" coords="251,5,449,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,23,237,23,237,28,203,28"/>
+<area shape="rect" id="Node000003" href="$classJoyButton.html#a79db0e0cc11d3a55497a51701f9abcd0" title=" " alt="" coords="497,13,680,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,23,483,23,483,28,449,28"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a1ef88fcabb28f2e3fc48dc5fa102d35b" title=" " alt="" coords="728,13,931,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="680,23,714,23,714,28,680,28"/>
+</map>

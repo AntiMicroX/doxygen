@@ -1,0 +1,16 @@
+<map id="InputDevice::setSensorButtonName" name="InputDevice::setSensorButtonName">
+<area shape="rect" id="Node000001" title="Sets the name of a mapped sensor button in all sets Used during XML loading." alt="" coords="857,63,1112,88"/>
+<area shape="rect" id="Node000002" href="$classInputDeviceXml.html#a847bf9ed17b554bf87d513a1aebdcb64" title="Deserializes the given XML stream into an InputDevice object." alt="" coords="598,5,802,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,62,763,33,764,28,908,57"/>
+<area shape="rect" id="Node000004" href="$classInputDevice.html#a02bdfd2dbbaa852aa608dc27f85563c6" title="Rename mapped sensor button in all sets to the name in the active set." alt="" coords="591,55,809,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="844,87,810,87,810,81,844,82"/>
+<area shape="rect" id="Node000003" href="$classInputDeviceXml.html#a0259125eb6fe55484e263841aa00fa88" title=" " alt="" coords="297,5,535,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="584,21,536,21,536,15,584,15"/>
+<area shape="poly" id="edge7_Node000004_Node000001" title=" " alt="" coords="823,64,857,64,857,69,823,69"/>
+<area shape="rect" id="Node000005" href="$classInputDevice.html#a6ffcebba103a7db02e82c1c7f62387bf" title="Establishes necessary connections for set change slots." alt="" coords="289,63,543,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="577,78,543,78,543,73,577,73"/>
+<area shape="rect" id="Node000006" href="$classGameController.html#afcddb9dcc5442a9746c3ff8760ea1791" title=" " alt="" coords="5,37,241,63"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="276,66,241,63,242,58,276,61"/>
+<area shape="rect" id="Node000007" href="$classJoystick.html#a9df5e53506876f3c95e84bdf6c9cbaf1" title=" " alt="" coords="57,87,189,112"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="276,89,190,97,189,91,276,84"/>
+</map>

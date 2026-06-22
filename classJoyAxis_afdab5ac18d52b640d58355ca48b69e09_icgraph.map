@@ -1,0 +1,19 @@
+<map id="JoyAxis::eventReset" name="JoyAxis::eventReset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="776,138,928,163"/>
+<area shape="rect" id="Node000002" href="$classSetJoystick.html#aa93108aaa5ccbf15f1b56b22ec73798b" title="Perform a release of all elements of a set. Stick and vdpad releases will be handled by the associate..." alt="" coords="577,138,728,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="762,153,728,153,728,148,762,148"/>
+<area shape="rect" id="Node000003" href="$classAdvanceStickAssignmentDialog.html#a86cf0001cd774ce5ccec8543b7a9a50b" title=" " alt="" coords="5,28,243,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="634,128,590,77,561,53,528,34,486,21,443,12,398,9,353,9,269,17,197,30,196,25,268,11,353,3,398,3,443,7,488,16,530,29,564,48,594,74,638,125"/>
+<area shape="rect" id="Node000004" href="$classJoystickStatusWindow.html#a96d9e83b764e14faed4c4dc275d23c45" title=" " alt="" coords="37,117,211,157"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="564,150,529,149,212,142,212,136,529,144,564,145"/>
+<area shape="rect" id="Node000005" href="$classAdvanceStickAssignmentDialog.html#a48ade79f1dfeb93ff668ac18d0e1243f" title=" " alt="" coords="295,44,525,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="607,135,528,105,474,87,476,82,530,100,609,130"/>
+<area shape="rect" id="Node000006" href="$classJoystickStatusWindow.html#a1a1c28e1d6f480c7424ba81b30b8b4f5" title=" " alt="" coords="327,159,493,199"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="564,163,494,172,493,166,563,158"/>
+<area shape="rect" id="Node000007" href="$classGameControllerMappingDialogHelper.html#a4040e6cf676fe8af751125e2928d8a35" title=" " alt="" coords="291,223,529,263"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="617,172,530,213,494,225,492,220,528,208,615,168"/>
+<area shape="rect" id="Node000008" href="$classGameControllerMappingDialogHelper.html#a7852aab5763281aa59c17f2f1da8dd31" title=" " alt="" coords="299,287,521,327"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="637,176,593,227,563,254,531,277,505,289,503,284,528,272,560,250,589,223,632,172"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="281,59,243,57,243,52,282,54"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="313,167,211,152,212,147,313,162"/>
+</map>

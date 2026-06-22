@@ -1,0 +1,11 @@
+<map id="JoySensorButtonPushButton::disableFlashes" name="JoySensorButtonPushButton::disableFlashes">
+<area shape="rect" id="Node000001" title="Disables highlight when the sensor axis is moved." alt="" coords="5,85,208,125"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a2f8b2ccc20723787422a1dcd584e4786" title=" " alt="" coords="264,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,82,255,41,278,33,280,38,257,46,155,87"/>
+<area shape="rect" id="Node000003" href="$classFlashButtonWidget.html#ad8d71480fd154aad271af693af681394" title=" " alt="" coords="256,55,411,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,89,242,84,243,90,209,94"/>
+<area shape="rect" id="Node000004" href="$classJoyButton.html#a9993fd5b93776a25025062102aabc542" title=" " alt="" coords="259,120,408,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,115,245,119,244,124,208,120"/>
+<area shape="rect" id="Node000005" href="$classFlashButtonWidget.html#a84af4cf2103d6f054e117915850199ec" title=" " alt="" coords="256,170,411,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,122,268,163,266,168,160,127"/>
+</map>

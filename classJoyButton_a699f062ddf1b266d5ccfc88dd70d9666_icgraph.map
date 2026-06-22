@@ -1,0 +1,17 @@
+<map id="JoyButton::adjustAxForCursor" name="JoyButton::adjustAxForCursor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1437,42,1649,67"/>
+<area shape="rect" id="Node000002" href="$classJoyButton.html#a060348f59642e22bba34b79acc7d5a28" title="Take cursor mouse information provided by all buttons and send a cursor mode mouse event to the displ..." alt="" coords="1175,42,1389,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1423,57,1390,57,1390,52,1423,52"/>
+<area shape="rect" id="Node000003" href="$classJoyButtonMouseHelper.html#ad520f0afa612d5a8e6f1a040312f84d2" title="Perform mouse movement in cursor mode." alt="" coords="956,35,1127,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1161,57,1127,57,1127,52,1161,52"/>
+<area shape="rect" id="Node000004" href="$classJoyButtonMouseHelper.html#a7bf98a02c2949419a441fa9213251ff5" title="Perform mouse events for all buttons and slots." alt="" coords="737,35,908,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="942,57,908,57,908,52,942,52"/>
+<area shape="rect" id="Node000005" href="$classJoyButton.html#a8328ffb189d41be9e27902729df71aeb" title="Change initial settings used for mouse event timer being used by the application." alt="" coords="495,35,689,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="723,57,690,57,690,52,723,52"/>
+<area shape="rect" id="Node000006" href="$classAppLaunchHelper.html#ae934f543f3740dd9355e4142b490b5e9" title=" " alt="" coords="244,5,447,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="481,44,446,40,447,35,482,39"/>
+<area shape="rect" id="Node000008" href="$classJoyButton.html#a184886d98db1c3653d8139188892c779" title=" " alt="" coords="267,70,423,95"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="481,70,424,77,423,71,481,65"/>
+<area shape="rect" id="Node000007" href="$classAppLaunchHelper.html#ab38c79745e55b3c4665c5b29a5d57a0f" title=" " alt="" coords="5,5,196,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="230,28,196,28,196,23,230,23"/>
+</map>

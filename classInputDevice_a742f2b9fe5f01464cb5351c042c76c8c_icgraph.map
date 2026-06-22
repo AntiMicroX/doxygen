@@ -1,0 +1,9 @@
+<map id="InputDevice::closeSDLDevice" name="InputDevice::closeSDLDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="376,31,588,56"/>
+<area shape="rect" id="Node000002" href="$classInputDevice.html#a78940b00e8c587a77e10bc3c4a9c4982" title=" " alt="" coords="121,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,35,315,30,316,25,363,29"/>
+<area shape="rect" id="Node000003" href="$classInputDaemon.html#a69164b93be97f28321b0cea7662feb6e" title=" " alt="" coords="108,55,328,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="363,57,329,60,328,55,362,52"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,55,60,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,70,60,70,60,65,94,65"/>
+</map>

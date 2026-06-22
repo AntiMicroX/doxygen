@@ -1,0 +1,15 @@
+<map id="MainSettingsDialog::populateAutoProfiles" name="MainSettingsDialog::populateAutoProfiles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,171,192"/>
+<area shape="rect" id="Node000002" href="$classMainSettingsDialog.html#a13f64f1f6b38c47b6fb5f37533dfdeb8" title=" " alt="" coords="219,5,475,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,150,152,102,183,77,217,55,232,48,234,53,220,60,186,81,156,106,108,154"/>
+<area shape="rect" id="Node000003" href="$classAutoProfileInfo.html#a93b07c48618aa5b09c62c2c7bac81d4b" title=" " alt="" coords="249,69,444,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,149,218,119,246,110,248,115,220,124,138,154"/>
+<area shape="rect" id="Node000004" href="$classAutoProfileInfo.html#a268f71cfef71ac6dc9bc0e0d8cf2a480" title=" " alt="" coords="231,134,462,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,161,217,157,218,162,171,167"/>
+<area shape="rect" id="Node000005" href="$classAutoProfileInfo.html#adbbc10755c2428a8af350dc7b2f79d22" title=" " alt="" coords="262,183,431,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,177,249,184,248,190,170,182"/>
+<area shape="rect" id="Node000006" href="$classAutoProfileInfo.html#a0c30776585e8ccc8f4023a494cdb773c" title=" " alt="" coords="247,233,446,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="141,190,219,217,252,227,251,232,218,223,139,195"/>
+<area shape="rect" id="Node000007" href="$classAutoProfileInfo.html#abba6d0528f83ca5aabb4e61960bde2dc" title=" " alt="" coords="228,298,465,323"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,190,155,238,186,263,220,283,240,291,238,296,217,288,183,267,152,242,104,194"/>
+</map>
